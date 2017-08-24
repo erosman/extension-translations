@@ -1,0 +1,32 @@
+{
+  "extensionName": { "message": "IMDb Plus" },
+  "extensionDescription": { "message": "User-defined Enhancements for IMDb" },
+
+
+  "age": { "message": "age" },
+  "tableHeader": { "message": "Weekly Average Table" },
+  "weeklyAve": { "message": "Weekly Average:" },
+
+
+  "addAge": { "message": "Add Age" },
+  "addAgeDescription": { "message": "Adds age of the person after their Date of Birth on IMDb" },  
+  "addWeeklyAverage": { "message": "Add Weekly Average" },
+  "addWeeklyAverageDescription": { "message": "Adds Weekly Average gross to the IMDb US Box Office page" },  
+  "removeLoadlate": { "message": "Remove LoadLate" },
+  "removeLoadlateDescription": { "message": "Removes the late disaply of images (especially useful if JavaScript is disabled)" },  
+  "showAll": { "message": "Shows all Collapsed" },
+  "showAllDescription": { "message": "Shows all collapsed sections (especially useful if JavaScript is disabled)" },  
+  "biggerThumbs": { "message": "Bigger Thumbnails" },
+  "biggerThumbsDescription": { "message": "Shows Bigger Thumbnail Images. Normal IMDb Thumbnails width is 32." },
+
+  "disabled": { "message": "Disabled" },
+
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "changelog": { "message": "Changelog" },
+  "credits": { "message": "Credits" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" },
+  "support": { "message": "Support" }
+}
