@@ -1,0 +1,35 @@
+{
+  "extensionName": { "message": "FoxyLink" },
+  "extensionDescription": { "message": "链接相关快捷功能" },
+
+  
+  "open": { "message": "打开选中链接" },
+  "copy": { "message": "复制选中链接到剪贴板" },
+  
+  "save": { "message": "保存选中链接" },
+  "openSaved": { "message": "打开已保存的链接" },
+  "copySaved": { "message": "复制已保存链接到剪贴板" },
+  "pasteSaved": { "message": "粘贴保存的链接" },
+
+
+  "totalSaved": { "message": "总计保存:" },
+  "totalPasted": { "message": "总计粘贴:" },
+  "totalCopied": { "message": "总计复制到剪贴板:" },
+  
+  "errorEmpty": { "message": "存储为空" }, 
+  "errorNoLinks": { "message": "找不到链接" },
+
+
+
+  "disableNotification": { "message": "禁用通知" },
+  "disableNotificationDescription": { "message": "如果您想禁用信息通知，选中此项" },
+
+  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
+  "changelog": { "message": "更新日志" },
+  "credits": { "message": "鸣谢" },
+  "error": { "message": "运行时出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" },
+  "support": { "message": "支持" }
+}

@@ -1,0 +1,32 @@
+{
+  "extensionName": { "message": "IMDb Plus" },
+  "extensionDescription": { "message": "面向 IMDb 的功能增强" },
+
+
+  "age": { "message": "年龄" },
+  "tableHeader": { "message": "毛利润周榜单" },
+  "weeklyAve": { "message": "周平均毛利:" },
+
+
+  "addAge": { "message": "添加年龄" },
+  "addAgeDescription": { "message": "在 IMDb 出生日期后添加年龄" },
+  "addWeeklyAverage": { "message": "添加每周平均" },
+  "addWeeklyAverageDescription": { "message": "添加周平均毛利到 IMDb US Box Office 页面" },
+  "removeLoadlate": { "message": "去除延迟加载" },
+  "removeLoadlateDescription": { "message": "去除图像延迟加载（在 JavaScript 禁用环境下尤为有用）" },
+  "showAll": { "message": "展开所有折叠" },
+  "showAllDescription": { "message": "显示所有折叠部分（在 JavaScript 禁用环境下尤为有用）" },
+  "biggerThumbs": { "message": "更大缩略图" },
+  "biggerThumbsDescription": { "message": "显示更大的缩略图。IMDb 标准缩略图的宽度是 32。" },
+
+  "disabled": { "message": "Disabled" },
+
+  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
+  "changelog": { "message": "更新日志" },
+  "credits": { "message": "鸣谢" },
+  "error": { "message": "运行时出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" },
+  "support": { "message": "支持" }
+}

@@ -1,0 +1,25 @@
+{
+  "extensionName": { "message": "IMGoogle" },
+  "extensionDescription": { "message": "Google 反向图像搜索" },
+
+  "search": { "message": "Google 搜索此图像" },
+  "dropboxText": { "message": "拖放图像到这里" },
+ 
+  "sending": { "message": "正在发送数据...请稍候" },
+  "errorSrc": { "message": "不支持的图像源" },
+  "errorType": { "message": "不支持的文件格式" },
+  "fileSrc": { "message": "由于缺少本地文件访问 API，请使用侧栏代替。" },
+
+
+  "activeTab": { "message": "在前台打开标签页" },
+  "activeTabDescription": { "message": "选择是否在前台打开结果标签页（默认是后台）" },
+
+
+  "amo":  { "message": "Firefox 限制对某些网址运行功能" },
+  "changelog": { "message": "更新日志" },
+  "credits": { "message": "鸣谢" },
+  "error": { "message": "运行时出错。" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" },
+  "support": { "message": "支持" }
+}
