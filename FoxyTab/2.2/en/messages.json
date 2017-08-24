@@ -1,42 +1,32 @@
 {
-  "manifest_version": 2,
-
-  "name": "__MSG_extensionName__",
-  "description": "__MSG_extensionDescription__",
-  "version": "2.2",
-  "default_locale": "en",
-  "homepage_url": "https://addons.mozilla.org/user/azbb/",
-  "author": "erosman",
-
-  "icons": {
-    "16": "image/icon16.png",
-    "32": "image/icon32.png",
-    "48": "image/icon48.png",
-    "64": "image/icon64.png",
-    "128": "image/icon128.png"
-  },
-
-  "background": {
-    "scripts": ["content/background.js"]
-  },
-
-  "options_ui": {
-    "page": "content/options.html",
-    "browser_style": false
-  },
-
-  "permissions": [
-    "activeTab",
-    "clipboardWrite",
-    "contextMenus",
-    "notifications",
-    "tabs"
-  ],
-
-  "applications": {
-    "gecko": {
-      "id": "foxytab@eros.man",
-      "strict_min_version": "53.0"
-    }
-  }
+  "extensionName": { "message": "FoxyTab" },
+  "extensionDescription": { "message": "Colección de acciones relativas a pestañas" },
+  
+  "copyUrlAll": { "message": "Copiar URLs de pestañas" },
+  "copyUrlLeft": { "message": "Copiar URLs de pestañas a la izquierda" },
+  "copyUrlRight": { "message": "Copiar URLs de pestañas a la derecha" },
+  
+  "duplicate": { "message": "Duplicar pestaña" },
+  "closeDuplicate": { "message": "Cerrar pestañas duplicadas" },
+  
+  "closeLeft": { "message": "Cerrar pestañas a la izquierda" },
+  
+  "hostKeep": { "message": "Conservar pestañas del servidor" },
+  "hostClose": { "message": "Cerrar pestañas del servidor" },
+  "hostCloseOther": { "message": "Cerrar las demás pestañas del servidor" },
+  
+  "copyTitle": { "message": "Copiar título de la pestaña" },
+  
+  "textClipboard": { "message": "Los datos se guardaron en el Portapapeles" },
+  "errorClipboard": { "message": "No se pudieron guardar los datos en el Portapapeles" },
+  
+  "textConfirmCloseLeft": { "message": "Está a punto de cerrar $1 pestañas. ¿Está seguro de que quiere continuar?" },
+  
+  "amo": { "message": "Firefox restringe ciertas funciones en algunas URLs." },
+  "changelog": { "message": "Registro de cambios" },
+  "credits": { "message": "Reconocimientos" },
+  "error": { "message": "Hubo un error con la operación." },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" },
+  "support": { "message": "Soporte" }
 }
