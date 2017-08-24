@@ -1,0 +1,35 @@
+{
+  "extensionName": { "message": "FoxyLink" },
+  "extensionDescription": { "message": "Collection of Link Related Actions" },
+
+  
+  "open": { "message": "Open Selected Links" },
+  "copy": { "message": "Copy Selected to Clipboard" },
+  
+  "save": { "message": "Save Selected Links" },
+  "openSaved": { "message": "Open Saved Links" },
+  "copySaved": { "message": "Copy Saved to Clipboard" },
+  "pasteSaved": { "message": "Paste Saved here" },
+
+
+  "totalSaved": { "message": "Total saved:" },
+  "totalPasted": { "message": "Total pasted:" },
+  "totalCopied": { "message": "Total copied to Clipboard:" },
+  
+  "errorEmpty": { "message": "Storage is empty" }, 
+  "errorNoLinks": { "message": "Links not found" },
+
+
+
+  "disableNotification": { "message": "Disable Notifications" },
+  "disableNotificationDescription": { "message": "Select if you wish to disable Information Notifications" },
+
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "changelog": { "message": "Changelog" },
+  "credits": { "message": "Credits" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" },
+  "support": { "message": "Support" }
+}
