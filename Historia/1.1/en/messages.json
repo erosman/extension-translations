@@ -1,0 +1,72 @@
+{
+  "extensionName": { "message": "Historia" },
+  "extensionDescription": { "message": "Control your Browsing History for Privacy and Performance" },
+
+
+  "deleteHistory": { "message": "Delete History" },
+  "preferences": { "message": "Preferences" },
+
+  "patterns": { "message": "Filter Patterns" }, 
+  "patternsDescription": { "message": "Enter Patterns to keep future visits out of the History" }, 
+  
+  "keyword": { "message": "Keyword" },
+  "byKeywordDescription": { "message": "Search Keyword and maximum number of result to retrieve" },
+  
+  "start": { "message": "Start" },
+  "startDescription": { "message": "Number of days ago to start the search" },
+  "end": { "message": "End" },
+  "endDescription": { "message": "Number of days ago to end the search" },
+  
+  
+  "max": { "message": "Maximum Results" },
+  "maxDescription": { "message": "Keyword search maximum number of results to retrieve" },
+  
+  "dateRange": { "message": "Deleting History items between $1 and $2" },
+  "totalFound": { "message": "Total found by search:" },
+
+
+  "delete": { "message": "Delete" },
+  
+
+  "deleteRecentHistoryDescription": { "message": "Number of hours to delete (from the Toolbar Menu)" },
+
+  "autoDelete": { "message": "Auto-Delete History" },
+  "autoDeleteDescription": { "message": "Number of days ago to automatically Delete older History items" },
+
+
+  "importPreference": { "message": "Import Preferences" },
+  "exportPreference": { "message": "Export Preferences" },
+
+  "errorSize": { "message": "File size is larger than the $1kb allowed" },
+  "errorType": { "message": "Unsupported File Format" },
+  "errorRead": { "message": "There was an error with reading the file" },
+  "errorParse": { "message": "There was an error parsing the file" },
+  
+  "errorWildcard": { "message": "No Starting or ending Wildcard please" },
+  "errorShort": { "message": "Very short patterns can have unexpected results" },
+  "errorScheme": { "message": "Only one * in the pattern scheme please" },
+
+
+
+  "deleteHostHistory": { "message": "Delete Host History" },
+  "filterHostHistory": { "message": "Filter Host Histroy" },
+  "deleteRecentHistory": { "message": "Delete Recent History" },
+  "deleteHostCookies": { "message": "Delete Host Cookies" },
+  "openOptions": { "message": "Open Options" },
+  
+  
+  "errorHost": { "message": "Unsupported Host" },
+
+  
+  "addedHost": { "message": "Host was added to the Filter Patterns" },
+  "deletingRecentHistory": { "message": "Deleting the last $1hr History" },
+  "deletingHostCookies": { "message": "Deleting $1 Host Cookies" },
+
+
+  "about": { "message": "About" },
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" }
+}
