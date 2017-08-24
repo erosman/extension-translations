@@ -1,0 +1,52 @@
+{
+  "extensionName": { "message": "FoxyImage" },
+  "extensionDescription": { "message": "Collection of Image Related Actions" },
+
+  "rotateLeft": { "message": "Rotate Left" },
+  "rotateRight": { "message": "Rotate Right" },
+  "flipVertical": { "message": "Flip Vertical" },
+  "flipHorizontal": { "message": "Flip Horizontal" },
+  "reset": { "message": "Reset" },
+  
+  "openImage": { "message": "Open Image in New Tab" },
+  
+  "saveAllImages": { "message": "Save All Images" },
+  "saveSelectedImages": { "message": "Save Selected Images" },
+  "openSelectedImages": { "message": "Open Selected Images in New Tabs" },
+
+  "saveAllImageLinks": { "message": "Save All Image Links" },
+  "saveSelectedImageLinks": { "message": "Save Selected Image Links" },
+  "openSelectedImageLinks": { "message": "Open Selected Image links in New Tabs" },
+
+  "saveTargetImages": { "message": "Save All Target Images" },
+  "saveTargetImageLinks": { "message": "Save All Target Image Links" },  
+  
+  "confirmQuantity": { "message": "You are about to process $1 items.\nDo you want to continue?" }, 
+
+
+  "notFound": { "message": "Not found" },
+
+  "patterns": { "message": "Filter Patterns" }, 
+  "patternsDescription": { "message": "Enter Patterns to filter downloads" }, 
+  
+  
+  "importPreference": { "message": "Import Preferences" },
+  "exportPreference": { "message": "Export Preferences" },
+
+  "errorSize": { "message": "File size is larger than the $1kb allowed" },
+  "errorType": { "message": "Unsupported File Format" },
+  "errorRead": { "message": "There was an error with reading the file" },
+  "errorParse": { "message": "There was an error parsing the file" },
+  
+  "errorWildcard": { "message": "No Starting or ending Wildcard please" },
+  "errorShort": { "message": "Very short patterns can have unexpected results" },
+  "errorScheme": { "message": "Only one * in the pattern scheme please" },
+
+
+  "about": { "message": "About" },
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" }
+}
