@@ -1,0 +1,40 @@
+{
+  "extensionName": { "message": "Text MultiCopy" },
+  "extensionDescription": { "message": "Copy Text multiple times before pasting" },
+
+  "save": { "message": "Save Selection" },
+  "copySaved": { "message": "Copy Saved to Clipboard" },
+  "pasteSaved": { "message": "Paste Saved here" },
+
+
+
+  "totalSaved": { "message": "Total saved:" },
+  "totalPasted": { "message": "Total pasted:" },
+  "totalCopied": { "message": "Total copied to Clipboard:" },
+  
+  "errorEmpty": { "message": "Storage is empty" },
+  
+  "addTitle": { "message": "Add Title" },
+  "addTitleDescription": { "message": "Select to add the source Title to each copy" },
+
+
+  "addUrl": { "message": "Add URL" },
+  "addUrlDescription": { "message": "Select to add the source URL to each copy" },
+  
+  "urlWrap": { "message": "URL Wrapper" },
+  "urlWrapDescription": { "message": "Choose how the source URLs are wrapped, start & end" },
+
+  "divider": { "message": "Divider" },
+  "dividerDescription": { "message": "Choose the preferred text divider" },
+
+  "disableNotification": { "message": "Disable Notifications" },
+  "disableNotificationDescription": { "message": "Select  to disable Information Notifications" },
+
+
+  "about": { "message": "About" },
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" }
+}
