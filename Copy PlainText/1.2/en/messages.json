@@ -1,0 +1,14 @@
+{
+  "extensionName": { "message": "Copy PlainText" },
+  "extensionDescription": { "message": "Copy Plain Text without any formatting" },
+
+  "errorClipboard": { "message": "Failed to save to Clipboard" },
+
+
+  "about": { "message": "About" },
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" }
+}
