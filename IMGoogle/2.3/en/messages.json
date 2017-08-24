@@ -1,0 +1,25 @@
+{
+  "extensionName": { "message": "IMGoogle" },
+  "extensionDescription": { "message": "Google Reverse Image Search" },
+
+  "search": { "message": "Search Google for this Image" },
+  "dropboxText": { "message": "Drag and drop the image here" },
+ 
+  "sending": { "message": "Sending Data ... please wait" },  
+  "errorSrc": { "message": "Unsupported Image Source" },
+  "errorType": { "message": "Unsupported File Format" },
+  "fileSrc": { "message": "Due to the lack of local-file access API, please use the sidebar instead." },
+
+
+  "activeTab": { "message": "Open Tab in Foreground" },
+  "activeTabDescription": { "message": "Select if you wish to open the result tab in Foreground (default is Background)" },  
+
+
+  "amo":  { "message": "Firefox restricts some functions on some URLs." },
+  "changelog": { "message": "Changelog" },
+  "credits": { "message": "Credits" },
+  "error": { "message": "There was an error with the operation." },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" },
+  "support": { "message": "Support" }
+}
