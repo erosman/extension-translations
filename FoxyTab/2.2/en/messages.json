@@ -1,32 +1,34 @@
 {
   "extensionName": { "message": "FoxyTab" },
-  "extensionDescription": { "message": "Colección de acciones relativas a pestañas" },
+  "extensionDescription": { "message": "Collection of Tab Related Actions" },
+
+  "copyUrlAll": { "message": "Copy Tabs URLs" },
+  "copyUrlLeft": { "message": "Copy Tabs URLs to the left" },
+  "copyUrlRight": { "message": "Copy Tabs URLs to the right" },
   
-  "copyUrlAll": { "message": "Copiar URLs de pestañas" },
-  "copyUrlLeft": { "message": "Copiar URLs de pestañas a la izquierda" },
-  "copyUrlRight": { "message": "Copiar URLs de pestañas a la derecha" },
+  "duplicate": { "message": "Duplicate Tab" },
+  "closeDuplicate": { "message": "Close Duplicate Tabs" },
   
-  "duplicate": { "message": "Duplicar pestaña" },
-  "closeDuplicate": { "message": "Cerrar pestañas duplicadas" },
+  "closeLeft": { "message": "Close Tabs to the Left" },
   
-  "closeLeft": { "message": "Cerrar pestañas a la izquierda" },
+  "hostKeep": { "message": "Keep Host Tabs" },
+  "hostClose": { "message": "Close Host Tabs" },
+  "hostCloseOther": { "message": "Close Host other Tabs" }, 
   
-  "hostKeep": { "message": "Conservar pestañas del servidor" },
-  "hostClose": { "message": "Cerrar pestañas del servidor" },
-  "hostCloseOther": { "message": "Cerrar las demás pestañas del servidor" },
+  "copyTitle": { "message": "Copy Tab Title" },
   
-  "copyTitle": { "message": "Copiar título de la pestaña" },
+  "textClipboard": { "message": "Data saved to Clipboard" },
+  "errorClipboard": { "message": "Failed to save to Clipboard" },
   
-  "textClipboard": { "message": "Los datos se guardaron en el Portapapeles" },
-  "errorClipboard": { "message": "No se pudieron guardar los datos en el Portapapeles" },
-  
-  "textConfirmCloseLeft": { "message": "Está a punto de cerrar $1 pestañas. ¿Está seguro de que quiere continuar?" },
-  
-  "amo": { "message": "Firefox restringe ciertas funciones en algunas URLs." },
-  "changelog": { "message": "Registro de cambios" },
-  "credits": { "message": "Reconocimientos" },
-  "error": { "message": "Hubo un error con la operación." },
-  "options": { "message": "Opciones" },
-  "saveOptions": { "message": "Guardar" },
-  "support": { "message": "Soporte" }
+  "textConfirmCloseLeft": { "message": "You are about to close $1 tabs. Are you sure you want to continue?" },
+
+
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "changelog": { "message": "Changelog" },
+  "credits": { "message": "Credits" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" },
+  "support": { "message": "Support" }
 }
