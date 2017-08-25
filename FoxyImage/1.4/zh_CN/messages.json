@@ -1,0 +1,52 @@
+{
+  "extensionName": { "message": "FoxyImage" },
+  "extensionDescription": { "message": "图像相关快捷功能。" },
+
+  "rotateLeft": { "message": "向左旋转" },
+  "rotateRight": { "message": "向右旋转" },
+  "flipVertical": { "message": "垂直翻转" },
+  "flipHorizontal": { "message": "水平翻转" },
+  "reset": { "message": "重置" },
+  
+  "openImage": { "message": "新建标签页打开图像" },
+  
+  "saveAllImages": { "message": "保存所有图像" },
+  "saveSelectedImages": { "message": "保存选中图像" },
+  "openSelectedImages": { "message": "新建标签页打开选中图像" },
+
+  "saveAllImageLinks": { "message": "保存所有图像的链接" },
+  "saveSelectedImageLinks": { "message": "保存选中图像的链接" },
+  "openSelectedImageLinks": { "message": "新建标签页打开选中图像的链接" },
+
+  "saveTargetImages": { "message": "保存所有目标图像" },
+  "saveTargetImageLinks": { "message": "保存所有目标图像的链接" },
+  
+  "confirmQuantity": { "message": "您即将处理 $1 项。\n确定继续？" }, 
+
+
+  "notFound": { "message": "找不到" },
+
+  "patterns": { "message": "过滤模式" },
+  "patternsDescription": { "message": "输入模式来过滤下载" },
+  
+  
+  "importPreference": { "message": "导入设置" },
+  "exportPreference": { "message": "导出设置" },
+
+  "errorSize": { "message": "文件大小超出允许的 $1kb" },
+  "errorType": { "message": "不支持的文件格式" },
+  "errorRead": { "message": "读取文件时出错" },
+  "errorParse": { "message": "解析文件时出错" },
+  
+  "errorWildcard": { "message": "起始或结尾处无需通配符" },
+  "errorShort": { "message": "很短的模式可能导致意外的结果" },
+  "errorScheme": { "message": "模式方案中只能有一个 *" },
+
+
+  "about": { "message": "关于" },
+  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
+  "error": { "message": "运行时出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" }
+}

@@ -1,0 +1,40 @@
+{
+  "extensionName": { "message": "Text MultiCopy" },
+  "extensionDescription": { "message": "多次复制用于粘贴" },
+
+  "save": { "message": "保存选中部分" },
+  "copySaved": { "message": "复制已保存内容到剪贴板" },
+  "pasteSaved": { "message": "粘贴已保存内容" },
+
+
+
+  "totalSaved": { "message": "总计保存:" },
+  "totalPasted": { "message": "总计粘贴:" },
+  "totalCopied": { "message": "总计保存到剪贴板:" },
+  
+  "errorEmpty": { "message": "存储为空" },
+  
+  "addTitle": { "message": "添加标题" },
+  "addTitleDescription": { "message": "选中则添加来源标题到每个副本" },
+
+
+  "addUrl": { "message": "添加网址" },
+  "addUrlDescription": { "message": "选中则添加来源网址到每个副本" },
+  
+  "urlWrap": { "message": "网址首尾" },
+  "urlWrapDescription": { "message": "决定在来源网址首尾添加的内容" },
+
+  "divider": { "message": "文本分隔符" },
+  "dividerDescription": { "message": "选择喜欢的文本分隔符" },
+
+  "disableNotification": { "message": "禁用通知" },
+  "disableNotificationDescription": { "message": "选中则禁用信息通知" },
+
+
+  "about": { "message": "关于" },
+  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
+  "error": { "message": "运行时出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" }
+}

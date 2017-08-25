@@ -1,0 +1,34 @@
+{
+  "extensionName": { "message": "FoxyTab" },
+  "extensionDescription": { "message": "标签页相关功能" },
+
+  "copyUrlAll": { "message": "复制标签页网址" },
+  "copyUrlLeft": { "message": "复制左侧标签页网址" },
+  "copyUrlRight": { "message": "复制右侧标签页网址" },
+  
+  "duplicate": { "message": "克隆标签页" },
+  "closeDuplicate": { "message": "关闭重复标签页" },
+  
+  "closeLeft": { "message": "关闭左侧标签页" },
+  
+  "hostKeep": { "message": "仅保留此主机的标签页" },
+  "hostClose": { "message": "关闭此主机的标签页" },
+  "hostCloseOther": { "message": "关闭此主机的其他标签页" }, 
+  
+  "copyTitle": { "message": "复制标签页标题" },
+  
+  "textClipboard": { "message": "数据已保存到剪贴板" },
+  "errorClipboard": { "message": "保存到剪贴板失败" },
+  
+  "textConfirmCloseLeft": { "message": "您即将关闭 $1 个标签页。确定继续吗？" },
+
+
+  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
+  "changelog": { "message": "更新日志" },
+  "credits": { "message": "鸣谢" },
+  "error": { "message": "运行时出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" },
+  "support": { "message": "支持" }
+}
