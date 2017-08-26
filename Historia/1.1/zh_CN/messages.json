@@ -1,0 +1,72 @@
+{
+  "extensionName": { "message": "Historia" },
+  "extensionDescription": { "message": "为隐私和性能而限制历史记录" },
+
+
+  "deleteHistory": { "message": "删除历史记录" },
+  "preferences": { "message": "设置" },
+
+  "patterns": { "message": "过滤模式" }, 
+  "patternsDescription": { "message": "不保留匹配下列模式的访问记录" }, 
+  
+  "keyword": { "message": "关键词" },
+  "byKeywordDescription": { "message": "要检索的关键词和最大结果数" },
+  
+  "start": { "message": "起始" },
+  "startDescription": { "message": "搜索范围-起始日期" },
+  "end": { "message": "结束" },
+  "endDescription": { "message": "搜索范围-结束日期" },
+  
+  
+  "max": { "message": "最大结果数" },
+  "maxDescription": { "message": "搜索关键词最多返回多少结果" },
+  
+  "dateRange": { "message": "正在删除 $1 至 $2 之间的历史记录" },
+  "totalFound": { "message": "搜索总计找到:" },
+
+
+  "delete": { "message": "删除" },
+  
+
+  "deleteRecentHistoryDescription": { "message": "删除多少小时（从工具栏菜单）" },
+
+  "autoDelete": { "message": "自动删除历史记录" },
+  "autoDeleteDescription": { "message": "自动删除多少天以前的历史记录" },
+
+
+  "importPreference": { "message": "导入设置" },
+  "exportPreference": { "message": "导出设置" },
+
+  "errorSize": { "message": "文件大小超出允许的 $1kb" },
+  "errorType": { "message": "不支持的文件格式" },
+  "errorRead": { "message": "读取文件时出错" },
+  "errorParse": { "message": "解析文件时出错" },
+  
+  "errorWildcard": { "message": "起始或结尾处无需通配符" },
+  "errorShort": { "message": "很短的模式可能导致意外的结果" },
+  "errorScheme": { "message": "模式方案中只能有一个 *" },
+
+
+
+  "deleteHostHistory": { "message": "删除主机历史记录" },
+  "filterHostHistory": { "message": "过滤主机历史记录" },
+  "deleteRecentHistory": { "message": "删除最近历史记录" },
+  "deleteHostCookies": { "message": "删除主机 Cookie" },
+  "openOptions": { "message": "打开选项" },
+  
+  
+  "errorHost": { "message": "不支持的主机" },
+
+  
+  "addedHost": { "message": "已将主机加入过滤模式" },
+  "deletingRecentHistory": { "message": "正在删除最近 $1 小时的历史记录" },
+  "deletingHostCookies": { "message": "正在删除 $1 主机的 Cookie" },
+
+
+  "about": { "message": "关于" },
+  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
+  "error": { "message": "运行时出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" }
+}
