@@ -1,0 +1,40 @@
+{
+  "extensionName": { "message": "RPNet Helper" },
+  "extensionDescription": { "message": "Download the selected links using RPNet" },
+
+
+  "download": { "message": "RPNet Download" },
+  "hostUpdate": { "message": "Host data updated to version" },
+
+  "errorDownload": { "message": "RPNet Error" },
+  "errorGenLinks": { "message": "No links generated" },
+  "errorNoLogin": { "message": "You are not logged in.\nDo you want to open the Login page?" },
+  "errorRequest": { "message": "Please check your action parameter." },
+  "errorResult": { "message": "There was an error in the response. Please try again." },
+  "errorSaveHDD": { "message": "RPNet failed to save to HDD. Do you want to download/copy these Direct Links?" },
+  "errorSendLinks": { "message": "There was an error in sending links. Please try again." },
+  "errorUserPass": { "message": "Username/Password error: Please login agian." },
+
+  "confirmDL": { "message": "Do you want to download the following with RPNet?" },
+  "confirmHDD": { "message": "Do you want to save the following to RPNet HDD?" },
+ 
+  "saveHDD": { "message": "HDD download initiated. Check HDD Files to monitor the progress." },
+  "unsupported": { "message": "Following hosts are not supported by RPNet at the moment:" },
+  
+  "errorClipboard": { "message": "Failed to Copy Links, starting direct download" },
+  "textClipboard": { "message": "Links saved to Clipboard" },
+
+  "optionsHDD": { "message": "Download to HDD" },
+  "optionsHDDinfo": { "message": "Select if you wish to save the downloads to RPNet HDD" },
+
+  "optionsCopy": { "message": "Option to Copy Links" },
+  "optionsCopyInfo": { "message": "Select if you wish to have the option to copy the download links to paste in a Download Manager" },
+
+
+  "about": { "message": "About" },
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" }
+}
