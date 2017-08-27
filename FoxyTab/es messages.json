@@ -22,11 +22,11 @@
   
   "textConfirmCloseLeft": { "message": "Está a punto de cerrar $1 pestañas. ¿Está seguro de que quiere continuar?" },
   
+  
+  "about": { "message": "About" },
   "amo": { "message": "Firefox restringe ciertas funciones en algunas URLs." },
-  "changelog": { "message": "Registro de cambios" },
-  "credits": { "message": "Reconocimientos" },
   "error": { "message": "Hubo un error con la operación." },
+  "help": { "message": "Help" },
   "options": { "message": "Opciones" },
-  "saveOptions": { "message": "Guardar" },
-  "support": { "message": "Soporte" }
+  "saveOptions": { "message": "Guardar" }
 }
