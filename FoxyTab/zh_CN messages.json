@@ -23,12 +23,10 @@
   "textConfirmCloseLeft": { "message": "您即将关闭 $1 个标签页。确定继续吗？" },
 
 
+  "about": { "message": "关于" },
   "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
-  "changelog": { "message": "更新日志" },
-  "credits": { "message": "鸣谢" },
   "error": { "message": "运行时出错" },
   "help": { "message": "帮助" },
   "options": { "message": "选项" },
-  "saveOptions": { "message": "保存" },
-  "support": { "message": "支持" }
+  "saveOptions": { "message": "保存" }
 }
