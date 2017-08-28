@@ -17,7 +17,6 @@
   
   "copyTitle": { "message": "Copy Tab Title" },
   
-  "textClipboard": { "message": "Data saved to Clipboard" },
   "errorClipboard": { "message": "Failed to save to Clipboard" },
   
   "textConfirmCloseLeft": { "message": "You are about to close $1 tabs. Are you sure you want to continue?" },
