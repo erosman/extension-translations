@@ -22,14 +22,19 @@
   "move": { "message": "Move" },
   "moveStart": { "message": "To the Start" },
   "moveEnd": { "message": "To the End" },
-  
+
   "moveNewWinLeft": { "message": "To the Left to New Window" },
   "moveNewWinRight": { "message": "To the Right to New Window" },
+  
+  "movePrivate": { "message": "To Private Window" },
+  "movePrivateLeft": { "message": "To the Left to Private Window" },
+  "movePrivateRight": { "message": "To the Right to Private Window" },
 
   "reload": { "message": "Reload" },
   "reloadAll": { "message": "All" },
   "reloadLeft": { "message": "To the Left" },
   "reloadRight": { "message": "To the Right" },
+
 
   "merge": { "message": "Merge All Windows" },
  
