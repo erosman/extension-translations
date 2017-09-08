@@ -34,6 +34,16 @@
   "reloadAll": { "message": "All" },
   "reloadLeft": { "message": "To the Left" },
   "reloadRight": { "message": "To the Right" },
+  
+  "reloadTab": { "message": "Reload Tab every" },
+  "reload60": { "message": "1 min." },
+  "reload120": { "message": "2 min." },
+  "reload180": { "message": "3 min." },
+  "reload240": { "message": "4 min." },
+  "reload300": { "message": "5 min." },
+  
+  "reloadStop": { "message": "Stop Tab Reload" },
+  
 
 
   "merge": { "message": "Merge All Windows" },
