@@ -3,6 +3,19 @@
   "extensionDescription": { "message": "Collection of Tab Related Actions" },
 
 
+  "duplicate": { "message": "Duplicate Tab" },
+  "closeDuplicate": { "message": "Close Duplicate Tabs" },
+
+  "closeLeft": { "message": "Close Tabs to the Left" },
+
+  "copyTitle": { "message": "Copy Tab Title" },
+
+  "merge": { "message": "Merge All Windows" },
+  "incognito": { "message": "Private Tabs can't be merged" },
+
+  "saveAsPDF": { "message": "Save Tab as PDF" },
+  "errorSaveAsPDF": { "message": "Save as PDF is not available on Mac OS X or before Firefox 56" },
+
   "copyUrl": { "message": "Copy URLs" },
   "copyUrlAll": { "message": "All" },
   "copyUrlLeft": { "message": "To the Left" },
@@ -11,21 +24,21 @@
   "host": { "message": "Host" },
   "hostKeep": { "message": "Keep" },
   "hostClose": { "message": "Close" },
-  "hostCloseOther": { "message": "Close other Host Tabs" }, 
+  "hostCloseOther": { "message": "Close other Host Tabs" },
 
   "sort": { "message": "Sort" },
   "sortURLAsce": { "message": "By URLs Ascending" },
   "sortURLDesc": { "message": "By URLs Descending" },
   "sortTitleAsce": { "message": "By Title Ascending" },
   "sortTitleDesc": { "message": "By Title Descending" },
-  
+
   "move": { "message": "Move" },
   "moveStart": { "message": "To the Start" },
   "moveEnd": { "message": "To the End" },
 
   "moveNewWinLeft": { "message": "To the Left to New Window" },
   "moveNewWinRight": { "message": "To the Right to New Window" },
-  
+
   "movePrivate": { "message": "To Private Window" },
   "movePrivateLeft": { "message": "To the Left to Private Window" },
   "movePrivateRight": { "message": "To the Right to Private Window" },
@@ -34,30 +47,19 @@
   "reloadAll": { "message": "All" },
   "reloadLeft": { "message": "To the Left" },
   "reloadRight": { "message": "To the Right" },
-  
+
   "reloadTab": { "message": "Reload Tab every" },
   "reload60": { "message": "1 min." },
   "reload120": { "message": "2 min." },
   "reload180": { "message": "3 min." },
   "reload240": { "message": "4 min." },
   "reload300": { "message": "5 min." },
-  
+
   "reloadStop": { "message": "Stop Tab Reload" },
-  
 
-
-  "merge": { "message": "Merge All Windows" },
- 
-  "duplicate": { "message": "Duplicate Tab" },
-  "closeDuplicate": { "message": "Close Duplicate Tabs" },
-  
-  "closeLeft": { "message": "Close Tabs to the Left" },
-  
-  "copyTitle": { "message": "Copy Tab Title" },
-  
 
   "errorClipboard": { "message": "Failed to save to Clipboard" },
-  
+
   "textConfirmCloseLeft": { "message": "You are about to close $1 tabs. Are you sure you want to continue?" },
 
 
