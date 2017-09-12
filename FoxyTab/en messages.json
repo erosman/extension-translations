@@ -11,7 +11,6 @@
   "copyTitle": { "message": "Copy Tab Title" },
 
   "merge": { "message": "Merge All Windows" },
-  "incognito": { "message": "Private Tabs can't be merged" },
 
   "saveAsPDF": { "message": "Save Tab as PDF" },
   "errorSaveAsPDF": { "message": "Save as PDF is not available on Mac OS X or before Firefox 56" },
