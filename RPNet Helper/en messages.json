@@ -13,7 +13,7 @@
   "errorResult": { "message": "There was an error in the response. Please try again." },
   "errorSaveHDD": { "message": "RPNet failed to save to HDD. Do you want to download/copy these Direct Links?" },
   "errorSendLinks": { "message": "There was an error in sending links. Please try again." },
-  "errorUserPass": { "message": "Username/Password error: Please login agian." },
+  "errorUserPass": { "message": "Username/Password error: Please login again." },
 
   "confirmDL": { "message": "Do you want to download the following with RPNet?" },
   "confirmHDD": { "message": "Do you want to save the following to RPNet HDD?" },
