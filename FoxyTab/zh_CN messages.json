@@ -2,24 +2,63 @@
   "extensionName": { "message": "FoxyTab" },
   "extensionDescription": { "message": "标签页相关功能" },
 
-  "copyUrlAll": { "message": "复制标签页网址" },
-  "copyUrlLeft": { "message": "复制左侧标签页网址" },
-  "copyUrlRight": { "message": "复制右侧标签页网址" },
-  
-  "duplicate": { "message": "克隆标签页" },
+
+  "duplicate": { "message": "创建标签页副本" },
   "closeDuplicate": { "message": "关闭重复标签页" },
-  
+
   "closeLeft": { "message": "关闭左侧标签页" },
-  
-  "hostKeep": { "message": "仅保留此主机的标签页" },
-  "hostClose": { "message": "关闭此主机的标签页" },
-  "hostCloseOther": { "message": "关闭此主机的其他标签页" }, 
-  
+
   "copyTitle": { "message": "复制标签页标题" },
-  
-  "textClipboard": { "message": "数据已保存到剪贴板" },
+
+  "merge": { "message": "合并所有窗口" },
+
+  "saveAsPDF": { "message": "标签页内容另存为 PDF" },
+  "errorSaveAsPDF": { "message": "另存为 PDF 在 Mac OS X 系统或 Firefox 56 以下版本中不可用" },
+
+  "copyUrl": { "message": "复制网址" },
+  "copyUrlAll": { "message": "所有" },
+  "copyUrlLeft": { "message": "左侧" },
+  "copyUrlRight": { "message": "右侧" },
+
+  "host": { "message": "主机" },
+  "hostKeep": { "message": "保留" },
+  "hostClose": { "message": "关闭" },
+  "hostCloseOther": { "message": "关闭其他主机的标签页" },
+
+  "sort": { "message": "排序" },
+  "sortURLAsce": { "message": "按网址升序" },
+  "sortURLDesc": { "message": "按网址降序" },
+  "sortTitleAsce": { "message": "按标题升序" },
+  "sortTitleDesc": { "message": "按标题降序" },
+
+  "move": { "message": "移动" },
+  "moveStart": { "message": "到起始" },
+  "moveEnd": { "message": "到末尾" },
+
+  "moveNewWinLeft": { "message": "左侧标签页移入新窗口" },
+  "moveNewWinRight": { "message": "右侧标签页移入新窗口" },
+
+  "movePrivate": { "message": "到隐私窗口" },
+  "movePrivateLeft": { "message": "左侧标签页移入隐私窗口" },
+  "movePrivateRight": { "message": "右侧标签页移入隐私窗口" },
+
+  "reload": { "message": "重新载入" },
+  "reloadAll": { "message": "全部" },
+  "reloadLeft": { "message": "左侧" },
+  "reloadRight": { "message": "右侧" },
+
+  "reloadTab": { "message": "重新加载间隔" },
+  "reload60": { "message": "1 分钟" },
+  "reload120": { "message": "2 分钟" },
+  "reload180": { "message": "3 分钟" },
+  "reload240": { "message": "4 分钟" },
+  "reload300": { "message": "5 分钟" },
+
+  "reloadStop": { "message": "停止重新加载标签页" },
+
+
   "errorClipboard": { "message": "保存到剪贴板失败" },
-  
+
   "textConfirmCloseLeft": { "message": "您即将关闭 $1 个标签页。确定继续吗？" },
 
 
