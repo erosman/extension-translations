@@ -1,0 +1,40 @@
+{
+  "extensionName": { "message": "RPNet 助手" },
+  "extensionDescription": { "message": "使用 RPNet 下载选中链接" },
+
+
+  "download": { "message": "RPNet 下载" },
+  "hostUpdate": { "message": "主机数据已更新至" },
+
+  "errorDownload": { "message": "RPNet 错误" },
+  "errorGenLinks": { "message": "没有生成链接" },
+  "errorNoLogin": { "message": "您还没登录。\n打开登录页面？" },
+  "errorRequest": { "message": "请检查您的动作参数。" },
+  "errorResult": { "message": "响应中存在错误。请重试。" },
+  "errorSaveHDD": { "message": "RPNet 保存到 HDD 失败。是否要直接下载/复制链接？" },
+  "errorSendLinks": { "message": "发送链接时出错。请重试。" },
+  "errorUserPass": { "message": "用户名/密码错误：请重新登录。" },
+
+  "confirmDL": { "message": "用 RPNet 下载下述内容？" },
+  "confirmHDD": { "message": "保存下述内容至 RPNet HDD？" },
+ 
+  "saveHDD": { "message": "HDD 下载已启动。检查 HDD 文件查看进度。" },
+  "unsupported": { "message": "RPNet 目前不支持下列主机：" },
+  
+  "errorClipboard": { "message": "复制链接失败，启动直接下载" },
+  "textClipboard": { "message": "链接已复制到剪贴板" },
+
+  "optionsHDD": { "message": "下载到 HDD" },
+  "optionsHDDinfo": { "message": "选中此项，如果您需要下载内容到 RPNet HDD" },
+
+  "optionsCopy": { "message": "复制链接" },
+  "optionsCopyInfo": { "message": "选中此项，如果您需要复制下载链接以粘贴到某个下载管理器。" },
+
+
+  "about": { "message": "关于" },
+  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
+  "error": { "message": "运行时出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" }
+}
