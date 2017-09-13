@@ -1,1 +1,1 @@
-Version 2.5 (coming soon...)
+Version 2.6
