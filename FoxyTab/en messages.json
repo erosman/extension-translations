@@ -57,11 +57,9 @@
 
   "reloadStop": { "message": "Stop Tab Reload" },
 
-
-  "errorClipboard": { "message": "Failed to save to Clipboard" },
-
   "textConfirmCloseLeft": { "message": "You are about to close $1 tabs. Are you sure you want to continue?" },
 
+  "errorClipboard": { "message": "Failed to save to Clipboard" },
 
   "about": { "message": "About" },
   "amo":  { "message": "Firefox restricts some functions on some URLs" },
