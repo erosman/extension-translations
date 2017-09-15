@@ -8,18 +8,19 @@
 
   "closeLeft": { "message": "Close Tabs to the Left" },
 
-  "copyTitle": { "message": "Copy Tab Title" },
-
   "merge": { "message": "Merge All Windows" },
 
   "saveAsPDF": { "message": "Save Tab as PDF" },
   "errorSaveAsPDF": { "message": "Save as PDF is not available on Mac OS X or before Firefox 56" },
 
-  "copyUrl": { "message": "Copy URLs" },
-  "copyUrlTab": { "message": "Tab" },
-  "copyUrlAll": { "message": "All" },
-  "copyUrlLeft": { "message": "To the Left" },
-  "copyUrlRight": { "message": "To the Right" },
+  "copy": { "message": "Copy" },
+  "copyTitle": { "message": "Tab Title" },
+  "copyUrl": { "message": "Tab URL" },
+  "copyTitleUrl": { "message": "Tab Title & URL" },
+
+  "copyUrlAll": { "message": "URLs All" },
+  "copyUrlLeft": { "message": "URLs to the Left" },
+  "copyUrlRight": { "message": "URLs to the Right" },
 
   "host": { "message": "Host" },
   "hostKeep": { "message": "Keep" },
