@@ -8,18 +8,19 @@
 
   "closeLeft": { "message": "关闭左侧标签页" },
 
-  "copyTitle": { "message": "复制标签页标题" },
-
   "merge": { "message": "合并所有窗口" },
 
   "saveAsPDF": { "message": "标签页内容另存为 PDF" },
   "errorSaveAsPDF": { "message": "另存为 PDF 在 Mac OS X 系统或 Firefox 56 以下版本中不可用" },
 
-  "copyUrl": { "message": "复制网址" },
-  "copyUrlTab": { "message": "标签页" },
-  "copyUrlAll": { "message": "所有" },
-  "copyUrlLeft": { "message": "左侧" },
-  "copyUrlRight": { "message": "右侧" },
+  "copy": { "message": "复制" },
+  "copyTitle": { "message": "标签页标题" },
+  "copyUrl": { "message": "标签页网址" },
+  "copyTitleUrl": { "message": "标签页标题和网址" },
+
+  "copyUrlAll": { "message": "所有标签页网址" },
+  "copyUrlLeft": { "message": "左侧标签页网址" },
+  "copyUrlRight": { "message": "右侧标签页网址" },
 
   "host": { "message": "主机" },
   "hostKeep": { "message": "保留" },
