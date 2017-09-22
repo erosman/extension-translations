@@ -1,0 +1,21 @@
+{
+  "extensionName": { "message": "Replace" },
+  "extensionDescription": { "message": "Plain Text or Regular Expression Find and Replace Text on Web Pages" },
+
+
+  "find": { "message": "Find" },
+  "replace": { "message": "Replace" },
+  "clear": { "message": "Clear" },
+  "matchCase": { "message": "Match Case" },
+
+  "errorNotFound": { "message": "Find Pattern not found" },
+  "errorPattern": { "message": "There is an error with the Find Pattern" },
+
+
+  "about": { "message": "About" },
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" }
+}
