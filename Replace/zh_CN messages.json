@@ -1,0 +1,21 @@
+{
+  "extensionName": { "message": "Replace" },
+  "extensionDescription": { "message": "用纯文本或正则表达式查找和替换网页中的文本框" },
+
+
+  "find": { "message": "查找" },
+  "replace": { "message": "替换" },
+  "clear": { "message": "清空" },
+  "matchCase": { "message": "区分大小写" },
+
+  "errorNotFound": { "message": "找不到查找的内容" },
+  "errorPattern": { "message": "查找模式存在错误" },
+
+
+  "about": { "message": "关于" },
+  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
+  "error": { "message": "运行时出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" }
+}
