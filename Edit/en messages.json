@@ -1,0 +1,69 @@
+{
+  "extensionName": { "message": "Edit" },
+  "extensionDescription": { "message": "Format Text and Insert HTML, BBCode & Custom Texts from Sidebar" },
+
+
+  "findReplace": { "message": "Find & Replace" },
+  "find": { "message": "Find" },
+  "replace": { "message": "Replace" },
+  "clear": { "message": "Clear" },
+  "matchCase": { "message": "Match Case" },
+
+  "errorNotFound": { "message": "Find Pattern not found" },
+  "errorPattern": { "message": "There is an error with the Find Pattern" },
+
+  "transform": { "message": "Case Transform" },
+  "uppercase": { "message": "Upper" },
+  "lowercase": { "message": "Lower" },
+  "capitalize": { "message": "Capitalize" },
+  "invert": { "message": "Invert" },
+  "random": { "message": "Random" },
+
+  "tags": { "message": "Tags" },
+  "html": { "message": "HTML" },
+  "bbcode": { "message": "BBCode" },
+  "custom": { "message": "Custom" },
+
+  "b": { "message": "Bold" },
+  "i": { "message": "Italic" },
+  "u": { "message": "Underline" },
+  "del": { "message": "Deleted" },
+  "code": { "message": "Code" },
+  "img": { "message": "Image" },
+  "quote": { "message": "Quote" },
+  "quote=": { "message": "Quote=" },
+  "list": { "message": "List" },
+  "listItem": { "message": "List Item" },
+  "url": { "message": "URL" },
+  "url=": { "message": "URL=" },
+  "table": { "message": "Table" },
+  "tr": { "message": "TR" },
+  "td": { "message": "TD" },
+  "removeTag": { "message": "Remove Tags" },
+
+
+  "customText": { "message": "Custom Texts" },
+  "saveText": { "message": "Saved Texts" },
+  "saveTextDescription": { "message": "Select a Text to Edit or Delete" },
+  "addText": { "message": "Add Text" },
+  "customTextDescription": { "message": "Enter a new cutom start & end text/tag and click Add" },
+
+  "add": { "message": "Add" },
+  "remove": { "message": "Remove" },
+
+
+  "import": { "message": "Import" },
+  "export": { "message": "Export" },
+  "errorSize": { "message": "File size is larger than the $1kb allowed" },
+  "errorType": { "message": "Unsupported File Format" },
+  "errorRead": { "message": "There was an error with reading the file" },
+  "errorParse": { "message": "There was an error parsing the file" },
+
+
+  "about": { "message": "About" },
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" }
+}
