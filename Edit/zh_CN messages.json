@@ -1,0 +1,67 @@
+{
+  "extensionName": { "message": "Edit" },
+  "extensionDescription": { "message": "从侧栏格式化文本，插入 HTML、BBCode 或自定义文本" },
+
+
+  "findReplace": { "message": "查找和替换" },
+  "find": { "message": "查找" },
+  "replace": { "message": "替换" },
+  "clear": { "message": "清空" },
+  "matchCase": { "message": "区分大小写" },
+
+  "errorNotFound": { "message": "找不到查找的内容" },
+  "errorPattern": { "message": "查找模式存在错误" },
+
+  "transform": { "message": "转换大小写" },
+  "uppercase": { "message": "大写" },
+  "lowercase": { "message": "小写" },
+  "capitalize": { "message": "首字母大写" },
+  "invert": { "message": "反转" },
+  "random": { "message": "随机" },
+
+  "tags": { "message": "标签" },
+  "html": { "message": "HTML" },
+  "bbcode": { "message": "BBCode" },
+  "custom": { "message": "自定义" },
+
+  "b": { "message": "粗体" },
+  "i": { "message": "斜体" },
+  "u": { "message": "下划线" },
+  "del": { "message": "删除线" },
+  "code": { "message": "代码" },
+  "img": { "message": "图像" },
+  "quote": { "message": "引用" },
+  "quote=": { "message": "引用=" },
+  "list": { "message": "列表" },
+  "listItem": { "message": "列表项" },
+  "url": { "message": "网址" },
+  "url=": { "message": "网址=" },
+  "table": { "message": "表格" },
+  "tr": { "message": "TR (行)" },
+  "td": { "message": "TD (格)" },
+  "removeTag": { "message": "移除标签" },
+
+
+  "customText": { "message": "自定义文本" },
+  "saveText": { "message": "已保存文本" },
+  "saveTextDescription": { "message": "选择一个文本来编辑或删除" },
+  "addText": { "message": "添加文本" },
+  "customTextDescription": { "message": "请输入新的开始和结束文本/标签，然后单击添加" },
+
+  "add": { "message": "添加" },
+  "remove": { "message": "移除" },
+
+
+  "errorSize": { "message": "文件大小超出允许的 $1kb" },
+  "errorType": { "message": "不支持的文件格式" },
+  "errorRead": { "message": "读取文件时出错" },
+  "errorParse": { "message": "解析文件时出错" },
+
+
+  "about": { "message": "关于" },
+  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
+  "error": { "message": "运行时出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" }
+}
