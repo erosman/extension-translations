@@ -9,6 +9,7 @@
   "closeLeft": { "message": "关闭左侧标签页" },
 
   "merge": { "message": "合并所有窗口" },
+  "closeOtherWindows": { "message": "关闭其他窗口" },
 
   "saveAsPDF": { "message": "标签页内容另存为 PDF" },
   "errorSaveAsPDF": { "message": "另存为 PDF 在 Mac OS X 系统或 Firefox 56 以下版本中不可用" },
@@ -17,6 +18,10 @@
   "copyTitle": { "message": "标签页标题" },
   "copyUrl": { "message": "标签页网址" },
   "copyTitleUrl": { "message": "标签页标题和网址" },
+  "copyIP": { "message": "标签页 IP" },
+  
+  "internal": { "message": "内部页面" },
+  "local": { "message": "本地主机" },
 
   "copyUrlAll": { "message": "所有标签页网址" },
   "copyUrlLeft": { "message": "左侧标签页网址" },
