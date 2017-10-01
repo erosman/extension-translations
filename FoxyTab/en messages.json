@@ -9,6 +9,7 @@
   "closeLeft": { "message": "Close Tabs to the Left" },
 
   "merge": { "message": "Merge All Windows" },
+  "closeOtherWindows": { "message": "Close Other Windows" },
 
   "saveAsPDF": { "message": "Save Tab as PDF" },
   "errorSaveAsPDF": { "message": "Save as PDF is not available on Mac OS X or before Firefox 56" },
@@ -17,6 +18,10 @@
   "copyTitle": { "message": "Tab Title" },
   "copyUrl": { "message": "Tab URL" },
   "copyTitleUrl": { "message": "Tab Title & URL" },
+  "copyIP": { "message": "Tab IP" },
+  
+  "internal": { "message": "Internal Page" },
+  "local": { "message": "Local Host" },
 
   "copyUrlAll": { "message": "URLs All" },
   "copyUrlLeft": { "message": "URLs to the Left" },
@@ -25,7 +30,7 @@
   "host": { "message": "Host" },
   "hostKeep": { "message": "Keep" },
   "hostClose": { "message": "Close" },
-  "hostCloseOther": { "message": "Close other Host Tabs" },
+  "hostCloseOther": { "message": "Close Other Host Tabs" },
 
   "sort": { "message": "Sort" },
   "sortURLAsce": { "message": "By URLs Ascending" },
@@ -61,6 +66,7 @@
   "textConfirmCloseLeft": { "message": "You are about to close $1 tabs. Are you sure you want to continue?" },
 
   "errorClipboard": { "message": "Failed to save to Clipboard" },
+
 
   "about": { "message": "About" },
   "amo":  { "message": "Firefox restricts some functions on some URLs" },
