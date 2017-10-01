@@ -21,12 +21,11 @@
 
   "disabled": { "message": "Disabled" },
 
+  
+  "about": { "message": "About" },
   "amo":  { "message": "Firefox restricts some functions on some URLs" },
-  "changelog": { "message": "Changelog" },
-  "credits": { "message": "Credits" },
   "error": { "message": "There was an error with the operation" },
   "help": { "message": "Help" },
   "options": { "message": "Options" },
-  "saveOptions": { "message": "Save" },
-  "support": { "message": "Support" }
+  "saveOptions": { "message": "Save" }
 }
