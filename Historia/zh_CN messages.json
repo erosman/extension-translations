@@ -42,6 +42,8 @@
   "errorRead": { "message": "读取文件时出错" },
   "errorParse": { "message": "解析文件时出错" },
   
+  "errorPattern": { "message": "模式存在错误" },
+  "errorPatternEnd": { "message": "模式必须以 / 开头和结尾，且不能加标志（flag）" },
   "errorWildcard": { "message": "起始或结尾处无需通配符" },
   "errorShort": { "message": "很短的模式可能导致意外的结果" },
   "errorScheme": { "message": "模式方案中只能有一个 *" },
