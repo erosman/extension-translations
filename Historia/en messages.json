@@ -42,6 +42,8 @@
   "errorRead": { "message": "There was an error with reading the file" },
   "errorParse": { "message": "There was an error parsing the file" },
   
+  "errorPattern": { "message": "There is an error with the Pattern" },
+  "errorPatternEnd": { "message": "Patterns must start and end with / and no flags please" },
   "errorWildcard": { "message": "No Starting or ending Wildcard please" },
   "errorShort": { "message": "Very short patterns can have unexpected results" },
   "errorScheme": { "message": "Only one * in the pattern scheme please" },
