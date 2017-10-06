@@ -68,6 +68,17 @@
   "errorClipboard": { "message": "Failed to save to Clipboard" },
 
 
+
+  "tabCounter": { "message": "Tab Counter" },
+  "tabCounterDescription": { "message": "Enable or Disable the Tab Counter" },
+  "badgeBG": { "message": "Badge Background Color" },
+  "badgeBGDescription": { "message": "Change the Badge Background Color" },
+  "contextMenu": { "message": "Context Menu" },
+  "contextMenuDescription": { "message": "Enable or Disable Context menu items and/or Reorder the items" },
+  
+  "restore": { "message": "Restore Defaults" },
+
+
   "about": { "message": "About" },
   "amo":  { "message": "Firefox restricts some functions on some URLs" },
   "error": { "message": "There was an error with the operation" },
