@@ -19,7 +19,7 @@
   "biggerThumbs": { "message": "更大缩略图" },
   "biggerThumbsDescription": { "message": "显示更大的缩略图。IMDb 标准缩略图的宽度是 32。" },
 
-  "disabled": { "message": "Disabled" },
+  "disabled": { "message": "已禁用" },
 
   
   "about": { "message": "关于" },

@@ -69,6 +69,17 @@
   "textConfirmCloseLeft": { "message": "您即将关闭 $1 个标签页。确定继续吗？" },
 
 
+
+  "tabCounter": { "message": "标签页计数器" },
+  "tabCounterDescription": { "message": "启用/禁用标签页计数器" },
+  "badgeBg": { "message": "徽标背景色" },
+  "badgeBgDescription": { "message": "更改徽标的背景色" },
+  "contextMenu": { "message": "菜单项" },
+  "contextMenuDescription": { "message": "启用/禁用上下文菜单项及调整顺序" },
+  
+  "restore": { "message": "恢复默认设置" },
+
+
   "about": { "message": "关于" },
   "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
   "error": { "message": "运行时出错" },
