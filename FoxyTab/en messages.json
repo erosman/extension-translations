@@ -71,8 +71,8 @@
 
   "tabCounter": { "message": "Tab Counter" },
   "tabCounterDescription": { "message": "Enable or Disable the Tab Counter" },
-  "badgeBG": { "message": "Badge Background Color" },
-  "badgeBGDescription": { "message": "Change the Badge Background Color" },
+  "badgeBg": { "message": "Badge Background Color" },
+  "badgeBgDescription": { "message": "Change the Badge Background Color" },
   "contextMenu": { "message": "Context Menu" },
   "contextMenuDescription": { "message": "Enable or Disable Context menu items and/or Reorder the items" },
   
