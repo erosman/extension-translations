@@ -20,8 +20,11 @@
   "copyTitleUrl": { "message": "Tab Title & URL" },
   "copyIP": { "message": "Tab IP" },
   
-  "internal": { "message": "Internal Page" },
-  "local": { "message": "Local Host" },
+  "internal": { "message": "Firefox Internal Page" },
+  "private": { "message": "Private Network" },
+  "cache": { "message": "Loaded from Cache" },
+  "unknown": { "message": "Unknown" },
+  
 
   "copyUrlAll": { "message": "URLs All" },
   "copyUrlLeft": { "message": "URLs to the Left" },
@@ -68,7 +71,6 @@
   "errorClipboard": { "message": "Failed to save to Clipboard" },
 
 
-
   "tabCounter": { "message": "Tab Counter" },
   "tabCounterDescription": { "message": "Enable or Disable the Tab Counter" },
   "badgeBg": { "message": "Badge Background Color" },
@@ -77,6 +79,36 @@
   "contextMenuDescription": { "message": "Enable or Disable Context menu items and/or Reorder the items" },
   
   "restore": { "message": "Restore Defaults" },
+
+
+  "theme": { "message": "Theme" },
+  "FoxyTabThemes": { "message": "FoxyTab Themes" },
+  "savedThemes": { "message": "Saved Themes" },
+  "name": { "message": "Name" },
+  "description": { "message": "Description" },
+  "version": { "message": "Version" },
+  "homePage": { "message": "Home Page" },
+  "author": { "message": "Author" },
+  "headerURL": { "message": "Header Image" },
+  "additionalBackgrounds": { "message": "Additional Backgrounds" },
+  "additionalBackgroundsAlignment": { "message": "Additional Backgrounds Alignment" },
+  "additionalBackgroundsTiling": { "message": "Additional Backgrounds Tiling" },
+  "textcolor": { "message": "Text Color" },
+  "accentcolor": { "message": "Accent Color" },
+  "addTheme": { "message": "Add" },
+  "updateTheme": { "message": "Update" },
+  "deleteTheme": { "message": "Delete" },
+  "clearTheme": { "message": "Clear" },
+  "applyTheme": { "message": "Apply" },
+  "resetTheme": { "message": "Reset" },
+
+
+  "import": { "message": "Import" },
+  "export": { "message": "Export" },
+  "errorSize": { "message": "File size is larger than the $1kb allowed" },
+  "errorType": { "message": "Unsupported File Format" },
+  "errorRead": { "message": "There was an error with reading the file" },
+  "errorParse": { "message": "There was an error parsing the file" },
 
 
   "about": { "message": "About" },
