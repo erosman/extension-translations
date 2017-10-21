@@ -20,8 +20,10 @@
   "copyTitleUrl": { "message": "标签页标题和网址" },
   "copyIP": { "message": "标签页 IP" },
   
-  "internal": { "message": "内部页面" },
-  "local": { "message": "本地主机" },
+  "internal": { "message": "Firefox 内部页面" },
+  "private": { "message": "私有网络" },
+  "cache": { "message": "从缓存加载" },
+  "unknown": { "message": "未知" },
 
   "copyUrlAll": { "message": "所有标签页网址" },
   "copyUrlLeft": { "message": "左侧标签页网址" },
@@ -79,6 +81,35 @@
   
   "restore": { "message": "恢复默认设置" },
 
+
+  "theme": { "message": "主题" },
+  "FoxyTabThemes": { "message": "FoxyTab 主题" },
+  "savedThemes": { "message": "主题已保存" },
+  "name": { "message": "名称" },
+  "description": { "message": "描述" },
+  "version": { "message": "版本" },
+  "homePage": { "message": "主页" },
+  "author": { "message": "作者" },
+  "headerURL": { "message": "标题图像" },
+  "additionalBackgrounds": { "message": "附加背景" },
+  "additionalBackgroundsAlignment": { "message": "附加背景对齐" },
+  "additionalBackgroundsTiling": { "message": "附加背景平铺" },
+  "textcolor": { "message": "文字颜色" },
+  "accentcolor": { "message": "主题颜色" },
+  "addTheme": { "message": "添加" },
+  "updateTheme": { "message": "更新" },
+  "deleteTheme": { "message": "删除" },
+  "clearTheme": { "message": "清除" },
+  "applyTheme": { "message": "应用" },
+  "resetTheme": { "message": "重置" },
+
+
+  "import": { "message": "导入" },
+  "export": { "message": "导出" },
+  "errorSize": { "message": "文件大小超出允许的 $1kb" },
+  "errorType": { "message": "不支持的文件格式" },
+  "errorRead": { "message": "读取文件时出错" },
+  "errorParse": { "message": "解析文件时出错" },
 
   "about": { "message": "关于" },
   "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
