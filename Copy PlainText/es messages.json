@@ -1,0 +1,14 @@
+{
+  "extensionName": { "message": "Copy PlainText" },
+  "extensionDescription": { "message": "Copia texto simple sin formato alguno" },
+
+  "errorClipboard": { "message": "No se pudo guardar al Portapapeles" },
+
+
+  "about": { "message": "Acerca de" },
+  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
+  "error": { "message": "Hubo un error con la operación" },
+  "help": { "message": "Ayuda" },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" }
+}
