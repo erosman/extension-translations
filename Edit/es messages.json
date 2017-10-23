@@ -1,0 +1,69 @@
+{
+  "extensionName": { "message": "Edit" },
+  "extensionDescription": { "message": "Formatea texto e inserta HTML, BBCode y textos personalizados desde la barra lateral" },
+
+
+  "findReplace": { "message": "Buscar y reemplazar" },
+  "find": { "message": "Buscar" },
+  "replace": { "message": "Reemplazar" },
+  "clear": { "message": "Limpiar" },
+  "matchCase": { "message": "Coincidencia mayús/minús" },
+
+  "errorNotFound": { "message": "No se encontró el patrón de búsqueda" },
+  "errorPattern": { "message": "Hay un error con el patrón de búsqueda" },
+
+  "transform": { "message": "Transformación de letra" },
+  "uppercase": { "message": "Mayúsculas" },
+  "lowercase": { "message": "Minúsculas" },
+  "capitalize": { "message": "Mayús inicial" },
+  "invert": { "message": "Invertir" },
+  "random": { "message": "Aleatoria" },
+
+  "tags": { "message": "Etiquetas" },
+  "html": { "message": "HTML" },
+  "bbcode": { "message": "BBCode" },
+  "custom": { "message": "Personalizado" },
+
+  "b": { "message": "Negrita" },
+  "i": { "message": "Cursiva" },
+  "u": { "message": "Subrayado" },
+  "del": { "message": "Suprimido" },
+  "code": { "message": "Código" },
+  "img": { "message": "Imagen" },
+  "quote": { "message": "Cita (Quote)" },
+  "quote=": { "message": "Quote=" },
+  "list": { "message": "Lista" },
+  "listItem": { "message": "Ítem de lista" },
+  "url": { "message": "URL" },
+  "url=": { "message": "URL=" },
+  "table": { "message": "Tabla" },
+  "tr": { "message": "Fila (TR)" },
+  "td": { "message": "Dato (TD)" },
+  "removeTag": { "message": "Eliminar etiquetas" },
+
+
+  "customText": { "message": "Textos personalizados" },
+  "saveText": { "message": "Textos guardados" },
+  "saveTextDescription": { "message": "Seleccione un texto a editar o borrar" },
+  "addText": { "message": "Añadir texto" },
+  "customTextDescription": { "message": "Introduzca un texto/etiqueta de inicio y final personalizado y pulse Añadir" },
+
+  "add": { "message": "Añadir" },
+  "remove": { "message": "Eliminar" },
+
+
+  "import": { "message": "Importar" },
+  "export": { "message": "Exportar" },
+  "errorSize": { "message": "El tamaño del fichero rebasa los $1KB permitidos" },
+  "errorType": { "message": "Formato de fichero no soportado" },
+  "errorRead": { "message": "Hubo un error al leer el fichero" },
+  "errorParse": { "message": "Hubo un error al interpretar el fichero" },
+
+
+  "about": { "message": "Acerca de" },
+  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
+  "error": { "message": "Hubo un error con la operación" },
+  "help": { "message": "Ayuda" },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" }
+}
