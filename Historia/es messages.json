@@ -1,0 +1,74 @@
+{
+  "extensionName": { "message": "Historia" },
+  "extensionDescription": { "message": "Controla su Historial de navegación para privacidad y rendimiento" },
+
+
+  "deleteHistory": { "message": "Borrar Historial" },
+  "preferences": { "message": "Preferencias" },
+
+  "patterns": { "message": "Patrones de filtros" }, 
+  "patternsDescription": { "message": "Introduzca patrones para evitar que futuras visitas dejen huella en el Historial" }, 
+  
+  "keyword": { "message": "Palabra clave" },
+  "byKeywordDescription": { "message": "Palabra clave de la búsqueda y número máximo de resultados a recopilar" },
+  
+  "start": { "message": "Inicio" },
+  "startDescription": { "message": "Número de días transcurridos para iniciar la búsqueda" },
+  "end": { "message": "Final" },
+  "endDescription": { "message": "Número de días transcurridos para finalizar la búsqueda" },
+  
+  
+  "max": { "message": "Máximo de resultados" },
+  "maxDescription": { "message": "Número máximo de resultados de búsqueda a recopilar por palabra clave" },
+  
+  "dateRange": { "message": "Borrar elementos del Historial entre $1 y $2" },
+  "totalFound": { "message": "Resultados totales por búsqueda:" },
+
+
+  "delete": { "message": "Borrar" },
+  
+
+  "deleteRecentHistoryDescription": { "message": "Número de horas a borrar (desde el menú de la barra de herramientas)" },
+
+  "autoDelete": { "message": "Borrar Historial automáticamente" },
+  "autoDeleteDescription": { "message": "Número de días transcurridos para Borrar automáticamente elementos del Historial" },
+
+
+  "importPreference": { "message": "Importar preferencias" },
+  "exportPreference": { "message": "Exportar preferencias" },
+
+  "errorSize": { "message": "El tamaño del fichero rebasa los $1KB permitidos" },
+  "errorType": { "message": "Formato de fichero no soportado" },
+  "errorRead": { "message": "Hubo un error con la lectura del fichero" },
+  "errorParse": { "message": "Hubo un error al interpretar el fichero" },
+  
+  "errorPattern": { "message": "Hay un error con el patrón" },
+  "errorPatternEnd": { "message": "Los patrones debe comenzar y terminar con / y sin indicativos, por favor" },
+  "errorWildcard": { "message": "Sin comodín inicial o final, por favor" },
+  "errorShort": { "message": "Patrones muy cortos pueden tener resultados inesperados" },
+  "errorScheme": { "message": "Sólo un * en el esquema del patrón, por favor" },
+
+
+
+  "deleteHostHistory": { "message": "Borrar historial del servidor" },
+  "filterHostHistory": { "message": "Filtrar historial del servidor" },
+  "deleteRecentHistory": { "message": "Borrar historial reciente" },
+  "deleteHostCookies": { "message": "Borrar cookies del servidor" },
+  "openOptions": { "message": "Abrir Opciones" },
+  
+  
+  "errorHost": { "message": "Servidor no soportado" },
+
+  
+  "addedHost": { "message": "El servidor fue añadido a los patrones de filtros" },
+  "deletingRecentHistory": { "message": "Borrar el Historial de la(s) última(s) $1h" },
+  "deletingHostCookies": { "message": "Borrando cookies de $1 servidor" },
+
+
+  "about": { "message": "Acerca de" },
+  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
+  "error": { "message": "Hubo un error con la operación" },
+  "help": { "message": "Ayuda" },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" }
+}
