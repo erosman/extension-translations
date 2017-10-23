@@ -1,0 +1,25 @@
+{
+  "extensionName": { "message": "IMGoogle" },
+  "extensionDescription": { "message": "Búsqueda inversa de imágenes de Google" },
+
+  "search": { "message": "Buscar esta imagen con Google" },
+  "dropboxText": { "message": "Arrastre y suelte la imagen aquí" },
+ 
+  "sending": { "message": "Enviando datos ... por favor, espere" },  
+  "errorSrc": { "message": "Fuente de imagen no soportada" },
+  "errorType": { "message": "Formato de fichero no soportado" },
+  "fileSrc": { "message": "Debido a la falta de una API de acceso a ficheros locales, por favor, use la barra lateral en su lugar." },
+
+
+  "activeTab": { "message": "Abrir pestaña en primer plano" },
+  "activeTabDescription": { "message": "Selecciónelo si desea abrir la pestaña de resultados en primer plano (por defecto se abre en segundo plano)" },  
+
+
+  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs." },
+  "changelog": { "message": "Registro de cambios" },
+  "credits": { "message": "Reconocimientos" },
+  "error": { "message": "Hubo un error con la operación." },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" },
+  "support": { "message": "Soporte" }
+}
