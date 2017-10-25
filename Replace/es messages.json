@@ -1,0 +1,21 @@
+{
+  "extensionName": { "message": "Replace" },
+  "extensionDescription": { "message": "Busca y reemplaza texto en páginas web mediante texto simple o expresión regular" },
+
+
+  "find": { "message": "Buscar" },
+  "replace": { "message": "Reemplazar" },
+  "clear": { "message": "Limpiar" },
+  "matchCase": { "message": "Coincidencia de máyus/minús" },
+
+  "errorNotFound": { "message": "No se encontró el patrón de búsqueda" },
+  "errorPattern": { "message": "Hay un error con el patrón de búsqueda" },
+
+
+  "about": { "message": "Acerca de" },
+  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
+  "error": { "message": "Hubo un error con la operación" },
+  "help": { "message": "Ayuda" },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" }
+}

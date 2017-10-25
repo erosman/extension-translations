@@ -1,69 +1,120 @@
 {
   "extensionName": { "message": "FoxyTab" },
   "extensionDescription": { "message": "Colección de acciones relativas a pestañas" },
+  
 
   "duplicate": { "message": "Duplicar pestaña" },
   "closeDuplicate": { "message": "Cerrar pestañas duplicadas" },
 
   "closeLeft": { "message": "Cerrar pestañas a la izquierda" },
 
-  "copyTitle": { "message": "Copiar título de la pestaña" },
+  "merge": { "message": "Fusionar todas las ventanas" },
+  "closeOtherWindows": { "message": "Cerrar otras ventanas" },
 
-  "merge": { "message": "Merge All Windows" },
+  "saveAsPDF": { "message": "Guardar pestaña como PDF" },
+  "errorSaveAsPDF": { "message": "Guardar como PDF no está disponible en Mac OS X o con anterioridad a Firefox 56" },
+  
+  "copy": { "message": "Copiar" },
+  "copyTitle": { "message": "Título de la pestaña" },
+  "copyUrl": { "message": "URL de la pestaña" },
+  "copyTitleUrl": { "message": "Título y URL de la pestaña" },
+  "copyIP": { "message": "IP de la pestaña" },
 
-  "saveAsPDF": { "message": "Save Tab as PDF" },
-  "errorSaveAsPDF": { "message": "Save as PDF is not available on Mac OS X or before Firefox 56" },
+  "internal": { "message": "Página interna de Firefox" },
+  "private": { "message": "Red privada" },
+  "cache": { "message": "Cargada desde caché" },
+  "unknown": { "message": "Desconocida" },
+  
 
-  "copyUrl": { "message": "Copy URLs" },
-  "copyUrlTab": { "message": "Tab" },
-  "copyUrlAll": { "message": "Copiar URLs de pestañas" },
-  "copyUrlLeft": { "message": "Copiar URLs de pestañas a la izquierda" },
-  "copyUrlRight": { "message": "Copiar URLs de pestañas a la derecha" },
+  "copyUrlAll": { "message": "URLs de todas" },
+  "copyUrlLeft": { "message": "URLs de las de la derecha" },
+  "copyUrlRight": { "message": "URLs de las de la izquierda" },
 
-  "host": { "message": "Host" },
+  "host": { "message": "Servidor" },
   "hostKeep": { "message": "Conservar pestañas del servidor" },
   "hostClose": { "message": "Cerrar pestañas del servidor" },
   "hostCloseOther": { "message": "Cerrar las demás pestañas del servidor" },
 
-  "sort": { "message": "Sort" },
-  "sortURLAsce": { "message": "By URLs Ascending" },
-  "sortURLDesc": { "message": "By URLs Descending" },
-  "sortTitleAsce": { "message": "By Title Ascending" },
-  "sortTitleDesc": { "message": "By Title Descending" },
+  "sort": { "message": "Ordenar" },
+  "sortURLAsce": { "message": "Por URLs ascendentemente" },
+  "sortURLDesc": { "message": "Por URLs descendentemente" },
+  "sortTitleAsce": { "message": "Por título ascendentemente" },
+  "sortTitleDesc": { "message": "Por título descendentemente" },
 
-  "move": { "message": "Move" },
-  "moveStart": { "message": "To the Start" },
-  "moveEnd": { "message": "To the End" },
+  "move": { "message": "Mover" },
+  "moveStart": { "message": "Al principio" },
+  "moveEnd": { "message": "Al final" },
 
-  "moveNewWinLeft": { "message": "To the Left to New Window" },
-  "moveNewWinRight": { "message": "To the Right to New Window" },
+  "moveNewWinLeft": { "message": "Las de la izquierda a nueva ventana" },
+  "moveNewWinRight": { "message": "Las de la derecha a nueva ventana" },
 
-  "movePrivate": { "message": "To Private Window" },
-  "movePrivateLeft": { "message": "To the Left to Private Window" },
-  "movePrivateRight": { "message": "To the Right to Private Window" },
+  "movePrivate": { "message": "A ventana privada" },
+  "movePrivateLeft": { "message": "Las de la izquierda a ventana privada" },
+  "movePrivateRight": { "message": "Las de la derecha a ventana privada" },
 
-  "reload": { "message": "Reload" },
-  "reloadAll": { "message": "All" },
-  "reloadLeft": { "message": "To the Left" },
-  "reloadRight": { "message": "To the Right" },
+  "reload": { "message": "Recargar" },
+  "reloadAll": { "message": "Todas" },
+  "reloadLeft": { "message": "Las de la derecha" },
+  "reloadRight": { "message": "Las de la izquierda" },
 
-  "reloadTab": { "message": "Reload Tab every" },
+  "reloadTab": { "message": "Recargar pestaña cada" },
   "reload60": { "message": "1 min." },
   "reload120": { "message": "2 min." },
   "reload180": { "message": "3 min." },
   "reload240": { "message": "4 min." },
   "reload300": { "message": "5 min." },
 
-  "reloadStop": { "message": "Stop Tab Reload" },
+  "reloadStop": { "message": "Detener recarga de la pestaña" },
 
   "textConfirmCloseLeft": { "message": "Está a punto de cerrar $1 pestañas. ¿Está seguro de que quiere continuar?" },
 
   "errorClipboard": { "message": "No se pudieron guardar los datos en el Portapapeles" },
+  
+  
+  "tabCounter": { "message": "Contador de pestañas" },
+  "tabCounterDescription": { "message": "Habilita o deshabilita el contador de pestañas" },
+  "badgeBg": { "message": "Color de fondo del indicativo" },
+  "badgeBgDescription": { "message": "Cambia el color de fondo del indicativo" },
+  "contextMenu": { "message": "Menú contextual" },
+  "contextMenuDescription": { "message": "Habilita o deshabilita los elementos del menú contextual y/o reordena los elementos" },
+  
+  "restore": { "message": "Restaurar valores predeterminados" },
 
-  "about": { "message": "About" },
+
+  "theme": { "message": "Tema" },
+  "FoxyTabThemes": { "message": "Temas de FoxyTab" },
+  "savedThemes": { "message": "Temas guardados" },
+  "name": { "message": "Nombre" },
+  "description": { "message": "Descripción" },
+  "version": { "message": "Versión" },
+  "homePage": { "message": "Página principal" },
+  "author": { "message": "Autor" },
+  "headerURL": { "message": "Imagen de cabecera" },
+  "additionalBackgrounds": { "message": "Fondos adicionales" },
+  "additionalBackgroundsAlignment": { "message": "Alineación de fondos adicionales" },
+  "additionalBackgroundsTiling": { "message": "Enlosetado de fondos adicionales" },
+  "textcolor": { "message": "Color del texto" },
+  "accentcolor": { "message": "Color del acento" },
+  "addTheme": { "message": "Añadir" },
+  "updateTheme": { "message": "Actualizar" },
+  "deleteTheme": { "message": "Borrar" },
+  "clearTheme": { "message": "Limpiar" },
+  "applyTheme": { "message": "Aplicar" },
+  "resetTheme": { "message": "Restablecer" },
+
+
+  "import": { "message": "Importar" },
+  "export": { "message": "Exportar" },
+  "errorSize": { "message": "El tamaño del fichero rebasa los $1KB permitidos" },
+  "errorType": { "message": "Formato de fichero no soportado" },
+  "errorRead": { "message": "Hubo un error al leer el fichero" },
+  "errorParse": { "message": "Hubo un error al interpretar el fichero" },
+
+
+  "about": { "message": "Acerca de" },
   "amo": { "message": "Firefox restringe ciertas funciones en algunas URLs." },
   "error": { "message": "Hubo un error con la operación." },
-  "help": { "message": "Help" },
+  "help": { "message": "Ayuda" },
   "options": { "message": "Opciones" },
   "saveOptions": { "message": "Guardar" }
 }

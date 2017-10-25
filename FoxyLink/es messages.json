@@ -1,0 +1,35 @@
+{
+  "extensionName": { "message": "FoxyLink" },
+  "extensionDescription": { "message": "Colección de acciones relativas a enlaces" },
+
+  
+  "open": { "message": "Abrir enlaces seleccionados" },
+  "copy": { "message": "Copiar seleccionados al Portapapeles" },
+  
+  "save": { "message": "Guardar enlaces seleccionados" },
+  "openSaved": { "message": "Abrir enlaces guardados" },
+  "copySaved": { "message": "Copiar guardados al Portapapeles" },
+  "pasteSaved": { "message": "Pegar guardados aquí" },
+
+
+  "totalSaved": { "message": "Total de guardados:" },
+  "totalPasted": { "message": "Total de pegados:" },
+  "totalCopied": { "message": "Total de copiados al Portapapeles:" },
+  
+  "errorEmpty": { "message": "El almacenamiento está vacío" }, 
+  "errorNoLinks": { "message": "No se encontraron enlaces" },
+
+
+
+  "disableNotification": { "message": "Deshabilitar notificaciones" },
+  "disableNotificationDescription": { "message": "Selecciónelo si desea deshabilitar notificaciones de información" },
+
+  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
+  "changelog": { "message": "Registro de cambios" },
+  "credits": { "message": "Reconocimientos" },
+  "error": { "message": "Hubo un error con la operación" },
+  "help": { "message": "Ayuda" },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" },
+  "support": { "message": "Soporte" }
+}

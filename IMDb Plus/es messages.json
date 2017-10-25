@@ -1,0 +1,31 @@
+{
+  "extensionName": { "message": "IMDb Plus" },
+  "extensionDescription": { "message": "Mejoras para IMDb definidas por el usuario" },
+
+
+  "age": { "message": "edad" },
+  "tableHeader": { "message": "Tabla de media semanal" },
+  "weeklyAve": { "message": "Media semanal:" },
+
+
+  "addAge": { "message": "Añadir edad" },
+  "addAgeDescription": { "message": "Añade la edad de la persona tras su fecha de nacimiento en IMDb" },  
+  "addWeeklyAverage": { "message": "Añadir media semanal" },
+  "addWeeklyAverageDescription": { "message": "Añade la recaudación media semanal a la página de taquilla de EEUU de IMDb" },  
+  "removeLoadlate": { "message": "Eliminar LoadLate" },
+  "removeLoadlateDescription": { "message": "Elimina el mostrado tardío de imágenes (especialmente útil si JavaScript está deshabilitado)" },  
+  "showAll": { "message": "Mostrar todo colapsado" },
+  "showAllDescription": { "message": "Muestra todas las secciones colapsadas (especialmente útil si JavaScript está deshabilitado)" },  
+  "biggerThumbs": { "message": "Miniaturas más grandes" },
+  "biggerThumbsDescription": { "message": "Muestra imágenes de miniatura más grandes. La anchura normal de las miniaturas de IMDb es 32." },
+
+  "disabled": { "message": "Deshabilitado" },
+
+  
+  "about": { "message": "Acerca de" },
+  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
+  "error": { "message": "Hubo un error con la operación" },
+  "help": { "message": "Ayuda" },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" }
+}

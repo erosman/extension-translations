@@ -1,0 +1,40 @@
+{
+  "extensionName": { "message": "RPNet Helper" },
+  "extensionDescription": { "message": "Descarga los enlaces seleccionados usando RPNet" },
+
+
+  "download": { "message": "Descarga de RPNet" },
+  "hostUpdate": { "message": "Los datos del servidor se actualizaron a la versión" },
+
+  "errorDownload": { "message": "Error de RPNet" },
+  "errorGenLinks": { "message": "No se generaron enlaces" },
+  "errorNoLogin": { "message": "No ha iniciado sesión.\n¿Quiere abrir la página de inicio de sesión?" },
+  "errorRequest": { "message": "Por favor, compruebe su parámetro de acción." },
+  "errorResult": { "message": "Hubo un error en la respuesta. Por favor, inténtelo de nuevo." },
+  "errorSaveHDD": { "message": "RPNet no pudo guardar en el HDD. ¿Quiere descargar/copiar estos enlaces directos?" },
+  "errorSendLinks": { "message": "Hubo un error al enviar enlaces. Por favor, inténtelo de nuevo." },
+  "errorUserPass": { "message": "Error de Nombre de usuario/Contraseña: Por favor, inicie sesión de nuevo." },
+
+  "confirmDL": { "message": "¿Quiere descargar lo siguiente con RPNet?" },
+  "confirmHDD": { "message": "¿Quiere guardar lo siguiente en el HDD de RPNet?" },
+ 
+  "saveHDD": { "message": "Se ha iniciado la descarga al HDD de RPNet. Compruebe los ficheros del HDD para monitorizar el progreso." },
+  "unsupported": { "message": "Los siguientes servidores no están soportados por RPNet en este momento:" },
+  
+  "errorClipboard": { "message": "No se pudieron copiar los enlaces, iniciando descarga directa" },
+  "textClipboard": { "message": "Enlaces guardados en el Portapapeles" },
+
+  "optionsHDD": { "message": "Descargar al HDD" },
+  "optionsHDDinfo": { "message": "Selecciónelo si desea guardar las descargas en el HDD de RPNet" },
+
+  "optionsCopy": { "message": "Opción para copiar enlaces" },
+  "optionsCopyInfo": { "message": "Selecciónelo si desea tener la opción de copiar los enlaces de descarga para pegarlos en un gestor de descargas" },
+
+
+  "about": { "message": "Acerca de" },
+  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
+  "error": { "message": "Hubo un error con la operación" },
+  "help": { "message": "Ayuda" },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" }
+}

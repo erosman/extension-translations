@@ -1,0 +1,40 @@
+{
+  "extensionName": { "message": "Text MultiCopy" },
+  "extensionDescription": { "message": "Copia texto en múltiples ocasiones antes de pegar" },
+
+  "save": { "message": "Guardar selección" },
+  "copySaved": { "message": "Copiar guardados al Portapapeles" },
+  "pasteSaved": { "message": "Pegar guardados aquí" },
+
+
+
+  "totalSaved": { "message": "Guardados totales:" },
+  "totalPasted": { "message": "Pegados totales:" },
+  "totalCopied": { "message": "Copiados al Portapapeles totales:" },
+  
+  "errorEmpty": { "message": "El almacenamiento está vacío" },
+  
+  "addTitle": { "message": "Añadir título" },
+  "addTitleDescription": { "message": "Seleccione para añadir el título del original a cada copia" },
+
+
+  "addUrl": { "message": "Añadir URL" },
+  "addUrlDescription": { "message": "Seleccione para añadir la URL del original a cada copia" },
+  
+  "urlWrap": { "message": "Envoltura de la URL" },
+  "urlWrapDescription": { "message": "Escoja cómo se envuelven las URLs, principio y final" },
+
+  "divider": { "message": "Divisor" },
+  "dividerDescription": { "message": "Escoja el divisor de texto preferido" },
+
+  "disableNotification": { "message": "Deshabilitar notificaciones" },
+  "disableNotificationDescription": { "message": "Selecciónelo para deshabilitar notificaciones de información" },
+
+
+  "about": { "message": "Acerca de" },
+  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
+  "error": { "message": "Hubo un error con la operación" },
+  "help": { "message": "Ayuda" },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" }
+}
