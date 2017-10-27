@@ -37,8 +37,8 @@
     "url": { "message": "連結" },
     "url=": { "message": "連結=" },
     "table": { "message": "表格" },
-    "tr": { "message": "TR" },
-    "td": { "message": "TD" },
+    "tr": { "message": "列" },
+    "td": { "message": "行" },
     "removeTag": { "message": "移除標籤" },
 
 
@@ -54,7 +54,7 @@
 
     "import": { "message": "匯入" },
     "export": { "message": "匯出" },
-    "errorSize": { "message": "檔案大小超出允許的 $1kb" },
+    "errorSize": { "message": "檔案大小超出允許的 $1kb 限制" },
     "errorType": { "message": "不支援的檔案格式" },
     "errorRead": { "message": "讀取檔案內容出現錯誤" },
     "errorParse": { "message": "解析檔案內容出現錯誤" },
@@ -63,7 +63,7 @@
     "about": { "message": "關於" },
     "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
     "error": { "message": "運作過程出現錯誤" },
-    "help": { "message": "幫助" },
+    "help": { "message": "說明" },
     "options": { "message": "選項" },
     "saveOptions": { "message": "儲存" }
 }

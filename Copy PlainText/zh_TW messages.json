@@ -8,7 +8,7 @@
     "about": { "message": "關於" },
     "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
     "error": { "message": "運作過程發生錯誤" },
-    "help": { "message": "幫助" },
+    "help": { "message": "說明" },
     "options": { "message": "選項" },
     "saveOptions": { "message": "儲存" }
 }
