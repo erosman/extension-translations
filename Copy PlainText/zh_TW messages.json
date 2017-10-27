@@ -1,14 +1,14 @@
 {
-  "extensionName": { "message": "Copy PlainText" },
-  "extensionDescription": { "message": "Copy Plain Text without any formatting" },
+    "extensionName": { "message": "Copy PlainText" },
+    "extensionDescription": { "message": "複製不含任何格式的純文字" },
 
-  "errorClipboard": { "message": "Failed to save to Clipboard" },
+    "errorClipboard": { "message": "儲存至剪貼簿失敗" },
 
 
-  "about": { "message": "About" },
-  "amo":  { "message": "Firefox restricts some functions on some URLs" },
-  "error": { "message": "There was an error with the operation" },
-  "help": { "message": "Help" },
-  "options": { "message": "Options" },
-  "saveOptions": { "message": "Save" }
+    "about": { "message": "關於" },
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "error": { "message": "運作過程發生錯誤" },
+    "help": { "message": "幫助" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" }
 }
