@@ -1,0 +1,69 @@
+{
+    "extensionName": { "message": "Edit" },
+    "extensionDescription": { "message": "從側邊欄格式化文字、插入 HTML、BBCode 及自訂的文字" },
+
+
+    "findReplace": { "message": "尋找並取代" },
+    "find": { "message": "尋找" },
+    "replace": { "message": "取代" },
+    "clear": { "message": "清除" },
+    "matchCase": { "message": "區分大小寫" },
+
+    "errorNotFound": { "message": "找不到搜尋的內容" },
+    "errorPattern": { "message": "搜尋內容存在錯誤" },
+
+    "transform": { "message": "轉換大小寫" },
+    "uppercase": { "message": "大寫" },
+    "lowercase": { "message": "小寫" },
+    "capitalize": { "message": "首字母大寫" },
+    "invert": { "message": "反轉" },
+    "random": { "message": "隨機" },
+
+    "tags": { "message": "標籤" },
+    "html": { "message": "HTML" },
+    "bbcode": { "message": "BBCode" },
+    "custom": { "message": "自訂" },
+
+    "b": { "message": "粗體" },
+    "i": { "message": "斜體" },
+    "u": { "message": "底線" },
+    "del": { "message": "刪除線" },
+    "code": { "message": "代碼" },
+    "img": { "message": "圖片" },
+    "quote": { "message": "引用" },
+    "quote=": { "message": "引用=" },
+    "list": { "message": "列表" },
+    "listItem": { "message": "列表項目" },
+    "url": { "message": "連結" },
+    "url=": { "message": "連結=" },
+    "table": { "message": "表格" },
+    "tr": { "message": "TR" },
+    "td": { "message": "TD" },
+    "removeTag": { "message": "移除標籤" },
+
+
+    "customText": { "message": "自訂文字" },
+    "saveText": { "message": "儲存文字" },
+    "saveTextDescription": { "message": "選取文字編輯或刪除" },
+    "addText": { "message": "新增文字" },
+    "customTextDescription": { "message": "請輸入新的開始及結束文字 / 標籤，並點擊新增" },
+
+    "add": { "message": "新增" },
+    "remove": { "message": "移除" },
+
+
+    "import": { "message": "匯入" },
+    "export": { "message": "匯出" },
+    "errorSize": { "message": "檔案大小超出允許的 $1kb" },
+    "errorType": { "message": "不支援的檔案格式" },
+    "errorRead": { "message": "讀取檔案內容出現錯誤" },
+    "errorParse": { "message": "解析檔案內容出現錯誤" },
+
+
+    "about": { "message": "關於" },
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "error": { "message": "運作過程出現錯誤" },
+    "help": { "message": "幫助" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" }
+}
