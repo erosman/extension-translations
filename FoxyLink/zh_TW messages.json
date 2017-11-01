@@ -1,23 +1,23 @@
 {
     "extensionName": { "message": "FoxyLink" },
-    "extensionDescription": { "message": "連結相關快捷功能" },
+    "extensionDescription": { "message": "鏈結相關快捷功能" },
 
 
-    "open": { "message": "開啟已選取的連結" },
-    "copy": { "message": "複製選取的連結至剪貼簿" },
+    "open": { "message": "開啟已選取的鏈結" },
+    "copy": { "message": "複製選取的鏈結至剪貼簿" },
 
-    "save": { "message": "儲存已選取的連結" },
-    "openSaved": { "message": "開啟已儲存的連結" },
-    "copySaved": { "message": "複製已儲存的連結至剪貼簿" },
-    "pasteSaved": { "message": "貼上已儲存的連結" },
+    "save": { "message": "儲存已選取的鏈結" },
+    "openSaved": { "message": "開啟已儲存的鏈結" },
+    "copySaved": { "message": "複製已儲存的鏈結至剪貼簿" },
+    "pasteSaved": { "message": "貼上已儲存的鏈結" },
 
 
     "totalSaved": { "message": "總計儲存:" },
     "totalPasted": { "message": "總計貼上:" },
     "totalCopied": { "message": "總計複製到剪貼簿:" },
 
-    "errorEmpty": { "message": "儲存為空" },
-    "errorNoLinks": { "message": "找不到連結" },
+    "errorEmpty": { "message": "儲存庫為空" },
+    "errorNoLinks": { "message": "找不到鏈結" },
 
 
 
