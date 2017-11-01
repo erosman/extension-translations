@@ -9,7 +9,7 @@
 
 
     "addAge": { "message": "添加年齡" },
-    "addAgeDescription": { "message": "在 IMDb 揭載的出生日期後方添加年齡" },
+    "addAgeDescription": { "message": "在 IMDb 揭載的出生日期資訊後方添加年齡" },
     "addWeeklyAverage": { "message": "添加每周平均" },
     "addWeeklyAverageDescription": { "message": "在 IMDb US Box Office 頁面添加每周平均毛利" },
     "removeLoadlate": { "message": "移除延遲載入" },
