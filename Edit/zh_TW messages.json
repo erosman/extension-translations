@@ -1,6 +1,6 @@
 {
     "extensionName": { "message": "Edit" },
-    "extensionDescription": { "message": "從側邊欄格式化文字、插入 HTML、BBCode 及自訂的文字" },
+    "extensionDescription": { "message": "從側邊欄格式化文字、插入 HTML、BBCode 及自訂文字" },
 
 
     "findReplace": { "message": "尋找並取代" },
@@ -9,8 +9,8 @@
     "clear": { "message": "清除" },
     "matchCase": { "message": "區分大小寫" },
 
-    "errorNotFound": { "message": "找不到搜尋的內容" },
-    "errorPattern": { "message": "搜尋內容存在錯誤" },
+    "errorNotFound": { "message": "找不到內容" },
+    "errorPattern": { "message": "尋找內容存在錯誤" },
 
     "transform": { "message": "轉換大小寫" },
     "uppercase": { "message": "大寫" },
@@ -37,15 +37,15 @@
     "url": { "message": "連結" },
     "url=": { "message": "連結=" },
     "table": { "message": "表格" },
-    "tr": { "message": "列" },
-    "td": { "message": "行" },
+    "tr": { "message": "列 (TR)" },
+    "td": { "message": "格 (TD)" },
     "removeTag": { "message": "移除標籤" },
 
 
     "customText": { "message": "自訂文字" },
-    "saveText": { "message": "儲存文字" },
-    "saveTextDescription": { "message": "選取文字編輯或刪除" },
-    "addText": { "message": "新增文字" },
+    "saveText": { "message": "已儲存的自訂文字" },
+    "saveTextDescription": { "message": "選取一個自訂文字項目以編輯或刪除" },
+    "addText": { "message": "新增自訂" },
     "customTextDescription": { "message": "請輸入新的開始及結束文字 / 標籤，並點擊新增" },
 
     "add": { "message": "新增" },
