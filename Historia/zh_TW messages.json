@@ -15,7 +15,7 @@
     "start": { "message": "開始" },
     "startDescription": { "message": "從幾天前開始搜尋" },
     "end": { "message": "結束" },
-    "endDescription": { "message": "幾天前結束搜尋" },
+    "endDescription": { "message": "從幾天前結束搜尋" },
 
 
     "max": { "message": "最大結果數量" },
@@ -43,7 +43,7 @@
     "errorParse": { "message": "解析檔案內容出現錯誤" },
 
     "errorPattern": { "message": "模式存在錯誤" },
-    "errorPatternEnd": { "message": "模式必須以 / 開頭和結尾，且不能加入標誌 (Flag)" },
+    "errorPatternEnd": { "message": "模式必須以 / 開頭和結尾，且不能加入比對方式 (Flag)" },
     "errorWildcard": { "message": "開始與結束處不可有萬用符號" },
     "errorShort": { "message": "過短的模式可能導致無法預期的結果" },
     "errorScheme": { "message": "模式格式只能有一個星號 (*)" },
