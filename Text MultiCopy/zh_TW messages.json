@@ -1,8 +1,8 @@
 {
     "extensionName": { "message": "Text MultiCopy" },
-    "extensionDescription": { "message": "貼上前多次複製文字" },
+    "extensionDescription": { "message": "貼上內容前多次複製文字" },
 
-    "save": { "message": "儲存選取部分" },
+    "save": { "message": "儲存選取的內容" },
     "copySaved": { "message": "複製已儲存內容至剪貼簿" },
     "pasteSaved": { "message": "貼上已儲存內容至此" },
 
