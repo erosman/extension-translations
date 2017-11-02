@@ -1,0 +1,40 @@
+{
+    "extensionName": { "message": "RPNet Helper" },
+    "extensionDescription": { "message": "使用 RPNet 下載已選取的鏈結" },
+
+
+    "download": { "message": "RPNet 下載" },
+    "hostUpdate": { "message": "主機數據已更新至" },
+
+    "errorDownload": { "message": "RPNet 錯誤" },
+    "errorGenLinks": { "message": "鏈結未產生" },
+    "errorNoLogin": { "message": "您尚未登入。\n是否開啟登入頁面？" },
+    "errorRequest": { "message": "請檢查您的動作參數。" },
+    "errorResult": { "message": "回應發生錯誤。請重試。" },
+    "errorSaveHDD": { "message": "RPNet 儲存至 HDD 失敗。您是否直接下載／複製鏈結？" },
+    "errorSendLinks": { "message": "發送鏈結發生錯誤。請重試。" },
+    "errorUserPass": { "message": "使用者名稱／密碼錯誤：請重新登入。" },
+
+    "confirmDL": { "message": "使用 RPNet 下載下列內容？" },
+    "confirmHDD": { "message": "儲存下列內容至 RPNet HDD？" },
+
+    "saveHDD": { "message": "HDD 下載已啟動。檢查 HDD 文件監看進度。" },
+    "unsupported": { "message": "RPNet 目前不支援下列主機：" },
+
+    "errorClipboard": { "message": "複製鏈結失敗，啟動直接下載" },
+    "textClipboard": { "message": "鏈結已儲存至剪貼簿" },
+
+    "optionsHDD": { "message": "下載至 HDD" },
+    "optionsHDDinfo": { "message": "若您需下載內容至 RPNet HDD，請選此項目" },
+
+    "optionsCopy": { "message": "複製鏈結" },
+    "optionsCopyInfo": { "message": "若您需複製下載鏈結並貼至某個下載管理器，請選此項目" },
+
+
+    "about": { "message": "關於" },
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "error": { "message": "運作過程出現錯誤" },
+    "help": { "message": "說明" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" }
+}
