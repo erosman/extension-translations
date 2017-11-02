@@ -1,0 +1,21 @@
+{
+    "extensionName": { "message": "Replace" },
+    "extensionDescription": { "message": "使用純文字或正規表達式搜尋並取代網頁中的文字" },
+
+
+    "find": { "message": "尋找" },
+    "replace": { "message": "取代" },
+    "clear": { "message": "清除" },
+    "matchCase": { "message": "區分大小寫" },
+
+    "errorNotFound": { "message": "找不到尋找的內容" },
+    "errorPattern": { "message": "尋找模式發生錯誤" },
+
+
+    "about": { "message": "關於" },
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "error": { "message": "運作過程出現錯誤" },
+    "help": { "message": "說明" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" }
+}
