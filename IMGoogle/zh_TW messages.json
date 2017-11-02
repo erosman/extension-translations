@@ -8,7 +8,7 @@
     "sending": { "message": "正在傳送資料…請稍候" },
     "errorSrc": { "message": "未支援的圖片來源" },
     "errorType": { "message": "未支援的檔案格式" },
-    "fileSrc": { "message": "由於缺少本地文件訪問 API，請使用側邊欄替代" },
+    "fileSrc": { "message": "由於缺少本地文件存取 API，請使用側邊欄替代" },
 
 
     "activeTab": { "message": "在前景開啟分頁" },
