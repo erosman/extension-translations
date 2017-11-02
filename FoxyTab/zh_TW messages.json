@@ -43,7 +43,7 @@
 
     "move": { "message": "移動" },
     "moveStart": { "message": "至起始" },
-    "moveEnd": { "message": "至尾端" },
+    "moveEnd": { "message": "至結尾" },
 
     "moveNewWinLeft": { "message": "左側分頁移至新視窗" },
     "moveNewWinRight": { "message": "右側分頁移至新視窗" },
@@ -76,7 +76,7 @@
     "badgeBg": { "message": "標籤背景顏色" },
     "badgeBgDescription": { "message": "更改標籤背景顏色" },
     "contextMenu": { "message": "選單目錄" },
-    "contextMenuDescription": { "message": "啟用或停用選單目錄項目及順序調整" },
+    "contextMenuDescription": { "message": "啟用或停用選單項目及順序調整" },
 
     "restore": { "message": "恢復預設值" },
 
