@@ -1,6 +1,6 @@
 {
     "extensionName": { "message": "FoxyImage" },
-    "extensionDescription": { "message": "圖片相關功能" },
+    "extensionDescription": { "message": "圖片相關快捷功能" },
 
     "rotateLeft": { "message": "向左旋轉" },
     "rotateRight": { "message": "向右旋轉" },
@@ -14,12 +14,12 @@
     "saveSelectedImages": { "message": "儲存選取的圖片" },
     "openSelectedImages": { "message": "用新分頁開啟選取的圖片" },
 
-    "saveAllImageLinks": { "message": "儲存所有圖片的網址" },
-    "saveSelectedImageLinks": { "message": "儲存選取的圖片網址" },
-    "openSelectedImageLinks": { "message": "用新分頁開啟選取圖片的網址" },
+    "saveAllImageLinks": { "message": "儲存所有圖片的鏈結" },
+    "saveSelectedImageLinks": { "message": "儲存選取的圖片鏈結" },
+    "openSelectedImageLinks": { "message": "用新分頁開啟選取圖片的鏈結" },
 
     "saveTargetImages": { "message": "儲存所有目標圖片" },
-    "saveTargetImageLinks": { "message": "儲存所有目標圖片的網址" },
+    "saveTargetImageLinks": { "message": "儲存所有目標圖片的鏈結" },
 
     "confirmQuantity": { "message": "您即將處理 $1 個項目。\n確定繼續？" },
 
@@ -27,7 +27,7 @@
     "notFound": { "message": "找不到" },
 
     "patterns": { "message": "篩選模式" },
-    "patternsDescription": { "message": "輸入模式以篩選下載" },
+    "patternsDescription": { "message": "輸入模式以篩選下載內容" },
 
 
     "importPreference": { "message": "匯入偏好設定" },
