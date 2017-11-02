@@ -1,0 +1,14 @@
+{
+    "extensionName": { "message": "Copy PlainText" },
+    "extensionDescription": { "message": "複製不含任何格式的純文字" },
+
+    "errorClipboard": { "message": "儲存至剪貼簿失敗" },
+
+
+    "about": { "message": "關於" },
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "error": { "message": "運作過程發生錯誤" },
+    "help": { "message": "說明" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" }
+}

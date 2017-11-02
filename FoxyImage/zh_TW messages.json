@@ -1,0 +1,52 @@
+{
+    "extensionName": { "message": "FoxyImage" },
+    "extensionDescription": { "message": "圖片相關快捷功能" },
+
+    "rotateLeft": { "message": "向左旋轉" },
+    "rotateRight": { "message": "向右旋轉" },
+    "flipVertical": { "message": "垂直翻轉" },
+    "flipHorizontal": { "message": "水平翻轉" },
+    "reset": { "message": "重設" },
+
+    "openImage": { "message": "用新分頁開啟圖片" },
+
+    "saveAllImages": { "message": "儲存所有圖片" },
+    "saveSelectedImages": { "message": "儲存選取的圖片" },
+    "openSelectedImages": { "message": "用新分頁開啟選取的圖片" },
+
+    "saveAllImageLinks": { "message": "儲存所有圖片的鏈結" },
+    "saveSelectedImageLinks": { "message": "儲存選取的圖片鏈結" },
+    "openSelectedImageLinks": { "message": "用新分頁開啟選取圖片的鏈結" },
+
+    "saveTargetImages": { "message": "儲存所有目標圖片" },
+    "saveTargetImageLinks": { "message": "儲存所有目標圖片的鏈結" },
+
+    "confirmQuantity": { "message": "您即將處理 $1 個項目。\n確定繼續？" },
+
+
+    "notFound": { "message": "找不到" },
+
+    "patterns": { "message": "篩選模式" },
+    "patternsDescription": { "message": "輸入模式以篩選下載內容" },
+
+
+    "importPreference": { "message": "匯入偏好設定" },
+    "exportPreference": { "message": "匯出偏好設定" },
+
+    "errorSize": { "message": "檔案大小超出允許的 $1kb 限制" },
+    "errorType": { "message": "不支援的檔案格式" },
+    "errorRead": { "message": "讀取檔案內容出現錯誤" },
+    "errorParse": { "message": "解析檔案內容出現錯誤" },
+
+    "errorWildcard": { "message": "開始與結束處不可有萬用符號" },
+    "errorShort": { "message": "過短的模式可能導致無法預期的結果" },
+    "errorScheme": { "message": "模式格式只能有一個星號 (*)" },
+
+
+    "about": { "message": "關於" },
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "error": { "message": "運作過程出現錯誤" },
+    "help": { "message": "說明" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" }
+}

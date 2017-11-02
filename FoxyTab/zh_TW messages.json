@@ -1,0 +1,120 @@
+{
+    "extensionName": { "message": "FoxyTab" },
+    "extensionDescription": { "message": "分頁相關功能" },
+
+
+    "duplicate": { "message": "複製分頁" },
+    "closeDuplicate": { "message": "關閉重複的分頁" },
+
+    "closeLeft": { "message": "關閉左側分頁" },
+
+    "merge": { "message": "合併所有視窗" },
+    "closeOtherWindows": { "message": "關閉其他視窗" },
+
+    "saveAsPDF": { "message": "將分頁內容另存為 PDF" },
+    "errorSaveAsPDF": { "message": "另存為 PDF 功能在 Mac OS X 或 Firefox 56 之前的版本中無法使用" },
+
+    "copy": { "message": "複製" },
+    "copyTitle": { "message": "分頁標題" },
+    "copyUrl": { "message": "分頁網址" },
+    "copyTitleUrl": { "message": "分頁標題和網址" },
+    "copyIP": { "message": "分頁 IP" },
+
+    "internal": { "message": "Firefox 內部頁面" },
+    "private": { "message": "私人網路" },
+    "cache": { "message": "從快取中載入" },
+    "unknown": { "message": "未知" },
+
+
+    "copyUrlAll": { "message": "所有分頁網址" },
+    "copyUrlLeft": { "message": "左側分頁網址" },
+    "copyUrlRight": { "message": "右側分頁網址" },
+
+    "host": { "message": "主機" },
+    "hostKeep": { "message": "保留" },
+    "hostClose": { "message": "關閉" },
+    "hostCloseOther": { "message": "關閉其他主機的分頁" },
+
+    "sort": { "message": "排序" },
+    "sortURLAsce": { "message": "依網址遞增" },
+    "sortURLDesc": { "message": "依網址遞減" },
+    "sortTitleAsce": { "message": "依標題遞增" },
+    "sortTitleDesc": { "message": "依標題遞減" },
+
+    "move": { "message": "移動" },
+    "moveStart": { "message": "至起始" },
+    "moveEnd": { "message": "至結尾" },
+
+    "moveNewWinLeft": { "message": "左側分頁移至新視窗" },
+    "moveNewWinRight": { "message": "右側分頁移至新視窗" },
+
+    "movePrivate": { "message": "至隱私視窗" },
+    "movePrivateLeft": { "message": "左側分頁移至隱私視窗" },
+    "movePrivateRight": { "message": "右側分頁移至隱私視窗" },
+
+    "reload": { "message": "重新載入" },
+    "reloadAll": { "message": "全部" },
+    "reloadLeft": { "message": "左側" },
+    "reloadRight": { "message": "右側" },
+
+    "reloadTab": { "message": "重新載入間隔" },
+    "reload60": { "message": "1 分鐘" },
+    "reload120": { "message": "2 分鐘" },
+    "reload180": { "message": "3 分鐘" },
+    "reload240": { "message": "4 分鐘" },
+    "reload300": { "message": "5 分鐘" },
+
+    "reloadStop": { "message": "停止重新載入分頁" },
+
+    "textConfirmCloseLeft": { "message": "您即將關閉 $1 分頁。確定要繼續嗎？" },
+
+    "errorClipboard": { "message": "儲存至剪貼簿失敗" },
+
+
+    "tabCounter": { "message": "分頁計數器" },
+    "tabCounterDescription": { "message": "啟用或停用分頁計數器" },
+    "badgeBg": { "message": "標籤背景顏色" },
+    "badgeBgDescription": { "message": "更改標籤背景顏色" },
+    "contextMenu": { "message": "選單目錄" },
+    "contextMenuDescription": { "message": "啟用或停用選單項目及順序調整" },
+
+    "restore": { "message": "恢復預設值" },
+
+
+    "theme": { "message": "主題" },
+    "FoxyTabThemes": { "message": "FoxyTab 主題" },
+    "savedThemes": { "message": "主題已儲存" },
+    "name": { "message": "名稱" },
+    "description": { "message": "描述" },
+    "version": { "message": "版本" },
+    "homePage": { "message": "主頁" },
+    "author": { "message": "作者" },
+    "headerURL": { "message": "標題圖片" },
+    "additionalBackgrounds": { "message": "附加背景" },
+    "additionalBackgroundsAlignment": { "message": "附加背景對齊" },
+    "additionalBackgroundsTiling": { "message": "附加背景平舖" },
+    "textcolor": { "message": "文字顏色" },
+    "accentcolor": { "message": "主題顏色" },
+    "addTheme": { "message": "新增" },
+    "updateTheme": { "message": "更新" },
+    "deleteTheme": { "message": "刪除" },
+    "clearTheme": { "message": "清除" },
+    "applyTheme": { "message": "套用" },
+    "resetTheme": { "message": "重設" },
+
+
+    "import": { "message": "匯入" },
+    "export": { "message": "匯出" },
+    "errorSize": { "message": "檔案大小超出允許的 $1kb 限制" },
+    "errorType": { "message": "不支援的檔案格式" },
+    "errorRead": { "message": "讀取檔案內容出現錯誤" },
+    "errorParse": { "message": "解析檔案內容出現錯誤" },
+
+
+    "about": { "message": "關於" },
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "error": { "message": "運作過程出現錯誤" },
+    "help": { "message": "說明" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" }
+}

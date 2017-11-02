@@ -1,0 +1,31 @@
+{
+    "extensionName": { "message": "IMDb Plus" },
+    "extensionDescription": { "message": "IMDb 增強功能" },
+
+
+    "age": { "message": "年齡" },
+    "tableHeader": { "message": "每周平均表" },
+    "weeklyAve": { "message": "每周平均:" },
+
+
+    "addAge": { "message": "添加年齡" },
+    "addAgeDescription": { "message": "在 IMDb 揭載的出生日期資訊後方添加年齡" },
+    "addWeeklyAverage": { "message": "添加每周平均" },
+    "addWeeklyAverageDescription": { "message": "在 IMDb US Box Office 頁面添加每周平均毛利" },
+    "removeLoadlate": { "message": "移除延遲載入" },
+    "removeLoadlateDescription": { "message": "移除圖片延遲載入 (在 JavaScript 停用環境下尤為有用)" },
+    "showAll": { "message": "展開所有摺疊項目" },
+    "showAllDescription": { "message": "顯示所有折疊項目 (在 JavaScript 停用環境下尤為有用)" },
+    "biggerThumbs": { "message": "更大的縮圖" },
+    "biggerThumbsDescription": { "message": "顯示更大的縮圖。IMDb 標準縮圖寬度為 32。" },
+
+    "disabled": { "message": "停用" },
+
+
+    "about": { "message": "關於" },
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "error": { "message": "運作過程出現錯誤" },
+    "help": { "message": "說明" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" }
+}

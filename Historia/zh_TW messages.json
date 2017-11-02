@@ -1,0 +1,74 @@
+{
+    "extensionName": { "message": "Historia" },
+    "extensionDescription": { "message": "為隱私及效能，控制您的瀏覽紀錄" },
+
+
+    "deleteHistory": { "message": "刪除歷史紀錄" },
+    "preferences": { "message": "偏好設定" },
+
+    "patterns": { "message": "篩選模式" },
+    "patternsDescription": { "message": "不保留符合下列模式的訪問紀錄" },
+
+    "keyword": { "message": "關鍵字" },
+    "byKeywordDescription": { "message": "要搜尋的關鍵字及最大搜尋結果數量" },
+
+    "start": { "message": "開始" },
+    "startDescription": { "message": "從幾天前開始搜尋" },
+    "end": { "message": "結束" },
+    "endDescription": { "message": "從幾天前結束搜尋" },
+
+
+    "max": { "message": "最大結果數量" },
+    "maxDescription": { "message": "關鍵字搜尋取得的最大結果數量" },
+
+    "dateRange": { "message": "正在刪除 $1 至 $2 之間的歷史紀錄" },
+    "totalFound": { "message": "搜尋總計找到:" },
+
+
+    "delete": { "message": "刪除" },
+
+
+    "deleteRecentHistoryDescription": { "message": "刪除多少小時 (從工具列選單)" },
+
+    "autoDelete": { "message": "自動刪除歷史紀錄" },
+    "autoDeleteDescription": { "message": "自動刪除多少天以前的歷史紀錄" },
+
+
+    "importPreference": { "message": "匯入偏好設定" },
+    "exportPreference": { "message": "匯出偏好設定" },
+
+    "errorSize": { "message": "檔案大小超出允許的 $1kb 限制" },
+    "errorType": { "message": "不支援的檔案格式" },
+    "errorRead": { "message": "讀取檔案內容出現錯誤" },
+    "errorParse": { "message": "解析檔案內容出現錯誤" },
+
+    "errorPattern": { "message": "模式存在錯誤" },
+    "errorPatternEnd": { "message": "模式必須以 / 開頭和結尾，且不能加入比對方式 (Flag)" },
+    "errorWildcard": { "message": "開始與結束處不可有萬用符號" },
+    "errorShort": { "message": "過短的模式可能導致無法預期的結果" },
+    "errorScheme": { "message": "模式格式只能有一個星號 (*)" },
+
+
+
+    "deleteHostHistory": { "message": "刪除主機歷史紀錄" },
+    "filterHostHistory": { "message": "篩選主機歷史紀錄" },
+    "deleteRecentHistory": { "message": "刪除最近的歷史紀錄" },
+    "deleteHostCookies": { "message": "刪除主機 Cookie" },
+    "openOptions": { "message": "開啟選項" },
+
+
+    "errorHost": { "message": "不支援的主機" },
+
+
+    "addedHost": { "message": "已將主機新增至篩選模式" },
+    "deletingRecentHistory": { "message": "正在刪除最近 $1 小時的歷史紀錄" },
+    "deletingHostCookies": { "message": "正在刪除 $1 主機的 Cookie" },
+
+
+    "about": { "message": "關於" },
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "error": { "message": "運作過程出現錯誤" },
+    "help": { "message": "說明" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" }
+}
