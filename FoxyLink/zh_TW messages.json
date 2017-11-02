@@ -4,12 +4,12 @@
 
 
     "open": { "message": "開啟已選取的鏈結" },
-    "copy": { "message": "複製選取的鏈結至剪貼簿" },
+    "copy": { "message": "複製已選取的鏈結至剪貼簿" },
 
     "save": { "message": "儲存已選取的鏈結" },
     "openSaved": { "message": "開啟已儲存的鏈結" },
     "copySaved": { "message": "複製已儲存的鏈結至剪貼簿" },
-    "pasteSaved": { "message": "貼上已儲存的鏈結" },
+    "pasteSaved": { "message": "貼上已儲存的鏈結至此" },
 
 
     "totalSaved": { "message": "總計儲存:" },
@@ -22,7 +22,7 @@
 
 
     "disableNotification": { "message": "停用通知" },
-    "disableNotificationDescription": { "message": "如果您想停用訊息通知，請選擇此項" },
+    "disableNotificationDescription": { "message": "若您想停用訊息通知，請選擇此項" },
 
     "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
     "changelog": { "message": "更新紀錄" },
