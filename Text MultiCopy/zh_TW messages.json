@@ -1,0 +1,40 @@
+{
+    "extensionName": { "message": "Text MultiCopy" },
+    "extensionDescription": { "message": "貼上前多次複製文字" },
+
+    "save": { "message": "儲存選取部分" },
+    "copySaved": { "message": "複製已儲存內容至剪貼簿" },
+    "pasteSaved": { "message": "貼上已儲存內容至此" },
+
+
+
+    "totalSaved": { "message": "總計儲存:" },
+    "totalPasted": { "message": "總計貼上:" },
+    "totalCopied": { "message": "總計複製至剪貼簿:" },
+
+    "errorEmpty": { "message": "儲存庫為空" },
+
+    "addTitle": { "message": "添加標題" },
+    "addTitleDescription": { "message": "選此以添加來源的標題至每個副本" },
+
+
+    "addUrl": { "message": "添加網址" },
+    "addUrlDescription": { "message": "選此以添加來源網址至每個副本" },
+
+    "urlWrap": { "message": "網址首尾" },
+    "urlWrapDescription": { "message": "選擇來源網址首尾添加的內容" },
+
+    "divider": { "message": "分隔符號" },
+    "dividerDescription": { "message": "選擇偏好的文字分隔符號" },
+
+    "disableNotification": { "message": "停用通知" },
+    "disableNotificationDescription": { "message": "選此以停用訊息通知" },
+
+
+    "about": { "message": "關於" },
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "error": { "message": "運作過程出現錯誤" },
+    "help": { "message": "說明" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" }
+}
