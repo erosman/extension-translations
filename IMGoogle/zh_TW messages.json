@@ -1,0 +1,25 @@
+{
+    "extensionName": { "message": "IMGoogle" },
+    "extensionDescription": { "message": "Google 反向圖片搜尋" },
+
+    "search": { "message": "使用 Google 搜尋這張圖片" },
+    "dropboxText": { "message": "將圖片拖曳至此" },
+
+    "sending": { "message": "正在傳送資料…請稍候" },
+    "errorSrc": { "message": "未支援的圖片來源" },
+    "errorType": { "message": "未支援的檔案格式" },
+    "fileSrc": { "message": "由於缺少本地文件訪問 API，請使用側邊欄替代" },
+
+
+    "activeTab": { "message": "在前景開啟分頁" },
+    "activeTabDescription": { "message": "選擇是否在前景開啟結果分頁 (預設為背景)" },
+
+
+    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
+    "changelog": { "message": "更新紀錄" },
+    "credits": { "message": "銘謝" },
+    "error": { "message": "運作過程出現錯誤" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" },
+    "support": { "message": "支援" }
+}
