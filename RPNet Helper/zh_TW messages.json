@@ -4,13 +4,13 @@
 
 
     "download": { "message": "RPNet 下載" },
-    "hostUpdate": { "message": "主機數據已更新至" },
+    "hostUpdate": { "message": "主機資料已更新至" },
 
     "errorDownload": { "message": "RPNet 錯誤" },
     "errorGenLinks": { "message": "鏈結未產生" },
-    "errorNoLogin": { "message": "您尚未登入。\n是否開啟登入頁面？" },
+    "errorNoLogin": { "message": "您尚未登入\n是否開啟登入頁面？" },
     "errorRequest": { "message": "請檢查您的動作參數。" },
-    "errorResult": { "message": "回應發生錯誤。請重試。" },
+    "errorResult": { "message": "回應發生錯誤﹐請重試。" },
     "errorSaveHDD": { "message": "RPNet 儲存至 HDD 失敗。您是否直接下載／複製鏈結？" },
     "errorSendLinks": { "message": "發送鏈結發生錯誤。請重試。" },
     "errorUserPass": { "message": "使用者名稱／密碼錯誤：請重新登入。" },
