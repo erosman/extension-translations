@@ -14,6 +14,8 @@
     "saveAsPDF": { "message": "將分頁內容另存為 PDF" },
     "errorSaveAsPDF": { "message": "另存為 PDF 功能在 Mac OS X 或 Firefox 56 之前的版本中無法使用" },
 
+    "createShortcut": { "message": "建立桌面捷徑" },
+
     "copy": { "message": "複製" },
     "copyTitle": { "message": "分頁標題" },
     "copyUrl": { "message": "分頁網址" },
@@ -29,6 +31,14 @@
     "copyUrlAll": { "message": "所有分頁網址" },
     "copyUrlLeft": { "message": "左側分頁網址" },
     "copyUrlRight": { "message": "右側分頁網址" },
+
+    "copyTitleUrlAll": { "message": "所有分頁標題與網址" },
+    "copyTitleUrlLeft": { "message": "左側分頁標題與網址" },
+    "copyTitleUrlRight": { "message": "右側分頁標題與網址" },
+
+    "bookmark": { "message": "書籤" },
+    "bookmarkLeft": { "message": "將書籤移至左側" },
+    "bookmarkRight": { "message": "將書籤移至右側" },
 
     "host": { "message": "主機" },
     "hostKeep": { "message": "保留" },
@@ -78,6 +88,25 @@
     "contextMenu": { "message": "選單目錄" },
     "contextMenuDescription": { "message": "啟用或停用選單項目及順序調整" },
 
+    "customReload": { "message": "自訂重新載入" },
+    "customReloadDescription": { "message": "選擇自訂重新載入值" },
+
+    "add": { "message": "新增" },
+
+    "date": { "message": "日期" },
+    "weekday": { "message": "星期格式" },
+    "weekdayDescription": { "message": "Sat 或 Saturday" },
+
+    "month": { "message": "月份格式" },
+    "monthDescription": { "message": "Jan 或 January " },
+
+    "short": { "message": "短" },
+    "long": { "message": "長" },
+
+    "clock": { "message": "時鐘" },
+    "hour12": { "message": "12 小時制格式" },
+    "hour12Description": { "message": "預設為 24 小時制" },
+
     "restore": { "message": "恢復預設值" },
 
 
@@ -102,7 +131,6 @@
     "applyTheme": { "message": "套用" },
     "resetTheme": { "message": "重設" },
 
-
     "import": { "message": "匯入" },
     "export": { "message": "匯出" },
     "errorSize": { "message": "檔案大小超出允許的 $1kb 限制" },
@@ -110,6 +138,8 @@
     "errorRead": { "message": "讀取檔案內容出現錯誤" },
     "errorParse": { "message": "解析檔案內容出現錯誤" },
 
+    "recount": { "message": "重新計數" },
+    "settings": { "message": "設定" },
 
     "about": { "message": "關於" },
     "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
