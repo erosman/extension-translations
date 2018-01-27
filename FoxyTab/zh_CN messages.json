@@ -14,6 +14,8 @@
   "saveAsPDF": { "message": "标签页内容另存为 PDF" },
   "errorSaveAsPDF": { "message": "另存为 PDF 在 Mac OS X 系统或 Firefox 56 以下版本中不可用" },
 
+  "createShortcut": { "message": "创建桌面快捷方式" },
+
   "copy": { "message": "复制" },
   "copyTitle": { "message": "标签页标题" },
   "copyUrl": { "message": "标签页网址" },
@@ -28,6 +30,14 @@
   "copyUrlAll": { "message": "所有标签页网址" },
   "copyUrlLeft": { "message": "左侧标签页网址" },
   "copyUrlRight": { "message": "右侧标签页网址" },
+
+  "copyTitleUrlAll": { "message": "全部的标题和网址" },
+  "copyTitleUrlLeft": { "message": "左侧的标题和网址" },
+  "copyTitleUrlRight": { "message": "右侧的的标题和网址" },
+
+  "bookmark": { "message": "加入书签" },
+  "bookmarkLeft": { "message": "左侧加入书签" },
+  "bookmarkRight": { "message": "右侧加入书签" },
 
   "host": { "message": "主机" },
   "hostKeep": { "message": "保留" },
@@ -79,6 +89,25 @@
   "contextMenu": { "message": "菜单项" },
   "contextMenuDescription": { "message": "启用/禁用上下文菜单项及调整顺序" },
   
+  "customReload": { "message": "自定义重新载入" },
+  "customReloadDescription": { "message": "自选重新载入时间" },
+
+  "add": { "message": "添加" },
+
+  "date": { "message": "日期" },
+  "weekday": { "message": "周格式" },
+  "weekdayDescription": { "message": "Sat vs Saturday" },
+
+  "month": { "message": "月格式" },
+  "monthDescription": { "message": "Jan vs January " },
+
+  "short": { "message": "短" },
+  "long": { "message": "长" },
+
+  "clock": { "message": "时钟" },
+  "hour12": { "message": "12 小时制" },
+  "hour12Description": { "message": "默认为 24 小时制" },
+
   "restore": { "message": "恢复默认设置" },
 
 
@@ -111,8 +140,12 @@
   "errorRead": { "message": "读取文件时出错" },
   "errorParse": { "message": "解析文件时出错" },
 
+
+  "recount": { "message": "重新计数" },
+  "settings": { "message": "设置" },
+
+  
   "about": { "message": "关于" },
-  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
   "error": { "message": "运行时出错" },
   "help": { "message": "帮助" },
   "options": { "message": "选项" },
