@@ -13,6 +13,8 @@
 
   "saveAsPDF": { "message": "Guardar pestaña como PDF" },
   "errorSaveAsPDF": { "message": "Guardar como PDF no está disponible en Mac OS X o con anterioridad a Firefox 56" },
+
+  "createShortcut": { "message": "Crear acceso directo en el Escritorio" },
   
   "copy": { "message": "Copiar" },
   "copyTitle": { "message": "Título de la pestaña" },
@@ -26,14 +28,22 @@
   "unknown": { "message": "Desconocida" },
   
 
-  "copyUrlAll": { "message": "URLs de todas" },
-  "copyUrlLeft": { "message": "URLs de las de la izquierda" },
-  "copyUrlRight": { "message": "URLs de las de la derecha" },
+  "copyUrlAll": { "message": "URLs de todas las pestañas" },
+  "copyUrlLeft": { "message": "URLs de pestañas a la izquierda" },
+  "copyUrlRight": { "message": "URLs de pestañas a la derecha" },
 
-  "host": { "message": "Servidor" },
-  "hostKeep": { "message": "Conservar pestañas del servidor" },
-  "hostClose": { "message": "Cerrar pestañas del servidor" },
-  "hostCloseOther": { "message": "Cerrar las demás pestañas del servidor" },
+  "copyTitleUrlAll": { "message": "Títulos y URLs de todas las pestañas" },
+  "copyTitleUrlLeft": { "message": "Títulos y URLs de pestañas a la izquierda" },
+  "copyTitleUrlRight": { "message": "Títulos y URLs de pestañas a la derecha" },
+
+  "bookmark": { "message": "Añadir a Marcadores" },
+  "bookmarkLeft": { "message": "Añadir a Marcadores pestañas a la izquierda" },
+  "bookmarkRight": { "message": "Añadir a Marcadores pestañas a la derecha" },
+
+  "host": { "message": "Del mismo servidor" },
+  "hostKeep": { "message": "Conservar pestañas del mismo servidor" },
+  "hostClose": { "message": "Cerrar pestañas del mismo servidor" },
+  "hostCloseOther": { "message": "Cerrar las demás pestañas del mismo servidor" },
 
   "sort": { "message": "Ordenar" },
   "sortURLAsce": { "message": "Por URLs ascendentemente" },
@@ -45,17 +55,17 @@
   "moveStart": { "message": "Al principio" },
   "moveEnd": { "message": "Al final" },
 
-  "moveNewWinLeft": { "message": "Las de la izquierda a nueva ventana" },
-  "moveNewWinRight": { "message": "Las de la derecha a nueva ventana" },
+  "moveNewWinLeft": { "message": "Pestañas a la izquierda a nueva ventana" },
+  "moveNewWinRight": { "message": "Pestañas la derecha a nueva ventana" },
 
   "movePrivate": { "message": "A ventana privada" },
-  "movePrivateLeft": { "message": "Las de la izquierda a ventana privada" },
-  "movePrivateRight": { "message": "Las de la derecha a ventana privada" },
+  "movePrivateLeft": { "message": "Pestañas a la izquierda a ventana privada" },
+  "movePrivateRight": { "message": "Pestañas a la derecha a ventana privada" },
 
   "reload": { "message": "Recargar" },
-  "reloadAll": { "message": "Todas" },
-  "reloadLeft": { "message": "Las de la izquierda" },
-  "reloadRight": { "message": "Las de la derecha" },
+  "reloadAll": { "message": "Todas las pestañas" },
+  "reloadLeft": { "message": "Pestañas a la izquierda" },
+  "reloadRight": { "message": "Pestañas a la derecha" },
 
   "reloadTab": { "message": "Recargar pestaña cada" },
   "reload60": { "message": "1 min." },
@@ -77,6 +87,25 @@
   "badgeBgDescription": { "message": "Cambia el color de fondo del indicativo" },
   "contextMenu": { "message": "Menú contextual" },
   "contextMenuDescription": { "message": "Habilita o deshabilita los elementos del menú contextual y/o reordena los elementos" },
+
+  "customReload": { "message": "Recargado personalizado" },
+  "customReloadDescription": { "message": "Seleccione un valor de recargado personalizado" },
+
+  "add": { "message": "Añadir" },
+
+  "date": { "message": "Fecha" },
+  "weekday": { "message": "Formato de día de la semana" },
+  "weekdayDescription": { "message": "Sáb vs Sábado" },
+
+  "month": { "message": "Formato de mes" },
+  "monthDescription": { "message": "Ene vs Enero" },
+
+  "short": { "message": "Corto" },
+  "long": { "message": "Largo" },
+
+  "clock": { "message": "Reloj" },
+  "hour12": { "message": "Formato de reloj de 12-horas" },
+  "hour12Description": { "message": "El predeterminado es de 24 horas" },
   
   "restore": { "message": "Restaurar valores predeterminados" },
 
@@ -111,8 +140,11 @@
   "errorParse": { "message": "Hubo un error al interpretar el fichero" },
 
 
+  "recount": { "message": "Recuento" },
+  "settings": { "message": "Configuración" },
+
+
   "about": { "message": "Acerca de" },
-  "amo": { "message": "Firefox restringe ciertas funciones en algunas URLs." },
   "error": { "message": "Hubo un error con la operación." },
   "help": { "message": "Ayuda" },
   "options": { "message": "Opciones" },
