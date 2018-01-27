@@ -29,8 +29,8 @@
   
 
   "copyUrlAll": { "message": "URLs de todas" },
-  "copyUrlLeft": { "message": "URLs de las de la derecha" },
-  "copyUrlRight": { "message": "URLs de las de la izquierda" },
+  "copyUrlLeft": { "message": "URLs de las de la izquierda" },
+  "copyUrlRight": { "message": "URLs de las de la derecha" },
 
   "copyTitleUrlAll": { "message": "Títulos y URLs de todas" },
   "copyTitleUrlLeft": { "message": "Títulos y URLs de las de la izquierda" },
@@ -64,8 +64,8 @@
 
   "reload": { "message": "Recargar" },
   "reloadAll": { "message": "Todas" },
-  "reloadLeft": { "message": "Las de la derecha" },
-  "reloadRight": { "message": "Las de la izquierda" },
+  "reloadLeft": { "message": "Las de la izquierda" },
+  "reloadRight": { "message": "Las de la derecha" },
 
   "reloadTab": { "message": "Recargar pestaña cada" },
   "reload60": { "message": "1 min." },
