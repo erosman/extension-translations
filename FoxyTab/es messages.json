@@ -28,7 +28,7 @@
   "unknown": { "message": "Desconocida" },
   
 
-  "copyUrlAll": { "message": "URLs de todas" },
+  "copyUrlAll": { "message": "URLs de todas las pestañas" },
   "copyUrlLeft": { "message": "URLs de pestañas a la izquierda" },
   "copyUrlRight": { "message": "URLs de pestañas a la derecha" },
 
@@ -145,7 +145,6 @@
 
 
   "about": { "message": "Acerca de" },
-  "amo": { "message": "Firefox restringe ciertas funciones en algunas URLs." },
   "error": { "message": "Hubo un error con la operación." },
   "help": { "message": "Ayuda" },
   "options": { "message": "Opciones" },
