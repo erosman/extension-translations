@@ -14,21 +14,31 @@
   "saveAsPDF": { "message": "Save Tab as PDF" },
   "errorSaveAsPDF": { "message": "Save as PDF is not available on Mac OS X or before Firefox 56" },
 
+  "createShortcut": { "message": "Create Desktop Shortcut" },
+
   "copy": { "message": "Copy" },
   "copyTitle": { "message": "Tab Title" },
   "copyUrl": { "message": "Tab URL" },
   "copyTitleUrl": { "message": "Tab Title & URL" },
   "copyIP": { "message": "Tab IP" },
-  
+
   "internal": { "message": "Firefox Internal Page" },
   "private": { "message": "Private Network" },
   "cache": { "message": "Loaded from Cache" },
   "unknown": { "message": "Unknown" },
-  
+
 
   "copyUrlAll": { "message": "URLs All" },
   "copyUrlLeft": { "message": "URLs to the Left" },
   "copyUrlRight": { "message": "URLs to the Right" },
+
+  "copyTitleUrlAll": { "message": "Titles & URLs All" },
+  "copyTitleUrlLeft": { "message": "Titles & URLs to the Left" },
+  "copyTitleUrlRight": { "message": "Titles & URLs to the Right" },
+
+  "bookmark": { "message": "Bookmark" },
+  "bookmarkLeft": { "message": "Bookmark to the Left" },
+  "bookmarkRight": { "message": "Bookmark to the Right" },
 
   "host": { "message": "Host" },
   "hostKeep": { "message": "Keep" },
@@ -77,7 +87,26 @@
   "badgeBgDescription": { "message": "Change the Badge Background Color" },
   "contextMenu": { "message": "Context Menu" },
   "contextMenuDescription": { "message": "Enable or Disable Context menu items and/or Reorder the items" },
-  
+
+  "customReload": { "message": "Custom Reload" },
+  "customReloadDescription": { "message": "Select a Custom Reload value" },
+
+  "add": { "message": "Add" },
+
+  "date": { "message": "Date" },
+  "weekday": { "message": "Weekday Format" },
+  "weekdayDescription": { "message": "Sat vs Saturday" },
+
+  "month": { "message": "Month Format" },
+  "monthDescription": { "message": "Jan vs January " },
+
+  "short": { "message": "Short" },
+  "long": { "message": "Long" },
+
+  "clock": { "message": "Clock" },
+  "hour12": { "message": "12-hour Time Format" },
+  "hour12Description": { "message": "Default is 24-hour" },
+
   "restore": { "message": "Restore Defaults" },
 
 
@@ -111,8 +140,11 @@
   "errorParse": { "message": "There was an error parsing the file" },
 
 
+  "recount": { "message": "Recount" },
+  "settings": { "message": "Settings" },
+
+  
   "about": { "message": "About" },
-  "amo":  { "message": "Firefox restricts some functions on some URLs" },
   "error": { "message": "There was an error with the operation" },
   "help": { "message": "Help" },
   "options": { "message": "Options" },
