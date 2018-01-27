@@ -29,21 +29,21 @@
   
 
   "copyUrlAll": { "message": "URLs de todas" },
-  "copyUrlLeft": { "message": "URLs de las de la izquierda" },
-  "copyUrlRight": { "message": "URLs de las de la derecha" },
+  "copyUrlLeft": { "message": "URLs de pestañas a la izquierda" },
+  "copyUrlRight": { "message": "URLs de pestañas a la derecha" },
 
-  "copyTitleUrlAll": { "message": "Títulos y URLs de todas" },
-  "copyTitleUrlLeft": { "message": "Títulos y URLs de las de la izquierda" },
-  "copyTitleUrlRight": { "message": "Títulos y URLs de las de la derecha" },
+  "copyTitleUrlAll": { "message": "Títulos y URLs de todas las pestañas" },
+  "copyTitleUrlLeft": { "message": "Títulos y URLs de pestañas a la izquierda" },
+  "copyTitleUrlRight": { "message": "Títulos y URLs de pestañas a la derecha" },
 
   "bookmark": { "message": "Añadir a Marcadores" },
-  "bookmarkLeft": { "message": "Añadir a Marcadores las de la izquierda" },
-  "bookmarkRight": { "message": "Añadir a Marcadores las de la derecha" },
+  "bookmarkLeft": { "message": "Añadir a Marcadores pestañas a la izquierda" },
+  "bookmarkRight": { "message": "Añadir a Marcadores pestañas a la derecha" },
 
-  "host": { "message": "Servidor" },
-  "hostKeep": { "message": "Conservar pestañas del servidor" },
-  "hostClose": { "message": "Cerrar pestañas del servidor" },
-  "hostCloseOther": { "message": "Cerrar las demás pestañas del servidor" },
+  "host": { "message": "Del mismo servidor" },
+  "hostKeep": { "message": "Conservar pestañas del mismo servidor" },
+  "hostClose": { "message": "Cerrar pestañas del mismo servidor" },
+  "hostCloseOther": { "message": "Cerrar las demás pestañas del mismo servidor" },
 
   "sort": { "message": "Ordenar" },
   "sortURLAsce": { "message": "Por URLs ascendentemente" },
@@ -55,17 +55,17 @@
   "moveStart": { "message": "Al principio" },
   "moveEnd": { "message": "Al final" },
 
-  "moveNewWinLeft": { "message": "Las de la izquierda a nueva ventana" },
-  "moveNewWinRight": { "message": "Las de la derecha a nueva ventana" },
+  "moveNewWinLeft": { "message": "Pestañas a la izquierda a nueva ventana" },
+  "moveNewWinRight": { "message": "Pestañas la derecha a nueva ventana" },
 
   "movePrivate": { "message": "A ventana privada" },
-  "movePrivateLeft": { "message": "Las de la izquierda a ventana privada" },
-  "movePrivateRight": { "message": "Las de la derecha a ventana privada" },
+  "movePrivateLeft": { "message": "Pestañas a la izquierda a ventana privada" },
+  "movePrivateRight": { "message": "Pestañas a la derecha a ventana privada" },
 
   "reload": { "message": "Recargar" },
-  "reloadAll": { "message": "Todas" },
-  "reloadLeft": { "message": "Las de la izquierda" },
-  "reloadRight": { "message": "Las de la derecha" },
+  "reloadAll": { "message": "Todas las pestañas" },
+  "reloadLeft": { "message": "Pestañas a la izquierda" },
+  "reloadRight": { "message": "Pestañas a la derecha" },
 
   "reloadTab": { "message": "Recargar pestaña cada" },
   "reload60": { "message": "1 min." },
