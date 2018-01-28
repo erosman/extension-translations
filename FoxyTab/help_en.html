@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="iframe.css">
+    <title>Help</title>
+  </head>
+  <body>
+    <article>
+
+  <nav>
+    <a href="#preamble">Preamble</a>
+    <a href="#how_to">How to Use</a>
+    <a href="#options">Options</a>
+    <a href="#theme">Theme</a>
+    <a href="#support">Support</a>
+  </nav>
+
+  
+  <h2 id="preamble">Preamble</h2>
+  <p>Actions works from any Tab, active or background.<br>
+    Firefox restricts some functions (e.g. copy/promt/warning) on some URLs. FoxyTab v2.11+ works on all URLs.<br>
+    Firefox is changing in preparation for FF57 and there might be unforeseen issues between FF53-57 due to API changes.</p> 
+  
+  
+  <h2 id="how_to">How to Use</h2>
+ 
+  <h3>Tab Counter</h3>
+  <p>Toolbar icon with a badge showing the number of opened tabs in all windows. Due to some issues beyond <b>FoxyTab</b>'s control, the number can become inaccurate. Clicking the Toolbar icon will recount the tabs. To preserve resources, Tab Counter will start counting as soon as a new tab is opened or closed. If desired, you can move the Toolbar icon via Customize Toolbar.</p>
+
+  <h3>Duplicate Tab</h3>
+  <p>Duplicate tab next to the Tab and make it active</p>
+  
+  <h3>Close Duplicate Tabs</h3>
+  <p>Close all duplicate tabs, ignoring location.hash</p>
+
+  <h3>Close Tabs to the Left</h3>
+  <p>Similar to the built-in "Close Tab to the Right", close all Tabs to the left of current tab, warns if there are more than 1 tab to close.<br>New in v2.11: <b>FoxyTab</b> no longer closes the Pinned Tabs, unless <kbd>Ctrl</kbd> is pressed.</p>
+  
+  <h3>Merge All Windows</h3>
+  <p>Merge all tabs from all windows into the current window. To preserve security, when merging to/from a Private window, tabs are closed in target window and the same URLs \re opened in the current window. When moving tabs between Private and Normal windows for security reasons, in Firefox, privileged URLs are not moved (e.g. chrome: URLs, javascript: URLs, data: URLs, file: URLs, privileged about: URLs (for example, about:config, about:addons, about:debugging). In other words, when moving tabs between Private and Normal windows, only tabs with URL starting with HTTP/HTTPS/FTP will be moved.</p> 
+  
+  <h3>Close Other Windows</h3>
+  <p>Close all other opened windows.</p>
+  
+  <h3>Save Tab as PDF</h3>
+  <p>Save as PDF is not available on Mac OS X or before Firefox 56.<br>
+    I may add some user preferences later.</p> 
+
+  <h3>Create Desktop Shortcut</h3>
+  <p>Creates a shortcut for the Tab</p> 
+
+  <h3>Copy Tab Title</h3>
+  <p>Copy the tile of any tab, active or not</p>
+
+  <h3>Copy Tab Title & URL</h3>
+  <p>Copy the Tile & URL of any tab, active or not</p>
+
+  <h3>Copy Tab IP</h3>
+  <p>Copy the IP (can be IPv4 or IPv6) of any remote tab, active or not</p>
+ 
+  <h3>Copy URLs</h3>
+  <p>Copy single Tab, ALL, To the Left or To the Right</p> 
+
+  <h3>Copy Titles & URLs</h3>
+  <p>Copy single Tab, ALL, To the Left or To the Right</p> 
+
+  <h3>Bookmark</h3>
+  <p>Bookmark To the Left or To the Right (<i>Firefox already has a Bookmark All Tabs</i>)</p> 
+  
+  <h3>Host</h3>
+  <ul>
+    <li><b>Keep</b><br>
+      Keep all the tabs from the same host, close others<br>
+    <li><b>Close</b><br>
+      Close all the tabs from the same host, keep others</li>
+    <li><b>Close other Host Tabs</b><br>
+      Close all other tabs from the same host but keep the right-clicked tab, keep others</li>
+  </ul> 
+   
+  
+  <h3>Sort</h3>
+  <p>Sort Tabs (pinned and unpinned) by URL or Title, Ascending or Descending</p> 
+  
+  <h3>Move</h3>
+  <ul>
+    <li><b>To the Start/End</b><br>
+      Move the Tab to the Start or End<br>
+    <li><b>To the Left/Right to New Window</b><br>
+      Move all Tabs to the Left/Right to a new Window</li>
+    <li><b>To Private Window</b><br>
+      Move Tab to a new Private Window</li>
+    <li><b>To the Left/Right to Private Window</b><br>
+      Move all Tabs to the Left/Right to a new Private Window</li>
+  </ul>  
+  
+  <h3>Reload</h3>
+  <ul>
+    <li><b>Reload All/To the Left/To the Right</b><br>
+      Reloads the Tabs accordingly</li>   
+    <li><b>Reload Tab every 1-5 minutes</b><br>
+      Reloads the Tab accordingly</li>
+    <li><b>Stop Tab Reload</b><br>
+      Stop the Automatic Reload</li>
+  </ul> 
+  
+  <h2 id="options">Options</h2> 
+  <p>Please note that changes will not take effect until they are saved.</p>
+  
+  
+  <h3>Tab Counter</h3>
+  <p>Enable or Disable the Tab Counter, and/or change the Badge Background Color.<br>
+  <b>Note:</b> Disabling the Tab Counter will also disable its process and listeners.</p>
+
+
+  <h3>Custom Reload</h3>
+  <p>Select a Custom Reload value (set to between 6 to 30 minutes at the moment)</p>  
+
+  <h3>Date</h3>
+  <p>Add multiple Date displays in preferred languages in the Toolbar popup.<br>
+    Note: The selected dates will be set as toolbar icon title and can be seen on mouse-over.</p>
+  
+  <h3>Clock</h3>
+  <p>Add multiple Clock displays in preferred languages and Time-zones in the Toolbar popup.<br>
+    Note: Not all city names are added (there are 400+ cities). Let me know if you want any to be added.</p>
+    
+  <h3>Context Menu</h3>
+  <p>Enable or Disable each item on the context-menu and/or re-order the items. Moving the main menu will move its sub-menus.</p>
+  <ul>
+    <li>Disabling the <b>Tab IP</b> also disables its process and listeners as well as Country Flag Display of host location (v2.10) (IPv4 at the moment). Flag Display also shows if the page was loaded from cache.</li>
+    <li>Moving a parent menu also moves its sub-menus</li>
+    <li>Disabling a parent menu also disables its sub-menus</li>
+    <li>After disabling menus, it may look better to disable the associated separators</li>
+  </ul>
+  
+  
+  <h3>Restore Defaults</h3>
+  <p>Restores the Defaults settings (good in case of error). Click "Save" to apply changes.</p>
+  
+  
+  
+  <h2 id="theme">Theme</h2> 
+  <p><b>Create/Import/Export/Apply your own <a href="https://developer.mozilla.org/Add-ons/Themes/Lightweight_themes">Lightweight Themes</a></b> (Firefox 55+)<br>
+  Lightweight themes are made up of a "header" graphic image file, which skins the default Firefox UI background.</p>
+  
+  <p><b>Creating a Theme Header Image</b><br>
+  The header image is displayed as the background of the top of the browser window, nestling in behind the toolbars, address bar, search bar and the tab strip. It will be anchored to the top-right corner of the browser window.</p>
+  
+  <p><b>Image Requirements</b></p>
+  <ul>
+    <li>Dimensions should be <b>3000px</b> wide × <b>200px</b> high</li>
+    <li>PNG, JPG, APNG, SVG, GIF (animated GIF isn’t supported) or Data:URI file format</li>
+    <li>Image must be no larger than 300 KB in file size</li>
+  </ul>
+  
+  <p><b>Tips</b></p>
+  <ul>
+    <li>Subtle, soft contrast images and gradients work best; highly detailed images will compete with the browser UI.</li>
+    <li>Firefox may reveal more of the lower portion of the image if another toolbar or other UI element is added to the top of the window.</li>
+    <li>The upper right-hand side of the image should have the most important information—as a user increases the width of the browser window, the browser reveals more of the left-hand side of the image.</li>
+    <li>Ultrawide monitors can run to 3440px wide, to look good on these monitors, either increase the size of the image or ensure the left of the image fades to a solid colour.</li>
+  </ul>
+
+    <h3>Import</h3> 
+    <p>Import ready FoxyTab Themes (JSON files), or import an image into the theme that you are making.</p>
+    <p>Imported Image will be converted to <code>Data:URI</code> entered in "Header Image" section, if it is empty and if not, in the "Additional Backgrounds" section.</p>  
+    <p>FoxyTab Theme manifests can be imported into FoxyTab in the following JSON format, using any available properties listed on <a href="https://developer.mozilla.org/Add-ons/WebExtensions/manifest.json/theme">MDN theme</a>.<br>
+    The main difference is that images must be in Data:URI format. Maximum size allowed for the JSON is set to 500kb.</p>
+    <p>The minimum requirements for a theme are "accentcolor" & "textcolor".</p>
+    
+<pre>{
+  "name": "Theme Name",
+  "description": "A short explanation of your theme",
+  "version": "1.0",
+  "homepage_url": "https://.../",
+  "author": "your name",
+
+  "theme": {
+     "images": {
+       "headerURL": "data:image/jpg;base64 ...",
+       "additional_backgrounds": [ "data:image/png;base64 ..."]
+     },
+     "properties": {
+       "additional_backgrounds_alignment": [ "top" ],
+       "additional_backgrounds_tiling": [ "repeat"  ]
+     },
+     "colors": {
+       "accentcolor": "green",
+       "textcolor": "#000"
+     }
+   }
+} </pre>
+  
+  <h3>Export</h3>
+  <p>Export the theme as JSON to archive or share.</p>
+  
+  <h3>Editing</h3>
+  <ul>
+    <li><b>Save:</b> Save theme to storage</li>
+    <li><b>Update:</b> Update the saved theme</li>
+    <li><b>Delete</b> Delete saved theme</li>
+    <li><b>Apply:</b> Apply the currently displayed theme. Any changes will also be applied. You can Apply a theme without even saving it.</li>
+    <li><b>Reset:</b> Reset the current theme (Firefox 56+)<br>
+      In Firefox 55, you can reset the theme by going to the browser <b>Themes</b> page in <code>about:addons</code> and selecting another theme</li>
+  </ul>
+    
+
+  <h2 id="support"><img src="../image/help32.png" alt=""> Support</h2>
+  <p>Please use the Mozilla Community <a href="https://discourse.mozilla.org/t/support-foxytab/" target="_blank">[Support] FoxyTab</a>.</p>
+  
+  <address>... credit the translator e.g. this article translated by...</address>
+    </article>
+  </body>
+</html>
