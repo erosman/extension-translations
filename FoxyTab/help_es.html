@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="iframe.css">
+    <title>Ayuda</title>
+  </head>
+  <body>
+    <article>
+
+  <nav>
+    <a href="#preamble">Preámbulo</a>
+    <a href="#how_to">Cómo usarla</a>
+    <a href="#options">Opciones</a>
+    <a href="#theme">Tema</a>
+    <a href="#support">Soporte</a>
+  </nav>
+
+  
+  <h2 id="preamble">Preámbulo</h2>
+  <p>Las acciones funcionan desde cualquier pestaña, activa o en segundo plano.<br>
+    Firefox restringe algunas funciones (p.e. copiar/solicitar/advertir) en algunas URLs. FoxyTab v2.11+ funciona en todas las URLs.<br>
+    Firefox está cambiando en preparación para FF57 y podría haber problemas nunca vistos entre FF53-57 debido a cambios en la API.</p> 
+  
+  
+  <h2 id="how_to">Cómo usarla</h2>
+ 
+  <h3>Contador de pestañas</h3>
+  <p>Icono de barra de herramientas con un emblema mostrando el número de pestañas abiertas en todas las ventanas. Debido a algunos problemas fuera del control de <b>FoxyTab</b>, el número puede llegar a ser inexacto. Pulsar el icono de la barra de herramientas provocará que se vuelvan a contar las pestañas. Para ahorrar recursos, el contador de pestañas comenzará a contar tan pronto como se abra o cierre una nueva pestaña. Si lo desea, puede mover el icono de la barra de herramientas mediante el elemento Personalizar.</p>
+
+  <h3>Duplicar pestaña</h3>
+  <p>Duplica la pestaña junto a la original y la hace activa</p>
+  
+  <h3>Cerrar pestañas duplicadas</h3>
+  <p>Cierra todas las pestañas duplicadas, ignorando location.hash</p>
+
+  <h3>Cerrar pestañas a la izquierda</h3>
+  <p>Similar al "Cerrar pestañas a la derecha" integrado, cierra todas las pestañas a la izquierda de la pestaña actual, y advierte si hay más de 1 pestaña a cerrar.<br>Nuevo en v2.11: <b>FoxyTab</b> ya no cierra las pestañas fijadas, a menos que esté pulsada la tecla <kbd>Ctrl</kbd>.</p>
+  
+  <h3>Fusionar todas las pestañas</h3>
+  <p>Fusiona todas las pestañas de todas las ventanas en la ventana actual. Para preservar la seguridad, al fusionar desde/hacia una ventana privada, las pestañas se cierran en la ventana objetivo y se reabren las mismas URLs en la ventana actual. Al mover pestañas entre ventanas privadas y normales, por razones de seguridad, en Firefox las URLs con privilegios no se mueven (p.e. URLs chrome:, javascript:, data:, file:, o URLs about: con privilegios (ej. about:config, about:addons, about:debugging). En otras palabras, al mover pestañas entre ventanas privadas y normales, sólo se moverán las pestañas con URLs que comiencen con HTTP/HTTPS/FTP.</p> 
+  
+  <h3>Cerrar otras ventanas</h3>
+  <p>Cierra todas las demás ventanas abiertas.</p>
+  
+  <h3>Guardar como PDF</h3>
+  <p>Guardar como PDF no está disponible en Mac OS X o con anterioridad a Firefox 56.<br>
+    Puede que añada algunas preferencias de usuario más adelante.</p> 
+
+  <h3>Crear acceso directo en el Escritorio</h3>
+  <p>Crea un acceso directo para la pestaña</p> 
+
+  <h3>Copiar título de la pestaña</h3>
+  <p>Copia el título de cualquier pestaña, activa o no</p>
+
+  <h3>Copiar título y URL de la pestaña</h3>
+  <p>Copia el título y la URL de cualquier pestaña, activa o no</p>
+
+  <h3>Copiar IP de la pestaña</h3>
+  <p>Copia la IP (puede ser IPv4 o IPv6) de cualquier pestaña remota, activa o no</p>
+ 
+  <h3>Copiar URLs</h3>
+  <p>Copia una única pestaña, TODAS, las pestañas a la izquierda o a la derecha</p> 
+
+  <h3>Copiar títulos y URLs</h3>
+  <p>Copia una única pestaña, TODAS, las pestañas a la izquierda o a la derecha</p> 
+
+  <h3>Añadir a Marcadores</h3>
+  <p>Añade a Marcadores pestañas a la izquierda o a la derecha (<i>para todas las pestañas de la ventana Firefox ya tiene 'Añadir pestañas a marcadores...'</i>)</p> 
+  
+  <h3>Del mismo servidor</h3>
+  <ul>
+    <li><b>Conservar pestañas del mismo servidor</b><br>
+      Conserva todas las pestañas del mismo servidor, cierra las demás<br>
+    <li><b>Cerrar pestañas del mismo servidor</b><br>
+      Cierra todas las pestañas del mismo servidor, conserva las demás</li>
+    <li><b>Cerrar las demás pestañas del mismo servidor</b><br>
+      Cierra todas las demás pestañas del mismo servidor pero mantiene la que recibió el clic secundario, conserva todas las de otros servidores</li>
+  </ul> 
+   
+  
+  <h3>Ordenar</h3>
+  <p>Ordena las pestañas (fijadas o no fijadas) por URL o título, de forma ascendente o descendente</p> 
+  
+  <h3>Mover</h3>
+  <ul>
+    <li><b>Al principio/final</b><br>
+      Mueve la pestaña al principio o al final<br>
+    <li><b>Pestañas a la izquierda/derecha a una nueva ventana</b><br>
+      Mueve todas las pestañas a la izquierda/derecha a una nueva ventana</li>
+    <li><b>A ventana privada</b><br>
+      Mueve la pestaña a una nueva ventana privada</li>
+    <li><b>Pestañas a la izquierda/derecha a ventana privada</b><br>
+      Mueve todas las pestañas a la izquierda/derecha a una nueva ventana privada</li>
+  </ul>  
+  
+  <h3>Recargar</h3>
+  <ul>
+    <li><b>Todas las pestañas/Pestañas a la izquierda/Pestañas a la derecha</b><br>
+      Recarga las pestañas consecuentemente</li>   
+    <li><b>Recargar pestaña cada 1-5 minutos</b><br>
+      Recarga la pestaña consecuentemente</li>
+    <li><b>Detener recarga de la pestaña</b><br>
+      Detiene la recarga automática</li>
+  </ul> 
+  
+  <h2 id="options">Opciones</h2> 
+  <p>Por favor, observe que los cambios no tendrán efecto hasta que sean guardados.</p>
+  
+  
+  <h3>Contador de pestañas</h3>
+  <p>Habilita o deshabilita el contador de pestañas, y/o cambia el color de fondo del emblema.<br>
+  <b>Nota:</b> Deshabilitar el contador de pestañas también deshabilitará su proceso y sus escuchadores.</p>
+
+
+  <h3>Recargado personalizado</h3>
+  <p>Seleccione un valor de recargado personalizado (establecido entre 6 y 30 minutos en este momento)</p>  
+
+  <h3>Fecha</h3>
+  <p>Añade múltiples visualizaciones de fecha en los idiomas preferidos en el panel emergente de la barra de herramientas.<br>
+    Nota: Las fechas seleccionadas se establecerán como título del icono de barra de herramientas y se pueden ver al señalar con el ratón.</p>
+  
+  <h3>Reloj</h3>
+  <p>Añade múltiples visualizaciones de reloj en los idiomas y zonas horarias preferidos en el panel emergente de la barra de herramientas.<br>
+    Nota: No están añadidos todos los nombres de ciudades (hay más de 400 ciudades). Hágame saber si quiere que cualquiera sea añadida.</p>
+    
+  <h3>Menú contextual</h3>
+  <p>Habilita o deshabilita cada elemento del menú contextual y/o reordena los elementos. Mover el menú principal moverá sus submenús.</p>
+  <ul>
+    <li>Deshabilitar la <b>IP de la pestaña</b> también deshabilita su proceso y escuchadores, además la visualización de la bandera del país de ubicación del servidor (v.2.10) (IPv4 por el momemto). La visualización de la bandera también muestra si la página fue cargada desde caché.</li>
+    <li>Mover un menú con descendencia también mueve sus submenús</li>
+    <li>Deshabilitar un menú con descendencia también deshabilita sus submenús</li>
+    <li>Tras deshabilitar menús, puede mejorar el aspecto deshabilitando los separadores asociados</li>
+  </ul>
+  
+  
+  <h3>Restaurar valores predeterminados</h3>
+  <p>Restaura la configuración predeterminada (algo bueno en caso de error). Pulse "Guardar" para aplicar los cambios.</p>
+  
+  
+  
+  <h2 id="theme">Theme</h2> 
+  <p><b>Cree/Importe/Exporte/Aplique sus propios <a href="https://developer.mozilla.org/Add-ons/Themes/Lightweight_themes">Temas ligeros</a></b> (Firefox 55+)<br>
+  Los temas ligeros (personas) se componen de un fichero de imagen gráfica de "cabecera", que cubre el fondo de la interfaz de usuario predeterminada de Firefox.</p>
+  
+  <p><b>Crear una imagen de cabecera de tema</b><br>
+  La imagen de cabecera se muestra como el fondo de la parte superior de la ventana del navegador, anidando en la parte de atrás de las barras de herramientas, barra de direcciones, barra de búsqueda y barra de pestañas. Se anclará en la esquina superior derecha de la ventana del navegador.</p>
+  
+  <p><b>Requisitos de imagen</b></p>
+  <ul>
+    <li>Las dimensiones deben ser <b>3000px</b> de ancho × <b>200px</b> de alto</li>
+    <li>PNG, JPG, APNG, SVG, GIF (el GIF animado no está soportado) o el formato de fichero Data:URI</li>
+    <li>La imagen no debe de tener un tamaño de fichero mayor de 300 KB</li>
+  </ul>
+  
+  <p><b>Consejos</b></p>
+  <ul>
+    <li>Las imágenes sutiles, con contraste suave y gradientes funcionan mejor; las imágenes altamente detalladas competirán con la interfaz de usuario del navegador.</li>
+    <li>Firefox puede revelar más de la parte más baja de la imagen si otra barra de herramientas u otro elemento de la interfaz de usuario se añade a la parte superior de la ventana.</li>
+    <li>La parte superior derecha de la imagen debe tener la información más importante - según un usuario incrementa la anchura de la ventana del navegador, este revela más de la parte izquierda de la imagen.</li>
+    <li>Los monitores ultra-anchos pueden soportar una anchura de 3440px, para que tenga buen aspecto en estos monitores, incremente el tamaño de la imagen o bien asegúrese de que la parte izquierda de la imagen se funde a un color sólido.</li>
+  </ul>
+
+    <h3>Importar</h3> 
+    <p>Importe temas preparados para FoxyTab (ficheros JSON), o importe una imagen dentro del tema que está creando.</p>
+    <p>La imagen importada se convertirá a formato <code>Data:URI</code> introducida en la sección "Imagen de cabecera" si está vacía, y si no, en la sección de "Fondos adicionales".</p>  
+    <p>Los manifiestos de temas de FoxyTab se pueden importar a FoxyTab en el siguiente formato JSON, usando cualquier propiedad disponible listada en la entrada <a href="https://developer.mozilla.org/Add-ons/WebExtensions/manifest.json/theme">Tema</a> de MDN.<br>
+    La principal diferencia es que las imágenes deben estar en formato Data:URI. El tamaño máximo permitido para el JSON está establecido en 500KB.</p>
+    <p>Los requisitos mínimos para un tema son "accentcolor" y "textcolor".</p>
+    
+<pre>{
+  "name": "Nombre del tema",
+  "description": "Una explicación breve de su tema",
+  "version": "1.0",
+  "homepage_url": "https://.../",
+  "author": "Su nombre",
+
+  "theme": {
+     "images": {
+       "headerURL": "data:image/jpg;base64 ...",
+       "additional_backgrounds": [ "data:image/png;base64 ..."]
+     },
+     "properties": {
+       "additional_backgrounds_alignment": [ "top" ],
+       "additional_backgrounds_tiling": [ "repeat"  ]
+     },
+     "colors": {
+       "accentcolor": "green",
+       "textcolor": "#000"
+     }
+   }
+} </pre>
+  
+  <h3>Exportar</h3>
+  <p>Exporta el tema como JSON a archivo o a compartir.</p>
+  
+  <h3>Editar</h3>
+  <ul>
+    <li><b>Guardar:</b> Guarda el tema en el almacenamiento.</li>
+    <li><b>Actualizar:</b> Actualiza el tema guardado.</li>
+    <li><b>Eliminar</b> Elimina el tema guardado.</li>
+    <li><b>Aplicar:</b> Aplica el tema mostrado actualmente. Cualquier cambio también se aplicará. Puede Aplicar el tema sin siquiera guardarlo.</li>
+    <li><b>Restablecer:</b> Restablece el tema actual (Firefox 56+).<br>
+      En Firefox 55, puede restablecer el tema yendo a la página <b>Temas</b> del navegador en <code>about:addons</code> y seleccionando otro tema</li>
+  </ul>
+    
+
+  <h2 id="support"><img src="../image/help32.png" alt=""> Soporte</h2>
+  <p>Por favor, utilice el <a href="https://discourse.mozilla.org/t/support-foxytab/" target="_blank">[Soporte] de FoxyTab</a> de la Comunidad Mozilla.</p>
+  
+  <address>Este artículo fue traducido por strel</address>
+    </article>
+  </body>
+</html>
