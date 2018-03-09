@@ -1,0 +1,41 @@
+{
+  "extensionName": { "message": "FoxyPAC" },
+  "extensionDescription": { "message": "Create, edit, set and export customisable Proxy Auto-Configuration (PAC) easily" },
+
+  "patterns": { "message": "Patterns" },
+  "proxies": { "message": "Proxies" },
+
+  "network": { "message": "Private & Local Network" },
+  "plainhost": { "message": "Plain Host" },
+  "importPreference": { "message": "Import Preferences" },
+  "exportPreference": { "message": "Export Preferences" },
+  
+  "PAC": { "message": "PAC" },
+  "setPAC": { "message": "Set" },
+  "resetPAC": { "message": "Reset" },
+  "exportPAC": { "message": "Export" },
+  
+  "onOff": { "message": "Click to Enable/Disable" },
+  "errorEnable": { "message": "PAC must first be set from the Options Page" },
+  "proxyAll": { "message": "Proxy All" },
+  
+  "noProxy": { "message": "Proxy list is emtpy" },
+  
+  "errorSize": { "message": "File size is larger than the $1kb allowed" },
+  "errorType": { "message": "Unsupported File Format" },
+  "errorRead": { "message": "There was an error with reading the file" },
+  "errorParse": { "message": "There was an error parsing the file" },
+  
+  "errorWildcard": { "message": "No Starting or ending wildcards in the pattern please" },
+  "errorShort": { "message": "Very short patterns can have unexpected results" },
+  "errorScheme": { "message": "Please use only one * in the pattern scheme" },
+   
+  "autologin": { "message": "Auto-login" },
+
+  "about": { "message": "About" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" },
+  "settings": { "message": "Settings" }
+}
