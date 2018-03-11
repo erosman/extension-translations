@@ -1,0 +1,41 @@
+{
+  "extensionName": { "message": "FoxyPAC" },
+  "extensionDescription": { "message": "Cree, edite, establezca y exporte la Auto-Configuración de Proxy (PAC) fácilmente" },
+
+  "patterns": { "message": "Patrones" },
+  "proxies": { "message": "Proxys" },
+
+  "network": { "message": "Red privada y local" },
+  "plainhost": { "message": "Servidor sin añadidos" },
+  "importPreference": { "message": "Importar preferencias" },
+  "exportPreference": { "message": "Exportar preferencias" },
+  
+  "PAC": { "message": "PAC" },
+  "setPAC": { "message": "Establecer" },
+  "resetPAC": { "message": "Restablecer" },
+  "exportPAC": { "message": "Exportar" },
+  
+  "onOff": { "message": "Pulse para Habilitar/Deshabilitar" },
+  "errorEnable": { "message": "La Auto-Configuración de Proxy (PAC) ha de ser ajustada primero desde la página de Opciones" },
+  "proxyAll": { "message": "Proxyficar todo" },
+  
+  "noProxy": { "message": "La lista de proxys está vacía" },
+  
+  "errorSize": { "message": "El tamaño del fichero es superior a los $1KB permitidos" },
+  "errorType": { "message": "Formato de fichero no soportado" },
+  "errorRead": { "message": "Hubo un error al leer el fichero" },
+  "errorParse": { "message": "Hubo un error al interpretar el fichero" },
+  
+  "errorWildcard": { "message": "No use comodines al principio o al final del patrón, por favor" },
+  "errorShort": { "message": "Los patrones muy cortos pueden producir resultados inesperados" },
+  "errorScheme": { "message": "Por favor, no use más de un * en el esquema del patrón" },
+   
+  "autologin": { "message": "Auto-inicio de sesión" },
+
+  "about": { "message": "Acerca de" },
+  "error": { "message": "Hubo un error con la operación" },
+  "help": { "message": "Ayuda" },
+  "options": { "message": "Opciones" },
+  "saveOptions": { "message": "Guardar" },
+  "settings": { "message": "Configuración" }
+}
