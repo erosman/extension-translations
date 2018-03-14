@@ -1,0 +1,41 @@
+{
+    "extensionName": { "message": "FoxyPAC" },
+    "extensionDescription": { "message": "更加容易地建立、編輯、設定及匯出客製化 Proxy 自動設定 (PAC)" },
+
+    "patterns": { "message": "篩選模式" },
+    "proxies": { "message": "代理伺服器" },
+
+    "network": { "message": "私人 & 本地網路" },
+    "plainhost": { "message": "Plain Host" },
+    "importPreference": { "message": "匯入偏好設定" },
+    "exportPreference": { "message": "匯出偏好設定" },
+
+    "PAC": { "message": "PAC" },
+    "setPAC": { "message": "設定" },
+    "resetPAC": { "message": "重設" },
+    "exportPAC": { "message": "匯出" },
+
+    "onOff": { "message": "點擊以啟用/停用" },
+    "errorEnable": { "message": "首先必須在選項頁面設定 PAC" },
+    "proxyAll": { "message": "Proxy All" },
+
+    "noProxy": { "message": "代理伺服器清單為空的" },
+
+    "errorSize": { "message": "檔案大小超出允許的 $1kb 限制" },
+    "errorType": { "message": "不支援的檔案格式" },
+    "errorRead": { "message": "讀取檔案內容出現錯誤" },
+    "errorParse": { "message": "解析檔案內容出現錯誤" },
+
+    "errorWildcard": { "message": "開始與結束處不可有萬用符號" },
+    "errorShort": { "message": "過短的模式可能導致無法預期的結果" },
+    "errorScheme": { "message": "模式格式只能有一個星號 (*)" },
+
+    "autologin": { "message": "自動登入" },
+
+    "about": { "message": "關於" },
+    "error": { "message": "運作過程出現錯誤" },
+    "help": { "message": "說明" },
+    "options": { "message": "選項" },
+    "saveOptions": { "message": "儲存" },
+    "settings": { "message": "設定" }
+}
