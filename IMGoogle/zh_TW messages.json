@@ -10,16 +10,13 @@
     "errorType": { "message": "未支援的檔案格式" },
     "fileSrc": { "message": "由於缺少本地文件存取 API，請使用側邊欄替代" },
 
-
     "activeTab": { "message": "在前景開啟分頁" },
     "activeTabDescription": { "message": "選擇是否在前景開啟結果分頁 (預設為背景)" },
 
-
-    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
-    "changelog": { "message": "更新紀錄" },
-    "credits": { "message": "銘謝" },
+    "about": { "message": "關於" },
     "error": { "message": "運作過程出現錯誤" },
+    "help": { "message": "說明" },
     "options": { "message": "選項" },
     "saveOptions": { "message": "儲存" },
-    "support": { "message": "支援" }
+    "settings": { "message": "設定" }
 }
