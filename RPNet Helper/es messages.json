@@ -2,7 +2,6 @@
   "extensionName": { "message": "RPNet Helper" },
   "extensionDescription": { "message": "Descarga los enlaces seleccionados usando RPNet" },
 
-
   "download": { "message": "Descarga de RPNet" },
   "hostUpdate": { "message": "Los datos del servidor se actualizaron a la versión" },
 
@@ -16,25 +15,35 @@
   "errorUserPass": { "message": "Error de Nombre de usuario/Contraseña: Por favor, inicie sesión de nuevo." },
 
   "confirmDL": { "message": "¿Quiere descargar lo siguiente con RPNet?" },
-  "confirmHDD": { "message": "¿Quiere guardar lo siguiente en el HDD de RPNet?" },
  
   "saveHDD": { "message": "Se ha iniciado la descarga al HDD de RPNet. Compruebe los ficheros del HDD para monitorizar el progreso." },
+  "saveTorrent": { "message": "Se inició la descarga de Torrent. Marque los ficheros Torrent para monitorizar el progreso." },
+  "saveQueue": { "message": "Se inició la descarga de la cola. Marque los ficheros de la cola para monitorizar el progreso." },
   "unsupported": { "message": "Los siguientes servidores no están soportados por RPNet en este momento:" },
   
   "errorClipboard": { "message": "No se pudieron copiar los enlaces, iniciando descarga directa" },
   "textClipboard": { "message": "Enlaces guardados en el Portapapeles" },
 
-  "optionsHDD": { "message": "Descargar al HDD" },
-  "optionsHDDinfo": { "message": "Selecciónelo si desea guardar las descargas en el HDD de RPNet" },
-
-  "optionsCopy": { "message": "Opción para copiar enlaces" },
-  "optionsCopyInfo": { "message": "Selecciónelo si desea tener la opción de copiar los enlaces de descarga para pegarlos en un gestor de descargas" },
-
+  "optionDownload": { "message": "Opción de descarga" },
+  "optionDownloadDescription": { "message": "Seleccione el método de descarga preferido" },
+  
+  "optionDirect": { "message": "Opción de descarga directa" },
+  
+  "optionHDD": { "message": "Guardar al HDD" },
+  "optionBrowser": { "message": "Navegador" },
+  "optionClipboard": { "message": "Guardar al Portapapeles" },
+  "optionJD": { "message": "JDownloader" },
+  "optionNDM": { "message": "Ninja Download Manager" },
+  "optionAria2": { "message": "aria2" },
+  "optionXDM": { "message": "Xtreme Download Manager" },
+  "optionDAP": { "message": "Download Accelerator Plus (DAP)" },
+  
+  "errorProgram": { "message": "No se puede conectar a $1, por favor, asegúrese de que el programa se está ejecutando e inténtelo de nuevo." },
 
   "about": { "message": "Acerca de" },
-  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
   "error": { "message": "Hubo un error con la operación" },
   "help": { "message": "Ayuda" },
   "options": { "message": "Opciones" },
   "saveOptions": { "message": "Guardar" }
+  "settings": { "message": "Configuracion" }
 }
