@@ -2,34 +2,54 @@
   "extensionName": { "message": "FoxyImage" },
   "extensionDescription": { "message": "Collection of Image Related Actions" },
 
-  "rotateLeft": { "message": "Rotate Left" },
-  "rotateRight": { "message": "Rotate Right" },
-  "flipVertical": { "message": "Flip Vertical" },
-  "flipHorizontal": { "message": "Flip Horizontal" },
-  "reset": { "message": "Reset" },
+  "Edit": { "message": "Edit Image" },
+  "rotate": { "message": "Rotate" },
+  "rotateLeft": { "message": "Left" },
+  "rotateRight": { "message": "Right" },
+  "rotate180": { "message": "180°" },
   
+  "flip": { "message": "Flip" },
+  "flipVertical": { "message": "Vertical" },
+  "flipHorizontal": { "message": "Horizontal" },
+  "reset": { "message": "Reset" },
+
   "openImage": { "message": "Open Image in New Tab" },
   
-  "saveAllImages": { "message": "Save All Images" },
-  "saveSelectedImages": { "message": "Save Selected Images" },
-  "openSelectedImages": { "message": "Open Selected Images in New Tabs" },
+  "copyData": { "message": "Copy Image as Data:URI" },
+  "textClipboard": { "message": "Data saved to Clipboard" },
+  "errorClipboard": { "message": "Failed to save to Clipboard" },
 
-  "saveAllImageLinks": { "message": "Save All Image Links" },
-  "saveSelectedImageLinks": { "message": "Save Selected Image Links" },
-  "openSelectedImageLinks": { "message": "Open Selected Image links in New Tabs" },
+  "images": { "message": "Images" },
+  "saveAllImages": { "message": "Save All" },
+  "saveSelectedImages": { "message": "Save Selected" },
+  "openSelectedImages": { "message": "Open Selected in New Tabs" },
 
+  "imageLinks": { "message": "Image Links" },
+  "saveAllImageLinks": { "message": "Save All" },
+  "saveSelectedImageLinks": { "message": "Save Selected" },
+  "openSelectedImageLinks": { "message": "Open Selected in New Tabs" },
+
+  "link": { "message": "Link Target" },
   "saveTargetImages": { "message": "Save All Target Images" },
-  "saveTargetImageLinks": { "message": "Save All Target Image Links" },  
+  "saveTargetImageLinks": { "message": "Save All Target Image Links" },
+
+
+  "tabs": { "message": "Tabs" },
+  "saveImagesLeft": { "message": "Save Images to the Left" },
+  "saveImagesRight": { "message": "Save Images to the Right" },
+  "saveImageLinksLeft": { "message": "Save Image Links to the Left" },
+  "saveImageLinksRight": { "message": "Save Image Links to the Right" },
+
+
+  "confirmQuantity": { "message": "You are about to process $1 items.\nDo you want to continue?" },
+
   
-  "confirmQuantity": { "message": "You are about to process $1 items.\nDo you want to continue?" }, 
-
-
   "notFound": { "message": "Not found" },
 
-  "patterns": { "message": "Filter Patterns" }, 
-  "patternsDescription": { "message": "Enter Patterns to filter downloads" }, 
-  
-  
+  "patterns": { "message": "Filter Patterns" },
+  "patternsDescription": { "message": "Enter Patterns to filter downloads" },
+
+
   "importPreference": { "message": "Import Preferences" },
   "exportPreference": { "message": "Export Preferences" },
 
@@ -37,7 +57,9 @@
   "errorType": { "message": "Unsupported File Format" },
   "errorRead": { "message": "There was an error with reading the file" },
   "errorParse": { "message": "There was an error parsing the file" },
-  
+
+  "errorPattern": { "message": "There is an error with the Pattern" },
+  "errorPatternEnd": { "message": "Patterns must start and end with / and no flags please" },
   "errorWildcard": { "message": "No Starting or ending Wildcard please" },
   "errorShort": { "message": "Very short patterns can have unexpected results" },
   "errorScheme": { "message": "Only one * in the pattern scheme please" },
