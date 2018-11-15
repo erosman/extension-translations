@@ -1,3 +1,5 @@
+// version 2.8
+
 {
   "extensionName": { "message": "Text MultiCopy" },
   "extensionDescription": { "message": "Copy Text multiple times before pasting" },
@@ -6,25 +8,15 @@
   "copySaved": { "message": "Copy Saved to Clipboard" },
   "pasteSaved": { "message": "Paste Saved here" },
 
-
   "totalSaved": { "message": "Total saved:" },
   "totalPasted": { "message": "Total pasted:" },
   "totalCopied": { "message": "Total copied to Clipboard:" },
   
   "errorEmpty": { "message": "Storage is empty" },
-  
-  "addTitle": { "message": "Add Title" },
-  "addTitleDescription": { "message": "Select to add the source Title to each copy" },
 
-  "addDate": { "message": "Add Date & Time" },
-  "addDateDescription": { "message": "Select to add the Date & Time to each copy" },
-
-  "addUrl": { "message": "Add URL" },
-  "addUrlDescription": { "message": "Select to add the source URL to each copy" },
-  
-  "urlWrap": { "message": "URL Wrapper" },
-  "urlWrapDescription": { "message": "Choose how the source URLs are wrapped, start & end" },
-
+  "customCopy": { "message": "Custom Copy" },
+  "customCopyDescription": { "message": "Set a Custom Copy format" },
+      
   "divider": { "message": "Divider" },
   "dividerDescription": { "message": "Choose the preferred text divider" },
 
@@ -34,12 +26,19 @@
   "keyboardShortcut": { "message": "Keyboard Shortcut" },
   "keyboardShortcutDescription": { "message": "Select the preferred Keyboard Shortcut" },
   
-  "restore": { "message": "Restore Defaults" },
+  "reset": { "message": "Reset" },
+  "export": { "message": "Export" },
 
+  "savedData": { "message": "Saved Data" },
+  "dataChanged": { "message": "Saved Storage Data has changed. Saving will replace the data." },
+  
+  "errorClipboard": { "message": "Failed to save to Clipboard" },
+  
   "about": { "message": "About" },
   "amo":  { "message": "Firefox restricts some functions on some URLs" },
   "error": { "message": "There was an error with the operation" },
   "help": { "message": "Help" },
   "options": { "message": "Options" },
-  "saveOptions": { "message": "Save" }
+  "saveOptions": { "message": "Save" },
+  "settings": { "message": "Settings" }
 }
