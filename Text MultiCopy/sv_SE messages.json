@@ -1,45 +1,44 @@
+// version 2.8
+
 {
   "extensionName": { "message": "Text MultiCopy" },
   "extensionDescription": { "message": "Kopiera text flera gånger innan du klistrar in det" },
 
   "save": { "message": "Spara markerat" },
   "copySaved": { "message": "Kopiera sparat till urklippet" },
-  "pasteSaved": { "message": "Klistra in sparade här" },
-
+  "pasteSaved": { "message": "Klistra in sparat här" },
 
   "totalSaved": { "message": "Totalt sparat:" },
   "totalPasted": { "message": "Totalt inklistrat:" },
   "totalCopied": { "message": "Totalt kopierat till urklippet:" },
   
-  "errorEmpty": { "message": "Inget lagrat" },
+  "errorEmpty": { "message": "Inget sparat" },
   
-  "addTitle": { "message": "Lägg till titel" },
-  "addTitleDescription": { "message": "Välj att lägga till sidans titel vid varje kopiering" },
-
-  "addDate": { "message": "Lägg till datum och tid" },
-  "addDateDescription": { "message": "Välj att lägga till datum och tid vid varje kopiering" },
-
-  "addUrl": { "message": "Lägg till URL" },
-  "addUrlDescription": { "message": "Välj att lägga till webbadressen vid varje kopiering" },
-  
-  "urlWrap": { "message": "URL-omslag" },
-  "urlWrapDescription": { "message": "Välj hur webbadresserna ska slås in, start och avslut" },
-
+  "customCopy": { "message": "Anpassad kopiering" },
+  "customCopyDescription": { "message": "Ange ett anpassat kopieringsformat" },
+      
   "divider": { "message": "Avskiljare" },
   "dividerDescription": { "message": "Välj önskad avskiljningstext" },
 
   "disableNotification": { "message": "Inaktivera aviseringar" },
-  "disableNotificationDescription": { "message": "Markera för att inaktivera informationsaviseringar" },
+  "disableNotificationDescription": { "message": "Markera för att inaktivera aviseringar" },
 
   "keyboardShortcut": { "message": "Tangentbordsgenväg" },
   "keyboardShortcutDescription": { "message": "Välj önskad tangentbordsgenväg" },
   
-  "restore": { "message": "Återställ till standard" },
+  "reset": { "message": "Återställ" },
+  "export": { "message": "Exportera" },
+
+  "savedData": { "message": "Sparad data" },
+  "dataChanged": { "message": "Den sparade datan har ändrats. Den kommer att ersättas." },
+  
+  "errorClipboard": { "message": "Det gick inte att spara till urklippet" },
 
   "about": { "message": "Om" },
-  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "amo":  { "message": "Firefox begränsar funktioner på vissa webbadresser" },
   "error": { "message": "Det uppstod ett fel vid åtgärden" },
   "help": { "message": "Hjälp" },
   "options": { "message": "Alternativ" },
-  "saveOptions": { "message": "Spara" }
+  "saveOptions": { "message": "Spara" },
+  "settings": { "message": "Inställningar" }
 }
