@@ -1,3 +1,5 @@
+// version 2.14
+
 {
   "extensionName": { "message": "FoxyTab" },
   "extensionDescription": { "message": "Collection of Tab Related Actions" },
@@ -80,13 +82,22 @@
 
   "errorClipboard": { "message": "Failed to save to Clipboard" },
 
+  "proxy": { "message": "Proxy Info:" },
 
   "tabCounter": { "message": "Tab Counter" },
   "tabCounterDescription": { "message": "Enable or Disable the Tab Counter" },
-  "badgeBg": { "message": "Badge Background Color" },
-  "badgeBgDescription": { "message": "Change the Badge Background Color" },
+  "badgeBGColor": { "message": "Badge Background Color" },
+  "badgeBGColorDescription": { "message": "Change the Badge Background Color" },
+  "badgeTextColor": { "message": "Badge Text Color" },
+  "badgeTextColorDescription": { "message": "Change the Badge Text Color" }, 
+  "reset": { "message": "Reset" }, 
+  "delete": { "message": "Delete" },
+  
   "contextMenu": { "message": "Context Menu" },
   "contextMenuDescription": { "message": "Enable or Disable Context menu items and/or Reorder the items" },
+  
+  "customCopy": { "message": "Custom Copy" },
+  "customCopyDescription": { "message": "Set a Custom Copy format" },
 
   "customReload": { "message": "Custom Reload" },
   "customReloadDescription": { "message": "Select a Custom Reload value" },
@@ -108,6 +119,12 @@
   "hour12Description": { "message": "Default is 24-hour" },
 
   "restore": { "message": "Restore Defaults" },
+
+
+  "container": { "message": "Container" },
+  "containerDescription": { "message": "Container Control" },
+  "errorPattern": { "message": "There is an error with the Pattern" },
+  "errorDuplicatePattern": { "message": "Pattern exists in another container" },
 
 
   "theme": { "message": "Theme" },
@@ -134,16 +151,18 @@
 
   "import": { "message": "Import" },
   "export": { "message": "Export" },
+  "importPreference": { "message": "Import Preferences" },
+  "exportPreference": { "message": "Export Preferences" },
   "errorSize": { "message": "File size is larger than the $1kb allowed" },
   "errorType": { "message": "Unsupported File Format" },
   "errorRead": { "message": "There was an error with reading the file" },
   "errorParse": { "message": "There was an error parsing the file" },
 
 
+  "optionsTitle": { "message": "FoxyTab Options" },
   "recount": { "message": "Recount" },
   "settings": { "message": "Settings" },
 
-  
   "about": { "message": "About" },
   "error": { "message": "There was an error with the operation" },
   "help": { "message": "Help" },
