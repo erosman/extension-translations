@@ -1,3 +1,5 @@
+// version 2.14
+
 {
   "extensionName": { "message": "FoxyTab" },
   "extensionDescription": { "message": "标签页相关功能" },
@@ -80,17 +82,25 @@
 
   "textConfirmCloseLeft": { "message": "您即将关闭 $1 个标签页。确定继续吗？" },
 
-
+  "proxy": { "message": "代理信息:" },
 
   "tabCounter": { "message": "标签页计数器" },
   "tabCounterDescription": { "message": "启用/禁用标签页计数器" },
-  "badgeBg": { "message": "徽标背景色" },
-  "badgeBgDescription": { "message": "更改徽标的背景色" },
+  "badgeBGColor": { "message": "徽标背景色" },
+  "badgeBGColorDescription": { "message": "更改徽标的背景色" },
+  "badgeTextColor": { "message": "徽标文字颜色" },
+  "badgeTextColorDescription": { "message": "更改徽标文字颜色" }, 
+  "reset": { "message": "重置" }, 
+  "delete": { "message": "删除" },
+  
   "contextMenu": { "message": "菜单项" },
   "contextMenuDescription": { "message": "启用/禁用上下文菜单项及调整顺序" },
   
+  "customCopy": { "message": "自定义复制" },
+  "customCopyDescription": { "message": "设定自定义的复制格式" },
+  
   "customReload": { "message": "自定义重新载入" },
-  "customReloadDescription": { "message": "自选重新载入时间" },
+  "customReloadDescription": { "message": "自定义重新载入间隔（秒）" },
 
   "add": { "message": "添加" },
 
@@ -109,6 +119,12 @@
   "hour12Description": { "message": "默认为 24 小时制" },
 
   "restore": { "message": "恢复默认设置" },
+
+
+  "container": { "message": "身份" },
+  "containerDescription": { "message": "身份（容器）控制" },
+  "errorPattern": { "message": "模式有误" },
+  "errorDuplicatePattern": { "message": "模式已存在于另一个身份容易" },
 
 
   "theme": { "message": "主题" },
@@ -135,15 +151,17 @@
 
   "import": { "message": "导入" },
   "export": { "message": "导出" },
+  "importPreference": { "message": "导入首选项" },
+  "exportPreference": { "message": "导出首选项" },
   "errorSize": { "message": "文件大小超出允许的 $1kb" },
   "errorType": { "message": "不支持的文件格式" },
   "errorRead": { "message": "读取文件时出错" },
   "errorParse": { "message": "解析文件时出错" },
 
 
+  "optionsTitle": { "message": "FoxyTab 选项" },
   "recount": { "message": "重新计数" },
   "settings": { "message": "设置" },
-
   
   "about": { "message": "关于" },
   "error": { "message": "运行时出错" },
