@@ -1,0 +1,61 @@
+// version 1.2.1
+
+{
+  "extensionName": { "message": "FireMonkey" },
+  "extensionDescription": { "message": "Super Lightweight User Script and Style Manager" },
+  
+  
+  "tabScript": { "message": "Tab Scripts & CSS" },
+  "otherScript": { "message": "Other Scripts & CSS" },
+  "back": { "message": "back" },
+  "edit": { "message": "Edit" },
+  
+  "autoUpdateInterval": { "message": "Auto-Update Interval" },
+  "autoUpdateIntervalDescription": { "message": "Number of days between Updates (0 = no update)" },
+  
+  "script": { "message": "Script & CSS" },
+
+  "saveScript": { "message": "Save" },
+  "enable": { "message": "Enable" },
+  "update": { "message": "Update" },
+  "autoUpdate": { "message": "Auto-Update" },
+  
+  "newJS": { "message": "New UserScript" },
+  "newCSS": { "message": "New UserCSS" },  
+  "saveTemplate": { "message": "Template" },
+  
+  "discardConfirm": { "message": "Do you want to discard the changes without saving?" },
+  
+  "delete": { "message": "Delete" },
+  "deleteConfirm": { "message": "Do you want to delete \n'$1'\n and its stored data?" }, 
+  "deleteMultiConfirm": { "message": "Do you want to delete the selected $1 Scripts/CSS and their stored data?" }, 
+  
+  "errorMeta": { "message": "Meta Data Error" }, 
+  "errorName": { "message": "Script/CSS name already exists.\nDo you want to replace the existing one?" },
+  "errorMatches": { "message": "@mathces or @includeGlobs must be set." },
+  "errorUpdate": { "message": "Script/CSS does not have updateURL or version." },
+  
+  "importScript": { "message": "Import" },
+  "exportScript": { "message": "Export" },  
+  "exportAllScript": { "message": "Export" },
+  
+  "import": { "message": "Import" },
+  "export": { "message": "Export" },
+  "importPreference": { "message": "Import Preferences" },
+  "exportPreference": { "message": "Export Preferences" },
+  "errorSize": { "message": "File size is larger than the $1kb allowed" },
+  "errorType": { "message": "Unsupported File Format" },
+  "errorRead": { "message": "There was an error with reading the file" },
+  "errorParse": { "message": "There was an error parsing the file" },
+
+
+  "errorClipboard": { "message": "Failed to save to Clipboard" },
+  
+  "about": { "message": "About" },
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" },
+  "settings": { "message": "Settings" }
+}
