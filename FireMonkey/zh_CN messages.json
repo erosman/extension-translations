@@ -1,0 +1,64 @@
+// version 1.15
+
+{
+  "extensionName": { "message": "FireMonkey" },
+  "extensionDescription": { "message": "超级轻量级的用户脚本及用户样式管理器" },
+
+
+  "tabScript": { "message": "标签页的脚本和样式" },
+  "otherScript": { "message": "其他脚本和样式" },
+  "back": { "message": "返回" },
+  "edit": { "message": "编辑" },
+
+  "autoUpdateInterval": { "message": "自动更新间隔" },
+  "autoUpdateIntervalDescription": { "message": "更新间隔天数 (0 = 不更新)" },
+
+  "script": { "message": "脚本和样式" },
+
+  "saveScript": { "message": "保存" },
+  "enable": { "message": "启用" },
+  "update": { "message": "更新" },
+  "autoUpdate": { "message": "自动更新" },
+
+  "newJS": { "message": "新建用户脚本" },
+  "newCSS": { "message": "新建用户样式" },
+  "saveTemplate": { "message": "模板" },
+
+  "discardConfirm": { "message": "确定要放弃保存更改？" },
+
+  "delete": { "message": "删除" },
+  "deleteConfirm": { "message": "确定删除 \n'$1'\n 及其下存储的数据？" },
+  "deleteMultiConfirm": { "message": "确定删除选中的 $1 个脚本/样式及其下存储的数据？" },
+
+  "errorMeta": { "message": "元数据错误" },
+  "errorNoName": { "message": "脚本/样式必须有名称。" },
+  "errorName": { "message": "脚本/样式名称已经存在。\n是否替换现有的同名脚本/样式？" },
+  "errorMatches": { "message": "必须设定 @mathces 或 @includeGlobs 之一。" },
+  "errorUpdate": { "message": "脚本/样式没有 updateURL 或 version。" },
+  "noNewUpdate": { "message": "没有找到更新。" },
+  "scriptUpdated": { "message": "脚本/样式已更新至 $1 版本" },
+
+  "importScript": { "message": "导入" },
+  "exportScript": { "message": "导出" },
+  "exportAllScript": { "message": "导出" },
+
+  "import": { "message": "导入" },
+  "export": { "message": "导出" },
+  "importPreference": { "message": "导入设置" },
+  "exportPreference": { "message": "导出设置" },
+  "errorSize": { "message": "文件大小超过允许的 $1kb" },
+  "errorType": { "message": "不支持的文件格式" },
+  "errorRead": { "message": "读取该文件出错" },
+  "errorParse": { "message": "解析该文件出错" },
+
+
+  "errorClipboard": { "message": "保存到剪贴板失败" },
+
+  "about": { "message": "关于" },
+  "amo":  { "message": "Firefox 对某些 URL 的页面操作设有限制" },
+  "error": { "message": "运行出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" },
+  "settings": { "message": "设置" }
+}
