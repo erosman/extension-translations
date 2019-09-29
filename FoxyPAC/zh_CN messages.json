@@ -1,0 +1,61 @@
+// version 2.5
+
+{
+  "extensionName": { "message": "FoxyPAC" },
+  "extensionDescription": { "message": "轻松创建、编辑、设置和导出可定制的“代理自动配置”（PAC）" },
+
+  "patterns": { "message": "模式" },
+  "proxies": { "message": "代理" },
+  
+  "login": { "message": "登录" },
+  "editPattern": { "message": "编辑模式" },
+
+  "network": { "message": "隐私及本地网络" },
+  "plainhost": { "message": "纯主机" },
+  "importPreference": { "message": "导入设置" },
+  "exportPreference": { "message": "导出设置" },
+
+  "PAC": { "message": "PAC" },
+  "setPAC": { "message": "设置" },
+  "resetPAC": { "message": "重置" },
+  "exportPAC": { "message": "导出" },
+
+  "onOff": { "message": "单击启用/禁用" },
+
+  "noProxy": { "message": "代理列表是空的。" },
+  
+  "cancel": { "message": "取消" },
+  "userPassError": { "message": "请填写用户名和密码。" },
+  
+
+  "errorSize": { "message": "文件大小超过允许的 $1kb" },
+  "errorType": { "message": "不支持的文件格式" },
+  "errorRead": { "message": "读取该文件出错" },
+  "errorParse": { "message": "解析该文件出错" },
+
+  "errorWildcard": { "message": "模式的开始和结尾请勿填入通配符" },
+  "errorShort": { "message": "非常短的模式可能导致意外的效果" },
+  "errorScheme": { "message": "模式的方案中只能使用一个 *" },
+
+  "autologin": { "message": "自动登录" },
+
+
+  "byPattern": { "message": "代理依模式" },
+  "disable": { "message": "禁用" },
+  
+  
+  "myIP": { "message": "我的 IP" },
+  "authError": { "message": "$1 拒绝连接:\n \u00A0\u2022 请检查您的代理设置\n \u00A0\u2022 或联系您的网络管理员" },
+  
+  "foxyProxyImport": { "message": "FoxyProxy 导入" },
+  "import": { "message": "导入" },
+
+  "delete": { "message": "删除" },
+
+  "about": { "message": "关于" },
+  "error": { "message": "运行出错" },
+  "help": { "message": "帮助" },
+  "options": { "message": "选项" },
+  "saveOptions": { "message": "保存" },
+  "settings": { "message": "设置" }
+}

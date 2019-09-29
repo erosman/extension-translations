@@ -1,6 +1,19 @@
+// version 1.9
+
 {
   "extensionName": { "message": "Copy PlainText" },
   "extensionDescription": { "message": "复制不含任何格式的纯文本。" },
+
+  "pastePlainText": { "message": "粘贴纯文本" },
+  "errorPaste": { "message": "粘贴失败" },
+
+  "noIndent": { "message": "移除行缩进" },
+  "noIndentDescription": { "message": "移除每行的前导空格" },
+
+  "keyboardShortcut": { "message": "键盘快捷键" },
+  "keyboardShortcutDescription": { "message": "选择偏好的键盘快捷键" },
+
+  "reset": { "message": "重置" },
 
   "errorClipboard": { "message": "保存到剪贴板失败" },
 
@@ -10,5 +23,6 @@
   "error": { "message": "运行时出错" },
   "help": { "message": "帮助" },
   "options": { "message": "选项" },
-  "saveOptions": { "message": "保存" }
+  "saveOptions": { "message": "保存" },
+  "settings": { "message": "设置" }
 }
