@@ -1,4 +1,4 @@
-// version 1.15
+// version 1.18
 
 {
   "extensionName": { "message": "FireMonkey" },
@@ -12,6 +12,8 @@
 
   "autoUpdateInterval": { "message": "Auto-Update Interval" },
   "autoUpdateIntervalDescription": { "message": "Number of days between Updates (0 = no update)" },
+  
+  "disableHighlight": { "message": "Disable Syntax Highlighting" },
 
   "script": { "message": "Script & CSS" },
 
