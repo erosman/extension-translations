@@ -1,0 +1,28 @@
+// version 1.9
+
+{
+  "extensionName": { "message": "Copy PlainText" },
+  "extensionDescription": { "message": "Copia/Incolla Testo Semplice senza alcuna formattazione" },
+
+  "pastePlainText": { "message": "Incolla Testo Semplice" },
+  "errorPaste": { "message": "Impossibile incollare" },
+
+  "noIndent": { "message": "Rimuovi Rientro Riga" },
+  "noIndentDescription": { "message": "Seleziona per rimuovere gli spazi iniziali di ogni riga" },
+
+  "keyboardShortcut": { "message": "Scorciatoie Tastiera" },
+  "keyboardShortcutDescription": { "message": "Seleziona la scorciatoia da tastiera preferita" },
+
+  "reset": { "message": "Reset" },
+
+  "errorClipboard": { "message": "Impossibile salvare negli Appunti" },
+
+  "about": { "message": "Informazioni su" },
+  "amo":  { "message": "Firefox limita alcune funzioni su alcuni URL" },
+  "error": { "message": "Si è verificato un errore con l'operazione" },
+  "help": { "message": "Aiuto" },
+  "options": { "message": "Opzioni" },
+  "saveOptions": { "message": "Salva" },
+  "settings": { "message": "Impostazioni" }
+}
+N
