@@ -1,0 +1,21 @@
+{
+  "extensionName": { "message": "Replace" },
+  "extensionDescription": { "message": "テキストまたは正規表現によってWebページのテキストを検索または置換します。" },
+
+
+  "find": { "message": "検索" },
+  "replace": { "message": "置換" },
+  "clear": { "message": "消去" },
+  "matchCase": { "message": "大文字と小文字を区別" },
+
+  "errorNotFound": { "message": "パターンが見つかりませんでした" },
+  "errorPattern": { "message": "検索パターンでエラーがあります" },
+
+
+  "about": { "message": "このアドオンについて" },
+  "amo":  { "message": "Firefoxでは一部のURLでいくつかの機能を制限します" },
+  "error": { "message": "操作中にエラーが発生しました" },
+  "help": { "message": "ヘルプ" },
+  "options": { "message": "オプション" },
+  "saveOptions": { "message": "保存" }
+}
