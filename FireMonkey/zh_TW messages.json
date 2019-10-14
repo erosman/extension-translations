@@ -1,0 +1,66 @@
+// version 1.18
+
+{
+  "extensionName": { "message": "FireMonkey" },
+  "extensionDescription": { "message": "超輕量的使用者指令稿與樣式管理程式" },
+
+
+  "tabScript": { "message": "分頁指令稿與 CSS" },
+  "otherScript": { "message": "其他指令稿與 CSS" },
+  "back": { "message": "返回" },
+  "edit": { "message": "編輯" },
+
+  "autoUpdateInterval": { "message": "自動更新間隔" },
+  "autoUpdateIntervalDescription": { "message": "更新間的天數（0 = 不更新）" },
+  
+  "disableHighlight": { "message": "停用語法突顯" },
+
+  "script": { "message": "指令稿與 CSS" },
+
+  "saveScript": { "message": "儲存" },
+  "enable": { "message": "啟用" },
+  "update": { "message": "更新" },
+  "autoUpdate": { "message": "自動更新" },
+
+  "newJS": { "message": "新 UserScript" },
+  "newCSS": { "message": "新 UserCSS" },
+  "saveTemplate": { "message": "範本" },
+
+  "discardConfirm": { "message": "您想要不儲存並丟棄變更嗎？" },
+
+  "delete": { "message": "刪除" },
+  "deleteConfirm": { "message": "您想要刪除 \n'$1'\n 與其儲存的資料嗎？" },
+  "deleteMultiConfirm": { "message": "您想要刪除選定的 $1 指令稿/CSS 與它們儲存的資料嗎？" },
+
+  "errorMeta": { "message": "詮釋資料錯誤" },
+  "errorNoName": { "message": "指令稿/CSS 必須有名稱。" },
+  "errorName": { "message": "指令稿/CSS 名稱已存在。\n您想要取代既有的項目嗎？" },
+  "errorMatches": { "message": "必須設定 @mathces 或 @includeGlobs。" },
+  "errorUpdate": { "message": "指令稿/CSS 沒有 updateURL 或版本。" },
+  "noNewUpdate": { "message": "沒有新更新。" },
+  "scriptUpdated": { "message": "指令稿/CSS 已更新至版本 $1" },
+
+  "importScript": { "message": "匯入" },
+  "exportScript": { "message": "匯出" },
+  "exportAllScript": { "message": "匯出" },
+
+  "import": { "message": "匯入" },
+  "export": { "message": "匯出" },
+  "importPreference": { "message": "匯入偏好設定" },
+  "exportPreference": { "message": "匯出偏好設定" },
+  "errorSize": { "message": "檔案大小超過允許的 $1kb" },
+  "errorType": { "message": "不支援的檔案格式" },
+  "errorRead": { "message": "讀取檔案錯誤" },
+  "errorParse": { "message": "解析檔案錯誤" },
+
+
+  "errorClipboard": { "message": "儲存到剪貼簿失敗" },
+
+  "about": { "message": "關於" },
+  "amo":  { "message": "Firefox 在某些 URL 上限制了某些功能" },
+  "error": { "message": "操作發生錯誤" },
+  "help": { "message": "說明" },
+  "options": { "message": "選項" },
+  "saveOptions": { "message": "儲存" },
+  "settings": { "message": "設定" }
+}
