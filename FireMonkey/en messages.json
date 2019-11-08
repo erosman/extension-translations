@@ -1,4 +1,4 @@
-// version 1.18
+// version 1.19
 
 {
   "extensionName": { "message": "FireMonkey" },
@@ -31,6 +31,8 @@
   "delete": { "message": "Delete" },
   "deleteConfirm": { "message": "Do you want to delete \n'$1'\n and its stored data?" },
   "deleteMultiConfirm": { "message": "Do you want to delete the selected $1 Scripts/CSS and their stored data?" },
+  
+  "installConfirm": { "message": "Do you want to install '$1'?\nScript/CSS with the same name will be replaced if it has a lower version number." },
 
   "errorMeta": { "message": "Meta Data Error" },
   "errorNoName": { "message": "Script/CSS must have a name." },
