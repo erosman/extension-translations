@@ -1,4 +1,4 @@
-// version 1.22
+// version 1.25
 
 {
   "extensionName": { "message": "FireMonkey" },
@@ -14,6 +14,12 @@
   "autoUpdateIntervalDescription": { "message": "Number of days between Updates (0 = no update)" },
   
   "disableHighlight": { "message": "Disable Syntax Highlighting" },
+  
+  "globalScriptExcludeMatches": { "message": "Global Script Exclude Matches" },
+  "globalScriptExcludeMatchesDescription": { "message": "Exclude Match pattens (one per line) to prevent all scripts from running on them." },
+  "userMatches": { "message": "User Matches" },
+  "userExcludeMatches": { "message": "User Exclude Matches" },
+  "userMatchesExcludeMatches": { "message": "User Matches & Exclude Matches" },
 
   "script": { "message": "Script & CSS" },
 
