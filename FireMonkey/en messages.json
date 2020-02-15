@@ -15,6 +15,7 @@
   "autoUpdateIntervalDescription": { "message": "Number of days between Updates (0 = no update)" },
   
   "disableHighlight": { "message": "Disable Syntax Highlighting" },
+  "enableSync": { "message": "Enable Storage Sync" },
   
   "globalScriptExcludeMatches": { "message": "Global Script Exclude Matches" },
   "globalScriptExcludeMatchesDescription": { "message": "Exclude Match pattens (one per line) to prevent all scripts from running on them." },
