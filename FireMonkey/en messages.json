@@ -16,6 +16,7 @@
   
   "disableHighlight": { "message": "Disable Syntax Highlighting" },
   "enableSync": { "message": "Enable Storage Sync" },
+  "errorSync": { "message": "Unable to sync\nStorage ($1KB) is larger than 100KB. Sync will be turned off." },
   
   "globalScriptExcludeMatches": { "message": "Global Script Exclude Matches" },
   "globalScriptExcludeMatchesDescription": { "message": "Exclude Match pattens (one per line) to prevent all scripts from running on them." },
