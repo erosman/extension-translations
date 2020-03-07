@@ -1,4 +1,4 @@
-// version 1.27
+// version 1.31
 
 {
   "extensionName": { "message": "FireMonkey" },
@@ -30,6 +30,7 @@
   "enable": { "message": "Enable" },
   "update": { "message": "Update" },
   "autoUpdate": { "message": "Auto-Update" },
+  "dark": { "message": "Dark" },
 
   "newJS": { "message": "New UserScript" },
   "newCSS": { "message": "New UserCSS" },
