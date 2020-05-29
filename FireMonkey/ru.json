@@ -1,0 +1,78 @@
+// version 1.31
+
+{
+  "extensionName": { "message": "FireMonkey" },
+  "extensionDescription": { "message": "Сверхлёгкий менеджер пользовательских скриптов и стилей" },
+
+
+  "tabScript": { "message": "Скрипты и стили CSS" },
+  "otherScript": { "message": "Другие скрипты и стили CSS" },
+  "scriptCommands": { "message": "Команды скрипта" },
+  "back": { "message": "Назад" },
+  "edit": { "message": "Изменить" },
+
+  "autoUpdateInterval": { "message": "Интервал автообновления" },
+  "autoUpdateIntervalDescription": { "message": "Количество дней между обновлениями скриптов и стилей (0 = не обновлять)" },
+  
+  "disableHighlight": { "message": "Отключить подсветку синтаксиса" },
+  "enableSync": { "message": "Включить синхронизацию хранилища" },
+  "errorSync": { "message": "Невозможно синхронизировать\nхранилище ($1KB) больше, чем 100 КБ. Синхронизация будет отключена." },
+  
+  "globalScriptExcludeMatches": { "message": "Exclude Matches глобального скрипта" },
+  "globalScriptExcludeMatchesDescription": { "message": "Исключите совпадение pattens (по одному на строку), чтобы все скрипты не работали на них." },
+  "userMatches": { "message": "Пользовательские совпадения (Matches)" },
+  "userExcludeMatches": { "message": "Пользовательские исключения совпадений (Exclude Matches)" },
+  "userMatchesExcludeMatches": { "message": "Польз. совпадения и исключение совпадений (User Matches & Exclude Matches)" },
+
+  "script": { "message": "Скрипт и стиль CSS" },
+
+  "saveScript": { "message": "Сохранить" },
+  "enable": { "message": "Включить" },
+  "update": { "message": "Обновить" },
+  "autoUpdate": { "message": "Автообновление" },
+  "dark": { "message": "Тёмная тема" },
+
+  "newJS": { "message": "Новый польз. скрипт (UserScript)" },
+  "newCSS": { "message": "Новый польз. стиль (UserCSS)" },
+  "saveTemplate": { "message": "Шаблон" },
+
+  "discardConfirm": { "message": "Отменить изменения без сохранения?" },
+
+  "delete": { "message": "Удалить" },
+  "deleteConfirm": { "message": "Удалить \n'$1'\n и его сохранённые данные?" },
+  "deleteMultiConfirm": { "message": "Удалить выбранные ($1) Scripts/CSS и их сохранённые данные?" },
+  
+  "installConfirm": { "message": "Установить '$1'?\nScript/CSS с таким же именем будет заменён, если он имеет более низкий номер версии." },
+
+  "errorMeta": { "message": "Ошибка метаданных" },
+  "errorNoName": { "message": "Необходимо ввести название." },
+  "errorName": { "message": "Такое название уже существует.\nХотите заменить существующее?" },
+  "errorMatches": { "message": "Н еобходимо установить @mathces или @includeGlobs." },
+  "errorUpdate": { "message": "Нет updateURL или version." },
+  "noNewUpdate": { "message": "Новых обновлений нет." },
+  "scriptUpdated": { "message": "Обновлён до версии $1" },
+
+  "importScript": { "message": "Импорт" },
+  "exportScript": { "message": "Экспорт" },
+  "exportAllScript": { "message": "Экспорт всех" },
+
+  "import": { "message": "Импорт" },
+  "export": { "message": "Экспорт" },
+  "importPreference": { "message": "Импорт настроек" },
+  "exportPreference": { "message": "Экспорт настроек" },
+  "errorSize": { "message": "Размер файла больше допустимого ($1kb)" },
+  "errorType": { "message": "Неподдерживаемый формат файла" },
+  "errorRead": { "message": "Произошла ошибка при чтении файла" },
+  "errorParse": { "message": "Произошла ошибка при разборе файла" },
+
+
+  "errorClipboard": { "message": "Не удалось сохранить в буфер обмена" },
+
+  "about": { "message": "О FireMonkey" },
+  "amo":  { "message": "Firefox ограничивает некоторые функции на некоторых URL" },
+  "error": { "message": "Произошла ошибка с операцией" },
+  "help": { "message": "Помощь" },
+  "options": { "message": "Параметры" },
+  "saveOptions": { "message": "Сохранить" },
+  "settings": { "message": "Настройки" }
+}
