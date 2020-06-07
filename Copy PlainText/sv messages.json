@@ -1,0 +1,27 @@
+// version 1.10
+
+{
+  "extensionName": { "message": "Kopiera PlainText" },
+  "extensionDescription": { "message": "Kopiera/Klistra in oformaterad text utan någon formatering" },
+
+  "pastePlainText": { "message": "Klistra in PlainText" },
+  "errorPaste": { "message": "Misslyckades med att klistra in" },
+
+  "noIndent": { "message": "Ta bort indrag av raden" },
+  "noIndentDescription": { "message": "Välj för att ta bort inledande blanksteg på varje rad" },
+
+  "keyboardShortcut": { "message": "Tangentbordsgenväg" },
+  "keyboardShortcutDescription": { "message": "Välj den önskade tangentbordsgenvägen" },
+
+  "reset": { "message": "Återställ" },
+
+  "errorClipboard": { "message": "Misslyckades med att spara till Urklipp" },
+
+  "about": { "message": "Om" },
+  "amo":  { "message": "Firefox begränsar vissa funktioner på vissa URL:er" },
+  "error": { "message": "Ett fel uppstod med operationen" },
+  "help": { "message": "Hjälp" },
+  "options": { "message": "Alternativ" },
+  "saveOptions": { "message": "Spara" },
+  "settings": { "message": "Inställningar" }
+}
