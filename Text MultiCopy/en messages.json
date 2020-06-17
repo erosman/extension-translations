@@ -1,4 +1,4 @@
-// version 2.8
+// version 2.10
 
 {
   "extensionName": { "message": "Text MultiCopy" },
@@ -11,29 +11,26 @@
   "totalSaved": { "message": "Total saved:" },
   "totalPasted": { "message": "Total pasted:" },
   "totalCopied": { "message": "Total copied to Clipboard:" },
-  
+
   "errorEmpty": { "message": "Storage is empty" },
 
   "customCopy": { "message": "Custom Copy" },
   "customCopyDescription": { "message": "Set a Custom Copy format" },
-      
+
   "divider": { "message": "Divider" },
   "dividerDescription": { "message": "Choose the preferred text divider" },
 
   "disableNotification": { "message": "Disable Notifications" },
   "disableNotificationDescription": { "message": "Select  to disable Information Notifications" },
 
-  "keyboardShortcut": { "message": "Keyboard Shortcut" },
-  "keyboardShortcutDescription": { "message": "Select the preferred Keyboard Shortcut" },
-  
-  "reset": { "message": "Reset" },
   "export": { "message": "Export" },
+  "delete": { "message": "Delete" },
 
   "savedData": { "message": "Saved Data" },
   "dataChanged": { "message": "Saved Storage Data has changed. Saving will replace the data." },
-  
+
   "errorClipboard": { "message": "Failed to save to Clipboard" },
-  
+
   "about": { "message": "About" },
   "amo":  { "message": "Firefox restricts some functions on some URLs" },
   "error": { "message": "There was an error with the operation" },
