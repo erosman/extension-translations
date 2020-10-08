@@ -1,4 +1,4 @@
-// version 1.15
+// version 1.31
 
 {
   "extensionName": { "message": "FireMonkey" },
@@ -7,11 +7,22 @@
 
   "tabScript": { "message": "标签页的脚本和样式" },
   "otherScript": { "message": "其他脚本和样式" },
+  "scriptCommands": { "message": "脚本命令" },
   "back": { "message": "返回" },
   "edit": { "message": "编辑" },
 
   "autoUpdateInterval": { "message": "自动更新间隔" },
-  "autoUpdateIntervalDescription": { "message": "更新间隔天数 (0 = 不更新)" },
+  "autoUpdateIntervalDescription": { "message": "更新间隔天数（0 = 不更新）" },
+
+  "disableHighlight": { "message": "禁用语法高亮" },
+  "enableSync": { "message": "启用存储同步" },
+  "errorSync": { "message": "无法同步\n存储 ($1KB) 大于 100KB。同步将关闭。" },
+  
+  "globalScriptExcludeMatches": { "message": "全局脚本排除匹配" },
+  "globalScriptExcludeMatchesDescription": { "message": "排除匹配模式（每行一个）阻止所有脚本在其上运行。" },
+  "userMatches": { "message": "用户匹配" },
+  "userExcludeMatches": { "message": "用户排除匹配" },
+  "userMatchesExcludeMatches": { "message": "用户匹配和排除匹配" },
 
   "script": { "message": "脚本和样式" },
 
@@ -19,6 +30,7 @@
   "enable": { "message": "启用" },
   "update": { "message": "更新" },
   "autoUpdate": { "message": "自动更新" },
+  "dark": { "message": "黑暗" },
 
   "newJS": { "message": "新建用户脚本" },
   "newCSS": { "message": "新建用户样式" },
@@ -27,8 +39,10 @@
   "discardConfirm": { "message": "确定要放弃保存更改？" },
 
   "delete": { "message": "删除" },
-  "deleteConfirm": { "message": "确定删除 \n'$1'\n 及其下存储的数据？" },
-  "deleteMultiConfirm": { "message": "确定删除选中的 $1 个脚本/样式及其下存储的数据？" },
+  "deleteConfirm": { "message": "确定删除 \n'$1'\n 及其下存储的数据吗？" },
+  "deleteMultiConfirm": { "message": "确定删除选中的 $1 个脚本/样式及其下存储的数据吗？" },
+
+  "installConfirm": { "message": "您想要安装 '$1' 吗？\n同名脚本/样式如果版本号较低将被替换。" },
 
   "errorMeta": { "message": "元数据错误" },
   "errorNoName": { "message": "脚本/样式必须有名称。" },
