@@ -1,4 +1,4 @@
-// version 1.31
+// version 1.41
 
 {
   "extensionName": { "message": "FireMonkey" },
@@ -15,8 +15,9 @@
   "autoUpdateIntervalDescription": { "message": "更新间隔天数（0 = 不更新）" },
 
   "disableHighlight": { "message": "禁用语法高亮" },
-  "enableSync": { "message": "启用存储同步" },
   "errorSync": { "message": "无法同步\n存储 ($1KB) 大于 100KB。同步将关闭。" },
+  
+  "counter": { "message": "计数器" },
   
   "globalScriptExcludeMatches": { "message": "全局脚本排除匹配" },
   "globalScriptExcludeMatchesDescription": { "message": "排除匹配模式（每行一个）阻止所有脚本在其上运行。" },
@@ -30,6 +31,7 @@
   "enable": { "message": "启用" },
   "update": { "message": "更新" },
   "autoUpdate": { "message": "自动更新" },
+  "syntax": { "message": "语法" },
   "dark": { "message": "黑暗" },
 
   "newJS": { "message": "新建用户脚本" },
@@ -47,7 +49,6 @@
   "errorMeta": { "message": "元数据错误" },
   "errorNoName": { "message": "脚本/样式必须有名称。" },
   "errorName": { "message": "脚本/样式名称已经存在。\n是否替换现有的同名脚本/样式？" },
-  "errorMatches": { "message": "必须设定 @mathces 或 @includeGlobs 之一。" },
   "errorUpdate": { "message": "脚本/样式没有 updateURL 或 version。" },
   "noNewUpdate": { "message": "没有找到更新。" },
   "scriptUpdated": { "message": "脚本/样式已更新至 $1 版本" },
