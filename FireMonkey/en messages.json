@@ -1,4 +1,4 @@
-// version 1.41
+// version 1.43
 
 {
   "extensionName": { "message": "FireMonkey" },
@@ -66,6 +66,10 @@
   "errorRead": { "message": "There was an error with reading the file" },
   "errorParse": { "message": "There was an error parsing the file" },
 
+  "log": { "message": "Log" },
+  "time": { "message": "Time" },
+  "reference": { "message": "Reference" },
+  "message": { "message": "Message" },
 
   "errorClipboard": { "message": "Failed to save to Clipboard" },
 
