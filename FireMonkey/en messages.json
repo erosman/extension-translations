@@ -70,8 +70,10 @@
   "time": { "message": "Time" },
   "reference": { "message": "Reference" },
   "message": { "message": "Message" },
-
-  "errorClipboard": { "message": "Failed to save to Clipboard" },
+  
+  "scratchpad": { "message": "Scratchpad" },
+  "run": { "message": "Run" },
+  "errorInsert": { "message": "Failed to insert" },
 
   "about": { "message": "About" },
   "amo":  { "message": "Firefox restricts some functions on some URLs" },
