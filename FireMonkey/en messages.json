@@ -1,4 +1,4 @@
-// version 1.43
+// version 1.45
 
 {
   "extensionName": { "message": "FireMonkey" },
@@ -13,12 +13,12 @@
 
   "autoUpdateInterval": { "message": "Auto-Update Interval" },
   "autoUpdateIntervalDescription": { "message": "Number of days between Updates (0 = no update)" },
-  
+
   "enableSync": { "message": "Enable Storage Sync" },
   "errorSync": { "message": "Unable to sync\nStorage ($1KB) is larger than 100KB. Sync will be turned off." },
-  
+
   "counter": { "message": "Counter" },
-  
+
   "globalScriptExcludeMatches": { "message": "Global Script Exclude Matches" },
   "globalScriptExcludeMatchesDescription": { "message": "Exclude Match pattens (one per line) to prevent all scripts from running on them." },
   "userMatches": { "message": "User Matches" },
@@ -43,7 +43,7 @@
   "delete": { "message": "Delete" },
   "deleteConfirm": { "message": "Do you want to delete \n'$1'\n and its stored data?" },
   "deleteMultiConfirm": { "message": "Do you want to delete the selected $1 Scripts/CSS and their stored data?" },
-  
+
   "installConfirm": { "message": "Do you want to install '$1'?\nScript/CSS with the same name will be replaced if it has a lower version number." },
 
   "errorMeta": { "message": "Meta Data Error" },
@@ -70,9 +70,10 @@
   "time": { "message": "Time" },
   "reference": { "message": "Reference" },
   "message": { "message": "Message" },
-  
+
   "scratchpad": { "message": "Scratchpad" },
   "run": { "message": "Run" },
+  "undo": { "message": "Undo" },
   "errorInsert": { "message": "Failed to insert" },
 
   "about": { "message": "About" },
