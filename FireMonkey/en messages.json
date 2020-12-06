@@ -1,5 +1,3 @@
-// version 2.0
-
 {
   "extensionName": { "message": "FireMonkey" },
   "extensionDescription": { "message": "Super Lightweight User Script and Style Manager" },
