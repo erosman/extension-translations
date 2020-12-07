@@ -1,5 +1,3 @@
-// version 1.18
-
 {
   "extensionName": { "message": "FireMonkey" },
   "extensionDescription": { "message": "超輕量的使用者指令稿與樣式管理程式" },
