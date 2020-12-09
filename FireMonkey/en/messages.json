@@ -30,7 +30,7 @@
   "update": { "message": "Update" },
   "autoUpdate": { "message": "Auto-Update" },
   "theme": { "message": "Theme" },
-  
+
   "light": { "message": "Light" },
   "dark": { "message": "Dark" },
 
@@ -42,7 +42,7 @@
   "trimTrailingSpaces": { "message": "Trim Trailing Spaces" },
   "toUpperCase": { "message": "Selection to Uppercase" },
   "toLowerCase": { "message": "Selection to Lowercase" },
-  
+
   "stylish": { "message": "Install Stylish Style" },
   "report": { "message": "Report" },
 
@@ -60,7 +60,7 @@
   "errorUpdate": { "message": "Script/CSS does not have updateURL or version." },
   "noNewUpdate": { "message": "There is no new update." },
   "scriptUpdated": { "message": "Script/CSS updated to version $1" },
-  
+
 
   "importScript": { "message": "Import" },
   "exportScript": { "message": "Export" },
@@ -86,6 +86,8 @@
   "errorInsert": { "message": "Failed to insert" },
   "findScript": { "message": "Find scripts for this site" },
 
+
+  "localeMaker": { "message": "Locale Maker" },
   "about": { "message": "About" },
   "amo":  { "message": "Firefox restricts some functions on some URLs" },
   "error": { "message": "There was an error with the operation" },
