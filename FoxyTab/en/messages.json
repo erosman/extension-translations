@@ -8,6 +8,7 @@
 
   "closeLeft": { "message": "Close Tabs to the Left" },
 
+  "window": { "message": "Window" },
   "merge": { "message": "Merge All Windows" },
   "closeOtherWindows": { "message": "Close Other Windows" },
 
@@ -17,10 +18,10 @@
   "createShortcut": { "message": "Create Desktop Shortcut" },
 
   "copy": { "message": "Copy" },
-  "copyTitle": { "message": "Tab Title" },
-  "copyUrl": { "message": "Tab URL" },
-  "copyTitleUrl": { "message": "Tab Title & URL" },
-  "copyIP": { "message": "Tab IP" },
+  "copyTitle": { "message": "Copy Tab Title" },
+  "copyUrl": { "message": "Copy Tab URL" },
+  "copyTitleUrl": { "message": "Copy Tab Title & URL" },
+  "copyIP": { "message": "Copy Tab IP" },
 
   "internal": { "message": "Firefox Internal Page" },
   "private": { "message": "Private Network" },
@@ -28,51 +29,88 @@
   "unknown": { "message": "Unknown" },
 
 
-  "copyUrlAll": { "message": "URLs All" },
-  "copyUrlLeft": { "message": "URLs to the Left" },
-  "copyUrlRight": { "message": "URLs to the Right" },
+  "copyUrlAll": { "message": "Copy URLs All" },
+  "copyUrlLeft": { "message": "Copy URLs to the Left" },
+  "copyUrlRight": { "message": "Copy URLs to the Right" },
 
-  "copyTitleUrlAll": { "message": "Titles & URLs All" },
-  "copyTitleUrlLeft": { "message": "Titles & URLs to the Left" },
-  "copyTitleUrlRight": { "message": "Titles & URLs to the Right" },
+  "copyTitleUrlAll": { "message": "Copy Titles & URLs All" },
+  "copyTitleUrlLeft": { "message": "Copy Titles & URLs to the Left" },
+  "copyTitleUrlRight": { "message": "Copy Titles & URLs to the Right" },
+  
+  "customAll": { "message": "Copy Custom All" },
+  "customLeft": { "message": "Copy Custom to the Left" },
+  "customRight": { "message": "Copy Custom to the Right" },
 
   "bookmark": { "message": "Bookmark" },
+  "bookmarkAll": { "message": "Bookmark All" },
   "bookmarkLeft": { "message": "Bookmark to the Left" },
   "bookmarkRight": { "message": "Bookmark to the Right" },
 
   "host": { "message": "Host" },
-  "hostKeep": { "message": "Keep" },
-  "hostClose": { "message": "Close" },
+  "hostKeep": { "message": "Host Keep" },
+  "hostClose": { "message": "Host Close" },
   "hostCloseOther": { "message": "Close Other Host Tabs" },
+  "hostReload": { "message": "Host Reload" },
 
   "sort": { "message": "Sort" },
-  "sortURLAsce": { "message": "By URLs Ascending" },
-  "sortURLDesc": { "message": "By URLs Descending" },
-  "sortTitleAsce": { "message": "By Title Ascending" },
-  "sortTitleDesc": { "message": "By Title Descending" },
+  "sortURLAsce": { "message": "Sort By URLs Ascending" },
+  "sortURLDesc": { "message": "Sort By URLs Descending" },
+  "sortTitleAsce": { "message": "Sort By Title Ascending" },
+  "sortTitleDesc": { "message": "Sort By Title Descending" },
 
   "move": { "message": "Move" },
-  "moveStart": { "message": "To the Start" },
-  "moveEnd": { "message": "To the End" },
+  "moveStart": { "message": "Move To the Start" },
+  "moveEnd": { "message": "Move To the End" },
 
-  "moveNewWinLeft": { "message": "To the Left to New Window" },
-  "moveNewWinRight": { "message": "To the Right to New Window" },
+  "moveNewWinLeft": { "message": "Move To the Left to New Window" },
+  "moveNewWinRight": { "message": "Move To the Right to New Window" },
 
-  "movePrivate": { "message": "To Private Window" },
-  "movePrivateLeft": { "message": "To the Left to Private Window" },
-  "movePrivateRight": { "message": "To the Right to Private Window" },
+  "movePrivate": { "message": "Move To Private Window" },
+  "movePrivateLeft": { "message": "Move To the Left to Private Window" },
+  "movePrivateRight": { "message": "Move To the Right to Private Window" },
+
+
+
+  "discard": { "message": "Discard" },
+  "discardTab": { "message": "Discard Tab" },
+  "discardAll": { "message": "Discard All" },
+  "discardLeft": { "message": "Discard to the Left" },
+  "discardRight": { "message": "Discard to the Right" },
+
+
+  "hide": { "message": "Hide" },
+  "hideTab": { "message": "Hide Tab" },
+  "hideAll": { "message": "Hide All" },
+  "hideLeft": { "message": "Hide to the Left" },
+  "hideRight": { "message": "Hide to the Right" },
+
+
+  "show": { "message": "Show" },
+  "showAll": { "message": "Show All" },
+  "showLeft": { "message": "Show to the Left" },
+  "showRight": { "message": "Show to the Right" },
+
+  "pin": { "message": "Pin" },
+  "pinAll": { "message": "Pin All" },
+  "pinLeft": { "message": "Pin to the Left" },
+  "pinRight": { "message": "Pin to the Right" },
+
+  "Print": { "message": "Print" },
+
+  "capture": { "message": "Capture" },
+
 
   "reload": { "message": "Reload" },
-  "reloadAll": { "message": "All" },
-  "reloadLeft": { "message": "To the Left" },
-  "reloadRight": { "message": "To the Right" },
+  "reloadAll": { "message": "Reload All" },
+  "reloadLeft": { "message": "Reload To the Left" },
+  "reloadRight": { "message": "Reload To the Right" },
 
   "reloadTab": { "message": "Reload Tab every" },
-  "reload60": { "message": "1 min." },
-  "reload120": { "message": "2 min." },
-  "reload180": { "message": "3 min." },
-  "reload240": { "message": "4 min." },
-  "reload300": { "message": "5 min." },
+  "reload1": { "message": "1 min." },
+  "reload2": { "message": "2 min." },
+  "reload3": { "message": "3 min." },
+  "reload4": { "message": "4 min." },
+  "reload5": { "message": "5 min." },
 
   "reloadStop": { "message": "Stop Tab Reload" },
 
@@ -80,7 +118,7 @@
 
   "errorClipboard": { "message": "Failed to save to Clipboard" },
 
-  "proxy": { "message": "Proxy Info:" },
+  "proxy": { "message": "Proxy Info" },
 
   "tabCounter": { "message": "Tab Counter" },
   "tabCounterDescription": { "message": "Enable or Disable the Tab Counter" },
@@ -99,6 +137,9 @@
 
   "customReload": { "message": "Custom Reload" },
   "customReloadDescription": { "message": "Select a Custom Reload value" },
+  
+  "cleanUrl": { "message": "Clean URL" },
+  "cleanUrlDescription": { "message": "Remove tracking/redirecting strings from Tab URLs" },
 
   "add": { "message": "Add" },
 
@@ -133,12 +174,7 @@
   "version": { "message": "Version" },
   "homePage": { "message": "Home Page" },
   "author": { "message": "Author" },
-  "headerURL": { "message": "Header Image" },
-  "additionalBackgrounds": { "message": "Additional Backgrounds" },
-  "additionalBackgroundsAlignment": { "message": "Additional Backgrounds Alignment" },
-  "additionalBackgroundsTiling": { "message": "Additional Backgrounds Tiling" },
-  "textcolor": { "message": "Text Color" },
-  "accentcolor": { "message": "Accent Color" },
+
   "addTheme": { "message": "Add" },
   "updateTheme": { "message": "Update" },
   "deleteTheme": { "message": "Delete" },
@@ -151,19 +187,21 @@
   "export": { "message": "Export" },
   "importPreference": { "message": "Import Preferences" },
   "exportPreference": { "message": "Export Preferences" },
-  "errorSize": { "message": "File size is larger than the $1kb allowed" },
-  "errorType": { "message": "Unsupported File Format" },
-  "errorRead": { "message": "There was an error with reading the file" },
-  "errorParse": { "message": "There was an error parsing the file" },
+  "fileSizeError": { "message": "File size is larger than the $1kb allowed" },
+  "fileTypeError": { "message": "Unsupported File Format" },
+  "fileReadError": { "message": "There was an error with reading the file" },
+  "fileParseError": { "message": "There was an error parsing the file" },
 
 
-  "optionsTitle": { "message": "FoxyTab Options" },
   "recount": { "message": "Recount" },
-  "settings": { "message": "Settings" },
+  
 
+  "localeMaker": { "message": "Locale Maker" },
   "about": { "message": "About" },
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
   "error": { "message": "There was an error with the operation" },
   "help": { "message": "Help" },
   "options": { "message": "Options" },
-  "saveOptions": { "message": "Save" }
-}
+  "saveOptions": { "message": "Save" },
+  "settings": { "message": "Settings" }
+} 
