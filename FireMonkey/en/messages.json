@@ -62,12 +62,10 @@
   "scriptUpdated": { "message": "Script/CSS updated to version $1" },
 
 
-  "importScript": { "message": "Import" },
-  "exportScript": { "message": "Export" },
-  "exportAllScript": { "message": "Export" },
-
   "import": { "message": "Import" },
   "export": { "message": "Export" },
+  "exportAll": { "message": "Export" },
+
   "importPreference": { "message": "Import Preferences" },
   "exportPreference": { "message": "Export Preferences" },
   "fileSizeError": { "message": "File size is larger than the $1kb allowed" },
@@ -85,7 +83,7 @@
   "undo": { "message": "Undo" },
   "insertError": { "message": "Failed to insert" },
   "findScript": { "message": "Find scripts for this site" },
-  
+
   "advanced": { "message": "Advanced" },
   "customCSS": { "message": "Custom CSS" },
   "customCSSDescription": { "message": "Customize Options page & CodeMirror style configuration." },
@@ -98,6 +96,5 @@
   "error": { "message": "There was an error with the operation" },
   "help": { "message": "Help" },
   "options": { "message": "Options" },
-  "saveOptions": { "message": "Save" },
-  "settings": { "message": "Settings" }
+  "saveOptions": { "message": "Save" }
 }
