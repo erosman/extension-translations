@@ -23,6 +23,7 @@
   "userExcludeMatches": { "message": "User Exclude Matches" },
   "userMatchesExcludeMatches": { "message": "User Matches & Exclude Matches" },
 
+  "pinMenu": { "message": "Pin Menu" },
   "script": { "message": "Script & CSS" },
 
   "saveScript": { "message": "Save" },
@@ -61,13 +62,10 @@
   "noNewUpdate": { "message": "There is no new update." },
   "scriptUpdated": { "message": "Script/CSS updated to version $1" },
 
-
   "import": { "message": "Import" },
   "export": { "message": "Export" },
   "exportAll": { "message": "Export" },
 
-  "importPreference": { "message": "Import Preferences" },
-  "exportPreference": { "message": "Export Preferences" },
   "fileSizeError": { "message": "File size is larger than the $1kb allowed" },
   "fileTypeError": { "message": "Unsupported File Format" },
   "fileReadError": { "message": "There was an error with reading the file" },
