@@ -1,0 +1,74 @@
+{
+  "extensionName": { "message": "FoxyImage" },
+  "extensionDescription": { "message": "Een verzameling afbeeldingsgerelateerde acties" },
+
+  "Edit": { "message": "Afbeelding bewerken" },
+  "rotate": { "message": "Draaien" },
+  "rotateLeft": { "message": "Naar links" },
+  "rotateRight": { "message": "Naar rechts" },
+  "rotate180": { "message": "180°" },
+  
+  "flip": { "message": "Spiegelen" },
+  "flipVertical": { "message": "Verticaal" },
+  "flipHorizontal": { "message": "Horizontaal" },
+  "reset": { "message": "Standaardwaarden" },
+
+  "openImage": { "message": "Afbeelding openen op nieuw tabblad" },
+  
+  "copyData": { "message": "Afbeelding kopiëren als gegevens-uri" },
+  "textClipboard": { "message": "De gegevens zijn gekopieerd naar het klembord" },
+  "errorClipboard": { "message": "Het opslaan op het klembord is mislukt" },
+
+  "images": { "message": "Afbeeldingen" },
+  "saveAllImages": { "message": "Alles opslaan" },
+  "saveSelectedImages": { "message": "Selectie opslaan" },
+  "openSelectedImages": { "message": "Selectie openen op nieuwe tabbladen" },
+
+  "imageLinks": { "message": "Afbeeldingskoppelingen" },
+  "saveAllImageLinks": { "message": "Alles opslaan" },
+  "saveSelectedImageLinks": { "message": "Selectie opslaan" },
+  "openSelectedImageLinks": { "message": "Selectie openen op nieuwe tabbladen" },
+
+  "link": { "message": "Koppelingsdoelen" },
+  "saveTargetImages": { "message": "Alle doelafbeeldingen opslaan" },
+  "saveTargetImageLinks": { "message": "Alle doelafbeeldingskoppelingen opslaan" },
+
+
+  "tabs": { "message": "Tabbladen" },
+  "saveImagesLeft": { "message": "Afbeeldingen links hiervan opslaan" },
+  "saveImagesRight": { "message": "Afbeeldingen rechts hiervan opslaan" },
+  "saveImageLinksLeft": { "message": "Afbeeldingskoppelingen links hiervan opslaan" },
+  "saveImageLinksRight": { "message": "Afbeeldingskoppelingen rechts hiervan opslaan" },
+
+
+  "confirmQuantity": { "message": "U staat op het punt om $1 items te verwerken.\nWilt u doorgaan?" },
+
+  
+  "notFound": { "message": "Niet gevonden" },
+
+  "patterns": { "message": "Filterpatronen" },
+  "patternsDescription": { "message": "Voer patronen in om downloads te filteren" },
+
+
+  "importPreference": { "message": "Voorkeuren importeren" },
+  "exportPreference": { "message": "Voorkeuren exporteren" },
+
+  "errorSize": { "message": "De bestandsgrootte overschrijdt de toegestane $1kb" },
+  "errorType": { "message": "Niet-ondersteund bestandsformaat" },
+  "errorRead": { "message": "Er is een fout opgetreden tijdens het uitlezen van het bestand" },
+  "errorParse": { "message": "Er is een fout opgetreden tijdens het verwerken van het bestand" },
+
+  "errorPattern": { "message": "Er is een fout opgetreden met het patroon" },
+  "errorPatternEnd": { "message": "Patronen dienen te beginnen met/eindigen op / en mogen geen aanvullende opties bevatten" },
+  "errorWildcard": { "message": "Patronen mogen niet beginnen met/eindigen op een jokerteken" },
+  "errorShort": { "message": "Zeer korte patronen kunnen leiden tot onverwachte resultaten" },
+  "errorScheme": { "message": "Slechts één * toegestaan" },
+
+
+  "about": { "message": "Over" },
+  "amo":  { "message": "Op sommige url's voert Firefox beperkingen uit" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "options": { "message": "Opties" },
+  "saveOptions": { "message": "Opslaan" }
+}

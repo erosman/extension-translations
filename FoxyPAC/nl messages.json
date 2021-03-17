@@ -1,0 +1,61 @@
+// version 2.5
+
+{
+  "extensionName": { "message": "FoxyPAC" },
+  "extensionDescription": { "message": "Maak, bewerk en exporteer op eenvoudige wijze automatische proxyconfiguratie (PAC), of stel deze in" },
+
+  "patterns": { "message": "Patrones" },
+  "proxies": { "message": "Proxy's" },
+  
+  "login": { "message": "Inloggen" },
+  "editPattern": { "message": "Patroon bewerken" },
+
+  "network": { "message": "Lokaal en privénetwerk" },
+  "plainhost": { "message": "Kale host" },
+  "importPreference": { "message": "Voorkeuren importeren" },
+  "exportPreference": { "message": "Voorkeuren exporteren" },
+
+  "PAC": { "message": "PAC" },
+  "setPAC": { "message": "Instellen" },
+  "resetPAC": { "message": "Standaardwaarden" },
+  "exportPAC": { "message": "Exporteren" },
+
+  "onOff": { "message": "Klik om in/uit te schakelen" },
+
+  "noProxy": { "message": "U heeft nog geen proxy's ingesteld." },
+  
+  "cancel": { "message": "Annuleren" },
+  "userPassError": { "message": "Voer een gebruikersnaam en wachtwoord in." },
+  
+
+  "errorSize": { "message": "De bestandsgrootte overschrijdt de toegestane $1kb" },
+  "errorType": { "message": "Niet-ondersteund bestandsformaat" },
+  "errorRead": { "message": "Er is een fout opgetreden tijdens het uitlezen van het bestand" },
+  "errorParse": { "message": "Er is een fout opgetreden tijdens het verwerken van het bestand" },
+
+  "errorWildcard": { "message": "Patronen mogen niet beginnen met/eindigen op een jokerteken" },
+  "errorShort": { "message": "Zeer korte patronen kunnen leiden tot onverwachte resultaten" },
+  "errorScheme": { "message": "Slechts één * toegestaan" },
+
+  "autologin": { "message": "Automatisch inloggen" },
+
+
+  "byPattern": { "message": "Proxy op basis van patronen" },
+  "disable": { "message": "Uitschakelen" },
+  
+  
+  "myIP": { "message": "Mijn ip-adres" },
+  "authError": { "message": "$1 weigert verbindingen:\n \u00A0\u2022 Controleer uw proxy-instellingen\n \u00A0\u2022 Neem contact op met uw netwerkbeheerder" },
+  
+  "foxyProxyImport": { "message": "FoxyProxy-importering" },
+  "import": { "message": "Importeren" },
+
+  "delete": { "message": "Verwijderen" },
+
+  "about": { "message": "Over" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "options": { "message": "Opties" },
+  "saveOptions": { "message": "Opslaan" },
+  "settings": { "message": "Instellingen" }
+}

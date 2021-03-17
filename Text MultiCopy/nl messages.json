@@ -1,0 +1,41 @@
+// version 2.10
+
+{
+  "extensionName": { "message": "Text MultiCopy" },
+  "extensionDescription": { "message": "Kopieer tekst meermaals alvorens te plakken" },
+
+  "save": { "message": "Selectie opslaan" },
+  "copySaved": { "message": "Opgeslagen op klembord" },
+  "pasteSaved": { "message": "Plak hier het opgeslagen item" },
+
+  "totalSaved": { "message": "Totaal opgeslagen:" },
+  "totalPasted": { "message": "Totaal geplakt:" },
+  "totalCopied": { "message": "Totaal gekopieerd naar klembord:" },
+
+  "errorEmpty": { "message": "De opslag is leeg" },
+
+  "customCopy": { "message": "Aangepast kopiëren" },
+  "customCopyDescription": { "message": "Stel een aangepaste kopieeropmaak in" },
+
+  "divider": { "message": "Scheiding" },
+  "dividerDescription": { "message": "Kies de voorkeurstekstscheiding" },
+
+  "disableNotification": { "message": "Meldingen uitschakelen" },
+  "disableNotificationDescription": { "message": "Schakel in om informatieve meldingen uit te schakelen" },
+
+  "export": { "message": "Exporteren" },
+  "delete": { "message": "Verwijderen" },
+
+  "savedData": { "message": "Opgeslagen gegevens" },
+  "dataChanged": { "message": "De opgeslagen gegevens zijn gewijzigd - door op te slaan worden deze gegevens vervangen." },
+
+  "errorClipboard": { "message": "Opslaan op klembord mislukt" },
+
+  "about": { "message": "Over" },
+  "amo":  { "message": "Op sommige url's voert Firefox beperkingen uit" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "options": { "message": "Opties" },
+  "saveOptions": { "message": "Opslaan" },
+  "settings": { "message": "Instellingen" }
+}

@@ -1,0 +1,21 @@
+{
+  "extensionName": { "message": "Replace" },
+  "extensionDescription": { "message": "Zoek en vervang platte tekst of reguliere uitdrukkingen op websites" },
+
+
+  "find": { "message": "Zoeken" },
+  "replace": { "message": "Vervangen" },
+  "clear": { "message": "Wissen" },
+  "matchCase": { "message": "Hoofdlettergevoelig" },
+
+  "errorNotFound": { "message": "Het gezochte patroon is niet gevonden" },
+  "errorPattern": { "message": "Er is een fout opgetreden met het patroon" },
+
+
+  "about": { "message": "Over" },
+  "amo":  { "message": "Op sommige url's voert Firefox beperkingen uit" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "options": { "message": "Opties" },
+  "saveOptions": { "message": "Opslaan" }
+}

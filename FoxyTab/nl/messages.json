@@ -1,0 +1,207 @@
+{
+  "extensionName": { "message": "FoxyTab" },
+  "extensionDescription": { "message": "Een verzameling tabblad-gerelateerde acties" },
+
+
+  "duplicate": { "message": "Tabblad klonen" },
+  "closeDuplicate": { "message": "Gekloonde tabbladen sluiten" },
+
+  "closeLeft": { "message": "Tabbladen links hiervan sluiten" },
+
+  "window": { "message": "Venster" },
+  "merge": { "message": "Alle vensters samenvoegen" },
+  "closeOtherWindows": { "message": "Andere vensters sluiten" },
+
+  "saveAsPDF": { "message": "Tabblad opslaan als pdf" },
+  "errorSaveAsPDF": { "message": "Opslaan als pdf is niet beschikbaar op macOS en in Firefox 56 of lager" },
+
+  "createShortcut": { "message": "Bureaubladsnelkoppeling maken" },
+
+  "copy": { "message": "Kopiëren" },
+  "copyTitle": { "message": "Tabbladnaam kopiëren" },
+  "copyUrl": { "message": "Tabblad-url kopiëren" },
+  "copyTitleUrl": { "message": "Tabbladnaam en -url kopiëren" },
+  "copyIP": { "message": "IP-adres van tabblad kopiëren" },
+
+  "internal": { "message": "Interne Firefox-pagina" },
+  "private": { "message": "Privénetwerk" },
+  "cache": { "message": "Geladen uit cache" },
+  "unknown": { "message": "Onbekend" },
+
+
+  "copyUrlAll": { "message": "Alle url's kopiëren" },
+  "copyUrlLeft": { "message": "URL's links hiervan kopiëren" },
+  "copyUrlRight": { "message": "URL's rechts hiervan kopiëren" },
+
+  "copyTitleUrlAll": { "message": "Alle namen en url's kopiëren" },
+  "copyTitleUrlLeft": { "message": "Namen en url's links hiervan kopiëren" },
+  "copyTitleUrlRight": { "message": "Namen en url's rechts hiervan kopiëren" },
+  
+  "customAll": { "message": "Alle aangepaste informatie kopiëren" },
+  "customLeft": { "message": "Aangepaste informatie links hiervan kopiëren" },
+  "customRight": { "message": "Aangepaste informatie rechts hiervan kopiëren" },
+
+  "bookmark": { "message": "Toevoegen aan bladwijzers" },
+  "bookmarkAll": { "message": "Alle tabbladen toevoegen aan bladwijzers" },
+  "bookmarkLeft": { "message": "Tabbladen links hiervan toevoegen aan bladwijzers" },
+  "bookmarkRight": { "message": "Tabbladen rechts hiervan toevoegen aan bladwijzers" },
+
+  "host": { "message": "Host" },
+  "hostKeep": { "message": "Host bewaren" },
+  "hostClose": { "message": "Host sluiten" },
+  "hostCloseOther": { "message": "Andere hosttabbladen sluiten" },
+  "hostReload": { "message": "Host herladen" },
+
+  "sort": { "message": "Sorteren" },
+  "sortURLAsce": { "message": "Sorteren op url (oplopend)" },
+  "sortURLDesc": { "message": "Sorteren op url (aflopend)" },
+  "sortTitleAsce": { "message": "Sorteren op naam (oplopend)" },
+  "sortTitleDesc": { "message": "Sorteren op naam (aflopend)" },
+
+  "move": { "message": "Verplaatsen" },
+  "moveStart": { "message": "Verplaatsen naar begin van rij" },
+  "moveEnd": { "message": "Verplaatsen naar einde van rij" },
+
+  "moveNewWinLeft": { "message": "Tabbladen links hiervan verplaatsen naar nieuw venster" },
+  "moveNewWinRight": { "message": "Tabbladen rechts hiervan verplaatsen naar nieuw venster" },
+
+  "movePrivate": { "message": "Verplaatsen naar privévenster" },
+  "movePrivateLeft": { "message": "Tabbladen links hiervan verplaatsen naar privévenster" },
+  "movePrivateRight": { "message": "Tabbladen rechts hiervan verplaatsen naar privévenster" },
+
+
+
+  "discard": { "message": "Slaapstand" },
+  "discardTab": { "message": "Tabblad in slaapstand zetten" },
+  "discardAll": { "message": "Alle tabbladen in slaapstand zetten" },
+  "discardLeft": { "message": "Tabbladen links hiervan in slaapstand zetten" },
+  "discardRight": { "message": "Tabbladen rechts hiervan in slaapstand zetten" },
+
+
+  "hide": { "message": "Verbergen" },
+  "hideTab": { "message": "Tabblad verbergen" },
+  "hideAll": { "message": "Alle tabbladen verbergen" },
+  "hideLeft": { "message": "Tabbladen links hiervan verbergen" },
+  "hideRight": { "message": "Tabbladen rechts hiervan verbergen" },
+
+
+  "show": { "message": "Tonen" },
+  "showAll": { "message": "Alle tabbladen tonen" },
+  "showLeft": { "message": "Tabbladen links hiervan tonen" },
+  "showRight": { "message": "Tabbladen rechts hiervan tonen" },
+
+  "pin": { "message": "Vastmaken" },
+  "pinAll": { "message": "Alle tabbladen vastmaken" },
+  "pinLeft": { "message": "Tabbladen links hiervan vastmaken" },
+  "pinRight": { "message": "Tabbladen rechts hiervan vastmaken" },
+
+  "Print": { "message": "Afdrukken" },
+
+  "capture": { "message": "Vastleggen" },
+
+
+  "reload": { "message": "Herladen" },
+  "reloadAll": { "message": "Alle tabbladen herladen" },
+  "reloadLeft": { "message": "Tabbladen links hiervan herladen" },
+  "reloadRight": { "message": "Tabbladen rechts hiervan herladen" },
+
+  "reloadTab": { "message": "Tabblad herladen, elke" },
+  "reload1": { "message": "1 min." },
+  "reload2": { "message": "2 min." },
+  "reload3": { "message": "3 min." },
+  "reload4": { "message": "4 min." },
+  "reload5": { "message": "5 min." },
+
+  "reloadStop": { "message": "Tabblad niet meer herladen" },
+
+  "textConfirmCloseLeft": { "message": "U staat op het punt om $1 tabbladen te sluiten. Weet u zeker dat u wilt doorgaan?" },
+
+  "errorClipboard": { "message": "Het kopiëren naar het klembord is mislukt" },
+
+  "proxy": { "message": "Proxy-informatie" },
+
+  "tabCounter": { "message": "Tabbladteller" },
+  "tabCounterDescription": { "message": "Schakel de tabbladteller in of uit" },
+  "badgeBGColor": { "message": "Achtergrondkleur van emblemen" },
+  "badgeBGColorDescription": { "message": "Wijzig de achtergrondkleur van emblemen" },
+  "badgeTextColor": { "message": "Tekstkleur van emblemen" },
+  "badgeTextColorDescription": { "message": "Wijzig de tekstkleur van emblemen" }, 
+  "reset": { "message": "Standaardwaarden" }, 
+  "delete": { "message": "Verwijderen" },
+  
+  "contextMenu": { "message": "Rechtermuisknopmenu" },
+  "contextMenuDescription": { "message": "Schakel rechtermuisknopmenu-items in/uit of herorden ze" },
+  
+  "customCopy": { "message": "Aangepast kopiëren" },
+  "customCopyDescription": { "message": "Stel een aangepaste kopieeropmaak in" },
+
+  "customReload": { "message": "Aangepast herladen" },
+  "customReloadDescription": { "message": "Stel een aangepaste herlaadwaarde in" },
+  
+  "cleanUrl": { "message": "Kale url's" },
+  "cleanUrlDescription": { "message": "Verwijder tracking en doorverwijzingen uit url's" },
+
+  "add": { "message": "Toevoegen" },
+
+  "date": { "message": "Datum" },
+  "weekday": { "message": "Weekdagopmaak" },
+  "weekdayDescription": { "message": "za(t) of zaterdag" },
+
+  "month": { "message": "Maandopmaak" },
+  "monthDescription": { "message": "jan of januari " },
+
+  "short": { "message": "Kort" },
+  "long": { "message": "Lang" },
+
+  "clock": { "message": "Klok" },
+  "hour12": { "message": "12-uursklok" },
+  "hour12Description": { "message": "Standaard: 24 uur" },
+
+  "restore": { "message": "Standaardwaarden herstellen" },
+
+
+  "container": { "message": "Container" },
+  "containerDescription": { "message": "Containerbeheer" },
+  "errorPattern": { "message": "Er is een fout opgetreden met het patroon" },
+  "errorDuplicatePattern": { "message": "Het patroon is al in gebruik door een andere container" },
+
+
+  "theme": { "message": "Thema" },
+  "FoxyTabThemes": { "message": "FoxyTab-thema's" },
+  "savedThemes": { "message": "Opgeslagen thema's" },
+  "name": { "message": "Naam" },
+  "description": { "message": "Omschrijving" },
+  "version": { "message": "Versie" },
+  "homePage": { "message": "Website" },
+  "author": { "message": "Maker" },
+
+  "addTheme": { "message": "Toevoegen" },
+  "updateTheme": { "message": "Bijwerken" },
+  "deleteTheme": { "message": "Verwijderen" },
+  "clearTheme": { "message": "Wissen" },
+  "applyTheme": { "message": "Toepassen" },
+  "resetTheme": { "message": "Standaardwaarden" },
+
+
+  "import": { "message": "Importeren" },
+  "export": { "message": "Exporteren" },
+  "importPreference": { "message": "Voorkeuren importeren" },
+  "exportPreference": { "message": "Voorkeuren exporteren" },
+  "fileSizeError": { "message": "Het bestand overschrijdt de toegestane $1kb" },
+  "fileTypeError": { "message": "Niet-ondersteund bestandsformaat" },
+  "fileReadError": { "message": "Er is een fout opgetreden tijdens het uitlezen van het bestand" },
+  "fileParseError": { "message": "Er is een fout opgetreden tijdens het verwerken van het bestand" },
+
+
+  "recount": { "message": "Hertellen" },
+  
+
+  "localeMaker": { "message": "Taalsamenstelling" },
+  "about": { "message": "Over" },
+  "amo":  { "message": "Op sommige url's voert Firefox beperkingen uit" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "options": { "message": "Opties" },
+  "saveOptions": { "message": "Opslaan" },
+  "settings": { "message": "Instellingen" }
+} 

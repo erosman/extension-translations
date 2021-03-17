@@ -1,0 +1,22 @@
+{
+  "extensionName": { "message": "IMGoogle" },
+  "extensionDescription": { "message": "Google omgekeerd zoeken naar afbeeldingen" },
+
+  "search": { "message": "Zoeken naar deze afbeelding op Google" },
+  "dropboxText": { "message": "Sleep de afbeelding hierheen" },
+ 
+  "sending": { "message": "Bezig met versturen van gegevens…" },  
+  "errorSrc": { "message": "Niet-ondersteunde afbeeldingsbron" },
+  "errorType": { "message": "Niet-ondersteund bestandsformaat" },
+  "fileSrc": { "message": "Door het ontbreken van een lokale-bestandstoegang-api, kunt u alleen de zijbalk gebruiken." },
+
+  "activeTab": { "message": "Tabblad openen op voorgrond" },
+  "activeTabDescription": { "message": "Schakel in als u het resultatentabblad wilt openen op de voorgrond in plaats van de achtergrond." },  
+
+  "about": { "message": "Over" },
+  "amo":  { "message": "Op sommige url's voert Firefox beperkingen uit" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "saveOptions": { "message": "Opslaan" },
+  "settings": { "message": "Instellingen" }
+}

@@ -1,0 +1,27 @@
+// version 1.11
+
+{
+  "extensionName": { "message": "Copy PlainText" },
+  "extensionDescription": { "message": "Kopieer/Plak platte tekst (dus zonder opmaak)" },
+
+  "pastePlainText": { "message": "Platte tekst plakken" },
+  "errorPaste": { "message": "Het plakken is mislukt" },
+
+  "noIndent": { "message": "Regelinspringing gebruiken" },
+  "noIndentDescription": { "message": "Schakel in om spaties aan het begin van regels te verwijderen" },
+
+  "keyboardShortcut": { "message": "Sneltoets" },
+  "keyboardShortcutDescription": { "message": "Kies een sneltoets" },
+
+  "reset": { "message": "Standaardwaarden" },
+
+  "errorClipboard": { "message": "Het kopiëren naar het klembord is mislukt" },
+
+  "about": { "message": "Over" },
+  "amo":  { "message": "Op sommige url's voert Firefox beperkingen uit" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "options": { "message": "Opties" },
+  "saveOptions": { "message": "Opslaan" },
+  "settings": { "message": "Instellingen" }
+}

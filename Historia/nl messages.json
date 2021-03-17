@@ -1,0 +1,74 @@
+{
+  "extensionName": { "message": "Historia" },
+  "extensionDescription": { "message": "Krijg de controle terug over uw navigatiegeschiedenis" },
+
+
+  "deleteHistory": { "message": "Geschiedenis wissen" },
+  "preferences": { "message": "Voorkeuren" },
+
+  "patterns": { "message": "Filterpatronen" }, 
+  "patternsDescription": { "message": "Voer patronen in die geweerd moeten worden uit uw navigatiegeschiedenis" }, 
+  
+  "keyword": { "message": "Trefwoord" },
+  "byKeywordDescription": { "message": "Het trefwoord en maximaal aantal op te halen resultaten" },
+  
+  "start": { "message": "Begin" },
+  "startDescription": { "message": "De datum vanaf waar moet worden gezocht" },
+  "end": { "message": "Eind" },
+  "endDescription": { "message": "De datum tot waar moet worden gezocht" },
+  
+  
+  "max": { "message": "Maximaal aantal resultaten" },
+  "maxDescription": { "message": "Het maximaal aantal te tonen zoekresultaten" },
+  
+  "dateRange": { "message": "Geschiedenisitems tussen $1 en $2 worden verwijderd" },
+  "totalFound": { "message": "Totaalaantal zoekresultaten:" },
+
+
+  "delete": { "message": "Verwijderen" },
+  
+
+  "deleteRecentHistoryDescription": { "message": "Het aantal te verwijderen uren (via het werkbalkmenu)" },
+
+  "autoDelete": { "message": "Geschiedenis automatisch verwijderen" },
+  "autoDeleteDescription": { "message": "Het aantal automatisch te verwijderen dagen aan geschiedenis" },
+
+
+  "importPreference": { "message": "Voorkeuren importeren" },
+  "exportPreference": { "message": "Voorkeuren exporteren" },
+
+  "errorSize": { "message": "Het bestand overschrijdt de toegestane $1kb" },
+  "errorType": { "message": "Niet-ondersteund bestandsformaat" },
+  "errorRead": { "message": "Er is een fout opgetreden tijdens het uitlezen van het bestand" },
+  "errorParse": { "message": "Er is een fout opgetreden tijdens het verwerken van het bestand" },
+  
+  "errorPattern": { "message": "Er is een fout opgetreden met het patroon" },
+  "errorPatternEnd": { "message": "Patronen moeten beginnen met/eindigen op / en mogen geen aanvullende opties bevatten" },
+  "errorWildcard": { "message": "Patronen mogen geen jokertekens bevatten" },
+  "errorShort": { "message": "Zeer korte resultaten kunnen leiden tot onverwachte resultaten" },
+  "errorScheme": { "message": "Slechts één * per patroon toegestaan" },
+
+
+
+  "deleteHostHistory": { "message": "Hostgeschiedenis verwijderen" },
+  "filterHostHistory": { "message": "Hostgeschiedenis filteren" },
+  "deleteRecentHistory": { "message": "Recente geschiedenis wissen" },
+  "deleteHostCookies": { "message": "Hostcookies wissen" },
+  "openOptions": { "message": "Opties openen" },
+  
+  
+  "errorHost": { "message": "Niet-ondersteunde host" },
+
+  
+  "addedHost": { "message": "De host is toegevoegd aan de filterpatronen" },
+  "deletingRecentHistory": { "message": "De afgelopen $1uur aan geschiedenis wordt verwijderd" },
+  "deletingHostCookies": { "message": "$1 hostcookies worden verwijderd" },
+
+
+  "about": { "message": "Over" },
+  "amo":  { "message": "Op sommige url's voert Firefox beperkingen uit" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "options": { "message": "Opties" },
+  "saveOptions": { "message": "Opslaan" }
+}
