@@ -1,0 +1,49 @@
+{
+  "extensionName": { "message": "RPNet Helper" },
+  "extensionDescription": { "message": "Download geselecteerde koppelingen met RPNet" },
+
+  "download": { "message": "RPNet-download" },
+  "hostUpdate": { "message": "De hostgegevens zijn bijgewerkt naar versie" },
+
+  "errorDownload": { "message": "RPNet-foutmelding" },
+  "errorGenLinks": { "message": "Geen links gegenereerd" },
+  "errorNoLogin": { "message": "U bent niet ingelogd.\nWilt u de inlogpagina openen?" },
+  "errorRequest": { "message": "Controleer de actie-optie." },
+  "errorResult": { "message": "Er is een foutief antwoord teruggestuurd - probeer het opnieuw." },
+  "errorSaveHDD": { "message": "RPNet kan niks opslaan op uw schijf - de links zijn gekopieerd naar het klembord." },
+  "errorSendLinks": { "message": "Er is een fout opgetreden tijdens het versturen - probeer het opnieuw." },
+  "errorUserPass": { "message": "Gebruikersnaam-/Wachtwoordfout: log opnieuw in." },
+
+  "confirmDL": { "message": "Wilt u het volgende downloaden met RPNet?" },
+
+  "saveHDD": { "message": "De download is gestart. Bekijk de bestanden op uw schijf om de voortgang bij te houden." },
+  "saveTorrent": { "message": "De torrentdownload is gestart. Bekijk de torrentbestanden om de voortgang bij te houden." },
+  "saveQueue": { "message": "De wachtrijdownload is gestart. Bekijk de wachtrij om de voortgang bij te houden." },
+  "unsupported": { "message": "De volgnde hosts worden momenteel niet ondersteund door RPNet:" },
+
+  "errorClipboard": { "message": "Opslaan op klembord mislukt" },
+  "textClipboard": { "message": "De links zijn opgeslagen op het klembord" },
+
+  "optionDownload": { "message": "Downloadoptie" },
+  "optionDownloadDescription": { "message": "Kies uw voorkeursdownloadmethode" },
+
+  "optionDirect": { "message": "Directe downloadoptie" },
+
+  "optionHDD": { "message": "Opslaan op schijf" },
+  "optionBrowser": { "message": "Webbrowser" },
+  "optionClipboard": { "message": "Opslaan op klembord" },
+  "optionJD": { "message": "JDownloader" },
+  "optionNDM": { "message": "Ninja Download Manager" },
+  "optionAria2": { "message": "aria2" },
+  "optionXDM": { "message": "Xtreme Download Manager" },
+  "optionDAP": { "message": "Download Accelerator Plus (DAP)" },
+
+  "errorProgram": { "message": "Het verbinden met $1 is mislukt. Zorg dat het programma actief is en probeer het opnieuw." },
+
+  "about": { "message": "Over" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "options": { "message": "Opties" },
+  "saveOptions": { "message": "Opslaan" },
+  "settings": { "message": "Instellingen" }
+}

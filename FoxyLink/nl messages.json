@@ -1,0 +1,35 @@
+{
+  "extensionName": { "message": "FoxyLink" },
+  "extensionDescription": { "message": "Een verzameling koppelingsgerelateerde acties" },
+
+  
+  "open": { "message": "Selectie openen" },
+  "copy": { "message": "Selectie kopiëren naar klembord" },
+  
+  "save": { "message": "Selectie opslaan" },
+  "openSaved": { "message": "Opgeslagen koppelingen openen" },
+  "copySaved": { "message": "Opgeslagen koppelingen kopiëren naar klembord" },
+  "pasteSaved": { "message": "Plak hier opgeslagen koppelingen" },
+
+
+  "totalSaved": { "message": "Totaal opgeslagen:" },
+  "totalPasted": { "message": "Totaal geplakt:" },
+  "totalCopied": { "message": "Totaal gekopieerd naar klembord:" },
+  
+  "errorEmpty": { "message": "De opslag is leeg" }, 
+  "errorNoLinks": { "message": "Geen koppelingen aangetroffen" },
+
+
+
+  "disableNotification": { "message": "Meldingen uitschakelen" },
+  "disableNotificationDescription": { "message": "Schakel in als u geen informatieve meldingen wilt ontvangen" },
+
+  "amo":  { "message": "Op sommige url's voert Firefox beperkingen uit" },
+  "changelog": { "message": "Wijzigingslog" },
+  "credits": { "message": "Met dank aan" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "options": { "message": "Opties" },
+  "saveOptions": { "message": "Opslaan" },
+  "support": { "message": "Ondersteuning" }
+}

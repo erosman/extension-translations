@@ -1,0 +1,31 @@
+{
+  "extensionName": { "message": "IMDb Plus" },
+  "extensionDescription": { "message": "Voeg eigen aanpassingen toe aan de IMDb-website" },
+
+
+  "age": { "message": "ouderdom" },
+  "tableHeader": { "message": "Tabel met wekelijks gemiddelde" },
+  "weeklyAve": { "message": "Wekelijks gemiddelde:" },
+
+
+  "addAge": { "message": "Leeftijd toevoegen" },
+  "addAgeDescription": { "message": "Voeg de leeftijd van personen toe, achter de geboortedatum" },  
+  "addWeeklyAverage": { "message": "Wekelijks gemiddelde toevoegen" },
+  "addWeeklyAverageDescription": { "message": "Voeg het wekelijks gemiddelde van opbrengsten toe aan de US Box Office-pagina" },  
+  "removeLoadlate": { "message": "LoadLate verwijderen" },
+  "removeLoadlateDescription": { "message": "Laad afbeeldingen zonder vertraging (vooral nuttig als JavaScript is uitgeschakeld)" },  
+  "showAll": { "message": "Alle ingeklapte secties tonen" },
+  "showAllDescription": { "message": "Toon alle ingeklapte secties (vooral nuttig als JavaScript is uitgeschakeld)" },  
+  "biggerThumbs": { "message": "Grotere miniaturen" },
+  "biggerThumbsDescription": { "message": "Toon grotere miniaturen (normaliter zijn IMDb-minaturen 32px breed)." },
+
+  "disabled": { "message": "Uitgeschakeld" },
+
+  
+  "about": { "message": "Over" },
+  "amo":  { "message": "Op sommige url's voert Firefox beperkingen uit" },
+  "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
+  "help": { "message": "Hulp" },
+  "options": { "message": "Opties" },
+  "saveOptions": { "message": "Opslaan" }
+}
