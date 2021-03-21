@@ -37,7 +37,7 @@
 
   "newJS": { "message": "New UserScript" },
   "newCSS": { "message": "New UserCSS" },
-  "saveTemplate": { "message": "Template" },
+  "saveTemplate": { "message": "Save as Template" },
 
   "tabToSpaces": { "message": "Tabs to Spaces" },
   "trimTrailingSpaces": { "message": "Trim Trailing Spaces" },
