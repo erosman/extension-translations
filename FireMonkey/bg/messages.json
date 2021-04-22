@@ -36,19 +36,19 @@
     "message": "Брояч"
   },
   "globalScriptExcludeMatches": {
-    "message": "Global Script Exclude Matches"
+    "message": "Общи шаблони за изключване на скриптове"
   },
   "globalScriptExcludeMatchesDescription": {
-    "message": "Exclude Match pattens (one per line) to prevent all scripts from running on them."
+    "message": "Шаблоните (по един на ред) за изключване чрез съвпадение предотвратяват изпълнение на скриптовете."
   },
   "userMatches": {
-    "message": "User Matches"
+    "message": "Потребителски шаблони"
   },
   "userExcludeMatches": {
-    "message": "User Exclude Matches"
+    "message": "Потребителски шаблони за изключване"
   },
   "userMatchesExcludeMatches": {
-    "message": "User Matches & Exclude Matches"
+    "message": "Потребителски шаблони за включване и изключване"
   },
   "pinMenu": {
     "message": "Фиксиране на менюто"
@@ -192,10 +192,10 @@
     "message": "Потребителски стилов лист"
   },
   "customCSSDescription": {
-    "message": "Customize Options page & CodeMirror style configuration."
+    "message": "Настройка на изгледа на страницата с настройки и CodeMirror."
   },
   "cmOptionsDescription": {
-    "message": "Customize CodeMirror, addons & JavaScript lint configuration."
+    "message": "Настройка на CodeMirror, добавките и проверките на кода на JavaScript."
   },
   "cmOptionsError": {
     "message": "Грешен JSON на CodeMirror"
