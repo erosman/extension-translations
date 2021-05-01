@@ -1,9 +1,8 @@
 {
   "extensionName": { "message": "Edit" },
-  "extensionDescription": { "message": "Voorzie tekst van opmaak en voeg html, bbcode en aangepaste teksten in middels de zijbalk" },
+  "extensionDescription": { "message": "Voorzie tekst van opmaak en voeg html, bbcode en aangepaste teksten in" },
 
 
-  "findReplace": { "message": "Zoeken en vervangen" },
   "find": { "message": "Zoeken" },
   "replace": { "message": "Vervangen" },
   "clear": { "message": "Wissen" },
@@ -12,45 +11,39 @@
   "errorNotFound": { "message": "Het patroon dat u zocht is niet gevonden" },
   "errorPattern": { "message": "Er is een fout opgetreden tijdens het zoeken" },
 
-  "transform": { "message": "Letters omzetten" },
+  "bbcode": { "message": "BBCode" },
+  "html": { "message": "HTML" },
+  "markdown": { "message": "Markdown" },
+  "text": { "message": "Tekst" },
+  "custom": { "message": "Aangepast" },  
+
+  "bold": { "message": "Vetgedrukt" },
+  "italic": { "message": "Cursief" },
+  "underline": { "message": "Onderstrepen" },
+  "delete": { "message": "Verwijderen" },
+  "code": { "message": "Code" },
+  "img": { "message": "Afbeelding" },
+  "quote": { "message": "Citaat" },
+  "list": { "message": "Lijst" },
+  "listItem": { "message": "Lijstitem" },
+  "url": { "message": "URL" },
+  "table": { "message": "Tabel" },
+  "tr": { "message": "TR" },
+  "td": { "message": "TD" },
+
   "uppercase": { "message": "Hoofdletters" },
   "lowercase": { "message": "Kleine letters" },
   "capitalize": { "message": "Beginhoofdletter" },
   "invert": { "message": "Omdraaien" },
   "random": { "message": "Willekeurig" },
 
-  "tags": { "message": "Tags" },
-  "html": { "message": "HTML" },
-  "bbcode": { "message": "BBCode" },
-  "custom": { "message": "Aangepast" },
-
-  "b": { "message": "Vetgedrukt" },
-  "i": { "message": "Cursief" },
-  "u": { "message": "Onderstrepen" },
-  "del": { "message": "Verwijderd" },
-  "code": { "message": "Code" },
-  "img": { "message": "Afbeelding" },
-  "quote": { "message": "Citaat" },
-  "quote=": { "message": "Citaat=" },
-  "list": { "message": "Lijst" },
-  "listItem": { "message": "Lijstitem" },
-  "url": { "message": "URL" },
-  "url=": { "message": "URL=" },
-  "table": { "message": "Tabel" },
-  "tr": { "message": "TR" },
-  "td": { "message": "TD" },
   "removeTag": { "message": "Tags verwijderen" },
 
-
-  "customText": { "message": "Aangepaste teksten" },
-  "saveText": { "message": "Opgeslagen teksten" },
-  "saveTextDescription": { "message": "Selecteer een te bewerken of verwijderen tekst" },
-  "addText": { "message": "Tekst toevoegen" },
-  "customTextDescription": { "message": "Voer een nieuwe begin- en eindtekst/-tag in en klik op 'Toevoegen'" },
-
+  "custom": { "message": "Aangepast" },
+  "customDescription": { "message": "Klik op “Toevoegen” om aangepaste begin- en eindteksten in te voeren" },
+  "start": { "message": "Begin" },
+  "end": { "message": "Einde" },
   "add": { "message": "Toevoegen" },
-  "remove": { "message": "Verwijderen" },
-
 
   "import": { "message": "Importeren" },
   "export": { "message": "Exporteren" },
@@ -60,6 +53,7 @@
   "errorParse": { "message": "Er is een fout opgetreden tijdens het verwerken van het bestand" },
 
 
+  "localeMaker": { "message": "Taalsamenstelling" },
   "about": { "message": "Over" },
   "amo":  { "message": "Op sommige url's voert Firefox beperkingen uit" },
   "error": { "message": "Er is een fout opgetreden tijdens de handeling" },
