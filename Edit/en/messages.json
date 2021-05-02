@@ -39,7 +39,6 @@
 
   "removeTag": { "message": "Remove Tags" },
 
-  "custom": { "message": "Custom" },
   "customDescription": { "message": "Click Add to enter new custom start & end strings" },
   "start": { "message": "Start" },
   "end": { "message": "End" },
