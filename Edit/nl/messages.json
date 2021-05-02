@@ -1,6 +1,6 @@
 {
   "extensionName": { "message": "Edit" },
-  "extensionDescription": { "message": "Voorzie tekst van opmaak en voeg html, bbcode en aangepaste teksten in" },
+  "extensionDescription": { "message": "Voorzie tekst van opmaak, vervang tekst en voeg html, bbcode, markdown en aangepaste teksten in" },
 
 
   "find": { "message": "Zoeken" },
