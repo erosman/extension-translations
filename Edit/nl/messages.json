@@ -39,7 +39,6 @@
 
   "removeTag": { "message": "Tags verwijderen" },
 
-  "custom": { "message": "Aangepast" },
   "customDescription": { "message": "Klik op “Toevoegen” om aangepaste begin- en eindteksten in te voeren" },
   "start": { "message": "Begin" },
   "end": { "message": "Einde" },
