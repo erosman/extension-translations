@@ -23,7 +23,7 @@
   "userExcludeMatches": { "message": "Uitsluitingen" },
   "userMatchesExcludeMatches": { "message": "Eigen en uitsluitovereenkomsten" },
 
-  "pinMenu": { "message": "Favorieten" },
+  "sidebar": { "message": "Zijbalk" },
   "script": { "message": "Scripts en css" },
 
   "saveScript": { "message": "Opslaan" },
