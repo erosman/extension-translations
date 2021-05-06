@@ -23,7 +23,7 @@
   "userExcludeMatches": { "message": "User Exclude Matches" },
   "userMatchesExcludeMatches": { "message": "User Matches & Exclude Matches" },
 
-  "pinMenu": { "message": "Pin Menu" },
+  "sidebar": { "message": "Sidebar" },
   "script": { "message": "Script & CSS" },
 
   "saveScript": { "message": "Save" },
