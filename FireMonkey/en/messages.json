@@ -88,9 +88,8 @@
   "cmOptionsDescription": { "message": "Customize CodeMirror, addons & JavaScript lint configuration." },
   "cmOptionsError": { "message": "Invalid CodeMirror JSON" },
 
-  "localeMaker": { "message": "Locale Maker" },
+
   "about": { "message": "About" },
-  "amo":  { "message": "Firefox restricts some functions on some URLs" },
   "error": { "message": "There was an error with the operation" },
   "help": { "message": "Help" },
   "options": { "message": "Options" },
