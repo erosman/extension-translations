@@ -50,8 +50,8 @@
   "userMatchesExcludeMatches": {
     "message": "Потребителски шаблони за включване и изключване"
   },
-  "pinMenu": {
-    "message": "Фиксиране на менюто"
+  "sidebar": {
+    "message": "Странична лента"
   },
   "script": {
     "message": "Скрипт и стил"
