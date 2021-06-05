@@ -1,0 +1,25 @@
+{
+    "extensionName": { "message": "Copy PlainText" },
+    "extensionDescription": { "message": "Kopiere oder füge Text ohne Formatierung ein" },
+
+    "pastePlainText": { "message": "Füge Text ohne Formatierungen ein" },
+    "errorPaste": { "message": "Fehler beim Einfügen" },
+
+    "noIndent": { "message": "Entferne Zeileneinrückung" },
+    "noIndentDescription": { "message": "Auswählen, um alle führenden Leerzeichen jeder Zeile zu entfernen" },
+
+    "keyboardShortcut": { "message": "Tastaturkürzel" },
+    "keyboardShortcutDescription": { "message": "Wähle das gewünschte Tastaturkürzel" },
+
+    "reset": { "message": "Zurücksetzen" },
+
+    "errorClipboard": { "message": "Fehler: Klemmbrett konnte nicht gespeichert werden" },
+
+    "about": { "message": "Über" },
+    "amo":  { "message": "Firefox verbietet einige Funktionen für einige URLs" },
+    "error": { "message": "Bei der Ausführung trat ein Fehler auf" },
+    "help": { "message": "Hilfe" },
+    "options": { "message": "Optionen" },
+    "saveOptions": { "message": "Speichern" },
+    "settings": { "message": "Einstellung" }
+}
