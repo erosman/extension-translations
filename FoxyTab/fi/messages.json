@@ -1,0 +1,208 @@
+{
+  "extensionName": { "message": "FoxyTab" },
+  "extensionDescription": { "message": "Välilehtitoimien kokoelma" },
+
+
+  "duplicate": { "message": "Monista välilehti" },
+  "closeDuplicate": { "message": "Sulje välilehtien kaksoiskappaleet" },
+
+  "closeLeft": { "message": "Sulje välilehdet vasemmalla" },
+
+  "window": { "message": "Selainikkuna" },
+  "merge": { "message": "Yhdistä kaikki selainikkunat" },
+  "closeOtherWindows": { "message": "Sulje muut selainikkunat" },
+
+  "saveAsPDF": { "message": "Tallenna välilehti PDF-muodossa" },
+  "errorSaveAsPDF": { "message": "Tallenna PDF-muodossa ei toimi Mac OS X:ssä tai Firefox 56:tta edeltävissä järjestelmissä" },
+
+  "createShortcut": { "message": "Luo työpöydän pikakuvake" },
+
+  "copy": { "message": "Kopioi" },
+  "copyTitle": { "message": "Kopioi välilehden otsikko" },
+  "copyUrl": { "message": "Kopioi välilehden URL-osoite" },
+  "copyTitleUrl": { "message": "Kopioi välilehden otsikko ja URL" },
+  "copyIP": { "message": "Kopioi välilehden IP-osoite" },
+
+  "internal": { "message": "Firefoxin sisäinen sivu" },
+  "private": { "message": "Yksityinen verkko" },
+  "cache": { "message": "Ladattu välimuistista" },
+  "unknown": { "message": "Tuntematon" },
+
+
+  "copyUrlAll": { "message": "Kopioi kaikki URL-osoitteet" },
+  "copyUrlLeft": { "message": "Kopioi URL-osoitteet vasemmalla" },
+  "copyUrlRight": { "message": "Kopioi URL-osoitteet oikealla" },
+
+  "copyTitleUrlAll": { "message": "Kopioi kaikki otsikot ja URL-osoitteet" },
+  "copyTitleUrlLeft": { "message": "Kopioi otsikot ja URL-osoitteet vasemmalla" },
+  "copyTitleUrlRight": { "message": "Kopioi otsikot ja URL-osoitteet oikealla" },
+  
+  "customAll": { "message": "Itse määritelty kopionti, kopioi kaikki" },
+  "customLeft": { "message": "Itse määritelty kopionti, kaikki vasemmalla" },
+  "customRight": { "message": "Itse määritelty kopionti, kaikki oikealla" },
+
+  "bookmark": { "message": "Kirjanmerkit" },
+  "bookmarkAll": { "message": "Luo kirjanmerkit kaikista" },
+  "bookmarkLeft": { "message": "Luo kirjanmerkit vasemmalla olevista" },
+  "bookmarkRight": { "message": "Luo kirjanmerkit oikealla olevista" },
+
+  "host": { "message": "Verkkopalvelin" },
+  "hostKeep": { "message": "Pidä palvelin" },
+  "hostClose": { "message": "Sulje palvelin" },
+  "hostCloseOther": { "message": "Sulje muut saman palvelimen välilehdet" },
+  "hostReload": { "message": "Uusi yhteys palvelimeen" },
+
+  "sort": { "message": "Lajittelu" },
+  "sortURLAsce": { "message": "Lajittele nousevan URL-osoitteen mukaan" },
+  "sortURLDesc": { "message": "Lajittele laskevan URL-osoitteen mukaan" },
+  "sortTitleAsce": { "message": "Lajittele nousevan otsikon mukaan" },
+  "sortTitleDesc": { "message": "Lajittele laskevan otsikon mukaan" },
+
+  "move": { "message": "Siirrä" },
+  "moveStart": { "message": "alkuun" },
+  "moveEnd": { "message": "loppuun" },
+
+  "moveNewWinLeft": { "message": "vasemmalle uuteen selainikkunaan" },
+  "moveNewWinRight": { "message": "oikealle uuteen selainikkunaan" },
+
+  "movePrivate": { "message": "yksityiseen selainikkunaan" },
+  "movePrivateLeft": { "message": "vasemmalle yksityiseen selainikkunaan" },
+  "movePrivateRight": { "message": "oikealle yksityiseen selainikkunaan" },
+
+
+
+  "discard": { "message": "Poista" },
+  "discardTab": { "message": "Poista välilehti" },
+  "discardAll": { "message": "Poista kaikki" },
+  "discardLeft": { "message": "Poista kaikki vasemmalla" },
+  "discardRight": { "message": "Poista kaikki oikealla" },
+
+
+  "hide": { "message": "Piilota" },
+  "hideTab": { "message": "Piilota välilehti" },
+  "hideAll": { "message": "Piilota kaikki" },
+  "hideLeft": { "message": "Piilota kaikki vasemmalla" },
+  "hideRight": { "message": "Piilota kaikki oikealla" },
+
+
+  "show": { "message": "Näytä" },
+  "showAll": { "message": "Näytä kaikki" },
+  "showLeft": { "message": "Näytä kaikki vasemmalla" },
+  "showRight": { "message": "Näytä kaikki oikealla" },
+
+  "pin": { "message": "Kiinnitä" },
+  "pinAll": { "message": "Kiinnitä kaikki" },
+  "pinLeft": { "message": "Kiinnitä kaikki vasemmalla" },
+  "pinRight": { "message": "Kiinnitä kaikki oikealla" },
+
+  "Print": { "message": "Tulosta" },
+
+  "capture": { "message": "Sieppaa" },
+
+
+  "reload": { "message": "Lataa uudelleen" },
+  "reloadAll": { "message": "Lataa kaikki uudelleen" },
+  "reloadLeft": { "message": "Lataa uudelleen kaikki vasemmalla" },
+  "reloadRight": { "message": "Lataa uudelleen kaikki oikealla" },
+
+  "reloadTab": { "message": "Lataa välilehti uudelleen" },
+  "reload1": { "message": "1 min. välein" },
+  "reload2": { "message": "2 min. välein" },
+  "reload3": { "message": "3 min. välein" },
+  "reload4": { "message": "4 min. välein" },
+  "reload5": { "message": "5 min. välein" },
+
+  "reloadStop": { "message": "Lopeta välilehden uudelleenlataus" },
+
+  "textConfirmCloseLeft": { "message": "Olet sulkemassa $1 välilehteä. Jatketaanko varmasti?" },
+
+  "errorClipboard": { "message": "Ei tallentunut leikepöydälle" },
+
+  "proxy": { "message": "Välityspalvelintiedot" },
+
+  "tabCounter": { "message": "Välilehtilaskuri" },
+  "tabCounterDescription": { "message": "Käytä välilehtilaskuria tai poista se käytöstä" },
+  "badgeBGColor": { "message": "Lisäosakuvakkeen taustaväri" },
+  "badgeBGColorDescription": { "message": "Muuta lisäosakuvakkeen taustaväriä" },
+  "badgeTextColor": { "message": "Lisäosakuvakkeen tekstin väri" },
+  "badgeTextColorDescription": { "message": "Muuta lisäosakuvakkeen tekstin väriä" }, 
+  "reset": { "message": "Nollaa" }, 
+  "delete": { "message": "Poista" },
+  
+  "contextMenu": { "message": "Kontekstivalikko" },
+  "contextMenuDescription": { "message": "Käytä tai poista käytöstä kontekstivalikon kohtia ja/tai muuta niiden järjestystä" },
+  
+  "customCopy": { "message": "Itse määritelty kopiointi" },
+  "customCopyDescription": { "message": "Tee itse määritellyn kopioinnin asetukset" },
+
+  "customReload": { "message": "Itse määritelty uudelleenlataus" },
+  "customReloadDescription": { "message": "Valitse itse määritelty uudelleenlatausarvo" },
+  
+  "cleanUrl": { "message": "Puhdista URL-osoite" },
+  "cleanUrlDescription": { "message": "Poista seuranta- ja uudelleenohjausmerkkijonot välilehtien URL-osoitteista" },
+
+  "add": { "message": "Lisää" },
+
+  "date": { "message": "Päiväys" },
+  "weekday": { "message": "Viikonpäivän muoto" },
+  "weekdayDescription": { "message": "La vai lauantai" },
+
+  "month": { "message": "Kuukauden muoto" },
+  "monthDescription": { "message": "Tam vai tammikuu" },
+
+  "short": { "message": "Lyhyt" },
+  "long": { "message": "Pitkä" },
+
+  "clock": { "message": "Kello" },
+  "hour12": { "message": "12-tunnin kello" },
+  "hour12Description": { "message": "Oletus on 24-tunnin kello" },
+
+  "restore": { "message": "Palauta oletukset" },
+
+
+  "container": { "message": "Kontit" },
+  "containerDescription": { "message": "Konttien hallinta" },
+  "errorPattern": { "message": "Kaavassa on virhe" },
+  "errorDuplicatePattern": { "message": "Kaava on jo toisessa kontissa" },
+
+
+  "theme": { "message": "Teema" },
+  "FoxyTabThemes": { "message": "FoxyTab-teemat" },
+  "savedThemes": { "message": "Tallennetut teemat" },
+  "name": { "message": "Nimi" },
+  "description": { "message": "Kuvaus" },
+  "version": { "message": "Versio" },
+  "homePage": { "message": "Kotisivu" },
+  "author": { "message": "Tekijä" },
+
+  "addTheme": { "message": "Lisää" },
+  "updateTheme": { "message": "Päivitä" },
+  "deleteTheme": { "message": "Poista" },
+  "clearTheme": { "message": "Tyhjennä" },
+  "applyTheme": { "message": "Käytä" },
+  "resetTheme": { "message": "Nollaa" },
+
+
+  "import": { "message": "Tuonti" },
+  "export": { "message": "Vienti" },
+  "importPreference": { "message": "Tuo omat asetukset" },
+  "exportPreference": { "message": "Vie  omat asetukset" },
+  "fileSizeError": { "message": "Tiedoston koko on suurempi kuin sallittu $1 kt" },
+  "fileTypeError": { "message": "Tiedostomuoto ei ole tuettu" },
+  "fileReadError": { "message": "Tiedostonlukuvirhe" },
+  "fileParseError": { "message": "Tiedostonjäsennysvirhe" },
+
+
+  "recount": { "message": "Laske uudestaan" },
+  
+
+  "localeMaker": { "message": "Locale Maker" },
+  "about": { "message": "Tietoja" },
+  "amo":  { "message": "Firefox rajoittaa joitain toimintoja osoitteen perusteella" },
+  "error": { "message": "Toimintahäiriö" },
+  "help": { "message": "Ohje" },
+  "options": { "message": "Valinnat" },
+  "saveOptions": { "message": "Tallenna" },
+  "settings": { "message": "Asetukset" }
+
+} 
