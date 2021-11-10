@@ -1,0 +1,27 @@
+// version 1.11
+
+{
+  "extensionName": { "message": "Kopioi ilman muotoiluja" },
+  "extensionDescription": { "message": "Kopioi/liitä tekstiä ilman muotoiluja" },
+
+  "pastePlainText": { "message": "Liitä ilman muotoiluja" },
+  "errorPaste": { "message": "Liittäminen ei onnistunut" },
+
+  "noIndent": { "message": "Poista rivin sisennys" },
+  "noIndentDescription": { "message": "Poistaa tyhjän tilan kunkin rivin alusta" },
+
+  "keyboardShortcut": { "message": "Pikanäppäin" },
+  "keyboardShortcutDescription": { "message": "Valitse haluamasi pikanäppäin" },
+
+  "reset": { "message": "Palauta oletukset" },
+
+  "errorClipboard": { "message": "Teksti ei tallentunut leikepöydälle" },
+
+  "about": { "message": "Tietoja" },
+  "amo":  { "message": "Firefox rajoittaa joitain toimintoja osoitteen perusteella" },
+  "error": { "message": "Toimintahäiriö" },
+  "help": { "message": "Ohje" },
+  "options": { "message": "Valinnat" },
+  "saveOptions": { "message": "Tallenna" },
+  "settings": { "message": "Asetukset" }
+}
