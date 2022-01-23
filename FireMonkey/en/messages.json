@@ -1,4 +1,4 @@
-{
+﻿{
   "extensionName": { "message": "FireMonkey" },
   "extensionDescription": { "message": "Super Lightweight User Script and Style Manager" },
 
@@ -19,9 +19,9 @@
 
   "globalScriptExcludeMatches": { "message": "Global Script Exclude Matches" },
   "globalScriptExcludeMatchesDescription": { "message": "Exclude Match pattens (one per line) to prevent all scripts from running on them." },
-  "userMatches": { "message": "User Matches" },
-  "userExcludeMatches": { "message": "User Exclude Matches" },
-  "userMatchesExcludeMatches": { "message": "User Matches & Exclude Matches" },
+
+  "userMeta": { "message": "User Metadata" },
+
 
   "sidebar": { "message": "Sidebar" },
   "script": { "message": "Script & CSS" },
@@ -62,14 +62,8 @@
   "noNewUpdate": { "message": "There is no new update." },
   "scriptUpdated": { "message": "Script/CSS updated to version $1" },
 
-  "import": { "message": "Import" },
-  "export": { "message": "Export" },
-  "exportAll": { "message": "Export" },
 
-  "fileSizeError": { "message": "File size is larger than the $1kb allowed" },
-  "fileTypeError": { "message": "Unsupported File Format" },
-  "fileReadError": { "message": "There was an error with reading the file" },
-  "fileParseError": { "message": "There was an error parsing the file" },
+  "exportAll": { "message": "Export" },
 
   "log": { "message": "Log" },
   "time": { "message": "Time" },
@@ -83,15 +77,23 @@
   "findScript": { "message": "Find scripts for this site" },
 
   "advanced": { "message": "Advanced" },
-  "customCSS": { "message": "Custom CSS" },
-  "customCSSDescription": { "message": "Customize Options page & CodeMirror style configuration." },
+  "customOptionsCSS": { "message": "Custom Options CSS" },
+  "customOptionsCSSDescription": { "message": "Customize Options page & CodeMirror style configuration." },
+  "customPopupCSS": { "message": "Custom Popup CSS" },
+  "customPopupCSSDescription": { "message": "Customize toolbar popup style configuration." },
   "cmOptionsDescription": { "message": "Customize CodeMirror, addons & JavaScript lint configuration." },
   "cmOptionsError": { "message": "Invalid CodeMirror JSON" },
 
 
   "about": { "message": "About" },
   "error": { "message": "There was an error with the operation" },
+  "export": { "message": "Export" },
+  "fileParseError": { "message": "There was an error parsing the file" },
+  "fileReadError": { "message": "There was an error with reading the file" },
+  "fileSizeError": { "message": "File size is larger than the $1kb allowed" },
+  "fileTypeError": { "message": "Unsupported File Format" },
   "help": { "message": "Help" },
+  "import": { "message": "Import" },
   "options": { "message": "Options" },
   "saveOptions": { "message": "Save" }
 }
