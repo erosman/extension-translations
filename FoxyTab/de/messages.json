@@ -1,0 +1,206 @@
+{
+  "extensionName": { "message": "FoxyTab" },
+  "extensionDescription": { "message": "Sammlung von Tab-bezogenen Aktionen" },
+
+
+  "duplicate": { "message": "Tab duplizieren" },
+  "closeDuplicate": { "message": "Doppelte Tabs schließen" },
+
+  "closeLeft": { "message": "Tabs auf der linken Seite schließen" },
+
+  "window": { "message": "Fenster" },
+  "merge": { "message": "Alle Fenster zusammenführen" },
+  "closeOtherWindows": { "message": "Andere Fenster schließen" },
+
+  "saveAsPDF": { "message": "Tab als PDF speichern" },
+  "errorSaveAsPDF": { "message": "Als PDF speichern ist unter Mac OS X oder vor Firefox 56 nicht verfügbar" },
+
+  "createShortcut": { "message": "Desktop-Verknüpfung erstellen" },
+
+  "copy": { "message": "Kopieren" },
+  "copyTitle": { "message": "Titel des Tabs kopieren" },
+  "copyUrl": { "message": "Tab-URL kopieren" },
+  "copyTitleUrl": { "message": "Tab-Titel & URL-kopieren" },
+  "copyIP": { "message": "Tab IP kopieren" },
+
+  "internal": { "Nachricht": "Firefox-Interne Seite" },
+  "private": { "Nachricht": "Privates Netzwerk" },
+  "cache": { "message": "Aus dem Cache geladen" },
+  "unknown": { "message": "Unbekannt" },
+
+
+  "copyUrlAll": { "message": "Alle URLs kopieren" },
+  "copyUrlLeft": { "message": "URLs nach links kopieren" },
+  "copyUrlRight": { "message": "URLs nach rechts kopieren" },
+
+  "copyTitleUrlAll": { "message": "Alle Titel & URLs kopieren" },
+  "copyTitleUrlLeft": { "message": "Titel & URLs links kopieren" },
+  "copyTitleUrlRight": { "message": "Titel & URLs rechts kopieren" },
+  
+  "customAll": { "message": "Alle Benutzerdefinierten kopieren" },
+  "customLeft": { "message": "Benutzerdefinierte links kopieren" },
+  "customRight": { "message": "Benutzerdefinierte rechts kopieren" },
+
+  "bookmark": { "message": "Lesezeichen" },
+  "bookmarkAll": { "message": "Lesezeichen für alle setzen" },
+  "bookmarkLeft": { "message": "Lesezeichen für alle auf der linken Seite setzen" },
+  "bookmarkRight": { "message": "Lesezeichen für alle auf der rechten Seite setzen" },
+
+  "host": { "message": "Host" },
+  "hostKeep": { "message": "Host behalten" },
+  "hostClose": { "message": "Host schließen" },
+  "hostCloseOther": { "message": "Andere Host-Tabs schließen" },
+  "hostReload": { "message": "Host neu laden" },
+
+  "sort": { "message": "Sortieren" },
+  "sortURLAsce": { "message": "Nach URLs aufsteigend sortieren" },
+  "sortURLDesc": { "message": "Nach URLs absteigend sortieren" },
+  "sortTitleAsce": { "message": "Nach Titel aufsteigend sortieren" },
+  "sortTitleDesc": { "message": "Nach Titel absteigend sortieren" },
+
+  "move": { "message": "Verschieben" },
+  "moveStart": { "message": "Zum Start bewegen" },
+  "moveEnd": { "message": "Zum Ende bewegen" },
+
+  "moveNewWinLeft": { "message": "Nach links in ein neues Fenster verschieben" },
+  "moveNewWinRight": { "message": "Nach rechts in das neue Fenster verschieben" },
+
+  "movePrivate": { "message": "In privates Fenster verschieben" },
+  "movePrivateLeft": { "message": "Alle links in privates Fenster verschieben" },
+  "movePrivateRight": { "message": "Alle rechts in privates Fenster verschieben" },
+
+
+
+  "verwerfen": { "message": "Verwerfen" },
+  "discardTab": { "message": "Tab verwerfen" },
+  "discardAll": { "message": "Alles verwerfen" },
+  "discardLeft": { "message": "Alle links verwerfen" },
+  "discardRight": { "message": "Alle rechts verwerfen" },
+
+
+  "hide": { "message": "Ausblenden" },
+  "hideTab": { "message": "Tab ausblenden" },
+  "hideAll": { "message": "Alles ausblenden" },
+  "hideLeft": { "message": "Alle links ausblenden" },
+  "hideRight": { "message": "Alle rechts ausblenden" },
+
+
+  "show": { "message": "Anzeigen" },
+  "showAll": { "message": "Alle anzeigen" },
+  "showLeft": { "message": "Alle links anzeigen" },
+  "showRight": { "message": "Alle rechts anzeigen" },
+
+  "pin": { "message": "Anheften" },
+  "pinAll": { "message": "Alle anheften" },
+  "pinLinks": { "message": "Alle links anheften" },
+  "pinRight": { "message": "Alle rechts anheften" },
+
+  "Print": { "message": "Drucken" },
+
+  "capture": { "message": "Screenshot" },
+
+
+  "reload": { "message": "Neu laden" },
+  "reloadAll": { "message": "Alles neu laden" },
+  "reloadLeft": { "message": "Alle links neu laden" },
+  "reloadRight": { "message": "Alle rechts neu laden" },
+
+  "reloadTab": { "message": "Alle Tabs neu laden" },
+  "reload1": { "message": "1 min." },
+  "reload2": { "message": "2 min." },
+  "reload3": { "message": "3 min." },
+  "reload4": { "message": "4 min." },
+  "reload5": { "message": "5 min." },
+
+  "reloadStop": { "message": "Tab-Neuladen anhalten" },
+
+  "textConfirmCloseLeft": { "message": "Sie sind dabei, $1 Tabs zu schließen. Sind Sie sicher, dass Sie fortfahren möchten?" },
+
+  "errorClipboard": { "message": "Speichern in Zwischenablage fehlgeschlagen" },
+
+  "proxy": { "message": "Proxy-Info" },
+
+  "tabCounter": { "message": "Tab-Zähler" },
+  "tabCounterDescription": { "message": "Aktivieren oder Deaktivieren des Tab-Zählers" },
+  "badgeBGColor": { "message": "Hintergrundfarbe des Abzeichens" },
+  "badgeBGColorDescription": { "message": "Hintergrundfarbe des Badge ändern" },
+  "badgeTextColor": { "message": "Badge-Textfarbe" },
+  "badgeTextColorDescription": { "message": "Textfarbe des Badge ändern" }, 
+  "reset": { "message": "Zurücksetzen" }, 
+  "delete": { "message": "Löschen" },
+  
+  "contextMenu": { "message": "Kontextmenü" },
+  "contextMenuDescription": { "message": "Aktivieren oder Deaktivieren von Kontextmenüeinträgen und/oder Neuordnung der Einträge" },
+  "customCopy": { "message": "Benutzerdefinierte Kopie" },
+  "customCopyDescription": { "message": "Benutzerdefiniertes Kopierformat festlegen" },
+
+  "customReload": { "message": "Benutzerdefiniertes Neuladen" },
+  "customReloadDescription": { "message": "Einen Wert für Benutzerdefiniertes Neuladen wählen" },
+  
+  "cleanUrl": { "message": "Saubere URL" },
+  "cleanUrlDescription": { "message": "Tracking-/Weiterleitungszeichenfolgen aus Tab-URLs entfernen" },
+
+  "add": { "message": "Add" },
+
+  "date": { "message": "Datum" },
+  "weekday": { "message": "Wochentagsformat" },
+  "weekdayDescription": { "message": "Sam vs Samstag" },
+
+  "month": { "message": "Monatsformat" },
+  "monthDescription": { "message": "Jan vs. Januar" },
+
+  "short": { "message": "Kurz" },
+  "long": { "message": "Lang" },
+
+  "clock": { "message": "Uhr" },
+  "hour12": { "message": "12-Stunden-Zeitformat" },
+  "hour12Description": { "message": "Standard ist 24-Stunden" },
+
+  "restore": { "message": "Standardwerte wiederherstellen" },
+
+
+  "container": { "message": "Container" },
+  "containerDescription": { "message": "Container-Steuerung" },
+  "errorPattern": { "message": "Es liegt ein Fehler mit dem Muster vor" },
+  "errorDuplicatePattern": { "message": "Muster existiert in einem anderen Container" },
+
+
+  "theme": { "message": "Theme" },
+  "FoxyTabThemes": { "message": "FoxyTab-Themes" },
+  "savedThemes": { "message": "Gespeicherte Themes" },
+  "name": { "message": "Name" },
+  "description": { "message": "Beschreibung" },
+  "version": { "message": "Version" },
+  "homePage": { "message": "Hauptseite" },
+  "autor": { "message": "Autor" },
+
+  "addTheme": { "message": "Hinzufügen" },
+  "updateTheme": { "message": "Aktualisieren" },
+  "deleteTheme": { "message": "Löschen" },
+  "clearTheme": { "message": "Leeren" },
+  "applyTheme": { "message": "Anwenden" },
+  "resetTheme": { "message": "Zurücksetzen" },
+
+
+  "import": { "message": "Importieren" },
+  "export": { "message": "Exportieren" },
+  "importPreference": { "message": "Voreinstellungen importieren" },
+  "exportPreference": { "message": "Voreinstellungen exportieren" },
+  "fileSizeError": { "message": "Dateigröße ist größer als die erlaubten $1kb" },
+  "fileTypeError": { "message": "Nicht unterstütztes Dateiformat" },
+  "fileReadError": { "message": "Es ist ein Fehler beim Lesen der Datei aufgetreten" },
+  "fileParseError": { "message": "Es ist ein Fehler beim Parsen der Datei aufgetreten" },
+
+
+  "recount": { "message": "Nachzählen" },
+  
+
+  "localeMaker": { "message": "Locale-Maker" },
+  "about": { "message": "Über" },
+  "amo":  { "message": "Firefox schränkt einige Funktionen für einige URLs ein" },
+  "error": { "message": "Es ist ein Fehler bei der Operation aufgetreten" },
+  "help": { "message": "Hilfe" },
+  "options": { "message": "Optionen" },
+  "saveOptions": { "message": "Speichern" },
+  "settings": { "message": "Einstellungen" }
+}
