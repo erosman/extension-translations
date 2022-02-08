@@ -23,8 +23,8 @@
   "copyTitleUrl": { "message": "Tab-Titel & URL-kopieren" },
   "copyIP": { "message": "Tab IP kopieren" },
 
-  "internal": { "Nachricht": "Firefox-Interne Seite" },
-  "private": { "Nachricht": "Privates Netzwerk" },
+  "internal": { "message": "Firefox-Interne Seite" },
+  "private": { "message": "Privates Netzwerk" },
   "cache": { "message": "Aus dem Cache geladen" },
   "unknown": { "message": "Unbekannt" },
 
