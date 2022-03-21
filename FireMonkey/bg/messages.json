@@ -21,7 +21,8 @@
   "globalScriptExcludeMatchesDescription": { "message": "Шаблоните (по един на ред) за изключване чрез съвпадение предотвратяват изпълнение на скриптовете." },
 
   "userMeta": { "message": "Описателни данни" },
-
+  "storage": { "message": "Хранилище" },
+  "storageError": { "message": "Стойността в хранилището трябва да бъде валиден JSON" },
 
   "sidebar": { "message": "Странична лента" },
   "script": { "message": "Скрипт и стил" },
