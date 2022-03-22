@@ -1,78 +1,100 @@
-// version 1.31
-
 {
   "extensionName": { "message": "FireMonkey" },
-  "extensionDescription": { "message": "Сверхлёгкий менеджер пользовательских скриптов и стилей" },
+  "extensionDescription": { "message": "Суперлёгкий менеджер пользовательских скриптов и стилей" },
 
 
-  "tabScript": { "message": "Скрипты и стили CSS" },
-  "otherScript": { "message": "Другие скрипты и стили CSS" },
+  "tabScript": { "message": "Вкладка скриптов и стилей" },
+  "otherScript": { "message": "Другие скрипты и стили" },
   "scriptCommands": { "message": "Команды скрипта" },
   "back": { "message": "Назад" },
   "edit": { "message": "Изменить" },
 
   "autoUpdateInterval": { "message": "Интервал автообновления" },
-  "autoUpdateIntervalDescription": { "message": "Количество дней между обновлениями скриптов и стилей (0 = не обновлять)" },
-  
-  "disableHighlight": { "message": "Отключить подсветку синтаксиса" },
-  "enableSync": { "message": "Включить синхронизацию хранилища" },
-  "errorSync": { "message": "Невозможно синхронизировать\nхранилище ($1KB) больше, чем 100 КБ. Синхронизация будет отключена." },
-  
-  "globalScriptExcludeMatches": { "message": "Exclude Matches глобального скрипта" },
-  "globalScriptExcludeMatchesDescription": { "message": "Исключите совпадение pattens (по одному на строку), чтобы все скрипты не работали на них." },
-  "userMatches": { "message": "Пользовательские совпадения (Matches)" },
-  "userExcludeMatches": { "message": "Пользовательские исключения совпадений (Exclude Matches)" },
-  "userMatchesExcludeMatches": { "message": "Польз. совпадения и исключение совпадений (User Matches & Exclude Matches)" },
+  "autoUpdateIntervalDescription": { "message": "Количество дней между обновлениями (0 = не обновлять)" },
 
-  "script": { "message": "Скрипт и стиль CSS" },
+  "enableSync": { "message": "Включить синхронизацию хранилища" },
+  "syncError": { "message": "Не удалось синхронизировать\nХранилище ($1КБ) больше 100КБ. Синхронизация будет отключена." },
+
+  "counter": { "message": "Счётчик" },
+
+  "globalScriptExcludeMatches": { "message": "Совпадения исключений глобального скрипта" },
+  "globalScriptExcludeMatchesDescription": { "message": "Исключить совпадающие паттерны (по одному в строке), чтобы предотвратить выполнение всех скриптов на них" },
+
+  "userMeta": { "message": "Метаданные пользователя" },
+  "storage": { "message": "Хранилище" },
+  "storageError": { "message": "Значение хранилища должно быть допустимым JSON." },
+
+  "sidebar": { "message": "Боковая панель" },
+  "script": { "message": "Скрипты и стили" },
 
   "saveScript": { "message": "Сохранить" },
   "enable": { "message": "Включить" },
   "update": { "message": "Обновить" },
   "autoUpdate": { "message": "Автообновление" },
-  "dark": { "message": "Тёмная тема" },
+  "theme": { "message": "Тема" },
 
-  "newJS": { "message": "Новый польз. скрипт (UserScript)" },
-  "newCSS": { "message": "Новый польз. стиль (UserCSS)" },
-  "saveTemplate": { "message": "Шаблон" },
+  "light": { "message": "Светлая" },
+  "dark": { "message": "Тёмная" },
+
+  "newJS": { "message": "Новый UserScript" },
+  "newCSS": { "message": "Новый UserCSS" },
+  "saveTemplate": { "message": "Сохранить как шаблон" },
+
+  "tabToSpaces": { "message": "Табуляция в пробелы" },
+  "trimTrailingSpaces": { "message": "Обрезать конечные пробелы" },
+  "toUpperCase": { "message": "Выбранное в верхний регистр" },
+  "toLowerCase": { "message": "Выбранное в нижний регистр" },
+
+  "stylish": { "message": "Установить стиль Stylish" },
+  "report": { "message": "Сообщить" },
 
   "discardConfirm": { "message": "Отменить изменения без сохранения?" },
 
   "delete": { "message": "Удалить" },
-  "deleteConfirm": { "message": "Удалить \n'$1'\n и его сохранённые данные?" },
-  "deleteMultiConfirm": { "message": "Удалить выбранные ($1) Scripts/CSS и их сохранённые данные?" },
-  
-  "installConfirm": { "message": "Установить '$1'?\nScript/CSS с таким же именем будет заменён, если он имеет более низкий номер версии." },
+  "deleteConfirm": { "message": "Удалить \n'$1'\n и сохранённые в нём данные?" },
+  "deleteMultiConfirm": { "message": "Удалить выбранные $1 сценарии/стили и их сохранённые данные?" },
 
-  "errorMeta": { "message": "Ошибка метаданных" },
-  "errorNoName": { "message": "Необходимо ввести название." },
-  "errorName": { "message": "Такое название уже существует.\nХотите заменить существующее?" },
-  "errorMatches": { "message": "Н еобходимо установить @mathces или @includeGlobs." },
-  "errorUpdate": { "message": "Нет updateURL или version." },
+  "installConfirm": { "message": "Установить '$1'?\nСценарий/Стиль с таким же именем будет заменён, если имеет меньший номер версии." },
+
+  "metaError": { "message": "Ошибка метаданных" },
+  "noNameError": { "message": "Скрипт/стиль должен иметь название." },
+  "nameError": { "message": "Название скрипта/стиля уже существует.\nЗаменить существующий?" },
+  "updateUrlError": { "message": "Скрипт/стиль не имеет updateURL или версии." },
   "noNewUpdate": { "message": "Новых обновлений нет." },
-  "scriptUpdated": { "message": "Обновлён до версии $1" },
+  "scriptUpdated": { "message": "Скрипт/стиль обновлён до версии $1" },
 
-  "importScript": { "message": "Импорт" },
-  "exportScript": { "message": "Экспорт" },
-  "exportAllScript": { "message": "Экспорт всех" },
 
-  "import": { "message": "Импорт" },
+  "exportAll": { "message": "Экспорт" },
+
+  "log": { "message": "Лог" },
+  "time": { "message": "Время" },
+  "reference": { "message": "Ссылка" },
+  "message": { "message": "Сообщение" },
+
+  "scratchpad": { "message": "Скретчпад" },
+  "run": { "message": "Запустить" },
+  "undo": { "message": "Откат" },
+  "insertError": { "message": "Невозможно вставить" },
+  "findScript": { "message": "Найти скрипты для этого сайта" },
+
+  "advanced": { "message": "Дополнительно" },
+  "customOptionsCSS": { "message": "Пользовательский стиль параметров" },
+  "customOptionsCSSDescription": { "message": "Настройте стиль страницы параметров и конфигурацию CodeMirror" },
+  "customPopupCSS": { "message": "Пользовательские стили всплывающих окон" },
+  "customPopupCSSDescription": { "message": "Настройте стиль всплывающего окна панели инструментов" },
+  "cmOptionsDescription": { "message": "Настройте конфигурацию CodeMirror, дополнения и JavaScript lint" },
+  "cmOptionsError": { "message": "Недопустимый JSON CodeMirror" },
+
+
+  "about": { "message": "О расширении" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
   "export": { "message": "Экспорт" },
-  "importPreference": { "message": "Импорт настроек" },
-  "exportPreference": { "message": "Экспорт настроек" },
-  "errorSize": { "message": "Размер файла больше допустимого ($1kb)" },
-  "errorType": { "message": "Неподдерживаемый формат файла" },
-  "errorRead": { "message": "Произошла ошибка при чтении файла" },
-  "errorParse": { "message": "Произошла ошибка при разборе файла" },
-
-
-  "errorClipboard": { "message": "Не удалось сохранить в буфер обмена" },
-
-  "about": { "message": "О FireMonkey" },
-  "amo":  { "message": "Firefox ограничивает некоторые функции на некоторых URL" },
-  "error": { "message": "Произошла ошибка с операцией" },
-  "help": { "message": "Помощь" },
+  "fileParseError": { "message": "Произошла ошибка при синтаксическом анализе файла" },
+  "fileReadError": { "message": "Произошла ошибка при чтении файла" },
+  "fileSizeError": { "message": "Размер файла превышает допустимые $1kb" },
+  "fileTypeError": { "message": "Неподдерживаемый формат файла" },
+  "help": { "message": "Справка" },
+  "import": { "message": "Импорт" },
   "options": { "message": "Параметры" },
-  "saveOptions": { "message": "Сохранить" },
-  "settings": { "message": "Настройки" }
+  "saveOptions": { "message": "Сохранить" }
 }
