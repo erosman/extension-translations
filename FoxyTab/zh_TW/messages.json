@@ -27,7 +27,6 @@
     "cache": { "message": "從快取中載入" },
     "unknown": { "message": "未知" },
 
-
     "copyUrlAll": { "message": "所有分頁網址" },
     "copyUrlLeft": { "message": "左側分頁網址" },
     "copyUrlRight": { "message": "右側分頁網址" },
@@ -76,10 +75,12 @@
 
     "reloadStop": { "message": "停止重新載入分頁" },
 
-    "textConfirmCloseLeft": { "message": "您即將關閉 $1 分頁。確定要繼續嗎？" },
 
     "errorClipboard": { "message": "儲存至剪貼簿失敗" },
 
+    "textConfirmCloseLeft": { "message": "您即將關閉 $1 分頁。確定要繼續嗎？" },
+
+    "proxy": { "message": "代理:" },
 
     "tabCounter": { "message": "分頁計數器" },
     "tabCounterDescription": { "message": "啟用或停用分頁計數器" },
@@ -87,6 +88,14 @@
     "badgeBgDescription": { "message": "更改標籤背景顏色" },
     "contextMenu": { "message": "選單目錄" },
     "contextMenuDescription": { "message": "啟用或停用選單項目及順序調整" },
+    "reset": { "message": "重設" },
+    "delete": { "message": "刪除" },
+
+    "contextMenu": { "message": "選單項目" },
+    "contextMenuDescription": { "message": "啟用/禁用選單項目及順序調整" },
+
+    "customCopy": { "message": "自訂複製" },
+    "customCopyDescription": { "message": "設定自訂的複製格式" },
 
     "customReload": { "message": "自訂重新載入" },
     "customReloadDescription": { "message": "選擇自訂重新載入值" },
@@ -110,6 +119,12 @@
     "restore": { "message": "恢復預設值" },
 
 
+    "container": { "message": "容器分頁" },
+    "containerDescription": { "message": "身份（容器）控制" },
+    "errorPattern": { "message": "模式有誤" },
+    "errorDuplicatePattern": { "message": "模式已存在於另一個身份" },
+
+
     "theme": { "message": "主題" },
     "FoxyTabThemes": { "message": "FoxyTab 主題" },
     "savedThemes": { "message": "主題已儲存" },
@@ -131,18 +146,22 @@
     "applyTheme": { "message": "套用" },
     "resetTheme": { "message": "重設" },
 
+
     "import": { "message": "匯入" },
     "export": { "message": "匯出" },
+    "importPreference": { "message": "匯入設定" },
+    "exportPreference": { "message": "匯出設定" },
     "errorSize": { "message": "檔案大小超出允許的 $1kb 限制" },
     "errorType": { "message": "不支援的檔案格式" },
     "errorRead": { "message": "讀取檔案內容出現錯誤" },
     "errorParse": { "message": "解析檔案內容出現錯誤" },
 
+
+    "optionsTitle": { "message": "FoxyTab 選項" },
     "recount": { "message": "重新計數" },
     "settings": { "message": "設定" },
 
     "about": { "message": "關於" },
-    "amo": { "message": "Firefox 限制某些網頁執行部分功能" },
     "error": { "message": "運作過程出現錯誤" },
     "help": { "message": "說明" },
     "options": { "message": "選項" },
