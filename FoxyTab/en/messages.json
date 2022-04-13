@@ -61,7 +61,7 @@
   "sortTitleAsc": { "message": "Sort by Title Ascending" },
   "sortTitleDesc": { "message": "Sort by Title Descending" },
   "sortLastAccAsc": { "message": "Sort by Last Accessed Ascending" },
-  "sortLastAccDesc": { "message": "Sort by Last Accessed Descending" },  
+  "sortLastAccDesc": { "message": "Sort by Last Accessed Descending" },
   "sortReverse": { "message": "Sort Tabs in Reverse" },
 
   "move": { "message": "Move" },
@@ -103,11 +103,10 @@
   "unpinRight": { "message": "Unpin to Right" },
 
   "Print": { "message": "Print" },
-  
+
   "capture": { "message": "Capture" },
 
   "reload": { "message": "Reload" },
-  "reloadTab": { "message": "Reload Tab" },
   "reloadAll": { "message": "Reload All" },
   "reloadLeft": { "message": "Reload to Left" },
   "reloadRight": { "message": "Reload to Right" },
@@ -128,7 +127,7 @@
   "maxTabs": { "message": "Maximum Tabs per Window" },
   "maxTabsDescription": { "message": "Limit the nubmer of Tabs per Window (0 = no limit)" },
   "maxTabsError": { "message": "Maximum number of Tabs per Window reached" },
-  
+
   "badgeBGColor": { "message": "Badge Background Color" },
   "badgeBGColorDescription": { "message": "Change the Badge Background Color" },
   "badgeTextColor": { "message": "Badge Text Color" },
@@ -144,8 +143,12 @@
   "customCopy": { "message": "Custom Copy" },
   "customCopyDescription": { "message": "Set a Custom Copy format" },
 
-  
 
+
+  "modifiers": { "message": "Modifiers" },
+  "pinned": { "message": "Pinned" },
+  "hidden": { "message": "Hidden" },
+  "duplicateToPrivate": { "message": "Duplicate To Private" },
   "selectMatch": { "message": "Select Match" },
 
   "customReload": { "message": "Custom Reload" },
@@ -159,7 +162,7 @@
 
   "pageSettings": { "message": "PDF Page Settings" },
   "pageSettingsDescription": { "message": "Settings Object for the saved page" },
-  
+
 
   "add": { "message": "Add" },
 
