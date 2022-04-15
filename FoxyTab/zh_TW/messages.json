@@ -6,7 +6,7 @@
     "message": "分頁相關功能"
   },
   "closeDuplicate": {
-    "message": "關閉重複的分頁"
+    "message": "關閉重複分頁"
   },
   "window": {
     "message": "視窗"
@@ -18,7 +18,7 @@
     "message": "關閉其他視窗"
   },
   "saveAsPDF": {
-    "message": "將分頁內容另存為 PDF"
+    "message": "分頁內容另存為 PDF"
   },
   "createShortcut": {
     "message": "建立桌面捷徑"
@@ -123,10 +123,10 @@
     "message": "關閉"
   },
   "hostCloseOther": {
-    "message": "關閉其他網域的分頁"
+    "message": "關閉其他網域分頁"
   },
   "hostMoveNewWin": {
-    "message": "網域分頁移到新視窗"
+    "message": "此網域移到新視窗"
   },
   "hostReload": {
     "message": "此網域重新載入"
@@ -135,22 +135,22 @@
     "message": "排序"
   },
   "sortURLAsc": {
-    "message": "依網址遞增"
+    "message": "網址遞增"
   },
   "sortURLDesc": {
-    "message": "依網址遞減"
+    "message": "網址遞減"
   },
   "sortTitleAsc": {
-    "message": "依標題遞增"
+    "message": "標題遞增"
   },
   "sortTitleDesc": {
-    "message": "依標題遞減"
+    "message": "標題遞減"
   },
   "sortLastAccAsc": {
-    "message": "按上次訪問時間升序排序"
+    "message": "按上次訪問時間升序"
   },
   "sortLastAccDesc": {
-    "message": "按上次訪問時間降序排序"
+    "message": "按上次訪問時間降序"
   },
   "sortReverse": {
     "message": "反向排序分頁"
@@ -180,7 +180,7 @@
     "message": "右側分頁移至隱私視窗"
   },
   "discard": {
-    "message": "靜默分頁"
+    "message": "靜默"
   },
   "discardTab": {
     "message": "靜默(丟棄內容停止持續運作)"
@@ -195,7 +195,7 @@
     "message": "右側"
   },
   "hide": {
-    "message": "隱藏分頁"
+    "message": "隱藏"
   },
   "hideTab": {
     "message": "隱藏"
@@ -210,7 +210,7 @@
     "message": "右側"
   },
   "show": {
-    "message": "顯示分頁"
+    "message": "顯示"
   },
   "showAll": {
     "message": "全部"
@@ -222,7 +222,7 @@
     "message": "右側"
   },
   "pin": {
-    "message": "釘選分頁"
+    "message": "釘選"
   },
   "pinAll": {
     "message": "全部"
@@ -234,7 +234,7 @@
     "message": "右側"
   },
   "unpin": {
-    "message": "取消釘選"
+    "message": "解釘"
   },
   "unpinAll": {
     "message": "全部"
@@ -253,9 +253,6 @@
   },
   "reload": {
     "message": "重新載入"
-  },
-  "reloadTab": {
-    "message": "重新載入間隔"
   },
   "reloadAll": {
     "message": "全部"
@@ -337,6 +334,18 @@
   },
   "customCopyDescription": {
     "message": "設定自訂的複製格式"
+  },
+  "modifiers": {
+    "message": "作用區域"
+  },
+  "pinned": {
+    "message": "釘選"
+  },
+  "hidden": {
+    "message": "隱藏"
+  },
+  "duplicateToPrivate": {
+    "message": "Duplicate To Private"
   },
   "selectMatch": {
     "message": "選擇符合"
