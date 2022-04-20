@@ -123,9 +123,10 @@
   "proxy": { "message": "Proxy Info" },
 
   "tabCounter": { "message": "Tab Counter" },
+  "perWindow": { "message": "Per Window" },
   "tabCounterDescription": { "message": "Enable or Disable the Tab Counter" },
-  "maxTabs": { "message": "Maximum Tabs per Window" },
-  "maxTabsDescription": { "message": "Limit the nubmer of Tabs per Window (0 = no limit)" },
+  "maxTabs": { "message": "Maximum Tabs" },
+  "maxTabsDescription": { "message": "Limit the nubmer of Tabs (0 = no limit)" },
   "maxTabsError": { "message": "Maximum number of Tabs per Window reached" },
 
   "badgeBGColor": { "message": "Badge Background Color" },
