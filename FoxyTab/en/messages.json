@@ -56,12 +56,14 @@
   "hostReload": { "message": "Host Reload" },
 
   "sort": { "message": "Sort" },
-  "sortURLAsc": { "message": "Sort by URLs Ascending" },
-  "sortURLDesc": { "message": "Sort by URLs Descending" },
+  "sortURLAsc": { "message": "Sort by URL Ascending" },
+  "sortURLDesc": { "message": "Sort by URL Descending" },
   "sortTitleAsc": { "message": "Sort by Title Ascending" },
   "sortTitleDesc": { "message": "Sort by Title Descending" },
   "sortLastAccAsc": { "message": "Sort by Last Accessed Ascending" },
   "sortLastAccDesc": { "message": "Sort by Last Accessed Descending" },
+  "sortDomAsc": { "message": "Sort by Domains Ascending" },
+  "sortDomDesc": { "message": "Sort by Domains Descending" },
   "sortReverse": { "message": "Sort Tabs in Reverse" },
 
   "move": { "message": "Move" },
