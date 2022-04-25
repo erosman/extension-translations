@@ -1,97 +1,141 @@
-// version 2.14
+// version 2.23
 
-{
+{   
   "extensionName": { "message": "FoxyTab" },
-  "extensionDescription": { "message": "标签页相关功能" },
-
-
-  "duplicate": { "message": "创建标签页副本" },
+  "extensionDescription": { "message": "包含了各类标签页操作" },
+  
   "closeDuplicate": { "message": "关闭重复标签页" },
-
-  "closeLeft": { "message": "关闭左侧标签页" },
-
-  "merge": { "message": "合并所有窗口" },
+  "window": { "message": "窗口" },
+  "mergeWindows": { "message": "合并所有窗口" },
   "closeOtherWindows": { "message": "关闭其他窗口" },
-
   "saveAsPDF": { "message": "标签页内容另存为 PDF" },
-  "errorSaveAsPDF": { "message": "另存为 PDF 在 Mac OS X 系统或 Firefox 56 以下版本中不可用" },
-
+  
   "createShortcut": { "message": "创建桌面快捷方式" },
+  "createShortcutTab": { "message": "为当前标签页创建桌面快捷方式" },
+  "createShortcutAll": { "message": "为所有标签页创建桌面快捷方式" },
+  "createShortcutLeft": { "message": "为左侧所有标签页创建桌面快捷方式" },
+  "createShortcutRight": { "message": "为右侧所有标签页创建桌面快捷方式" },
 
   "copy": { "message": "复制" },
   "copyTitle": { "message": "标签页标题" },
   "copyUrl": { "message": "标签页网址" },
   "copyTitleUrl": { "message": "标签页标题和网址" },
   "copyIP": { "message": "标签页 IP" },
-  
+
   "internal": { "message": "Firefox 内部页面" },
   "private": { "message": "私有网络" },
   "cache": { "message": "从缓存加载" },
   "unknown": { "message": "未知" },
 
   "copyUrlAll": { "message": "所有标签页网址" },
-  "copyUrlLeft": { "message": "左侧标签页网址" },
-  "copyUrlRight": { "message": "右侧标签页网址" },
-
-  "copyTitleUrlAll": { "message": "全部的标题和网址" },
-  "copyTitleUrlLeft": { "message": "左侧的标题和网址" },
-  "copyTitleUrlRight": { "message": "右侧的的标题和网址" },
-
-  "bookmark": { "message": "加入书签" },
-  "bookmarkLeft": { "message": "左侧加入书签" },
-  "bookmarkRight": { "message": "右侧加入书签" },
-
-  "host": { "message": "主机" },
-  "hostKeep": { "message": "保留" },
-  "hostClose": { "message": "关闭" },
+  "copyUrlLeft": { "message": "左侧所有标签页网址" },
+  "copyUrlRight": { "message": "右侧所有标签页网址" },
+  
+  "copyTitleUrlAll": { "message": "所有标签页标题和网址" },
+  "copyTitleUrlLeft": { "message": "左侧所有标签页标题和网址" },
+  "copyTitleUrlRight": { "message": "右侧所有标签页标题和网址" },
+  
+  "customAll": { "message": "所有标签页自定义内容" },
+  "customLeft": { "message": "左侧所有标签页自定义内容" },
+  "customRight": { "message": "右侧所有标签页自定义内容" },
+  
+  "bookmark": { "message": "添加书签" },
+  "bookmarkAll": { "message": "为所有标签页添加书签" },
+  "bookmarkLeft": { "message": "为左侧所有标签页添加书签" },
+  "bookmarkRight": { "message": "为右侧所有标签页添加书签" },
+  
+  "closeBookmarked": { "message": "关闭已加书签的标签页" },
+  "closeBookmarkedAll": { "message": "关闭所有已加书签的标签页" },
+  "closeBookmarkedLeft": { "message": "关闭左侧所有已加书签的标签页" },
+  "closeBookmarkedRight": { "message": "关闭右侧所有已加书签的标签页" },
+  
+  "host": { "message": "主机标签页" },
+  "hostKeep": { "message": "仅保留此主机的标签页" },
+  "hostClose": { "message": "关闭此主机的标签页" },
   "hostCloseOther": { "message": "关闭其他主机的标签页" },
-
-  "sort": { "message": "排序" },
-  "sortURLAsce": { "message": "按网址升序" },
+  "hostMoveNewWin": { "message": "移动此主机的标签页至新窗口" },
+  "hostReload": { "message": "重载此主机的标签页" },
+  
+  "sort": { "message": "标签页排序" },
+  "sortURLAsc": { "message": "按网址升序" },
   "sortURLDesc": { "message": "按网址降序" },
-  "sortTitleAsce": { "message": "按标题升序" },
+  "sortTitleAsc": { "message": "按标题升序" },
   "sortTitleDesc": { "message": "按标题降序" },
-
-  "move": { "message": "移动" },
-  "moveStart": { "message": "到起始" },
-  "moveEnd": { "message": "到末尾" },
-
-  "moveNewWinLeft": { "message": "左侧标签页移入新窗口" },
-  "moveNewWinRight": { "message": "右侧标签页移入新窗口" },
-
-  "movePrivate": { "message": "到隐私窗口" },
-  "movePrivateLeft": { "message": "左侧标签页移入隐私窗口" },
-  "movePrivateRight": { "message": "右侧标签页移入隐私窗口" },
-
+  "sortLastAccAsc": { "message": "按上次访问升序" },
+  "sortLastAccDesc": { "message": "按上次访问降序" },
+  "sortReverse": { "message": "倒序排列标签页" },
+  
+  "move": { "message": "移动标签页" },
+  "moveStart": { "message": "移至起始" },
+  "moveEnd": { "message": "移至末尾" },
+  
+  "moveNewWinLeft": { "message": "移动左侧所有标签页至新窗口" },
+  "moveNewWinRight": { "message": "移动右侧所有标签页至新窗口" },
+  
+  "movePrivate": { "message": "移至隐私窗口" },
+  "movePrivateLeft": { "message": "移动左侧所有标签页至隐私窗口" },
+  "movePrivateRight": { "message": "移动右侧所有标签页至隐私窗口" },
+  
+  "discard": { "message": "丢弃标签页后台" },
+  "discardTab": { "message": "当前标签页" },
+  "discardAll": { "message": "所有标签页" },
+  "discardLeft": { "message": "左侧所有标签页" },
+  "discardRight": { "message": "右侧所有标签页" },
+  
+  "hide": { "message": "隐藏标签页" },
+  "hideTab": { "message": "当前标签页" },
+  "hideAll": { "message": "所有标签页" },
+  "hideLeft": { "message": "左侧所有标签页" },
+  "hideRight": { "message": "右侧所有标签页" },
+  
+  "show": { "message": "取消隐藏标签页" },
+  "showAll": { "message": "所有标签页" },
+  "showLeft": { "message": "左侧所有标签页" },
+  "showRight": { "message": "右侧所有标签页" },
+  
+  "pin": { "message": "置顶标签页" },
+  "pinAll": { "message": "所有标签页" },
+  "pinLeft": { "message": "左侧所有标签页" },
+  "pinRight": { "message": "右侧所有标签页" },
+  
+  "unpin": { "message": "取消置顶标签页" },
+  "unpinAll": { "message": "所有标签页" },
+  "unpinLeft": { "message": "左侧所有标签页" },
+  "unpinRight": { "message": "右侧所有标签页" },
+  
+  "Print": { "message": "打印" },
+  "capture": { "message": "捕获 (base64 格式)" },
+  
   "reload": { "message": "重新载入" },
   "reloadAll": { "message": "全部" },
   "reloadLeft": { "message": "左侧" },
   "reloadRight": { "message": "右侧" },
-
-  "reloadTab": { "message": "重新加载间隔" },
-  "reload60": { "message": "1 分钟" },
-  "reload120": { "message": "2 分钟" },
-  "reload180": { "message": "3 分钟" },
-  "reload240": { "message": "4 分钟" },
-  "reload300": { "message": "5 分钟" },
-
+  "reload1": { "message": "每 1 分钟" },
+  "reload2": { "message": "每 2 分钟" },
+  "reload3": { "message": "每 3 分钟" },
+  "reload4": { "message": "每 4 分钟" },
+  "reload5": { "message": "每 5 分钟" },
   "reloadStop": { "message": "停止重新加载标签页" },
-
-
-  "errorClipboard": { "message": "保存到剪贴板失败" },
-
-  "textConfirmCloseLeft": { "message": "您即将关闭 $1 个标签页。确定继续吗？" },
-
-  "proxy": { "message": "代理信息:" },
-
+  
+  "clipboardError": { "message": "保存到剪贴板失败" },
+  
+  "proxy": { "message": "代理信息" },
+  
   "tabCounter": { "message": "标签页计数器" },
+  "perWindow": { "message": "每个窗口" },
   "tabCounterDescription": { "message": "启用/禁用标签页计数器" },
+  "maxTabs": { "message": "每窗口标签页数量上限" },
+  "maxTabsDescription": { "message": "限制每窗口标签页数量 (0 = 不限)" },
+  "maxTabsError": { "message": "已达到每窗口标签页数量上限" },
+  
   "badgeBGColor": { "message": "徽标背景色" },
   "badgeBGColorDescription": { "message": "更改徽标的背景色" },
   "badgeTextColor": { "message": "徽标文字颜色" },
-  "badgeTextColorDescription": { "message": "更改徽标文字颜色" }, 
-  "reset": { "message": "重置" }, 
+  "badgeTextColorDescription": { "message": "更改徽标文字颜色" },
+  "reset": { "message": "重置" },
   "delete": { "message": "删除" },
+  
+  "dateClock": { "message": "日期和时钟" },
   
   "contextMenu": { "message": "菜单项" },
   "contextMenuDescription": { "message": "启用/禁用上下文菜单项及调整顺序" },
@@ -99,73 +143,78 @@
   "customCopy": { "message": "自定义复制" },
   "customCopyDescription": { "message": "设定自定义的复制格式" },
   
+  "modifiers": { "message": "修饰器" },
+  "pinned": { "message": "已置顶" },
+  "hidden": { "message": "已隐藏" },
+  "duplicateToPrivate": { "message": "复制到隐私窗口" },
+  "selectMatch": { "message": "选择匹配的标签页" },
+  
   "customReload": { "message": "自定义重新载入" },
   "customReloadDescription": { "message": "自定义重新载入间隔（秒）" },
-
+  
+  "cleanUrl": { "message": "清理网址" },
+  "cleanUrlDescription": { "message": "从标签页网址移除跟踪和重定向字符串" },
+  
+  "showFlag": { "message": "展示旗帜" },
+  "showFlagDescription": { "message": "获取 IP 所在位置并展示旗帜" },
+  
+  "pageSettings": { "message": "PDF 页面设置" },
+  "pageSettingsDescription": { "message": "已保存页面的设置对象" },
+  
   "add": { "message": "添加" },
-
+  
   "date": { "message": "日期" },
   "weekday": { "message": "周格式" },
-  "weekdayDescription": { "message": "Sat vs Saturday" },
-
+  "weekdayDescription": { "message": "周六或星期六" },
+  
   "month": { "message": "月格式" },
-  "monthDescription": { "message": "Jan vs January " },
-
+  "monthDescription": { "message": "Jan 或 January (对中文时间格式无效)" },
+  
   "short": { "message": "短" },
   "long": { "message": "长" },
-
+  
   "clock": { "message": "时钟" },
   "hour12": { "message": "12 小时制" },
   "hour12Description": { "message": "默认为 24 小时制" },
-
+  
   "restore": { "message": "恢复默认设置" },
-
-
+  
   "container": { "message": "身份" },
-  "containerDescription": { "message": "身份（容器）控制" },
+  "siteIsolation": { "message": "仅限特定站点" },
   "errorPattern": { "message": "模式有误" },
-  "errorDuplicatePattern": { "message": "模式已存在于另一个身份容易" },
-
-
+  "errorDuplicatePattern": { "message": "其他身份容器内已包含此模式" },
+  
   "theme": { "message": "主题" },
-  "FoxyTabThemes": { "message": "FoxyTab 主题" },
-  "savedThemes": { "message": "主题已保存" },
+  
+  "redirect": { "message": "重定向" },
+  "testUrl": { "message": "测试网址" },
+  "redirectResult": { "message": "重定向结果" },
+  
   "name": { "message": "名称" },
   "description": { "message": "描述" },
   "version": { "message": "版本" },
   "homePage": { "message": "主页" },
   "author": { "message": "作者" },
-  "headerURL": { "message": "标题图像" },
-  "additionalBackgrounds": { "message": "附加背景" },
-  "additionalBackgroundsAlignment": { "message": "附加背景对齐" },
-  "additionalBackgroundsTiling": { "message": "附加背景平铺" },
-  "textcolor": { "message": "文字颜色" },
-  "accentcolor": { "message": "主题颜色" },
+  
   "addTheme": { "message": "添加" },
   "updateTheme": { "message": "更新" },
   "deleteTheme": { "message": "删除" },
   "clearTheme": { "message": "清除" },
   "applyTheme": { "message": "应用" },
   "resetTheme": { "message": "重置" },
-
-
-  "import": { "message": "导入" },
-  "export": { "message": "导出" },
-  "importPreference": { "message": "导入首选项" },
-  "exportPreference": { "message": "导出首选项" },
-  "errorSize": { "message": "文件大小超出允许的 $1kb" },
-  "errorType": { "message": "不支持的文件格式" },
-  "errorRead": { "message": "读取文件时出错" },
-  "errorParse": { "message": "解析文件时出错" },
-
-
-  "optionsTitle": { "message": "FoxyTab 选项" },
-  "recount": { "message": "重新计数" },
-  "settings": { "message": "设置" },
+  
+  "noNameError": { "message": "必须为主题指定名称" },
   
   "about": { "message": "关于" },
   "error": { "message": "运行时出错" },
+  "export": { "message": "导出" },
+  "fileParseError": { "message": "解析文件时出错" },
+  "fileReadError": { "message": "读取文件时出错" },
+  "fileSizeError": { "message": "文件大小超出允许的 $1kb" },
+  "fileTypeError": { "message": "不支持的文件格式" },
   "help": { "message": "帮助" },
+  "import": { "message": "导入" },
+  "jsonError": { "message": "无效的 JSON" },
   "options": { "message": "选项" },
   "saveOptions": { "message": "保存" }
 }
