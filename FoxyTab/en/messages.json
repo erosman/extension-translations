@@ -62,8 +62,8 @@
   "sortTitleDesc": { "message": "Sort by Title Descending" },
   "sortLastAccAsc": { "message": "Sort by Last Accessed Ascending" },
   "sortLastAccDesc": { "message": "Sort by Last Accessed Descending" },
-  "sortDomAsc": { "message": "Sort by Domains Ascending" },
-  "sortDomDesc": { "message": "Sort by Domains Descending" },
+  "sortDomAsc": { "message": "Sort by Domain Ascending" },
+  "sortDomDesc": { "message": "Sort by Domain Descending" },
   "sortReverse": { "message": "Sort Tabs in Reverse" },
 
   "move": { "message": "Move" },
