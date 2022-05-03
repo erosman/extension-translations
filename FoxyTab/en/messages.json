@@ -127,6 +127,9 @@
   "tabCounter": { "message": "Tab Counter" },
   "perWindow": { "message": "Per Window" },
   "tabCounterDescription": { "message": "Enable or Disable the Tab Counter" },
+  "altIcon": { "message": "Alternative Icon" },
+  "altIconDescription": { "message": "Alternative Grayscale Icon" },
+  
   "maxTabs": { "message": "Maximum Tabs" },
   "maxTabsDescription": { "message": "Limit the nubmer of Tabs (0 = no limit)" },
   "maxTabsError": { "message": "Maximum number of Tabs per Window reached" },
