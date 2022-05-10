@@ -102,7 +102,7 @@
     "message": "右側"
   },
   "closeBookmarked": {
-    "message": "關閉已加入書籤的分頁"
+    "message": "關閉已書籤分頁"
   },
   "closeBookmarkedAll": {
     "message": "全部"
@@ -128,6 +128,9 @@
   "hostMoveNewWin": {
     "message": "此網域移到新視窗"
   },
+  "hostMoveThisWin": {
+    "message": "此網域集合此視窗"
+  },
   "hostReload": {
     "message": "此網域重新載入"
   },
@@ -151,6 +154,12 @@
   },
   "sortLastAccDesc": {
     "message": "按上次訪問時間降序"
+  },
+  "sortDomAsc": {
+    "message": "按網域升序"
+  },
+  "sortDomDesc": {
+    "message": "按網域降序"
   },
   "sortReverse": {
     "message": "反向排序分頁"
@@ -290,8 +299,17 @@
   "tabCounter": {
     "message": "分頁計數器"
   },
+  "perWindow": {
+    "message": "僅計算當前視窗"
+  },
   "tabCounterDescription": {
     "message": "啟用或停用分頁計數器"
+  },
+  "altIcon": {
+    "message": "替代圖示"
+  },
+  "altIconDescription": {
+    "message": "替代灰階圖示"
   },
   "maxTabs": {
     "message": "每個視窗的最大分頁數"
