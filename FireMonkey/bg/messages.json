@@ -41,11 +41,12 @@
   "saveTemplate": { "message": "Запазване като шаблон" },
 
   "tabToSpaces": { "message": "Табулатори в интервали" },
-  "trimTrailingSpaces": { "message": "Изчистване на висящи интервали" },
   "toUpperCase": { "message": "Избраното в главни букви" },
   "toLowerCase": { "message": "Избраното в малки букви" },
+  "wrapIIFE": { "message": "Обграждане на кода в IIFE" },
 
   "stylish": { "message": "Инсталиране на стил на Stylish" },
+  "beautify": { "message": "Подреждане на кода" },
   "report": { "message": "Доклад" },
 
   "discardConfirm": { "message": "Потвърждавате ли отказ без запазване?" },
@@ -95,6 +96,7 @@
   "fileTypeError": { "message": "Неподдържан формат на файла" },
   "help": { "message": "Помощ" },
   "import": { "message": "Внасяне" },
+  "jsonError": { "message": "Недопустим JSON" },
   "options": { "message": "Настройки" },
   "saveOptions": { "message": "Запазване" }
 }
