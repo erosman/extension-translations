@@ -20,6 +20,7 @@
   "globalScriptExcludeMatches": { "message": "Общи шаблони за изключване на скриптове" },
   "globalScriptExcludeMatchesDescription": { "message": "Шаблоните (по един на ред) за изключване чрез съвпадение предотвратяват изпълнение на скриптовете." },
 
+  "userVar": { "message": "Потребителски променливи" },
   "userMeta": { "message": "Описателни данни" },
   "storage": { "message": "Хранилище" },
   "storageError": { "message": "Стойността в хранилището трябва да бъде валиден JSON" },
@@ -75,6 +76,7 @@
   "scratchpad": { "message": "Бележник" },
   "run": { "message": "Изпълняване" },
   "undo": { "message": "Отменяне" },
+  "undoDisabled": { "message": "Само за CSS" },
   "insertError": { "message": "Грешка при вмъкване" },
   "findScript": { "message": "Търсене на скриптове за страницата" },
 
@@ -83,8 +85,7 @@
   "customOptionsCSSDescription": { "message": "Настройка на външния вид на страницата с настройки и CodeMirror." },
   "customPopupCSS": { "message": "Потребителски стилове за изскачащия прозорец" },
   "customPopupCSSDescription": { "message": "Настройка на външния вид на изскачащия прозорец" },
-  "cmOptionsDescription": { "message": "Настройка на CodeMirror, добавките и проверките на кода на JavaScript." },
-  "cmOptionsError": { "message": "Грешен JSON на CodeMirror" },
+  "cmOptionsDescription": { "message": "Настройки на CodeMirror, добавките и проверките на кода на JavaScript" },
 
 
   "about": { "message": "Относно" },
