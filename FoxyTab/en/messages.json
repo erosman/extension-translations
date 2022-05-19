@@ -52,7 +52,8 @@
   "hostKeep": { "message": "Host Keep" },
   "hostClose": { "message": "Host Close" },
   "hostCloseOther": { "message": "Close Other Host Tabs" },
-  "hostMoveNewWin": { "message": "Host Move to New Window" },
+  "hostMoveNewWin": { "message": "Move Host to New Window" },
+  "hostMoveThisWin": { "message": "Move Host to this Window" },
   "hostReload": { "message": "Host Reload" },
 
   "sort": { "message": "Sort" },
