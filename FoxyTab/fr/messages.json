@@ -1,0 +1,527 @@
+{
+  "extensionName": {
+    "message": "FoxyTab"
+  },
+  "extensionDescription": {
+    "message": "Groupe d'actions sur les onglets"
+  },
+  "closeDuplicate": {
+    "message": "Fermer les Onglets en double"
+  },
+  "window": {
+    "message": "Fenêtre"
+  },
+  "mergeWindows": {
+    "message": "Fusionner Toutes les Fenêtres"
+  },
+  "closeOtherWindows": {
+    "message": "Fermer les Autres Fenêtres"
+  },
+  "saveAsPDF": {
+    "message": "Enregistrer l'Onglet au Format PDF"
+  },
+  "createShortcut": {
+    "message": "Créer un Raccourcis sur le Bureau"
+  },
+  "createShortcutTab": {
+    "message": "Créer un Raccourcis"
+  },
+  "createShortcutAll": {
+    "message": "Créer des Raccourcis avec Tous les Onglets"
+  },
+  "createShortcutLeft": {
+    "message": "Créer des Raccourcis avec les Onglets à Gauche"
+  },
+  "createShortcutRight": {
+    "message": "Créer des Raccourcis avec les Onglets à Droite"
+  },
+  "copy": {
+    "message": "Copier"
+  },
+  "copyTitle": {
+    "message": "Copier le Titre de l'Onglet"
+  },
+  "copyUrl": {
+    "message": "Copier l'URL de l'Onglet"
+  },
+  "copyTitleUrl": {
+    "message": "Copier le Titre et l'URL de l'Onglet"
+  },
+  "copyIP": {
+    "message": "Copier l'Adresse IP de l'Onglet"
+  },
+  "internal": {
+    "message": "Page interne à Firefox"
+  },
+  "private": {
+    "message": "Réseau Privé"
+  },
+  "cache": {
+    "message": "Chargé de puis de Cache"
+  },
+  "unknown": {
+    "message": "Inconnu"
+  },
+  "copyUrlAll": {
+    "message": "Copier les URLs de tous les Onglets"
+  },
+  "copyUrlLeft": {
+    "message": "Copier les URLs des Onglets sur la Gauche"
+  },
+  "copyUrlRight": {
+    "message": "Copier les URLs des Onglets sur la Droite"
+  },
+  "copyTitleUrlAll": {
+    "message": "Copier les Titres et URLs de tous les Onglets"
+  },
+  "copyTitleUrlLeft": {
+    "message": "Copier les Titres et URLs des Onglets sur la Gauche"
+  },
+  "copyTitleUrlRight": {
+    "message": "Copier les Titres et URLs des Onglets sur la Droite"
+  },
+  "customAll": {
+    "message": "Copier la personalisation de tous les Onglets"
+  },
+  "customLeft": {
+    "message": "Copier la personalisation des Onglets sur la Gauche"
+  },
+  "customRight": {
+    "message": "Copier la personalisation des Onglets sur la Droite"
+  },
+  "bookmark": {
+    "message": "Ajouter aux Favoris"
+  },
+  "bookmarkAll": {
+    "message": "Ajouter tous les Onglets aux Favoris"
+  },
+  "bookmarkLeft": {
+    "message": "Ajouter aux Favoris les Onglets sur la Gauche"
+  },
+  "bookmarkRight": {
+    "message": "Ajouter aux Favoris les Onglets sur la Droite"
+  },
+  "closeBookmarked": {
+    "message": "Fermer les Onglets qui sont dans les Favoris"
+  },
+  "closeBookmarkedAll": {
+    "message": "Fermer Tous les Onglets qui sont dans les Favoris"
+  },
+  "closeBookmarkedLeft": {
+    "message": "Fermer Tous les Onglets sur la Gauche qui sont dans les Favoris"
+  },
+  "closeBookmarkedRight": {
+    "message": "Fermer Tous les Onglets sur la Droite qui sont dans les Favoris"
+  },
+  "host": {
+    "message": "Hôte"
+  },
+  "hostKeep": {
+    "message": "Garder l'Hôte"
+  },
+  "hostClose": {
+    "message": "Fermer l'Hôte"
+  },
+  "hostCloseOther": {
+    "message": "Fermer l'Onglet Hôte"
+  },
+  "hostMoveNewWin": {
+    "message": "Déplacer l'Hôte vers une Nouvelle Fenêtre"
+  },
+  "hostMoveThisWin": {
+    "message": "Déplacer l'Hôte vers cette Fenêtre"
+  },
+  "hostReload": {
+    "message": "Rafraîchier l'Hôte"
+  },
+  "sort": {
+    "message": "Trier"
+  },
+  "sortURLAsc": {
+    "message": "Trier par URL montante"
+  },
+  "sortURLDesc": {
+    "message": "Trier par URL descendante"
+  },
+  "sortTitleAsc": {
+    "message": "Trier par Titre montant"
+  },
+  "sortTitleDesc": {
+    "message": "Trier par Titre descendant"
+  },
+  "sortLastAccAsc": {
+    "message": "Trier par Date de Dernier Accès montante"
+  },
+  "sortLastAccDesc": {
+    "message": "Trier par Date de Dernier Accès descendante"
+  },
+  "sortDomAsc": {
+    "message": "Trier par Nom de Domaine montant"
+  },
+  "sortDomDesc": {
+    "message": "Trier par Nom de Domaine descendant"
+  },
+  "sortReverse": {
+    "message": "Renverser l'Ordre de Tri des Onglets"
+  },
+  "move": {
+    "message": "Déplacer"
+  },
+  "moveStart": {
+    "message": "Déplacer au Début"
+  },
+  "moveEnd": {
+    "message": "Déplacer à la Fin"
+  },
+  "moveNewWinLeft": {
+    "message": "Déplacer dans une Nouvelle Fenêtre à Gauche"
+  },
+  "moveNewWinRight": {
+    "message": "Déplacer dans une Nouvelle Fenêtre à Droite"
+  },
+  "movePrivate": {
+    "message": "Déplacer dans une Nouvelle Fenêtre Privée"
+  },
+  "movePrivateLeft": {
+    "message": "Déplacer dans une Nouvelle Fenêtre Privée à Gauche"
+  },
+  "movePrivateRight": {
+    "message": "Déplacer dans une Nouvelle Fenêtre Privée à Droite"
+  },
+  "discard": {
+    "message": "Fermer"
+  },
+  "discardTab": {
+    "message": "Fermer lOnglet"
+  },
+  "discardAll": {
+    "message": "Tout Fermer"
+  },
+  "discardLeft": {
+    "message": "Fermer sur la Gauche"
+  },
+  "discardRight": {
+    "message": "Fermer sur la Droite"
+  },
+  "hide": {
+    "message": "Cacher"
+  },
+  "hideTab": {
+    "message": "Cacher l'Onglet"
+  },
+  "hideAll": {
+    "message": "Cacher Tout"
+  },
+  "hideLeft": {
+    "message": "Cacher sur la Gauche"
+  },
+  "hideRight": {
+    "message": "Cacher sur la Droite"
+  },
+  "show": {
+    "message": "Montrer"
+  },
+  "showAll": {
+    "message": "Montrer Tout"
+  },
+  "showLeft": {
+    "message": "Montrer sur la Gauche"
+  },
+  "showRight": {
+    "message": "Montrer sur la Droite"
+  },
+  "pin": {
+    "message": "Épingler"
+  },
+  "pinAll": {
+    "message": "Épingler Tout"
+  },
+  "pinLeft": {
+    "message": "Épingler sur la Gauche"
+  },
+  "pinRight": {
+    "message": "Épingler sur la Droite"
+  },
+  "unpin": {
+    "message": "Dépunaiser"
+  },
+  "unpinAll": {
+    "message": "Dépunaiser Tout"
+  },
+  "unpinLeft": {
+    "message": "Dépunaiser sur la Gauche"
+  },
+  "unpinRight": {
+    "message": "Dépunaiser sur la Droite"
+  },
+  "Print": {
+    "message": "Imprimer"
+  },
+  "capture": {
+    "message": "Capturer"
+  },
+  "reload": {
+    "message": "Rafraîchir"
+  },
+  "reloadAll": {
+    "message": "Tout rafraîchir"
+  },
+  "reloadLeft": {
+    "message": "Rafraîchir sur la Gauche"
+  },
+  "reloadRight": {
+    "message": "Rafraîchir sur la Droite"
+  },
+  "reload1": {
+    "message": "Toutes les minutes"
+  },
+  "reload2": {
+    "message": "Toutes les 2 minutes"
+  },
+  "reload3": {
+    "message": "Toutes les 3 minutes"
+  },
+  "reload4": {
+    "message": "Toutes les 4 minutes"
+  },
+  "reload5": {
+    "message": "Toutes les 5 minutes"
+  },
+  "reloadStop": {
+    "message": "Arrêter le Rafraîchissement Automatique"
+  },
+  "clipboardError": {
+    "message": "Impossible de savegarder dans le presse-papiers"
+  },
+  "proxy": {
+    "message": "Informations sur le Proxy"
+  },
+  "tabCounter": {
+    "message": "Compteur d'Onglets"
+  },
+  "perWindow": {
+    "message": "Per Fenêtre"
+  },
+  "tabCounterDescription": {
+    "message": "Activer ou Désactiver le Compteur d'Onglets"
+  },
+  "altIcon": {
+    "message": "Icône Alternative"
+  },
+  "altIconDescription": {
+    "message": "Icône Alternative en Échelle de Gris"
+  },
+  "maxTabs": {
+    "message": "Number Maximum d'Onglets"
+  },
+  "maxTabsDescription": {
+    "message": "Limiter le nombre d'Onglets (0 = pas de limite)"
+  },
+  "maxTabsError": {
+    "message": "Number Maximum d'Onglets par Fenêtre atteinte"
+  },
+  "badgeBGColor": {
+    "message": "Couleur de Fond du Badge"
+  },
+  "badgeBGColorDescription": {
+    "message": "Changer la Couleur de Fond du Badge"
+  },
+  "badgeTextColor": {
+    "message": "Couleur du Texte du Badge"
+  },
+  "badgeTextColorDescription": {
+    "message": "Modifier la Couleur du Texte du Badge"
+  },
+  "reset": {
+    "message": "Réinitialiser"
+  },
+  "delete": {
+    "message": "Supprimer"
+  },
+  "dateClock": {
+    "message": "Date et Heure"
+  },
+  "contextMenu": {
+    "message": "Menu Contextuel"
+  },
+  "contextMenuDescription": {
+    "message": "Activer, désactiver ou réordonner les élements du menu contextuel"
+  },
+  "customCopy": {
+    "message": "Copie Personnalisée"
+  },
+  "customCopyDescription": {
+    "message": "Choisissez une Format de Copie Personnalisé"
+  },
+  "modifiers": {
+    "message": "Modificateurs"
+  },
+  "pinned": {
+    "message": "Epinglé"
+  },
+  "hidden": {
+    "message": "Caché"
+  },
+  "duplicateToPrivate": {
+    "message": "Dupliquer en privé"
+  },
+  "selectMatch": {
+    "message": "Choisissez une correspondance"
+  },
+  "customReload": {
+    "message": "Rafraîchissement personnalisé"
+  },
+  "customReloadDescription": {
+    "message": "Choisissez une valeur de rafraîchissement"
+  },
+  "cleanUrl": {
+    "message": "Nettoyer l'URL"
+  },
+  "cleanUrlDescription": {
+    "message": "Supprimer des URLs les informations de pistage ou redirection"
+  },
+  "showFlag": {
+    "message": "Afficher le Drapeau"
+  },
+  "showFlagDescription": {
+    "message": "Géolocaliser et afficher le drapeau"
+  },
+  "pageSettings": {
+    "message": "Paramètres PDF"
+  },
+  "pageSettingsDescription": {
+    "message": "Paramètres de la page sauvegardée"
+  },
+  "add": {
+    "message": "Ajouter"
+  },
+  "date": {
+    "message": "Date"
+  },
+  "weekday": {
+    "message": "Fomat du Jour de la Semaine"
+  },
+  "weekdayDescription": {
+    "message": "Sam ou Samedi"
+  },
+  "month": {
+    "message": "Format du Mois"
+  },
+  "monthDescription": {
+    "message": "Jan ou Janvier"
+  },
+  "short": {
+    "message": "Court"
+  },
+  "long": {
+    "message": "Long"
+  },
+  "clock": {
+    "message": "Heure"
+  },
+  "hour12": {
+    "message": "Système Horaire sur 12h"
+  },
+  "hour12Description": {
+    "message": "Le système horaire sur 24 heures est utilisé par défaut"
+  },
+  "restore": {
+    "message": "Restaurer les valeurs par défaut"
+  },
+  "container": {
+    "message": "Conteneur"
+  },
+  "siteIsolation": {
+    "message": "Limiter aux sites désignés"
+  },
+  "errorPattern": {
+    "message": "Le motif présente une erreur"
+  },
+  "errorDuplicatePattern": {
+    "message": "Le motif existe dans un autre Containeur"
+  },
+  "theme": {
+    "message": "Thème"
+  },
+  "redirect": {
+    "message": "Rediriger"
+  },
+  "testUrl": {
+    "message": "URL de test"
+  },
+  "redirectResult": {
+    "message": "Redirection des Résultats"
+  },
+  "name": {
+    "message": "Nom"
+  },
+  "description": {
+    "message": "Description"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "homePage": {
+    "message": "Page d'Accueil"
+  },
+  "author": {
+    "message": "Auteur"
+  },
+  "addTheme": {
+    "message": "Ajouter"
+  },
+  "updateTheme": {
+    "message": "Mettre à jour"
+  },
+  "deleteTheme": {
+    "message": "Supprimer"
+  },
+  "clearTheme": {
+    "message": "Effacer"
+  },
+  "applyTheme": {
+    "message": "Appliquer"
+  },
+  "resetTheme": {
+    "message": "Réinitialiser"
+  },
+  "noNameError": {
+    "message": "Le thème doit avoir un nom."
+  },
+  "about": {
+    "message": "À propos"
+  },
+  "error": {
+    "message": "Une erreur est survenue"
+  },
+  "export": {
+    "message": "Exporter"
+  },
+  "fileParseError": {
+    "message": "Une erreur est survenue durant l'analyse du fichier"
+  },
+  "fileReadError": {
+    "message": "Une erreur est survenue durant la lecture du fichier"
+  },
+  "fileSizeError": {
+    "message": "Le fichier dépasse la taille autorisée de $1ko"
+  },
+  "fileTypeError": {
+    "message": "Format de fichier non supporté"
+  },
+  "help": {
+    "message": "Aide"
+  },
+  "import": {
+    "message": "Importer"
+  },
+  "jsonError": {
+    "message": "Le format JSON est invalid"
+  },
+  "options": {
+    "message": "Options"
+  },
+  "saveOptions": {
+    "message": "Enregistrer"
+  }
+}
