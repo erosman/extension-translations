@@ -1,4 +1,4 @@
-// version 2.23
+// version 2.29
 
 {   
   "extensionName": { "message": "FoxyTab" },
@@ -49,12 +49,13 @@
   "closeBookmarkedLeft": { "message": "关闭左侧所有已加书签的标签页" },
   "closeBookmarkedRight": { "message": "关闭右侧所有已加书签的标签页" },
   
-  "host": { "message": "主机标签页" },
-  "hostKeep": { "message": "仅保留此主机的标签页" },
-  "hostClose": { "message": "关闭此主机的标签页" },
-  "hostCloseOther": { "message": "关闭其他主机的标签页" },
-  "hostMoveNewWin": { "message": "移动此主机的标签页至新窗口" },
-  "hostReload": { "message": "重载此主机的标签页" },
+  "host": { "message": "站点标签页" },
+  "hostKeep": { "message": "仅保留此站点的标签页" },
+  "hostClose": { "message": "关闭此站点的标签页" },
+  "hostCloseOther": { "message": "关闭其他站点的标签页" },
+  "hostMoveNewWin": { "message": "移动此站点的标签页至新窗口" },
+  "hostMoveThisWin": { "message": "移动此站点的标签页至当前窗口" },
+  "hostReload": { "message": "重载此站点的标签页" },
   
   "sort": { "message": "标签页排序" },
   "sortURLAsc": { "message": "按网址升序" },
@@ -63,6 +64,8 @@
   "sortTitleDesc": { "message": "按标题降序" },
   "sortLastAccAsc": { "message": "按上次访问升序" },
   "sortLastAccDesc": { "message": "按上次访问降序" },
+  "sortDomAsc": { "message": "按域名升序" },
+  "sortDomDesc": { "message": "按域名降序" },
   "sortReverse": { "message": "倒序排列标签页" },
   
   "move": { "message": "移动标签页" },
@@ -104,6 +107,7 @@
   "unpinRight": { "message": "右侧所有标签页" },
   
   "Print": { "message": "打印" },
+  
   "capture": { "message": "捕获 (base64 格式)" },
   
   "reload": { "message": "重新载入" },
@@ -124,6 +128,9 @@
   "tabCounter": { "message": "标签页计数器" },
   "perWindow": { "message": "每个窗口" },
   "tabCounterDescription": { "message": "启用/禁用标签页计数器" },
+  "altIcon": { "message": "使用替代图标" },
+  "altIconDescription": { "message": "使用替代的灰度图标" },
+  
   "maxTabs": { "message": "每窗口标签页数量上限" },
   "maxTabsDescription": { "message": "限制每窗口标签页数量 (0 = 不限)" },
   "maxTabsError": { "message": "已达到每窗口标签页数量上限" },
