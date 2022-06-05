@@ -27,25 +27,25 @@
     "message": "建立桌面捷徑"
   },
   "createShortcutAll": {
-    "message": "全部"
+    "message": "桌面捷徑全部"
   },
   "createShortcutLeft": {
-    "message": "左側"
+    "message": "桌面捷徑左側"
   },
   "createShortcutRight": {
-    "message": "右側"
+    "message": "桌面捷徑右側"
   },
   "copy": {
     "message": "複製"
   },
   "copyTitle": {
-    "message": "分頁標題"
+    "message": "複製標題"
   },
   "copyUrl": {
-    "message": "分頁網址"
+    "message": "複製網址"
   },
   "copyTitleUrl": {
-    "message": "分頁標題和網址"
+    "message": "複製標題+網址"
   },
   "copyIP": {
     "message": "分頁 IP"
@@ -57,61 +57,61 @@
     "message": "私人網路"
   },
   "cache": {
-    "message": "從快取中載入"
+    "message": "從快取載入"
   },
   "unknown": {
     "message": "未知"
   },
   "copyUrlAll": {
-    "message": "所有分頁網址"
+    "message": "複製所有網址"
   },
   "copyUrlLeft": {
-    "message": "左側分頁網址"
+    "message": "複製左側網址"
   },
   "copyUrlRight": {
-    "message": "右側分頁網址"
+    "message": "複製右側網址"
   },
   "copyTitleUrlAll": {
-    "message": "所有分頁標題與網址"
+    "message": "複製所有標題+網址"
   },
   "copyTitleUrlLeft": {
-    "message": "左側分頁標題與網址"
+    "message": "複製左側標題+網址"
   },
   "copyTitleUrlRight": {
-    "message": "右側分頁標題與網址"
+    "message": "複製右側標題+網址"
   },
   "customAll": {
-    "message": "全部"
+    "message": "自訂複製全部"
   },
   "customLeft": {
-    "message": "左側"
+    "message": "自訂複製左側"
   },
   "customRight": {
-    "message": "右側"
+    "message": "自訂複製右側"
   },
   "bookmark": {
     "message": "將分頁加入書籤"
   },
   "bookmarkAll": {
-    "message": "全部"
+    "message": "書籤全部"
   },
   "bookmarkLeft": {
-    "message": "左側"
+    "message": "書籤左側"
   },
   "bookmarkRight": {
-    "message": "右側"
+    "message": "書籤右側"
   },
   "closeBookmarked": {
     "message": "關閉已書籤分頁"
   },
   "closeBookmarkedAll": {
-    "message": "全部"
+    "message": "關閉已書籤全部"
   },
   "closeBookmarkedLeft": {
-    "message": "左側"
+    "message": "關閉已書籤左側"
   },
   "closeBookmarkedRight": {
-    "message": "右側"
+    "message": "關閉已書籤右側"
   },
   "host": {
     "message": "網域"
@@ -150,16 +150,16 @@
     "message": "標題遞減"
   },
   "sortLastAccAsc": {
-    "message": "按上次訪問時間升序"
+    "message": "最後訪時遞增"
   },
   "sortLastAccDesc": {
-    "message": "按上次訪問時間降序"
+    "message": "最後訪時遞減"
   },
   "sortDomAsc": {
-    "message": "按網域升序"
+    "message": "網域遞增"
   },
   "sortDomDesc": {
-    "message": "按網域降序"
+    "message": "網域遞減"
   },
   "sortReverse": {
     "message": "反向排序分頁"
@@ -168,19 +168,19 @@
     "message": "移動"
   },
   "moveStart": {
-    "message": "至起始"
+    "message": "移至起始"
   },
   "moveEnd": {
-    "message": "至結尾"
+    "message": "移至結尾"
   },
   "moveNewWinLeft": {
-    "message": "左側分頁移至新視窗"
+    "message": "左側移至新視窗"
   },
   "moveNewWinRight": {
-    "message": "右側分頁移至新視窗"
+    "message": "右側移至新視窗"
   },
   "movePrivate": {
-    "message": "至隱私視窗"
+    "message": "移至隱私視窗"
   },
   "movePrivateLeft": {
     "message": "左側分頁移至隱私視窗"
@@ -192,16 +192,16 @@
     "message": "靜默"
   },
   "discardTab": {
-    "message": "靜默(丟棄內容停止持續運作)"
+    "message": "靜默(清除內容停運但保留頁籤)"
   },
   "discardAll": {
-    "message": "全部"
+    "message": "靜默全部"
   },
   "discardLeft": {
-    "message": "左側"
+    "message": "靜默左側"
   },
   "discardRight": {
-    "message": "右側"
+    "message": "靜默右側"
   },
   "hide": {
     "message": "隱藏"
@@ -210,49 +210,49 @@
     "message": "隱藏"
   },
   "hideAll": {
-    "message": "全部"
+    "message": "隱藏全部"
   },
   "hideLeft": {
-    "message": "左側"
+    "message": "隱藏左側"
   },
   "hideRight": {
-    "message": "右側"
+    "message": "隱藏右側"
   },
   "show": {
     "message": "顯示"
   },
   "showAll": {
-    "message": "全部"
+    "message": "顯示全部"
   },
   "showLeft": {
-    "message": "左側"
+    "message": "顯示左側"
   },
   "showRight": {
-    "message": "右側"
+    "message": "顯示右側"
   },
   "pin": {
     "message": "釘選"
   },
   "pinAll": {
-    "message": "全部"
+    "message": "釘選全部"
   },
   "pinLeft": {
-    "message": "左側"
+    "message": "釘選左側"
   },
   "pinRight": {
-    "message": "右側"
+    "message": "釘選右側"
   },
   "unpin": {
     "message": "解釘"
   },
   "unpinAll": {
-    "message": "全部"
+    "message": "解釘全部"
   },
   "unpinLeft": {
-    "message": "左側"
+    "message": "解釘左側"
   },
   "unpinRight": {
-    "message": "右側"
+    "message": "解釘右側"
   },
   "Print": {
     "message": "列印"
@@ -264,13 +264,13 @@
     "message": "重新載入"
   },
   "reloadAll": {
-    "message": "全部"
+    "message": "重載全部"
   },
   "reloadLeft": {
-    "message": "左側"
+    "message": "重載左側"
   },
   "reloadRight": {
-    "message": "右側"
+    "message": "重載右側"
   },
   "reload1": {
     "message": "每一分鐘."
@@ -312,13 +312,13 @@
     "message": "替代灰階圖示"
   },
   "maxTabs": {
-    "message": "每個視窗的最大分頁數"
+    "message": "每視窗最大分頁數"
   },
   "maxTabsDescription": {
-    "message": "限制每個視窗的分頁數 (0 = 不限制)"
+    "message": "限制每視窗分頁數 (0 = 不限制)"
   },
   "maxTabsError": {
-    "message": "達到每個視窗的最大分頁數"
+    "message": "達到每視窗的最大分頁數"
   },
   "badgeBGColor": {
     "message": "計數背景色彩"
@@ -363,7 +363,7 @@
     "message": "隱藏"
   },
   "duplicateToPrivate": {
-    "message": "Duplicate To Private"
+    "message": "複製到私隱分頁"
   },
   "selectMatch": {
     "message": "選擇符合"
