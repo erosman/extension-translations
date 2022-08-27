@@ -1,27 +1,30 @@
-// version 1.11
-
 {
   "extensionName": { "message": "Copy PlainText" },
   "extensionDescription": { "message": "Copy/Paste Plain Text without any formatting" },
 
   "pastePlainText": { "message": "Paste PlainText" },
-  "errorPaste": { "message": "Failed to paste" },
 
   "noIndent": { "message": "Remove Line Indent" },
   "noIndentDescription": { "message": "Select to remove leading spaces of each line" },
 
-  "keyboardShortcut": { "message": "Keyboard Shortcut" },
-  "keyboardShortcutDescription": { "message": "Select the preferred Keyboard Shortcut" },
+  "custom": { "message": "Custom" },
+  "customDescription": { "message": "Click Add to enter new custom Find & Replace" },
+  "find": { "message": "Find" },
+  "replace": { "message": "Replace" },
+  "add": { "message": "Add" },
+  "patternError": { "message": "There is an error with the Find Pattern" },
 
-  "reset": { "message": "Reset" },
-
-  "errorClipboard": { "message": "Failed to save to Clipboard" },
+  "amo":  { "message": "Firefox restricts some functions on some URLs" },
 
   "about": { "message": "About" },
-  "amo":  { "message": "Firefox restricts some functions on some URLs" },
   "error": { "message": "There was an error with the operation" },
+  "export": { "message": "Export" },
+  "fileParseError": { "message": "There was an error parsing the file" },
+  "fileReadError": { "message": "There was an error with reading the file" },
+  "fileSizeError": { "message": "File size is larger than the $1kb allowed" },
+  "fileTypeError": { "message": "Unsupported File Format" },
   "help": { "message": "Help" },
+  "import": { "message": "Import" },
   "options": { "message": "Options" },
-  "saveOptions": { "message": "Save" },
-  "settings": { "message": "Settings" }
+  "saveOptions": { "message": "Save" }
 }
