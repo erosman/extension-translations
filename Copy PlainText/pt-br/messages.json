@@ -1,0 +1,27 @@
+// version 1.11
+
+{
+  "extensionName": { "message": "Copy PlainText" },
+  "extensionDescription": { "message": "Copie e cole textos sem formatação" },
+
+  "pastePlainText": { "message": "Colar texto sem formatação" },
+  "errorPaste": { "message": "Falha ao colar" },
+
+  "noIndent": { "message": "Remover recuo de linha" },
+  "noIndentDescription": { "message": "Ative para remover espaços à esquerda de cada linha" },
+
+  "keyboardShortcut": { "message": "Atalho do teclado" },
+  "keyboardShortcutDescription": { "message": "Selecione o atalho desejado" },
+
+  "reset": { "message": "Redefinir" },
+
+  "errorClipboard": { "message": "Falha ao salvar para área de transferência" },
+
+  "about": { "message": "Sobre" },
+  "amo":  { "message": "O Firefox restringe certas funções em alguns URLs" },
+  "error": { "message": "Houve um erro com a operação" },
+  "help": { "message": "Ajuda" },
+  "options": { "message": "Opções" },
+  "saveOptions": { "message": "Salvar" },
+  "settings": { "message": "Configurações" }
+}
