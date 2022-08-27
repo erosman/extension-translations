@@ -1,0 +1,30 @@
+{
+  "extensionName": { "message": "Copy PlainText" },
+  "extensionDescription": { "message": "Copie e cole textos sem formatação" },
+
+  "pastePlainText": { "message": "Colar texto sem formatação" },
+
+  "noIndent": { "message": "Remover recuo de linha" },
+  "noIndentDescription": { "message": "Ative para remover espaços à esquerda de cada linha" },
+
+  "custom": { "message": "Personalizado" },
+  "customDescription": { "message": "Clique em \"Adicionar\" para inserir um novo \"Encontrar e substituir\"" },
+  "find": { "message": "Encontrar" },
+  "replace": { "message": "Substituir" },
+  "add": { "message": "Adicionar" },
+  "patternError": { "message": "Há um erro com o padrão de \"Encontrar\"" },
+
+  "amo":  { "message": "O Firefox restringe certas funções em alguns URLs" },
+
+  "about": { "message": "Sobre" },
+  "error": { "message": "Houve um erro com a operação" },
+  "export": { "message": "Exportar" },
+  "fileParseError": { "message": "Houve um erro ao analisar o arquivo" },
+  "fileReadError": { "message": "Houve um erro ao ler o arquivo" },
+  "fileSizeError": { "message": "O tamanho do arquivo é maior do que o máximo permitido de $1kb" },
+  "fileTypeError": { "message": "Formato de arquivo incompatível" },
+  "help": { "message": "Ajuda" },
+  "import": { "message": "Importar" },
+  "options": { "message": "Opções" },
+  "saveOptions": { "message": "Salvar" }
+}
