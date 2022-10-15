@@ -1,0 +1,71 @@
+{
+  "extensionName": {
+    "message": "Copy PlainText"
+  },
+  "extensionDescription": {
+    "message": "Copier/coller le texte brut sans formattage"
+  },
+  "pastePlainText": {
+    "message": "Coller le texte brut"
+  },
+  "noIndent": {
+    "message": "Enlever l'indentation de la ligne"
+  },
+  "noIndentDescription": {
+    "message": "Cochez cette option pour retirer les espaces en début de chaque ligne"
+  },
+  "custom": {
+    "message": "Personnaliser"
+  },
+  "customDescription": {
+    "message": "Cliquez sur \"ajouter\" pour saisir une nouvelle valeur personnalisée de \"rechercher et remplacer\""
+  },
+  "find": {
+    "message": "Rechercher"
+  },
+  "replace": {
+    "message": "Remplacer"
+  },
+  "add": {
+    "message": "Ajouter"
+  },
+  "patternError": {
+    "message": "Une erreur figure dans le motif de recherche"
+  },
+  "amo": {
+    "message": "Firefox restreint certaines fonctions sur certains liens"
+  },
+  "about": {
+    "message": "À propos"
+  },
+  "error": {
+    "message": "Une erreur est survenue lors de l'opération"
+  },
+  "export": {
+    "message": "Exporter"
+  },
+  "fileParseError": {
+    "message": "Une erreur est survenue lors de l'analyse du fichier"
+  },
+  "fileReadError": {
+    "message": "Une erreur est survenue lors de la lecture du fichier"
+  },
+  "fileSizeError": {
+    "message": "La taille du fichier est supérieure à $1kb"
+  },
+  "fileTypeError": {
+    "message": "Format de fichier non supporté"
+  },
+  "help": {
+    "message": "Aide"
+  },
+  "import": {
+    "message": "Importer"
+  },
+  "options": {
+    "message": "Paramètres"
+  },
+  "saveOptions": {
+    "message": "Sauvegarder"
+  }
+}
