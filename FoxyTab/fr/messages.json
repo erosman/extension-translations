@@ -6,49 +6,49 @@
     "message": "Groupe d'actions sur les onglets"
   },
   "closeDuplicate": {
-    "message": "Fermer les Onglets en double"
+    "message": "Fermer les onglets en double"
   },
   "window": {
     "message": "Fenêtre"
   },
   "mergeWindows": {
-    "message": "Fusionner Toutes les Fenêtres"
+    "message": "Fusionner toutes les fenêtres"
   },
   "closeOtherWindows": {
-    "message": "Fermer les Autres Fenêtres"
+    "message": "Fermer les autres fenêtres"
   },
   "saveAsPDF": {
-    "message": "Enregistrer l'Onglet au Format PDF"
+    "message": "Enregistrer l'onglet au format PDF"
   },
   "createShortcut": {
-    "message": "Créer un Raccourcis sur le Bureau"
+    "message": "Créer un raccourci sur le bureau"
   },
   "createShortcutTab": {
-    "message": "Créer un Raccourcis"
+    "message": "Créer un raccourci"
   },
   "createShortcutAll": {
-    "message": "Créer des Raccourcis avec Tous les Onglets"
+    "message": "Créer des raccourcis avec tous les onglets"
   },
   "createShortcutLeft": {
-    "message": "Créer des Raccourcis avec les Onglets à Gauche"
+    "message": "Créer des raccourcis avec les onglets à gauche"
   },
   "createShortcutRight": {
-    "message": "Créer des Raccourcis avec les Onglets à Droite"
+    "message": "Créer des raccourcis avec les onglets à droite"
   },
   "copy": {
     "message": "Copier"
   },
   "copyTitle": {
-    "message": "Copier le Titre de l'Onglet"
+    "message": "Copier le titre de l'onglet"
   },
   "copyUrl": {
-    "message": "Copier l'URL de l'Onglet"
+    "message": "Copier l'URL de l'onglet"
   },
   "copyTitleUrl": {
-    "message": "Copier le Titre et l'URL de l'Onglet"
+    "message": "Copier le titre et l'URL de l'onglet"
   },
   "copyIP": {
-    "message": "Copier l'Adresse IP de l'Onglet"
+    "message": "Copier l'adresse IP de l'onglet"
   },
   "internal": {
     "message": "Page interne à Firefox"
@@ -57,82 +57,82 @@
     "message": "Réseau Privé"
   },
   "cache": {
-    "message": "Chargé de puis de Cache"
+    "message": "Chargé depuis le cache"
   },
   "unknown": {
     "message": "Inconnu"
   },
   "copyUrlAll": {
-    "message": "Copier les URLs de tous les Onglets"
+    "message": "Copier les URLs de tous les onglets"
   },
   "copyUrlLeft": {
-    "message": "Copier les URLs des Onglets sur la Gauche"
+    "message": "Copier les URLs des onglets sur la gauche"
   },
   "copyUrlRight": {
-    "message": "Copier les URLs des Onglets sur la Droite"
+    "message": "Copier les URLs des onglets sur la droite"
   },
   "copyTitleUrlAll": {
-    "message": "Copier les Titres et URLs de tous les Onglets"
+    "message": "Copier les titres et URLs de tous les onglets"
   },
   "copyTitleUrlLeft": {
-    "message": "Copier les Titres et URLs des Onglets sur la Gauche"
+    "message": "Copier les titres et URLs des onglets sur la gauche"
   },
   "copyTitleUrlRight": {
-    "message": "Copier les Titres et URLs des Onglets sur la Droite"
+    "message": "Copier les titres et URLs des onglets sur la droite"
   },
   "customAll": {
-    "message": "Copier la personalisation de tous les Onglets"
+    "message": "Copier la personalisation de tous les onglets"
   },
   "customLeft": {
-    "message": "Copier la personalisation des Onglets sur la Gauche"
+    "message": "Copier la personalisation des onglets sur la gauche"
   },
   "customRight": {
-    "message": "Copier la personalisation des Onglets sur la Droite"
+    "message": "Copier la personalisation des onglets sur la droite"
   },
   "bookmark": {
-    "message": "Ajouter aux Favoris"
+    "message": "Ajouter aux favoris"
   },
   "bookmarkAll": {
-    "message": "Ajouter tous les Onglets aux Favoris"
+    "message": "Ajouter tous les onglets aux favoris"
   },
   "bookmarkLeft": {
-    "message": "Ajouter aux Favoris les Onglets sur la Gauche"
+    "message": "Ajouter aux favoris les onglets sur la gauche"
   },
   "bookmarkRight": {
-    "message": "Ajouter aux Favoris les Onglets sur la Droite"
+    "message": "Ajouter aux favoris les onglets sur la droite"
   },
   "closeBookmarked": {
-    "message": "Fermer les Onglets qui sont dans les Favoris"
+    "message": "Fermer les onglets qui sont dans les favoris"
   },
   "closeBookmarkedAll": {
-    "message": "Fermer Tous les Onglets qui sont dans les Favoris"
+    "message": "Fermer tous les onglets qui sont dans les favoris"
   },
   "closeBookmarkedLeft": {
-    "message": "Fermer Tous les Onglets sur la Gauche qui sont dans les Favoris"
+    "message": "Fermer tous les onglets sur la gauche qui sont dans les favoris"
   },
   "closeBookmarkedRight": {
-    "message": "Fermer Tous les Onglets sur la Droite qui sont dans les Favoris"
+    "message": "Fermer tous les onglets sur la droite qui sont dans les favoris"
   },
   "host": {
     "message": "Hôte"
   },
   "hostKeep": {
-    "message": "Garder l'Hôte"
+    "message": "Garder l'hôte"
   },
   "hostClose": {
-    "message": "Fermer l'Hôte"
+    "message": "Fermer l'hôte"
   },
   "hostCloseOther": {
-    "message": "Fermer l'Onglet Hôte"
+    "message": "Fermer l'onglet hôte"
   },
   "hostMoveNewWin": {
-    "message": "Déplacer l'Hôte vers une Nouvelle Fenêtre"
+    "message": "Déplacer l'hôte vers une nouvelle fenêtre"
   },
   "hostMoveThisWin": {
-    "message": "Déplacer l'Hôte vers cette Fenêtre"
+    "message": "Déplacer l'hôte vers cette fenêtre"
   },
   "hostReload": {
-    "message": "Rafraîchier l'Hôte"
+    "message": "Rafraîchir l'hôte"
   },
   "sort": {
     "message": "Trier"
@@ -144,115 +144,115 @@
     "message": "Trier par URL descendante"
   },
   "sortTitleAsc": {
-    "message": "Trier par Titre montant"
+    "message": "Trier par titre montant"
   },
   "sortTitleDesc": {
-    "message": "Trier par Titre descendant"
+    "message": "Trier par titre descendant"
   },
   "sortLastAccAsc": {
-    "message": "Trier par Date de Dernier Accès montante"
+    "message": "Trier par date de dernier accès montante"
   },
   "sortLastAccDesc": {
-    "message": "Trier par Date de Dernier Accès descendante"
+    "message": "Trier par date de dernier accès descendante"
   },
   "sortDomAsc": {
-    "message": "Trier par Nom de Domaine montant"
+    "message": "Trier par nom de domaine montant"
   },
   "sortDomDesc": {
-    "message": "Trier par Nom de Domaine descendant"
+    "message": "Trier par nom de domaine descendant"
   },
   "sortReverse": {
-    "message": "Renverser l'Ordre de Tri des Onglets"
+    "message": "Renverser l'ordre de tri des onglets"
   },
   "move": {
     "message": "Déplacer"
   },
   "moveStart": {
-    "message": "Déplacer au Début"
+    "message": "Déplacer au début"
   },
   "moveEnd": {
-    "message": "Déplacer à la Fin"
+    "message": "Déplacer à la fin"
   },
   "moveNewWinLeft": {
-    "message": "Déplacer dans une Nouvelle Fenêtre à Gauche"
+    "message": "Déplacer dans une nouvelle fenêtre à gauche"
   },
   "moveNewWinRight": {
-    "message": "Déplacer dans une Nouvelle Fenêtre à Droite"
+    "message": "Déplacer dans une nouvelle fenêtre à droite"
   },
   "movePrivate": {
-    "message": "Déplacer dans une Nouvelle Fenêtre Privée"
+    "message": "Déplacer dans une nouvelle fenêtre privée"
   },
   "movePrivateLeft": {
-    "message": "Déplacer dans une Nouvelle Fenêtre Privée à Gauche"
+    "message": "Déplacer dans une nouvelle fenêtre privée à gauche"
   },
   "movePrivateRight": {
-    "message": "Déplacer dans une Nouvelle Fenêtre Privée à Droite"
+    "message": "Déplacer dans une nouvelle fenêtre privée à droite"
   },
   "discard": {
     "message": "Fermer"
   },
   "discardTab": {
-    "message": "Fermer lOnglet"
+    "message": "Fermer l'onglet"
   },
   "discardAll": {
-    "message": "Tout Fermer"
+    "message": "Tout fermer"
   },
   "discardLeft": {
-    "message": "Fermer sur la Gauche"
+    "message": "Fermer sur la gauche"
   },
   "discardRight": {
-    "message": "Fermer sur la Droite"
+    "message": "Fermer sur la droite"
   },
   "hide": {
     "message": "Cacher"
   },
   "hideTab": {
-    "message": "Cacher l'Onglet"
+    "message": "Cacher l'onglet"
   },
   "hideAll": {
-    "message": "Cacher Tout"
+    "message": "Cacher tout"
   },
   "hideLeft": {
-    "message": "Cacher sur la Gauche"
+    "message": "Cacher sur la gauche"
   },
   "hideRight": {
-    "message": "Cacher sur la Droite"
+    "message": "Cacher sur la droite"
   },
   "show": {
     "message": "Montrer"
   },
   "showAll": {
-    "message": "Montrer Tout"
+    "message": "Montrer tout"
   },
   "showLeft": {
-    "message": "Montrer sur la Gauche"
+    "message": "Montrer sur la gauche"
   },
   "showRight": {
-    "message": "Montrer sur la Droite"
+    "message": "Montrer sur la droite"
   },
   "pin": {
     "message": "Épingler"
   },
   "pinAll": {
-    "message": "Épingler Tout"
+    "message": "Épingler tout"
   },
   "pinLeft": {
-    "message": "Épingler sur la Gauche"
+    "message": "Épingler sur la gauche"
   },
   "pinRight": {
-    "message": "Épingler sur la Droite"
+    "message": "Épingler sur la droite"
   },
   "unpin": {
-    "message": "Dépunaiser"
+    "message": "Désépingler"
   },
   "unpinAll": {
-    "message": "Dépunaiser Tout"
+    "message": "Désépingler tout"
   },
   "unpinLeft": {
-    "message": "Dépunaiser sur la Gauche"
+    "message": "Désépingler sur la gauche"
   },
   "unpinRight": {
-    "message": "Dépunaiser sur la Droite"
+    "message": "Désépingler sur la droite"
   },
   "Print": {
     "message": "Imprimer"
@@ -267,10 +267,10 @@
     "message": "Tout rafraîchir"
   },
   "reloadLeft": {
-    "message": "Rafraîchir sur la Gauche"
+    "message": "Rafraîchir sur la gauche"
   },
   "reloadRight": {
-    "message": "Rafraîchir sur la Droite"
+    "message": "Rafraîchir sur la droite"
   },
   "reload1": {
     "message": "Toutes les minutes"
@@ -288,49 +288,49 @@
     "message": "Toutes les 5 minutes"
   },
   "reloadStop": {
-    "message": "Arrêter le Rafraîchissement Automatique"
+    "message": "Arrêter le rafraîchissement automatique"
   },
   "clipboardError": {
     "message": "Impossible de savegarder dans le presse-papiers"
   },
   "proxy": {
-    "message": "Informations sur le Proxy"
+    "message": "Informations sur le proxy"
   },
   "tabCounter": {
-    "message": "Compteur d'Onglets"
+    "message": "Compteur d'onglets"
   },
   "perWindow": {
-    "message": "Per Fenêtre"
+    "message": "Par fenêtre"
   },
   "tabCounterDescription": {
-    "message": "Activer ou Désactiver le Compteur d'Onglets"
+    "message": "Activer ou désactiver le compteur d'onglets"
   },
   "altIcon": {
-    "message": "Icône Alternative"
+    "message": "Icône alternative"
   },
   "altIconDescription": {
-    "message": "Icône Alternative en Échelle de Gris"
+    "message": "Icône alternative en niveaux de gris"
   },
   "maxTabs": {
-    "message": "Number Maximum d'Onglets"
+    "message": "Nombre maximum d'onglets"
   },
   "maxTabsDescription": {
-    "message": "Limiter le nombre d'Onglets (0 = pas de limite)"
+    "message": "Limiter le nombre d'onglets (0 = pas de limite)"
   },
   "maxTabsError": {
-    "message": "Number Maximum d'Onglets par Fenêtre atteinte"
+    "message": "Nombre maximum d'onglets par fenêtre atteint"
   },
   "badgeBGColor": {
-    "message": "Couleur de Fond du Badge"
+    "message": "Couleur de fond du badge"
   },
   "badgeBGColorDescription": {
-    "message": "Changer la Couleur de Fond du Badge"
+    "message": "Changer la couleur de fond du badge"
   },
   "badgeTextColor": {
-    "message": "Couleur du Texte du Badge"
+    "message": "Couleur du texte du badge"
   },
   "badgeTextColorDescription": {
-    "message": "Modifier la Couleur du Texte du Badge"
+    "message": "Modifier la couleur du texte du badge"
   },
   "reset": {
     "message": "Réinitialiser"
@@ -339,25 +339,25 @@
     "message": "Supprimer"
   },
   "dateClock": {
-    "message": "Date et Heure"
+    "message": "Date et heure"
   },
   "contextMenu": {
-    "message": "Menu Contextuel"
+    "message": "Menu contextuel"
   },
   "contextMenuDescription": {
     "message": "Activer, désactiver ou réordonner les élements du menu contextuel"
   },
   "customCopy": {
-    "message": "Copie Personnalisée"
+    "message": "Copie personnalisée"
   },
   "customCopyDescription": {
-    "message": "Choisissez une Format de Copie Personnalisé"
+    "message": "Choisissez une format de copie personnalisé"
   },
   "modifiers": {
     "message": "Modificateurs"
   },
   "pinned": {
-    "message": "Epinglé"
+    "message": "Épinglé"
   },
   "hidden": {
     "message": "Caché"
@@ -381,7 +381,7 @@
     "message": "Supprimer des URLs les informations de pistage ou redirection"
   },
   "showFlag": {
-    "message": "Afficher le Drapeau"
+    "message": "Afficher le drapeau"
   },
   "showFlagDescription": {
     "message": "Géolocaliser et afficher le drapeau"
@@ -399,13 +399,13 @@
     "message": "Date"
   },
   "weekday": {
-    "message": "Fomat du Jour de la Semaine"
+    "message": "Fomat du jour de la semaine"
   },
   "weekdayDescription": {
     "message": "Sam ou Samedi"
   },
   "month": {
-    "message": "Format du Mois"
+    "message": "Format du mois"
   },
   "monthDescription": {
     "message": "Jan ou Janvier"
@@ -420,7 +420,7 @@
     "message": "Heure"
   },
   "hour12": {
-    "message": "Système Horaire sur 12h"
+    "message": "Système horaire sur 12h"
   },
   "hour12Description": {
     "message": "Le système horaire sur 24 heures est utilisé par défaut"
@@ -438,7 +438,7 @@
     "message": "Le motif présente une erreur"
   },
   "errorDuplicatePattern": {
-    "message": "Le motif existe dans un autre Containeur"
+    "message": "Le motif existe dans un autre conteneur"
   },
   "theme": {
     "message": "Thème"
@@ -450,7 +450,7 @@
     "message": "URL de test"
   },
   "redirectResult": {
-    "message": "Redirection des Résultats"
+    "message": "Redirection des résultats"
   },
   "name": {
     "message": "Nom"
@@ -462,7 +462,7 @@
     "message": "Version"
   },
   "homePage": {
-    "message": "Page d'Accueil"
+    "message": "Page d'accueil"
   },
   "author": {
     "message": "Auteur"
@@ -516,7 +516,7 @@
     "message": "Importer"
   },
   "jsonError": {
-    "message": "Le format JSON est invalid"
+    "message": "Le format JSON est invalide"
   },
   "options": {
     "message": "Options"
