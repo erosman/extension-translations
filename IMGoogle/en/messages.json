@@ -1,0 +1,17 @@
+{
+  "extensionName": { "message": "IMGoogle" },
+  "extensionDescription": { "message": "Google Reverse Image Search" },
+
+  "search": { "message": "Search Google for this Image" },
+  "sending": { "message": "Sending Data ... please wait" },
+  "sourceError": { "message": "Unsupported Image Source" },
+
+  "activeTab": { "message": "Open Tab in Foreground" },
+  "activeTabDescription": { "message": "Select if you wish to open the result tab in Foreground (default is Background)" },
+
+  "about": { "message": "About" },
+  "error": { "message": "There was an error with the operation" },
+  "help": { "message": "Help" },
+  "options": { "message": "Options" },
+  "saveOptions": { "message": "Save" }
+}
