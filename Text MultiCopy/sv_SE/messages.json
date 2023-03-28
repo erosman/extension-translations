@@ -1,5 +1,3 @@
-// version 2.8
-
 {
   "extensionName": { "message": "Text MultiCopy" },
   "extensionDescription": { "message": "Kopiera text flera gånger innan du klistrar in det" },
