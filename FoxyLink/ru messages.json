@@ -1,0 +1,35 @@
+{
+  "extensionName": { "message": "FoxyLink" },
+  "extensionDescription": { "message": "Набор действий по работе с ссылками" },
+  
+  "open": { "message": "Открыть выбранные ссылки" },
+  "copy": { "message": "Копировать в буфер обмена" },
+  "save": { "message": "Сохранить выбранные ссылки" },
+  
+  "openSaved": { "message": "Открыть сохранённые ссылки" },
+  "copySaved": { "message": "Копировать в буфер обмена" },
+  "pasteSaved": { "message": "Вставить сохранённые ссылки" },
+  "clear": { "message": "Очистить сохранённые ссылки" },
+
+
+  "totalSaved": { "message": "Всего сохранено:" },
+  "totalPasted": { "message": "Всего вставлено:" },
+  "totalCopied": { "message": "Всего скопировано в буфер обмена:" },
+  
+  "errorEmpty": { "message": "Хранилище пусто" }, 
+  "errorNoLinks": { "message": "Нет ссылок" },
+
+  "notification": { "message": "Уведомление" },
+  "notificationDescription": { "message": "Снимите флажок для отключения всплывающей информации" },
+
+
+  "errorClipboard": { "message": "Ошибка сохранения в буфер обмена" },
+
+  "about": { "message": "О расширении" },
+  "amo":  { "message": "Firefox ограничивает определённые функции на некоторых URL-адресах" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "help": { "message": "Справка" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" },
+  "settings": { "message": "Настройки" }
+}

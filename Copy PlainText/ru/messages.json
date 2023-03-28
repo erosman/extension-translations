@@ -1,1 +1,30 @@
+{
+  "extensionName": { "message": "Copy PlainText" },
+  "extensionDescription": { "message": "Копируйте и вставляйте простой текст (без форматирования)" },
 
+  "pastePlainText": { "message": "Вставить простой текст" },
+
+  "noIndent": { "message": "Удалить отступы" },
+  "noIndentDescription": { "message": "Возможность удаления ведущих пробелов в каждой строке" },
+
+  "custom": { "message": "Пользовательская замена" },
+  "customDescription": { "message": "Создайте новый шаблон поиска/замены и нажмите «Добавить»" },
+  "find": { "message": "Найти" },
+  "replace": { "message": "Заменить" },
+  "add": { "message": "Добавить" },
+  "patternError": { "message": "Ошибка в шаблоне поиска" },
+
+  "amo":  { "message": "Firefox ограничивает определённые функции на некоторых URL-адресах" },
+
+  "about": { "message": "О расширении" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "export": { "message": "Экспорт" },
+  "fileParseError": { "message": "Произошла ошибка при синтаксическом анализе файла" },
+  "fileReadError": { "message": "Произошла ошибка при чтении файла" },
+  "fileSizeError": { "message": "Размер файла превышает допустимые $1kb" },
+  "fileTypeError": { "message": "Неподдерживаемый формат файла" },
+  "help": { "message": "Справка" },
+  "import": { "message": "Импорт" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" }
+}

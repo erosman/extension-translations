@@ -1,0 +1,33 @@
+{
+  "extensionName": { "message": "IMDb Plus" },
+  "extensionDescription": { "message": "Пользовательские улучшения для IMDb" },
+
+
+  "age": { "message": "age" },
+  "tableHeader": { "message": "Weekly Average Table" },
+  "weeklyAve": { "message": "Weekly Average:" },
+
+
+  "addAge": { "message": "Добавить возраст" },
+  "addAgeDescription": { "message": "Добавляет возраст человека рядом с датой рождения на IMDb" },  
+  "addWeeklyAverage": { "message": "Добавить общую сводку" },
+  "addWeeklyAverageDescription": { "message": "Добавляет таблицу с недельной сводкой на странице кассовых сборов в США" },  
+  "removeLoadlate": { "message": "Удалить LoadLate" },
+  "removeLoadlateDescription": { "message": "Убирает задержу загрузки изображений (особенно полезно при выключенном JavaScript)" },  
+  "showAll": { "message": "Развернуть всё" },
+  "showAllDescription": { "message": "Разворачивает все свёрнутые разделы (особенно полезно при выключенном JavaScript)" },  
+  "biggerThumbs": { "message": "Увеличить превью" },
+  "biggerThumbsDescription": { "message": "Показывает увеличенные превью изображений. Обычно ширина превью на IMDb равна 32." },
+
+  "disabled": { "message": "Отключено" },
+
+  "amo":  { "message": "Firefox ограничивает определённые функции на некоторых URL-адресах" },
+  "changelog": { "message": "Список изменений" },
+  "credits": { "message": "Авторы" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "help": { "message": "Справка" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" },
+  "support": { "message": "Поддержать" }
+}
+
