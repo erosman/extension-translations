@@ -193,7 +193,7 @@
   "container": { "message": "Контейнер" },
   "siteIsolation": { "message": "Ограничить действия для заданных сайтов" },
   "errorPattern": { "message": "Ошибка в шаблоне совпадения" },
-  "errorDuplicatePattern": { "message": "Шаблон совпадения уже есть в другом контейнере"" },
+  "errorDuplicatePattern": { "message": "Шаблон совпадения уже есть в другом контейнере" },
 
   "theme": { "message": "Тема" },
 
