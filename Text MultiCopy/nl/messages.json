@@ -1,5 +1,3 @@
-// version 2.10
-
 {
   "extensionName": { "message": "Text MultiCopy" },
   "extensionDescription": { "message": "Kopieer tekst meermaals alvorens te plakken" },
