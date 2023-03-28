@@ -1,5 +1,3 @@
-// version 2.5
-
 {
   "extensionName": { "message": "FoxyPAC" },
   "extensionDescription": { "message": "Maak, bewerk en exporteer op eenvoudige wijze automatische proxyconfiguratie (PAC), of stel deze in" },
