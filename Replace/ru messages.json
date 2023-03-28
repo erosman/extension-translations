@@ -1,0 +1,21 @@
+{
+  "extensionName": { "message": "Replace" },
+  "extensionDescription": { "message": "Ищите и заменяйте текст на веб-страницах через простой текст и регулярные выражения." },
+
+
+  "find": { "message": "Найти" },
+  "replace": { "message": "Заменить" },
+  "clear": { "message": "Очистить" },
+  "matchCase": { "message": "Учитывать регистр" },
+
+  "errorNotFound": { "message": "Шаблон поиска не задан" },
+  "errorPattern": { "message": "Ошибка в шаблоне поиска" },
+
+
+  "about": { "message": "О расширении" },
+  "amo":  { "message": "Firefox ограничивает определённые функции на некоторых URL-адресах" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "help": { "message": "Справка" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" }
+}

@@ -1,0 +1,75 @@
+{
+  "extensionName": { "message": "FoxyImage" },
+  "extensionDescription": { "message": "Набор действий по работе с изображениями" },
+
+  "Edit": { "message": "Редактировать" },
+  "rotateLeft": { "message": "Повернуть влево" },
+  "rotateRight": { "message": "Повернуть вправо" },
+  "rotate180": { "message": "Повернуть на 180°" },
+  "flipVertical": { "message": "Отразить по вертикали" },
+  "flipHorizontal": { "message": "Отразить по горизонтали" },
+  "reset": { "message": "Сброс" },
+
+  "openImage": { "message": "Открыть в новой вкладке" },
+  
+  "copyData": { "message": "Открыть как Data:URI" },
+  "textClipboard": { "message": "Данные сохранены в буфер обмена" },
+  "errorClipboard": { "message": "Ошибка сохранения в буфер обмена" },
+
+  "images": { "message": "Изображения" },
+  "saveAllImages": { "message": "Сохранить все" },
+  "saveSelectedImages": { "message": "Сохранить выбранное" },
+  "openSelectedImages": { "message": "Открыть выбранное в новой вкладке" },
+
+  "imageLinks": { "message": "Ссылки на изображения" },
+  "saveAllImageLinks": { "message": "Сохранить все" },
+  "saveSelectedImageLinks": { "message": "Сохранить выбранное" },
+  "openSelectedImageLinks": { "message": "Открыть выбранное в новой вкладке" },
+
+  "link": { "message": "Целевые ссылки" },
+  "saveTargetImages": { "message": "Сохранить все целевые изображения" },
+  "saveTargetImageLinks": { "message": "Сохранить все целевые ссылки" },
+
+
+  "tabs": { "message": "Вкладки" },
+  "saveImagesLeft": { "message": "Сохранить изображения слева" },
+  "saveImagesRight": { "message": "Сохранить изображения справа" },
+  "saveImageLinksLeft": { "message": "Сохранить ссылки на изображения слева" },
+  "saveImageLinksRight": { "message": "Сохранить ссылки на изображения справа" },
+
+  "reload": { "message": "Перезагрузить" },
+  "reloadImage": { "message": "Данное изображение" },
+  "reloadAll": { "message": "Всё изображения" },
+
+
+  "confirmQuantity": { "message": "Элементов к обработке: $1.\nПродолжить?" },
+
+  
+  "notFound": { "message": "Не найдено" },
+
+  "patterns": { "message": "Шаблоны фильтров" },
+  "patternsDescription": { "message": "Введите шаблоны для фильтрации загрузок" },
+
+
+  "importPreference": { "message": "Импорт настроек" },
+  "exportPreference": { "message": "Экспорт настроек" },
+
+  "errorSize": { "message": "Размер файла превышает допустимые $1kb" },
+  "errorType": { "message": "Неподдерживаемый формат файла" },
+  "errorRead": { "message": "Произошла ошибка при чтении файла" },
+  "errorParse": { "message": "Произошла ошибка при синтаксическом анализе файла" },
+
+  "errorPattern": { "message": "Ошибка в шаблоне" },
+  "errorPatternEnd": { "message": "Шаблоны должны начинаться и заканчиваться со знаком «/» (без флагов)" },
+  "errorWildcard": { "message": "Шаблоны не должны содержать метасимволы в начале и конце" },
+  "errorShort": { "message": "Последствия создания коротких шаблонов могут быть непредсказуемыми" },
+  "errorScheme": { "message": "Не используйте более одного знака «*» при создании шаблона" },
+
+
+  "about": { "message": "О расширении" },
+  "amo":  { "message": "Firefox ограничивает определённые функции на некоторых URL-адресах" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "help": { "message": "Справка" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" }
+}

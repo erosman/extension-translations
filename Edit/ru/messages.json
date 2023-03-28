@@ -1,0 +1,61 @@
+{
+  "extensionName": { "message": "Edit" },
+  "extensionDescription": { "message": "Форматируйте и заменяйте написанные тексты; вставляйте HTML, BBCode, разметку и пользовательские тексты" },
+
+
+  "find": { "message": "Найти" },
+  "replace": { "message": "Заменить" },
+  "clear": { "message": "Очистить" },
+  "matchCase": { "message": "Учитывать регистр" },
+
+  "errorNotFound": { "message": "Шаблон поиска не задан" },
+  "errorPattern": { "message": "Ошибка в шаблоне поиска" },
+
+  "bbcode": { "message": "BBCode" },
+  "html": { "message": "HTML" },
+  "markdown": { "message": "Разметка" },
+  "text": { "message": "Текст" },
+  "custom": { "message": "Шаблон" },
+
+  "bold": { "message": "Жирный" },
+  "italic": { "message": "Курсив" },
+  "underline": { "message": "Подчёркнутый" },
+  "delete": { "message": "Зачёркнутый" },
+  "code": { "message": "Код" },
+  "img": { "message": "Изображение" },
+  "quote": { "message": "Цитата" },
+  "list": { "message": "Список" },
+  "listItem": { "message": "Элемент списка" },
+  "url": { "message": "URL-адрес" },
+  "table": { "message": "Таблица" },
+  "tr": { "message": "Строка" },
+  "td": { "message": "Столбец" },
+
+  "uppercase": { "message": "Верхний регистр" },
+  "lowercase": { "message": "Нижний регистр" },
+  "capitalize": { "message": "Заглавие" },
+  "invert": { "message": "Инвертированный регистр" },
+  "random": { "message": "Произвольный регистр" },
+
+  "removeTag": { "message": "Удалить тэги" },
+  "dark": { "message": "Тёмная тема" },
+
+  "customDescription": { "message": "Введите новый шаблон начальной и конечной строки и нажмите «Добавить»" },
+  "start": { "message": "Начало" },
+  "end": { "message": "Конец" },
+  "add": { "message": "Добавить" },
+
+  "import": { "message": "Импорт" },
+  "export": { "message": "Экспорт" },
+  "errorSize": { "message": "Размер файла превышает допустимые $1kb" },
+  "errorType": { "message": "Неподдерживаемый формат файла" },
+  "errorRead": { "message": "Произошла ошибка при чтении файла" },
+  "errorParse": { "message": "Произошла ошибка при синтаксическом анализе файла" },
+
+
+  "about": { "message": "О расширении" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "help": { "message": "Справка" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" }
+}

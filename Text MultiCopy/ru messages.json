@@ -1,0 +1,39 @@
+{
+  "extensionName": { "message": "Text MultiCopy" },
+  "extensionDescription": { "message": "Копируйте множественные тексты перед вставкой" },
+
+  "save": { "message": "Сохраните выделенное" },
+  "copySaved": { "message": "Скопировать сохранённое в буфер обмена" },
+  "pasteSaved": { "message": "Вставить сохранённое сюда" },
+
+  "totalSaved": { "message": "Всего сохранено:" },
+  "totalPasted": { "message": "Всего вставлено:" },
+  "totalCopied": { "message": "Всего скопировано в буфер обмена:" },
+
+  "errorEmpty": { "message": "Хранилище пусто" },
+
+  "customCopy": { "message": "Пользовательское копирование" },
+  "customCopyDescription": { "message": "Задание шаблона пользовательского копирования" },
+
+  "divider": { "message": "Разделитель" },
+  "dividerDescription": { "message": "Выбор предпочтительного разделителя текста" },
+
+  "notification": { "message": "Уведомления" },
+  "notificationDescription": { "message": "Снимите флажок при желании отключить всплывающую информацию" },
+
+  "export": { "message": "Экспорт" },
+  "delete": { "message": "Удалить" },
+
+  "savedData": { "message": "Сохранённые данные" },
+  "dataChanged": { "message": "Сохранённые данные хранилища были обновлены. Следующее сохранение заменит их" },
+
+  "errorClipboard": { "message": "Ошибка сохранения в буфер обмена" },
+
+  "about": { "message": "О расширении" },
+  "amo":  { "message": "Firefox ограничивает определённые функции на некоторых URL-адресах" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "help": { "message": "Справка" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" },
+  "settings": { "message": "Настройки" }
+}

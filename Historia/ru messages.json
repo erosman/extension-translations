@@ -1,0 +1,74 @@
+{
+  "extensionName": { "message": "Historia" },
+  "extensionDescription": { "message": "Управляй историей браузера в целях приватности и производительности" },
+
+
+  "deleteHistory": { "message": "Удалить историю" },
+  "preferences": { "message": "Параметры" },
+
+  "patterns": { "message": "Шаблоны фильтров" }, 
+  "patternsDescription": { "message": "Задание шаблонов во избежание попадания будущих посещений в историю" }, 
+  
+  "keyword": { "message": "Ключевое слово" },
+  "byKeywordDescription": { "message": "Задание поиска по ключевому слову и предельному количеству результатов" },
+  
+  "start": { "message": "Начало" },
+  "startDescription": { "message": "Отсчёт первой даты поиска" },
+  "end": { "message": "End" },
+  "endDescription": { "message": "Отсчёт последней даты поиска" },
+  
+  
+  "max": { "message": "Максимум результатов" },
+  "maxDescription": { "message": "Предельное количество результатов поиска по ключевому слову" },
+  
+  "dateRange": { "message": "Удаление элементов истории между $1 и $2" },
+  "totalFound": { "message": "Всего найдено:" },
+
+
+  "delete": { "message": "Удалить" },
+  
+
+  "deleteRecentHistoryDescription": { "message": "Количество дней для удаления (из меню расширения)" },
+
+  "autoDelete": { "message": "Автоудаление истории" },
+  "autoDeleteDescription": { "message": "Отсчёт дней для автоматического удаления старых элементов истории" },
+
+
+  "importPreference": { "message": "Импорт настроек" },
+  "exportPreference": { "message": "Экспорт настроек" },
+
+  "errorSize": { "message": "Размер файла превышает допустимые $1kb" },
+  "errorType": { "message": "Неподдерживаемый формат файла" },
+  "errorRead": { "message": "Произошла ошибка при чтении файла" },
+  "errorParse": { "message": "Произошла ошибка при синтаксическом анализе файла" },
+  
+  "errorPattern": { "message": "Ошибка в шаблоне" },
+  "errorPatternEnd": { "message": "Шаблоны должны начинаться и заканчиваться со знаком «/» (без флагов)" },
+  "errorWildcard": { "message": "Шаблоны не должны содержать метасимволы в начале и конце" },
+  "errorShort": { "message": "Последствия создания коротких шаблонов могут быть непредсказуемыми" },
+  "errorScheme": { "message": "Не используйте более одного знака «*» при создании шаблона" },
+
+
+
+  "deleteHostHistory": { "message": "Удалить историю хоста" },
+  "filterHostHistory": { "message": "Отфильтровать историю хоста" },
+  "deleteRecentHistory": { "message": "Удалить недавнюю историю" },
+  "deleteHostCookies": { "message": "Удалить куки хоста" },
+  "openOptions": { "message": "Открыть опции" },
+  
+  
+  "errorHost": { "message": "Неподдерживаемый хост" },
+
+  
+  "addedHost": { "message": "Хост добавлен в шаблоны фильтров" },
+  "deletingRecentHistory": { "message": "Удаление истории за последний $1 час(ов)" },
+  "deletingHostCookies": { "message": "Удаление $1 куки хоста" },
+
+
+  "about": { "message": "О расширении" },
+  "amo":  { "message": "Firefox ограничивает определённые функции на некоторых URL-адресах" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "help": { "message": "Справка" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" }
+}

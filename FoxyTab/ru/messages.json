@@ -1,0 +1,233 @@
+{
+  "extensionName": { "message": "FoxyTab" },
+  "extensionDescription": { "message": "Набор действий по работе c вкладками" },
+
+
+  "closeDuplicate": { "message": "Закрыть дубликаты вкладок" },
+  "window": { "message": "Окно" },
+  "mergeWindows": { "message": "Объединить все окна" },
+  "closeOtherWindows": { "message": "Закрыть другие окна" },
+  "saveAsPDF": { "message": "Сохранить вкладку как PDF" },
+
+  "createShortcut": { "message": "Создать ярлык" },
+  "createShortcutTab": { "message": "Ярлык этой вкладки" },
+  "createShortcutAll": { "message": "Ярлыки всех вкладок" },
+  "createShortcutLeft": { "message": "Ярлыки вкладок слева" },
+  "createShortcutRight": { "message": "Ярлыки вкладок справа" },
+
+  "copy": { "message": "Скопировать" },
+  "copyTitle": { "message": "Заголовок вкладки" },
+  "copyUrl": { "message": "URL-адрес вкладки" },
+  "copyTitleUrl": { "message": "Заголовок и URL-адрес вкладки" },
+  "copyIP": { "message": "IP-адрес вкладки" },
+
+  "internal": { "message": "Внутренняя страница Firefox" },
+  "private": { "message": "Частная сеть" },
+  "cache": { "message": "Загружена из кэша" },
+  "unknown": { "message": "Неизвестно" },
+
+  "copyUrlAll": { "message": "URL-адреса всех вкладок" },
+  "copyUrlLeft": { "message": "URL-адреса вкладок слева" },
+  "copyUrlRight": { "message": "URL-адреса вкладок справа" },
+
+  "copyTitleUrlAll": { "message": "Заголовки и URL-адреса всех вкладок" },
+  "copyTitleUrlLeft": { "message": "Заголовки и URL-адреса вкладок слева" },
+  "copyTitleUrlRight": { "message": "Заголовки и URL-адреса вкладок справа" },
+
+  "customAll": { "message": "По шаблону все вкладки" },
+  "customLeft": { "message": "По шаблону вкладки слева" },
+  "customRight": { "message": "По шаблону вкладки справа" },
+
+  "bookmark": { "message": "Сохранить в закладки" },
+  "bookmarkAll": { "message": "В закладки все вкладки" },
+  "bookmarkLeft": { "message": "В закладки вкладки слева" },
+  "bookmarkRight": { "message": "В закладки вкладки справа" },
+
+  "closeBookmarked": { "message": "Закрыть вкладки в закладках" },
+  "closeBookmarkedAll": { "message": "В закладках все вкладки" },
+  "closeBookmarkedLeft": { "message": "В закладках вкладки слева" },
+  "closeBookmarkedRight": { "message": "В закладках вкладки справа" },
+
+  "host": { "message": "Хост" },
+  "hostKeep": { "message": "Подгрузить вкладки хоста" },
+  "hostClose": { "message": "Закрыть все вкладки хоста" },
+  "hostCloseOther": { "message": "Закрыть остальные вкладки хоста" },
+  "hostMoveNewWin": { "message": "Переместить вкладки хоста в новое окно" },
+  "hostMoveThisWin": { "message": "Переместить вкладки хоста в текущее окно" },
+  "hostReload": { "message": "Перезагрузить вкладки хоста" },
+
+  "sort": { "message": "Отсортировать" },
+  "sortURLAsc": { "message": "URL-адрес: по возрастанию" },
+  "sortURLDesc": { "message": "URL-адрес: по убыванию" },
+  "sortTitleAsc": { "message": "Заголовок: по возрастанию" },
+  "sortTitleDesc": { "message": "Заголовок: по убыванию" },
+  "sortLastAccAsc": { "message": "Дата посещения: по возрастанию" },
+  "sortLastAccDesc": { "message": "Дата посещения: по убыванию" },
+  "sortDomAsc": { "message": "Домен: по возрастанию" },
+  "sortDomDesc": { "message": "Домен: по убыванию" },
+  "sortReverse": { "message": "В обратном порядке" },
+
+  "move": { "message": "Переместить" },
+  "moveStart": { "message": "В начало" },
+  "moveEnd": { "message": "В конец" },
+
+  "moveNewWinLeft": { "message": "Вкладки слева в новое окно" },
+  "moveNewWinRight": { "message": "Вкладки справа в новое окно" },
+
+  "movePrivate": { "message": "В приватное окно" },
+  "movePrivateLeft": { "message": "Вкладки слева в приватное окно" },
+  "movePrivateRight": { "message": "Вкладки справа в приватное окно" },
+
+  "discard": { "message": "Выгрузить" },
+  "discardTab": { "message": "Выгрузить эту вкладку" },
+  "discardAll": { "message": "Выгрузить все вкладки" },
+  "discardLeft": { "message": "Выгрузить вкладки слева" },
+  "discardRight": { "message": "Выгрузить вкладки справа" },
+
+  "hide": { "message": "Скрыть" },
+  "hideTab": { "message": "Скрыть эту вкладку" },
+  "hideAll": { "message": "Скрыть все вкладки" },
+  "hideLeft": { "message": "Скрыть вкладки слева" },
+  "hideRight": { "message": "Скрыть вкладки справа" },
+
+  "show": { "message": "Показать" },
+  "showAll": { "message": "Показать все вкладки" },
+  "showLeft": { "message": "Показать вкладки слева" },
+  "showRight": { "message": "Показать вкладки справа" },
+
+  "pin": { "message": "Закрепить" },
+  "pinAll": { "message": "Закрепить все вкладки" },
+  "pinLeft": { "message": "Закрепить вкладки слева" },
+  "pinRight": { "message": "Закрепить вкладки справа" },
+
+  "unpin": { "message": "Открепить" },
+  "unpinAll": { "message": "Открепить все вкладки" },
+  "unpinLeft": { "message": "Открепить вкладки слева" },
+  "unpinRight": { "message": "Открепить вкладки справа" },
+
+  "Print": { "message": "Печать" },
+
+  "capture": { "message": "Захват" },
+
+  "reload": { "message": "Автообновление" },
+  "reloadAll": { "message": "Обновить все вкладки" },
+  "reloadLeft": { "message": "Обновить вкладки слева" },
+  "reloadRight": { "message": "Обновить вкладки справа" },
+  "reload1": { "message": "Каждую минуту" },
+  "reload2": { "message": "Каждые 2 минуты" },
+  "reload3": { "message": "Каждые 3 минуты" },
+  "reload4": { "message": "Каждые 4 минуты" },
+  "reload5": { "message": "Каждые 5 минуты" },
+  "reloadStop": { "message": "Остановить обновление" },
+
+
+  "clipboardError": { "message": "Ошибка сохранения в буфер обмена" },
+
+  "proxy": { "message": "Информация о прокси" },
+
+  "tabCounter": { "message": "Счётчик вкладок" },
+  "perWindow": { "message": "Отдельный для каждого окна" },
+  "tabCounterDescription": { "message": "Включение или отключение счётчика вкладок" },
+  "altIcon": { "message": "Альтернативная иконка" },
+  "altIconDescription": { "message": "Версия иконки расширения в оттенках серого" },
+
+  "maxTabs": { "message": "Максимум вкладок" },
+  "maxTabsDescription": { "message": "Ограничение предельного количества вкладок для каждого окна (0 = бесконечно)" },
+  "maxTabsError": { "message": "Достигнут максимум вкладок в окне" },
+
+  "badgeBGColor": { "message": "Цвет фона в счётчике" },
+  "badgeBGColorDescription": { "message": "Изменение цвета фона в счётчике вкладок" },
+  "badgeTextColor": { "message": "Цвет текста в счётчике" },
+  "badgeTextColorDescription": { "message": "Изменение цвета текста в счётчике вкладок" },
+  "reset": { "message": "Сброс" },
+  "delete": { "message": "Очистить" },
+
+  "dateClock": { "message": "Дата и время" },
+
+  "contextMenu": { "message": "Контекстное меню" },
+  "contextMenuDescription": { "message": "Включение, отключение или перегруппировка элементов контекстного меню" },
+
+  "customCopy": { "message": "Пользовательское копирование" },
+  "customCopyDescription": { "message": "Выбор шаблона копирования" },
+
+
+
+  "modifiers": { "message": "Определения" },
+  "pinned": { "message": "Закреплённые" },
+  "hidden": { "message": "Скрытые" },
+  "duplicateToPrivate": { "message": "Копир. в приватные вкладки" },
+  "selectMatch": { "message": "Выделение по совпадению" },
+
+  "customReload": { "message": "Пользовательское автообновление" },
+  "customReloadDescription": { "message": "Выбор интервала обновления в секундах" },
+
+  "cleanUrl": { "message": "Очистить ссылку" },
+  "cleanUrlDescription": { "message": "Удаление из ссылки во вкладке все элементы отслеживания и перенаправления" },
+
+  "showFlag": { "message": "Показать флаг" },
+  "showFlagDescription": { "message": "Вычисление местоположения по IP-адресу и показ флага страны" },
+
+  "pageSettings": { "message": "Настройки PDF" },
+  "pageSettingsDescription": { "message": "Объекты настроек для сохранённой страницы" },
+
+
+  "add": { "message": "Добавить" },
+
+  "date": { "message": "Дата" },
+  "weekday": { "message": "Формат дня недели" },
+  "weekdayDescription": { "message": "«сб» или «суббота»" },
+
+  "month": { "message": "Формат месяца" },
+  "monthDescription": { "message": "«янв.» или «январь»" },
+
+  "short": { "message": "Сокращённый" },
+  "long": { "message": "Полный" },
+
+  "clock": { "message": "Время" },
+  "hour12": { "message": "12-часовой формат времени" },
+  "hour12Description": { "message": "По умолчанию — 24-часовой" },
+
+  "restore": { "message": "Восстановить значения по умолчанию" },
+
+
+  "container": { "message": "Контейнер" },
+  "siteIsolation": { "message": "Ограничить действия для заданных сайтов" },
+  "errorPattern": { "message": "Ошибка в шаблоне совпадения" },
+  "errorDuplicatePattern": { "message": "Шаблон совпадения уже есть в другом контейнере"" },
+
+  "theme": { "message": "Тема" },
+
+  "redirect": { "message": "Перенаправление" },
+  "testUrl": { "message": "Тестовый URL-адрес" },
+  "redirectResult": { "message": "Результат перенаправления" },
+
+
+  "name": { "message": "Название" },
+  "description": { "message": "Описание" },
+  "version": { "message": "Версия" },
+  "homePage": { "message": "Домашняя страница" },
+  "author": { "message": "Автор" },
+
+  "addTheme": { "message": "Добавить" },
+  "updateTheme": { "message": "Обновить" },
+  "deleteTheme": { "message": "Удалить" },
+  "clearTheme": { "message": "Очистить" },
+  "applyTheme": { "message": "Применить" },
+  "resetTheme": { "message": "Сброс" },
+
+  "noNameError": { "message": "Тема должна иметь название." },
+
+
+  "about": { "message": "О расширении" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "export": { "message": "Экспорт" },
+  "fileParseError": { "message": "Произошла ошибка при синтаксическом анализе файла" },
+  "fileReadError": { "message": "Произошла ошибка при чтении файла" },
+  "fileSizeError": { "message": "Размер файла превышает допустимые $1kb" },
+  "fileTypeError": { "message": "Неподдерживаемый формат файла" },
+  "help": { "message": "Справка" },
+  "import": { "message": "Импорт" },
+  "jsonError": { "message": "Ошибка JSON" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" }
+}

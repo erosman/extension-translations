@@ -1,0 +1,65 @@
+{
+  "extensionName": { "message": "FoxyPAC" },
+  "extensionDescription": { "message": "Создавайте, правьте, применяйте и экспортируйте личные PAC-скрипты максимально легко" },
+
+  "patterns": { "message": "Шаблоны" },
+  "proxies": { "message": "Прокси" },
+  
+  "login": { "message": "Вход" },
+  "editPattern": { "message": "Редактировать шаблон" },
+
+  "network": { "message": "Частная и локальная сеть" },
+  "plainhost": { "message": "Простой хост" },
+  "importPreference": { "message": "Импорт настроек" },
+  "exportPreference": { "message": "Экспорт настроек" },
+
+  "PAC": { "message": "PAC" },
+  "setPAC": { "message": "Применить" },
+  "resetPAC": { "message": "Сброс" },
+  "exportPAC": { "message": "Экспорт" },
+
+  "onOff": { "message": "ЛКМ для включения/выключения" },
+
+  "noProxy": { "message": "Список прокси пуст." },
+  
+  "cancel": { "message": "Отменить" },
+  "errorUserPass": { "message": "Введите имя пользователя и пароль." },
+  
+
+  "errorSize": { "message": "Размер файла превышает допустимые $1kb" },
+  "errorType": { "message": "Неподдерживаемый формат файла" },
+  "errorRead": { "message": "Произошла ошибка при чтении файла" },
+  "errorParse": { "message": "Произошла ошибка при синтаксическом анализе файла" },
+
+  "errorWildcard": { "message": "Шаблоны не должны содержать метасимволы в начале и конце" },
+  "errorShort": { "message": "Последствия создания коротких шаблонов могут быть непредсказуемыми" },
+  "errorScheme": { "message": "Не используйте более одного знака «*» при создании шаблона" },
+
+  "autologin": { "message": "Автовход" },
+
+
+  "byPattern": { "message": "Шаблоны прокси" },
+  "disable": { "message": "Отключить" },
+  
+  
+  "myIP": { "message": "Мой IP" },
+  "authError": { "message": "$1 отказывает в подключении:\n \u00A0\u2022 Проверьте настройки прокси\n \u00A0\u2022 Обратитесь к системному администратору" },
+  
+  "foxyProxyImport": { "message": "Импорт из FoxyProxy" },
+  "import": { "message": "Импорт" },
+
+  "delete": { "message": "Удалить" },
+  "log": { "message": "Логи" },
+  "documentUrl": { "message": "URL-адрес входа" },
+  "url": { "message": "URL-адрес запроса" },
+  "method": { "message": "Метод" },
+  "proxy": { "message": "Прокси" },
+  "timeStamp": { "message": "Время" },
+
+  "about": { "message": "О расширении" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "help": { "message": "Справка" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" },
+  "settings": { "message": "Настройки" }
+}

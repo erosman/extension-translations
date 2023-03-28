@@ -1,0 +1,17 @@
+{
+  "extensionName": { "message": "IMGoogle" },
+  "extensionDescription": { "message": "Обратный поиск изображений в Google" },
+
+  "search": { "message": "Искать изображение в Google" },
+  "sending": { "message": "Отправка данных... Подождите" },
+  "sourceError": { "message": "Неподдерживаемый источник изображения" },
+
+  "activeTab": { "message": "Открывать вкладку на переднем плане" },
+  "activeTabDescription": { "message": "Выберите, если хотите переключаться к результирующей вкладке на передний план (по умолчанию — на фоне)" },
+
+  "about": { "message": "О расширении" },
+  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "help": { "message": "Справка" },
+  "options": { "message": "Опции" },
+  "saveOptions": { "message": "Сохранить" }
+}
