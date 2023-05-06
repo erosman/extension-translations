@@ -1,4 +1,4 @@
-﻿{
+{
   "extensionName": { "message": "FoxyTab" },
   "extensionDescription": { "message": "Collection of Tab Related Actions" },
 
@@ -7,7 +7,7 @@
   "window": { "message": "Window" },
   "mergeWindows": { "message": "Merge All Windows" },
   "closeOtherWindows": { "message": "Close Other Windows" },
-  "saveAsPDF": { "message": "Save Tab as PDF" },
+  "saveAsPDF": { "message": "Save Active Tab as PDF" },
 
   "createShortcut": { "message": "Create Desktop Shortcut" },
   "createShortcutTab": { "message": "Create Shortcut Tab" },
@@ -105,7 +105,7 @@
   "unpinLeft": { "message": "Unpin to Left" },
   "unpinRight": { "message": "Unpin to Right" },
 
-  "Print": { "message": "Print" },
+  "Print": { "message": "Print Active Tab" },
 
   "capture": { "message": "Capture" },
 
@@ -129,10 +129,10 @@
   "perWindow": { "message": "Per Window" },
   "tabCounterDescription": { "message": "Enable or Disable the Tab Counter" },
   "altIcon": { "message": "Alternative Icon" },
-  "altIconDescription": { "message": "Alternative Grayscale Icon" },
-  
+  "altIconDescription": { "message": "Alternative Greyscale Icon" },
+
   "maxTabs": { "message": "Maximum Tabs" },
-  "maxTabsDescription": { "message": "Limit the nubmer of Tabs (0 = no limit)" },
+  "maxTabsDescription": { "message": "Limit the number of Tabs (0 = no limit)" },
   "maxTabsError": { "message": "Maximum number of Tabs per Window reached" },
 
   "badgeBGColor": { "message": "Badge Background Color" },
@@ -145,7 +145,7 @@
   "dateClock": { "message": "Date & Clock" },
 
   "contextMenu": { "message": "Context Menu" },
-  "contextMenuDescription": { "message": "Enable, disable, or reprder context menu items" },
+  "contextMenuDescription": { "message": "Enable, disable, or reorder context menu items" },
 
   "customCopy": { "message": "Custom Copy" },
   "customCopyDescription": { "message": "Set a Custom Copy format" },
