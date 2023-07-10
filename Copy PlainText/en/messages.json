@@ -4,24 +4,28 @@
 
   "pastePlainText": { "message": "Paste PlainText" },
 
-  "noIndent": { "message": "Remove Line Indent" },
-  "noIndentDescription": { "message": "Select to remove leading spaces of each line" },
+  "customDescription": { "message": "Click Add to enter new custom rule" },
 
-  "custom": { "message": "Custom" },
-  "customDescription": { "message": "Click Add to enter new custom Find & Replace" },
-  "find": { "message": "Find" },
-  "replace": { "message": "Replace" },
   "add": { "message": "Add" },
-  "patternError": { "message": "There is an error with the Find Pattern" },
+  "quickAdd": { "message": "Quick Add" },
+  "removeNewLines": { "message": "Remove New Lines" },
+  "removeLeadingSpaces": { "message": "Remove Leading Spaces" },
+  "removeTrailingSpaces": { "message": "Remove Trailing Spaces" },
+  "linkToMarkdown": { "message": "Link to Markdown" },
+  "linkToHTML": { "message": "Link to HTML" },
 
-  "amo":  { "message": "Firefox restricts some functions on some URLs" },
+  "title": { "message": "Title" },
+  "pattern": { "message": "Pattern" },
+  "replacement": { "message": "Replacement" },
+  "delete": { "message": "Delete" },
+
+  "regexError": { "message": "Error creating RegExp from the pattern" },
 
   "about": { "message": "About" },
   "error": { "message": "There was an error with the operation" },
   "export": { "message": "Export" },
   "fileParseError": { "message": "There was an error parsing the file" },
   "fileReadError": { "message": "There was an error with reading the file" },
-  "fileSizeError": { "message": "File size is larger than the $1kb allowed" },
   "fileTypeError": { "message": "Unsupported File Format" },
   "help": { "message": "Help" },
   "import": { "message": "Import" },
