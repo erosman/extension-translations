@@ -1,14 +1,80 @@
 {
-  "extensionName": { "message": "Copy PlainText" },
-  "extensionDescription": { "message": "Copia texto simple sin formato alguno" },
-
-  "errorClipboard": { "message": "No se pudo guardar al Portapapeles" },
-
-
-  "about": { "message": "Acerca de" },
-  "amo":  { "message": "Firefox restringe ciertas funciones en algunas URLs" },
-  "error": { "message": "Hubo un error con la operación" },
-  "help": { "message": "Ayuda" },
-  "options": { "message": "Opciones" },
-  "saveOptions": { "message": "Guardar" }
+  "extensionName": {
+    "message": "Copy PlainText"
+  },
+  "extensionDescription": {
+    "message": "Copiar/Pegar texto simple sin formato"
+  },
+  "pastePlainText": {
+    "message": "Pegar texto sin formato"
+  },
+  "customDescription": {
+    "message": "Haz click en Agregar para ingresar un nuevo título"
+  },
+  "add": {
+    "message": "Agregar"
+  },
+  "quickAdd": {
+    "message": "Agregado rápido"
+  },
+  "removeNewLines": {
+    "message": "Remover líneas nuevas"
+  },
+  "removeLeadingSpaces": {
+    "message": "Remover espacios al inicio"
+  },
+  "removeTrailingSpaces": {
+    "message": "Remover espacios al final"
+  },
+  "linkToMarkdown": {
+    "message": "Enlace a Markdown"
+  },
+  "linkToHTML": {
+    "message": "Enlace a HTML"
+  },
+  "title": {
+    "message": "Título"
+  },
+  "pattern": {
+    "message": "Padrón"
+  },
+  "replacement": {
+    "message": "Reemplazo"
+  },
+  "delete": {
+    "message": "Borrar"
+  },
+  "regexError": {
+    "message": "Error al crear RegExp desde el padrón"
+  },
+  "about": {
+    "message": "Acerca de..."
+  },
+  "error": {
+    "message": "Hubo un error con la operación en curso"
+  },
+  "export": {
+    "message": "Exportar"
+  },
+  "fileParseError": {
+    "message": "Hubo un error al analizar el archivo"
+  },
+  "fileReadError": {
+    "message": "Hubo un error al leer el archivo"
+  },
+  "fileTypeError": {
+    "message": "Tipo de archivo no soportado"
+  },
+  "help": {
+    "message": "Ayuda"
+  },
+  "import": {
+    "message": "Importar"
+  },
+  "options": {
+    "message": "Opciones"
+  },
+  "saveOptions": {
+    "message": "Guardar"
+  }
 }
