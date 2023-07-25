@@ -4,8 +4,11 @@
 
   "pastePlainText": { "message": "Paste PlainText" },
 
-  "customDescription": { "message": "Click Add to enter new custom rule" },
+  "optionalPermissions": { "message": "Optional Permissions" },
+  "allUrls": { "message": "All URLs" },
+  "downloads": { "message": "Downloads" },
 
+  "customRules": { "message": "Custom Rules" },
   "add": { "message": "Add" },
   "quickAdd": { "message": "Quick Add" },
   "removeNewLines": { "message": "Remove New Lines" },
