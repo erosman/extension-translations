@@ -1,0 +1,527 @@
+{
+  "extensionName": {
+    "message": "FoxyTab"
+  },
+  "extensionDescription": {
+    "message": "탭 관련 작업 모음"
+  },
+  "closeDuplicate": {
+    "message": "중복 탭 닫기"
+  },
+  "window": {
+    "message": "창"
+  },
+  "mergeWindows": {
+    "message": "모든 창 합치기"
+  },
+  "closeOtherWindows": {
+    "message": "다른 창 닫기"
+  },
+  "saveAsPDF": {
+    "message": "탭을 PDF로 저장"
+  },
+  "createShortcut": {
+    "message": "바로 가기 만들기"
+  },
+  "createShortcutTab": {
+    "message": "이 탭의 바로 가기 만들기"
+  },
+  "createShortcutAll": {
+    "message": "모든 탭의 바로 가기 만들기"
+  },
+  "createShortcutLeft": {
+    "message": "왼쪽 탭의 바로 가기 만들기"
+  },
+  "createShortcutRight": {
+    "message": "오른쪽 탭의 바로 가기 만들기"
+  },
+  "copy": {
+    "message": "복사"
+  },
+  "copyTitle": {
+    "message": "탭 제목 복사"
+  },
+  "copyUrl": {
+    "message": "탭 URL 복사"
+  },
+  "copyTitleUrl": {
+    "message": "탭 제목 + URL 복사"
+  },
+  "copyIP": {
+    "message": "탭 IP 복사"
+  },
+  "internal": {
+    "message": "Firefox 자체 페이지"
+  },
+  "private": {
+    "message": "내부 네트워크"
+  },
+  "cache": {
+    "message": "캐시된 페이지"
+  },
+  "unknown": {
+    "message": "알 수 없음"
+  },
+  "copyUrlAll": {
+    "message": "모든 탭 URL 복사"
+  },
+  "copyUrlLeft": {
+    "message": "왼쪽 탭 URL 복사"
+  },
+  "copyUrlRight": {
+    "message": "오른쪽 탭 URL 복사"
+  },
+  "copyTitleUrlAll": {
+    "message": "모든 탭 제목 + URL 복사"
+  },
+  "copyTitleUrlLeft": {
+    "message": "왼쪽 탭 제목 + URL 복사"
+  },
+  "copyTitleUrlRight": {
+    "message": "오른쪽 탭 제목 + URL 복사"
+  },
+  "customAll": {
+    "message": "사용자 설정에 따라 복사"
+  },
+  "customLeft": {
+    "message": "왼쪽 탭을 사용자 설정에 따라 복사"
+  },
+  "customRight": {
+    "message": "오른쪽 탭을 사용자 설정에 다라 복사"
+  },
+  "bookmark": {
+    "message": "북마크"
+  },
+  "bookmarkAll": {
+    "message": "모든 탭 북마크"
+  },
+  "bookmarkLeft": {
+    "message": "왼쪽 탭 북마크"
+  },
+  "bookmarkRight": {
+    "message": "오른쪽 탭 북마크"
+  },
+  "closeBookmarked": {
+    "message": "북마크된 탭 닫기"
+  },
+  "closeBookmarkedAll": {
+    "message": "북마크된 탭 모두 닫기"
+  },
+  "closeBookmarkedLeft": {
+    "message": "왼쪽 탭 중 북마크된 탭 닫기"
+  },
+  "closeBookmarkedRight": {
+    "message": "오른쪽 탭 중 북마크된 탭 닫기"
+  },
+  "host": {
+    "message": "호스트"
+  },
+  "hostKeep": {
+    "message": "이 호스트의 탭만 유지"
+  },
+  "hostClose": {
+    "message": "이 호스트의 탭 닫기"
+  },
+  "hostCloseOther": {
+    "message": "이 호스트의 다른 탭 닫기"
+  },
+  "hostMoveNewWin": {
+    "message": "이 호스트의 탭을 새 창으로 이동"
+  },
+  "hostMoveThisWin": {
+    "message": "이 호스트의 탭을 이 창으로 이동"
+  },
+  "hostReload": {
+    "message": "이 호스트의 탭 새로고침"
+  },
+  "sort": {
+    "message": "정렬"
+  },
+  "sortURLAsc": {
+    "message": "URL 오름차순 정렬"
+  },
+  "sortURLDesc": {
+    "message": "URL 내림차순 정렬"
+  },
+  "sortTitleAsc": {
+    "message": "제목 오름차순 정렬"
+  },
+  "sortTitleDesc": {
+    "message": "제목 내림차순 정렬"
+  },
+  "sortLastAccAsc": {
+    "message": "마지막 연 시간 오름차순 정렬"
+  },
+  "sortLastAccDesc": {
+    "message": "마지막 연 시간 내림차순 정렬"
+  },
+  "sortDomAsc": {
+    "message": "도메인 오름차순 정렬"
+  },
+  "sortDomDesc": {
+    "message": "도메인 내림차순 정렬"
+  },
+  "sortReverse": {
+    "message": "탭 반대로 정렬"
+  },
+  "move": {
+    "message": "이동"
+  },
+  "moveStart": {
+    "message": "맨 앞으로 이동"
+  },
+  "moveEnd": {
+    "message": "맨 뒤로 이동"
+  },
+  "moveNewWinLeft": {
+    "message": "왼쪽 탭을 새 창으로 이동"
+  },
+  "moveNewWinRight": {
+    "message": "오른쪽 탭을 새 창으로 이동"
+  },
+  "movePrivate": {
+    "message": "사생활 보호 창으로 이동"
+  },
+  "movePrivateLeft": {
+    "message": "왼쪽 탭을 사생활 보호 창으로 이동"
+  },
+  "movePrivateRight": {
+    "message": "오른쪽 탭을 사생활 보호 창으로 이동"
+  },
+  "discard": {
+    "message": "비활성화"
+  },
+  "discardTab": {
+    "message": "이 탭 비활성화"
+  },
+  "discardAll": {
+    "message": "모든 탭 비활성화"
+  },
+  "discardLeft": {
+    "message": "왼쪽 탭 비활성화"
+  },
+  "discardRight": {
+    "message": "오른쪽 탭 비활성화"
+  },
+  "hide": {
+    "message": "숨기기"
+  },
+  "hideTab": {
+    "message": "이 탭 숨기기"
+  },
+  "hideAll": {
+    "message": "모든 탭 숨기기"
+  },
+  "hideLeft": {
+    "message": "왼쪽 탭 숨기기"
+  },
+  "hideRight": {
+    "message": "오른쪽 탭 숨기기"
+  },
+  "show": {
+    "message": "보이기"
+  },
+  "showAll": {
+    "message": "모든 탭 보이기"
+  },
+  "showLeft": {
+    "message": "왼쪽 탭 보이기"
+  },
+  "showRight": {
+    "message": "오른쪽 탭 보이기"
+  },
+  "pin": {
+    "message": "고정"
+  },
+  "pinAll": {
+    "message": "모든 탭 고정"
+  },
+  "pinLeft": {
+    "message": "왼쪽 탭 고정"
+  },
+  "pinRight": {
+    "message": "오른쪽 탭 고정"
+  },
+  "unpin": {
+    "message": "고정 해제"
+  },
+  "unpinAll": {
+    "message": "모든 탭 고정 해제"
+  },
+  "unpinLeft": {
+    "message": "왼쪽 탭 고정 해제"
+  },
+  "unpinRight": {
+    "message": "오른쪽 탭 고정 해제"
+  },
+  "Print": {
+    "message": "출력"
+  },
+  "capture": {
+    "message": "캡처"
+  },
+  "reload": {
+    "message": "새로고침"
+  },
+  "reloadAll": {
+    "message": "모든 탭 새로고침"
+  },
+  "reloadLeft": {
+    "message": "왼쪽 탭 새로고침"
+  },
+  "reloadRight": {
+    "message": "오른쪽 탭 새로고침"
+  },
+  "reload1": {
+    "message": "1분마다"
+  },
+  "reload2": {
+    "message": "2분마다"
+  },
+  "reload3": {
+    "message": "3분마다"
+  },
+  "reload4": {
+    "message": "4분마다"
+  },
+  "reload5": {
+    "message": "5분마다"
+  },
+  "reloadStop": {
+    "message": "탭 새로고침 중지"
+  },
+  "clipboardError": {
+    "message": "클립보드 저장 실패"
+  },
+  "proxy": {
+    "message": "프록시 정보"
+  },
+  "tabCounter": {
+    "message": "탭 카운터"
+  },
+  "perWindow": {
+    "message": "창 별로 표시"
+  },
+  "tabCounterDescription": {
+    "message": "탭 카운터 활성화 또는 비활성화"
+  },
+  "altIcon": {
+    "message": "대체 아이콘"
+  },
+  "altIconDescription": {
+    "message": "대체 아이콘 사용(흑백)"
+  },
+  "maxTabs": {
+    "message": "최대 탭 갯수"
+  },
+  "maxTabsDescription": {
+    "message": "최대 탭 갯수 제한 (0 = 제한 없음)"
+  },
+  "maxTabsError": {
+    "message": "창 당 최대 탭 갯수에 도달하였습니다"
+  },
+  "badgeBGColor": {
+    "message": "배지 배경색"
+  },
+  "badgeBGColorDescription": {
+    "message": "배지 배경색 변경"
+  },
+  "badgeTextColor": {
+    "message": "배지 글자 색"
+  },
+  "badgeTextColorDescription": {
+    "message": "배지 글자 색 변경"
+  },
+  "reset": {
+    "message": "초기화"
+  },
+  "delete": {
+    "message": "삭제"
+  },
+  "dateClock": {
+    "message": "날짜 & 시간"
+  },
+  "contextMenu": {
+    "message": "컨텍스트 메뉴"
+  },
+  "contextMenuDescription": {
+    "message": "컨텍스트 메뉴 아이템을 활성화, 비활성화, 재정렬합니다"
+  },
+  "customCopy": {
+    "message": "복사 사용자 설정"
+  },
+  "customCopyDescription": {
+    "message": "복사 형식 사용자 설정"
+  },
+  "modifiers": {
+    "message": "탭 상태"
+  },
+  "pinned": {
+    "message": "고정됨"
+  },
+  "hidden": {
+    "message": "숨김"
+  },
+  "duplicateToPrivate": {
+    "message": "사생활 보호 창으로 복제"
+  },
+  "selectMatch": {
+    "message": "조건에 일치하는 탭 선택"
+  },
+  "customReload": {
+    "message": "새로고침 사용자 설정"
+  },
+  "customReloadDescription": {
+    "message": "새로고침 시간 사용자 설정(분)"
+  },
+  "cleanUrl": {
+    "message": "URL 정리"
+  },
+  "cleanUrlDescription": {
+    "message": "탭 URL에서 추적/리디렉션 문자열 사제"
+  },
+  "showFlag": {
+    "message": "국기 보이기"
+  },
+  "showFlagDescription": {
+    "message": "IP 위치정보 처리 & 국기 보이기"
+  },
+  "pageSettings": {
+    "message": "PDF 페이지 설정"
+  },
+  "pageSettingsDescription": {
+    "message": "저장된 페이지에 대한 오브젝트 설정"
+  },
+  "add": {
+    "message": "추가"
+  },
+  "date": {
+    "message": "날짜"
+  },
+  "weekday": {
+    "message": "주 설정"
+  },
+  "weekdayDescription": {
+    "message": "토 vs 토요일"
+  },
+  "month": {
+    "message": "월 설정"
+  },
+  "monthDescription": {
+    "message": "1월 vs 01월"
+  },
+  "short": {
+    "message": "짧은 형식"
+  },
+  "long": {
+    "message": "긴 형식"
+  },
+  "clock": {
+    "message": "시각"
+  },
+  "hour12": {
+    "message": "12시간 형식"
+  },
+  "hour12Description": {
+    "message": "기본값은 24시간 형식입니다."
+  },
+  "restore": {
+    "message": "기본값으로 되돌리기"
+  },
+  "container": {
+    "message": "컨테이너"
+  },
+  "siteIsolation": {
+    "message": "지정된 사이트로 제한"
+  },
+  "errorPattern": {
+    "message": "패턴에 오류가 있습니다"
+  },
+  "errorDuplicatePattern": {
+    "message": "다른 컨테이너에 존재하는 패턴입니다"
+  },
+  "theme": {
+    "message": "테마"
+  },
+  "redirect": {
+    "message": "리디렉션"
+  },
+  "testUrl": {
+    "message": "테스트 URL"
+  },
+  "redirectResult": {
+    "message": "리디렉션 결과"
+  },
+  "name": {
+    "message": "이름"
+  },
+  "description": {
+    "message": "설명"
+  },
+  "version": {
+    "message": "버전"
+  },
+  "homePage": {
+    "message": "홈페이지"
+  },
+  "author": {
+    "message": "작성자"
+  },
+  "addTheme": {
+    "message": "추가"
+  },
+  "updateTheme": {
+    "message": "갱신"
+  },
+  "deleteTheme": {
+    "message": "삭제"
+  },
+  "clearTheme": {
+    "message": "지우기"
+  },
+  "applyTheme": {
+    "message": "적용"
+  },
+  "resetTheme": {
+    "message": "초기화"
+  },
+  "noNameError": {
+    "message": "테마에는 이름이 있어야 합니다."
+  },
+  "about": {
+    "message": "정보"
+  },
+  "error": {
+    "message": "작업 중 오류가 발생했습니다"
+  },
+  "export": {
+    "message": "내보내기"
+  },
+  "fileParseError": {
+    "message": "파일 처리 중 오류 발생"
+  },
+  "fileReadError": {
+    "message": "파일 읽는 중 오류 발생"
+  },
+  "fileSizeError": {
+    "message": "파일 크기"
+  },
+  "fileTypeError": {
+    "message": "지원되지 않는 파일 포맷"
+  },
+  "help": {
+    "message": "도움말"
+  },
+  "import": {
+    "message": "가져오기"
+  },
+  "jsonError": {
+    "message": "잘못된 JSON"
+  },
+  "options": {
+    "message": "설정"
+  },
+  "saveOptions": {
+    "message": "저장"
+  }
+}
