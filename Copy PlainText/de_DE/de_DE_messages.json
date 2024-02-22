@@ -1,0 +1,89 @@
+{
+  "extensionName": {
+    "message": "PlainText kopieren"
+  },
+  "extensionDescription": {
+    "message": "Kopieren/Einfügen von einfachem Plain-Text ohne Formatierung"
+  },
+  "pastePlainText": {
+    "message": "PlainText einfügen"
+  },
+  "optionalPermissions": {
+    "message": "Optionale Berechtigungen"
+  },
+  "allUrls": {
+    "message": "Alle URLs"
+  },
+  "downloads": {
+    "message": "Downloads"
+  },
+  "customRules": {
+    "message": "Benutzerdefinierte Regeln"
+  },
+  "add": {
+    "message": "Hinzufügen"
+  },
+  "quickAdd": {
+    "message": "Hinzufügen von vorgefertigten Mustern"
+  },
+  "removeNewLines": {
+    "message": "Entferne 'Neue Zeile'"
+  },
+  "removeLeadingSpaces": {
+    "message": "Entferne 'Führende Leerzeichen'"
+  },
+  "removeTrailingSpaces": {
+    "message": "Entferne 'Nachstehende Leerzeichen'"
+  },
+  "linkToMarkdown": {
+    "message": "Link zu Markdown umwandeln"
+  },
+  "linkToHTML": {
+    "message": "Link zu HTML umwandeln"
+  },
+  "title": {
+    "message": "Titel"
+  },
+  "pattern": {
+    "message": "Suche nach diesem Muster"
+  },
+  "replacement": {
+    "message": "Ersetzen durch dieses Muster"
+  },
+  "delete": {
+    "message": "Löschen"
+  },
+  "regexError": {
+    "message": "Es ist ein Fehler beim Erstellen von RegExp aus dem Muster aufgetreten."
+  },
+  "about": {
+    "message": "Über"
+  },
+  "error": {
+    "message": "Bei diesem Vorgang ist ein Fehler aufgetreten."
+  },
+  "export": {
+    "message": "Exportieren"
+  },
+  "fileParseError": {
+    "message": "Es ist ein Fehler beim Parsen der Datei aufgetreten."
+  },
+  "fileReadError": {
+    "message": "Es ist ein Fehler beim Lesen der Datei aufgetreten."
+  },
+  "fileTypeError": {
+    "message": "Nicht unterstütztes Dateiformat"
+  },
+  "help": {
+    "message": "Hilfe"
+  },
+  "import": {
+    "message": "Importieren"
+  },
+  "options": {
+    "message": "Optionen"
+  },
+  "saveOptions": {
+    "message": "Speichern"
+  }
+}
