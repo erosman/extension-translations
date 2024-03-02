@@ -1,1 +1,527 @@
-
+{
+  "extensionName": {
+    "message": "FoxyTab"
+  },
+  "extensionDescription": {
+    "message": "مجموعة من الإجراءات ذات الصلة بعلامة التبويب"
+  },
+  "closeDuplicate": {
+    "message": "إغلاق علامات التبويب المكررة"
+  },
+  "window": {
+    "message": "نافذة او شباك"
+  },
+  "mergeWindows": {
+    "message": "دمج كافة النوافذ"
+  },
+  "closeOtherWindows": {
+    "message": "أغلق النوافذ الأخرى"
+  },
+  "saveAsPDF": {
+    "message": "حفظ علامة التبويب بصيغة PDF"
+  },
+  "createShortcut": {
+    "message": "إنشاء اختصار سطح المكتب"
+  },
+  "createShortcutTab": {
+    "message": "إنشاء علامة تبويب الاختصار"
+  },
+  "createShortcutAll": {
+    "message": "إنشاء اختصار الكل"
+  },
+  "createShortcutLeft": {
+    "message": "إنشاء اختصار إلى اليسار"
+  },
+  "createShortcutRight": {
+    "message": "إنشاء اختصار إلى اليمين"
+  },
+  "copy": {
+    "message": "ينسخ"
+  },
+  "copyTitle": {
+    "message": "انسخ عنوان علامة التبويب"
+  },
+  "copyUrl": {
+    "message": "انسخ عنوان URL لعلامة التبويب"
+  },
+  "copyTitleUrl": {
+    "message": "انسخ عنوان علامة التبويب + عنوان URL"
+  },
+  "copyIP": {
+    "message": "انسخ علامة التبويب IP"
+  },
+  "internal": {
+    "message": "صفحة فايرفوكس الداخلية"
+  },
+  "private": {
+    "message": "شبكة خاصة"
+  },
+  "cache": {
+    "message": "تم تحميلها من ذاكرة التخزين المؤقت"
+  },
+  "unknown": {
+    "message": "مجهول"
+  },
+  "copyUrlAll": {
+    "message": "نسخ عناوين URL الكل"
+  },
+  "copyUrlLeft": {
+    "message": "انسخ عناوين URL إلى اليسار"
+  },
+  "copyUrlRight": {
+    "message": "انسخ عناوين URL إلى اليمين"
+  },
+  "copyTitleUrlAll": {
+    "message": "انسخ العناوين + عناوين URL الكل"
+  },
+  "copyTitleUrlLeft": {
+    "message": "انسخ العناوين + عناوين URL إلى اليسار"
+  },
+  "copyTitleUrlRight": {
+    "message": "انسخ العناوين + عناوين URL إلى اليمين"
+  },
+  "customAll": {
+    "message": "نسخ مخصص الكل"
+  },
+  "customLeft": {
+    "message": "نسخ مخصص إلى اليسار"
+  },
+  "customRight": {
+    "message": "نسخ مخصص إلى اليمين"
+  },
+  "bookmark": {
+    "message": "إشارة مرجعية"
+  },
+  "bookmarkAll": {
+    "message": "المرجعية الكل"
+  },
+  "bookmarkLeft": {
+    "message": "الإشارة المرجعية إلى اليسار"
+  },
+  "bookmarkRight": {
+    "message": "إشارة مرجعية إلى اليمين"
+  },
+  "closeBookmarked": {
+    "message": "إغلاق علامات التبويب ذات الإشارة المرجعية"
+  },
+  "closeBookmarkedAll": {
+    "message": "أغلق علامات التبويب ذات الإشارات المرجعية الكل"
+  },
+  "closeBookmarkedLeft": {
+    "message": "أغلق علامات التبويب ذات الإشارة المرجعية إلى اليسار"
+  },
+  "closeBookmarkedRight": {
+    "message": "أغلق علامات التبويب ذات الإشارة المرجعية إلى اليمين"
+  },
+  "host": {
+    "message": "يستضيف"
+  },
+  "hostKeep": {
+    "message": "الحفاظ على المضيف"
+  },
+  "hostClose": {
+    "message": "إغلاق المضيف"
+  },
+  "hostCloseOther": {
+    "message": "أغلق علامات تبويب المضيف الأخرى"
+  },
+  "hostMoveNewWin": {
+    "message": "انقل المضيف إلى نافذة جديدة"
+  },
+  "hostMoveThisWin": {
+    "message": "انقل المضيف إلى هذه النافذة"
+  },
+  "hostReload": {
+    "message": "إعادة تحميل المضيف"
+  },
+  "sort": {
+    "message": "نوع"
+  },
+  "sortURLAsc": {
+    "message": "فرز حسب URL تصاعدي"
+  },
+  "sortURLDesc": {
+    "message": "فرز حسب عنوان URL تنازلي"
+  },
+  "sortTitleAsc": {
+    "message": "فرز حسب العنوان تصاعديا"
+  },
+  "sortTitleDesc": {
+    "message": "الترتيب حسب العنوان تنازليا"
+  },
+  "sortLastAccAsc": {
+    "message": "فرز حسب آخر وصول تصاعدي"
+  },
+  "sortLastAccDesc": {
+    "message": "فرز حسب آخر تنازلي تم الوصول إليه"
+  },
+  "sortDomAsc": {
+    "message": "فرز حسب المجال تصاعدي"
+  },
+  "sortDomDesc": {
+    "message": "الترتيب حسب المجال تنازلي"
+  },
+  "sortReverse": {
+    "message": "فرز علامات التبويب في الاتجاه المعاكس"
+  },
+  "move": {
+    "message": "يتحرك"
+  },
+  "moveStart": {
+    "message": "الانتقال إلى البداية"
+  },
+  "moveEnd": {
+    "message": "الانتقال إلى النهاية"
+  },
+  "moveNewWinLeft": {
+    "message": "الانتقال إلى نافذة جديدة إلى اليسار"
+  },
+  "moveNewWinRight": {
+    "message": "الانتقال إلى نافذة جديدة إلى اليمين"
+  },
+  "movePrivate": {
+    "message": "الانتقال إلى النافذة الخاصة"
+  },
+  "movePrivateLeft": {
+    "message": "انتقل إلى النافذة الخاصة إلى اليسار"
+  },
+  "movePrivateRight": {
+    "message": "انتقل إلى النافذة الخاصة إلى اليمين"
+  },
+  "discard": {
+    "message": "ينبذ"
+  },
+  "discardTab": {
+    "message": "تجاهل علامة التبويب"
+  },
+  "discardAll": {
+    "message": "تجاهل كل"
+  },
+  "discardLeft": {
+    "message": "تجاهل إلى اليسار"
+  },
+  "discardRight": {
+    "message": "تجاهل إلى اليمين"
+  },
+  "hide": {
+    "message": "يخفي"
+  },
+  "hideTab": {
+    "message": "علامة التبويب اخفاء"
+  },
+  "hideAll": {
+    "message": "أخف كل شيء"
+  },
+  "hideLeft": {
+    "message": "إخفاء إلى اليسار"
+  },
+  "hideRight": {
+    "message": "إخفاء إلى اليمين"
+  },
+  "show": {
+    "message": "يعرض"
+  },
+  "showAll": {
+    "message": "عرض الكل"
+  },
+  "showLeft": {
+    "message": "عرض إلى اليسار"
+  },
+  "showRight": {
+    "message": "عرض على اليمين"
+  },
+  "pin": {
+    "message": "دبوس"
+  },
+  "pinAll": {
+    "message": "تثبيت الكل"
+  },
+  "pinLeft": {
+    "message": "دبوس إلى اليسار"
+  },
+  "pinRight": {
+    "message": "تثبيت على اليمين"
+  },
+  "unpin": {
+    "message": "إزالة التثبيت"
+  },
+  "unpinAll": {
+    "message": "إلغاء تثبيت الكل"
+  },
+  "unpinLeft": {
+    "message": "قم بإلغاء التثبيت إلى اليسار"
+  },
+  "unpinRight": {
+    "message": "قم بإلغاء التثبيت إلى اليمين"
+  },
+  "Print": {
+    "message": "مطبعة"
+  },
+  "capture": {
+    "message": "يأسر"
+  },
+  "reload": {
+    "message": "إعادة تحميل"
+  },
+  "reloadAll": {
+    "message": "إعادة تحميل الكل"
+  },
+  "reloadLeft": {
+    "message": "إعادة التحميل إلى اليسار"
+  },
+  "reloadRight": {
+    "message": "إعادة التحميل إلى اليمين"
+  },
+  "reload1": {
+    "message": "كل 1 دقيقة."
+  },
+  "reload2": {
+    "message": "كل دقيقتين."
+  },
+  "reload3": {
+    "message": "كل 3 دقائق."
+  },
+  "reload4": {
+    "message": "كل 4 دقائق."
+  },
+  "reload5": {
+    "message": "كل 5 دقائق."
+  },
+  "reloadStop": {
+    "message": "إيقاف إعادة تحميل علامة التبويب"
+  },
+  "clipboardError": {
+    "message": "فشل الحفظ في الحافظة"
+  },
+  "proxy": {
+    "message": "معلومات الوكيل"
+  },
+  "tabCounter": {
+    "message": "عداد علامات التبويب"
+  },
+  "perWindow": {
+    "message": "لكل نافذة"
+  },
+  "tabCounterDescription": {
+    "message": "تمكين أو تعطيل عداد علامات التبويب"
+  },
+  "altIcon": {
+    "message": "أيقونة بديلة"
+  },
+  "altIconDescription": {
+    "message": "رمز التدرج الرمادي البديل"
+  },
+  "maxTabs": {
+    "message": "علامات التبويب القصوى"
+  },
+  "maxTabsDescription": {
+    "message": "تحديد عدد علامات التبويب (0 = لا يوجد حد)"
+  },
+  "maxTabsError": {
+    "message": "تم الوصول إلى الحد الأقصى لعدد علامات التبويب لكل نافذة"
+  },
+  "badgeBGColor": {
+    "message": "لون خلفية الشارة"
+  },
+  "badgeBGColorDescription": {
+    "message": "تغيير لون خلفية الشارة"
+  },
+  "badgeTextColor": {
+    "message": "لون نص الشارة"
+  },
+  "badgeTextColorDescription": {
+    "message": "تغيير لون نص الشارة"
+  },
+  "reset": {
+    "message": "إعادة ضبط"
+  },
+  "delete": {
+    "message": "يمسح"
+  },
+  "dateClock": {
+    "message": "التاريخ والساعة"
+  },
+  "contextMenu": {
+    "message": "قائمة السياق"
+  },
+  "contextMenuDescription": {
+    "message": "تمكين أو تعطيل أو إعادة ترتيب عناصر قائمة السياق"
+  },
+  "customCopy": {
+    "message": "نسخة مخصصة"
+  },
+  "customCopyDescription": {
+    "message": "قم بتعيين تنسيق نسخة مخصص"
+  },
+  "modifiers": {
+    "message": "الصفات التعريفية"
+  },
+  "pinned": {
+    "message": "مثبت"
+  },
+  "hidden": {
+    "message": "مختفي"
+  },
+  "duplicateToPrivate": {
+    "message": "مكررة إلى خاصة"
+  },
+  "selectMatch": {
+    "message": "حدد مطابقة"
+  },
+  "customReload": {
+    "message": "تحديث مخصص"
+  },
+  "customReloadDescription": {
+    "message": "حدد قيمة إعادة تحميل مخصصة"
+  },
+  "cleanUrl": {
+    "message": "عنوان URL نظيف"
+  },
+  "cleanUrlDescription": {
+    "message": "إزالة سلاسل التتبع/إعادة التوجيه من عناوين URL لعلامات التبويب"
+  },
+  "showFlag": {
+    "message": "إظهار العلم"
+  },
+  "showFlagDescription": {
+    "message": "معالجة موقع IP وإظهار العلم"
+  },
+  "pageSettings": {
+    "message": "إعدادات صفحة PDF"
+  },
+  "pageSettingsDescription": {
+    "message": "كائن الإعدادات للصفحة المحفوظة"
+  },
+  "add": {
+    "message": "يضيف"
+  },
+  "date": {
+    "message": "تاريخ"
+  },
+  "weekday": {
+    "message": "تنسيق أيام الأسبوع"
+  },
+  "weekdayDescription": {
+    "message": "السبت مقابل السبت"
+  },
+  "month": {
+    "message": "تنسيق الشهر"
+  },
+  "monthDescription": {
+    "message": "يناير مقابل يناير"
+  },
+  "short": {
+    "message": "قصير"
+  },
+  "long": {
+    "message": "طويل"
+  },
+  "clock": {
+    "message": "ساعة"
+  },
+  "hour12": {
+    "message": "تنسيق الوقت 12 ساعة"
+  },
+  "hour12Description": {
+    "message": "الافتراضي هو 24 ساعة"
+  },
+  "restore": {
+    "message": "استعادة الضبط الافتراضي"
+  },
+  "container": {
+    "message": "حاوية"
+  },
+  "siteIsolation": {
+    "message": "يقتصر على المواقع المخصصة"
+  },
+  "errorPattern": {
+    "message": "هناك خطأ في النمط"
+  },
+  "errorDuplicatePattern": {
+    "message": "النمط موجود في حاوية أخرى"
+  },
+  "theme": {
+    "message": "سمة"
+  },
+  "redirect": {
+    "message": "إعادة توجيه"
+  },
+  "testUrl": {
+    "message": "عنوان URL التجريبي"
+  },
+  "redirectResult": {
+    "message": "إعادة توجيه النتيجة"
+  },
+  "name": {
+    "message": "اسم"
+  },
+  "description": {
+    "message": "وصف"
+  },
+  "version": {
+    "message": "إصدار"
+  },
+  "homePage": {
+    "message": "الصفحة الرئيسية"
+  },
+  "author": {
+    "message": "مؤلف"
+  },
+  "addTheme": {
+    "message": "يضيف"
+  },
+  "updateTheme": {
+    "message": "تحديث"
+  },
+  "deleteTheme": {
+    "message": "يمسح"
+  },
+  "clearTheme": {
+    "message": "واضح"
+  },
+  "applyTheme": {
+    "message": "يتقدم"
+  },
+  "resetTheme": {
+    "message": "إعادة ضبط"
+  },
+  "noNameError": {
+    "message": "يجب أن يكون للموضوع اسم."
+  },
+  "about": {
+    "message": "عن"
+  },
+  "error": {
+    "message": "حدث خطأ في العملية"
+  },
+  "export": {
+    "message": "يصدّر"
+  },
+  "fileParseError": {
+    "message": "حدث خطأ في تحليل الملف"
+  },
+  "fileReadError": {
+    "message": "حدث خطأ أثناء قراءة الملف"
+  },
+  "fileSizeError": {
+    "message": "حجم الملف أكبر من 1 كيلو بايت المسموح به"
+  },
+  "fileTypeError": {
+    "message": "تنسيق ملف غير معتمد"
+  },
+  "help": {
+    "message": "يساعد"
+  },
+  "import": {
+    "message": "يستورد"
+  },
+  "jsonError": {
+    "message": "تنسيق JSON غير صالح"
+  },
+  "options": {
+    "message": "خيارات"
+  },
+  "saveOptions": {
+    "message": "يحفظ"
+  }
+}
