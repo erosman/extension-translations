@@ -1,28 +1,90 @@
-// version 1.9
-
+// version 1.15
 {
-  "extensionName": { "message": "Copy PlainText" },
-  "extensionDescription": { "message": "复制不含任何格式的纯文本。" },
-
-  "pastePlainText": { "message": "粘贴纯文本" },
-  "errorPaste": { "message": "粘贴失败" },
-
-  "noIndent": { "message": "移除行缩进" },
-  "noIndentDescription": { "message": "移除每行的前导空格" },
-
-  "keyboardShortcut": { "message": "键盘快捷键" },
-  "keyboardShortcutDescription": { "message": "选择偏好的键盘快捷键" },
-
-  "reset": { "message": "重置" },
-
-  "errorClipboard": { "message": "保存到剪贴板失败" },
-
-
-  "about": { "message": "关于" },
-  "amo":  { "message": "Firefox 限制在某些网页上运行功能" },
-  "error": { "message": "运行时出错" },
-  "help": { "message": "帮助" },
-  "options": { "message": "选项" },
-  "saveOptions": { "message": "保存" },
-  "settings": { "message": "设置" }
+  "extensionName": {
+    "message": "Copy PlainText"
+  },
+  "extensionDescription": {
+    "message": "复制/粘贴 不带有任何格式的纯文本"
+  },
+  "pastePlainText": {
+    "message": "粘贴纯文本"
+  },
+  "optionalPermissions": {
+    "message": "可选权限"
+  },
+  "allUrls": {
+    "message": "所有网址"
+  },
+  "downloads": {
+    "message": "下载"
+  },
+  "customRules": {
+    "message": "自定义规则"
+  },
+  "add": {
+    "message": "添加"
+  },
+  "quickAdd": {
+    "message": "快速添加"
+  },
+  "removeNewLines": {
+    "message": "移除新行"
+  },
+  "removeLeadingSpaces": {
+    "message": "移除前导空格"
+  },
+  "removeTrailingSpaces": {
+    "message": "移除尾部空格"
+  },
+  "linkToMarkdown": {
+    "message": "链接到 Markdown"
+  },
+  "linkToHTML": {
+    "message": "链接到 HTML"
+  },
+  "title": {
+    "message": "标题"
+  },
+  "pattern": {
+    "message": "模式"
+  },
+  "replacement": {
+    "message": "替换"
+  },
+  "delete": {
+    "message": "删除"
+  },
+  "regexError": {
+    "message": "用该模式创建 RegExp 时发生错误"
+  },
+  "about": {
+    "message": "关于"
+  },
+  "error": {
+    "message": "操作出现错误"
+  },
+  "export": {
+    "message": "导出"
+  },
+  "fileParseError": {
+    "message": "解析文件时出现错误"
+  },
+  "fileReadError": {
+    "message": "读取文件时出现错误"
+  },
+  "fileTypeError": {
+    "message": "不支持的文件格式"
+  },
+  "help": {
+    "message": "帮助"
+  },
+  "import": {
+    "message": "导入"
+  },
+  "options": {
+    "message": "选项"
+  },
+  "saveOptions": {
+    "message": "保存"
+  }
 }
