@@ -1,0 +1,527 @@
+{
+  "extensionName": {
+    "message": "FoxyTab"
+  },
+  "extensionDescription": {
+    "message": "Collection of Tab Related Actions"
+  },
+  "closeDuplicate": {
+    "message": "Chiudi schede duplicate"
+  },
+  "window": {
+    "message": "Finestra"
+  },
+  "mergeWindows": {
+    "message": "Unisci tutte le finestre"
+  },
+  "closeOtherWindows": {
+    "message": "Chiudi le altre finestre"
+  },
+  "saveAsPDF": {
+    "message": "Salva scheda in PDF"
+  },
+  "createShortcut": {
+    "message": "Crea scorciatoia desktop"
+  },
+  "createShortcutTab": {
+    "message": "Crea scorciatoia (questa scheda)"
+  },
+  "createShortcutAll": {
+    "message": "Crea scorciatoia (tutte le schede)"
+  },
+  "createShortcutLeft": {
+    "message": "Crea scorciatoia (schede a sinistra)"
+  },
+  "createShortcutRight": {
+    "message": "Crea scorciatoia (schede a destra)"
+  },
+  "copy": {
+    "message": "Copia"
+  },
+  "copyTitle": {
+    "message": "Copia Titolo scheda"
+  },
+  "copyUrl": {
+    "message": "Copia URL scheda"
+  },
+  "copyTitleUrl": {
+    "message": "Copia Titolo + URL scheda"
+  },
+  "copyIP": {
+    "message": "Copia IP scheda"
+  },
+  "internal": {
+    "message": "Pagina interna di Firefox"
+  },
+  "private": {
+    "message": "Rete privata"
+  },
+  "cache": {
+    "message": "Caricato dalla cache"
+  },
+  "unknown": {
+    "message": "Sconosciuto"
+  },
+  "copyUrlAll": {
+    "message": "Copia URL, tutte le schede"
+  },
+  "copyUrlLeft": {
+    "message": "Copia gli URL a sinistra"
+  },
+  "copyUrlRight": {
+    "message": "Copia gli URL a sinistra"
+  },
+  "copyTitleUrlAll": {
+    "message": "Copia Titoli + URL, tutte le schede"
+  },
+  "copyTitleUrlLeft": {
+    "message": "Copia Titoli + URL , schede a sinista"
+  },
+  "copyTitleUrlRight": {
+    "message": "Copia Titoli + URL, schede a destra"
+  },
+  "customAll": {
+    "message": "Copia personalizzata, tutte le schede"
+  },
+  "customLeft": {
+    "message": "Copia personalizzata a sinistra"
+  },
+  "customRight": {
+    "message": "Copia personalizzata a destra"
+  },
+  "bookmark": {
+    "message": "Aggiungi scheda ai segnalibri"
+  },
+  "bookmarkAll": {
+    "message": "Aggiungi tutte le schede ai segnalibri"
+  },
+  "bookmarkLeft": {
+    "message": "Aggiungi le schede a sinistra ai segnalibri"
+  },
+  "bookmarkRight": {
+    "message": "Aggiungi le schede a destra ai segnalibri"
+  },
+  "closeBookmarked": {
+    "message": "Chiudi le schede presenti nei segnalibri"
+  },
+  "closeBookmarkedAll": {
+    "message": "Chiudi tutte le schede presenti nei segnalibri"
+  },
+  "closeBookmarkedLeft": {
+    "message": "Chiudi le schede a sinistra, se presenti nei segnalibri"
+  },
+  "closeBookmarkedRight": {
+    "message": "Chiudi le schede a destra, se presenti nei segnalibri"
+  },
+  "host": {
+    "message": "Host"
+  },
+  "hostKeep": {
+    "message": "Mantieni le schede dell'host"
+  },
+  "hostClose": {
+    "message": "Chiudi tutte le schede dell'host"
+  },
+  "hostCloseOther": {
+    "message": "Chiudi le altre schede dell'host"
+  },
+  "hostMoveNewWin": {
+    "message": "Muovi le schede dell'host su nuova finestra"
+  },
+  "hostMoveThisWin": {
+    "message": "Muovi le schede dell'host su questa finestra"
+  },
+  "hostReload": {
+    "message": "Ricarica le schede dell'host"
+  },
+  "sort": {
+    "message": "Ordina"
+  },
+  "sortURLAsc": {
+    "message": "Ordina per URL ascendente"
+  },
+  "sortURLDesc": {
+    "message": "Ordina per URL discendente"
+  },
+  "sortTitleAsc": {
+    "message": "Ordina per titolo ascendente"
+  },
+  "sortTitleDesc": {
+    "message": "Ordina per titolo discendente"
+  },
+  "sortLastAccAsc": {
+    "message": "Ordina per ultimo accesso ascendente"
+  },
+  "sortLastAccDesc": {
+    "message": "Ordina per ultimo accesso discendente"
+  },
+  "sortDomAsc": {
+    "message": "Ordina per dominio ascendente"
+  },
+  "sortDomDesc": {
+    "message": "Ordina per dominio discendente"
+  },
+  "sortReverse": {
+    "message": "Inverti ordine"
+  },
+  "move": {
+    "message": "Sposta"
+  },
+  "moveStart": {
+    "message": "Sposta all'inizio"
+  },
+  "moveEnd": {
+    "message": "Sposta alla fine"
+  },
+  "moveNewWinLeft": {
+    "message": "Sposta in nuova finestra a sinistra"
+  },
+  "moveNewWinRight": {
+    "message": "Sposta in nuova finestra a destra"
+  },
+  "movePrivate": {
+    "message": "Sposta in nuova finestra anonima"
+  },
+  "movePrivateLeft": {
+    "message": "Sposta in nuova finestra anonima a sinistra"
+  },
+  "movePrivateRight": {
+    "message": "Sposta in nuova finestra anonima a destra"
+  },
+  "discard": {
+    "message": "Scarta"
+  },
+  "discardTab": {
+    "message": "Scarta scheda"
+  },
+  "discardAll": {
+    "message": "Scarta tutte"
+  },
+  "discardLeft": {
+    "message": "Scarta schede a sinistra"
+  },
+  "discardRight": {
+    "message": "Scarta schede a destra"
+  },
+  "hide": {
+    "message": "Nascondi"
+  },
+  "hideTab": {
+    "message": "Nascondi scheda"
+  },
+  "hideAll": {
+    "message": "Nascondi tutte"
+  },
+  "hideLeft": {
+    "message": "Nascondi schede a sinistra"
+  },
+  "hideRight": {
+    "message": "Nascondi schede a destra"
+  },
+  "show": {
+    "message": "Mostra"
+  },
+  "showAll": {
+    "message": "Mostra tutte"
+  },
+  "showLeft": {
+    "message": "Mostra schede a sinistra"
+  },
+  "showRight": {
+    "message": "Mostra schede a destra"
+  },
+  "pin": {
+    "message": "Appunta scheda"
+  },
+  "pinAll": {
+    "message": "Appunta tutte le schede"
+  },
+  "pinLeft": {
+    "message": "Appunta le schede a sinistra"
+  },
+  "pinRight": {
+    "message": "Appunta le schede a destra"
+  },
+  "unpin": {
+    "message": "Rilascia"
+  },
+  "unpinAll": {
+    "message": "Rilascia tutte le schede"
+  },
+  "unpinLeft": {
+    "message": "Rilascia le schede a sinistra"
+  },
+  "unpinRight": {
+    "message": "Rilascia le schede a destra"
+  },
+  "Print": {
+    "message": "Stampa"
+  },
+  "capture": {
+    "message": "Screenshot"
+  },
+  "reload": {
+    "message": "Ricarica"
+  },
+  "reloadAll": {
+    "message": "Ricarica tutte"
+  },
+  "reloadLeft": {
+    "message": "Ricarica schede a sinistra"
+  },
+  "reloadRight": {
+    "message": "Ricarica schede a destra"
+  },
+  "reload1": {
+    "message": "Ogni 1 min."
+  },
+  "reload2": {
+    "message": "Ogni 2 min."
+  },
+  "reload3": {
+    "message": "Ogni 3 min."
+  },
+  "reload4": {
+    "message": "Ogni 4 min."
+  },
+  "reload5": {
+    "message": "Ogni 5 min."
+  },
+  "reloadStop": {
+    "message": "Ferma ricarica automatica"
+  },
+  "clipboardError": {
+    "message": "Errore nel salvare negli appunti"
+  },
+  "proxy": {
+    "message": "Informazioni proxy"
+  },
+  "tabCounter": {
+    "message": "Contatore schede"
+  },
+  "perWindow": {
+    "message": "Per finestra"
+  },
+  "tabCounterDescription": {
+    "message": "Attiva o disattiva il contatore schede"
+  },
+  "altIcon": {
+    "message": "Icona alternativa"
+  },
+  "altIconDescription": {
+    "message": "Icona alternativa in greyscale"
+  },
+  "maxTabs": {
+    "message": "Numero massimo di schede"
+  },
+  "maxTabsDescription": {
+    "message": "Limita il numero di schede (0 = illimitate)"
+  },
+  "maxTabsError": {
+    "message": "Raggiunto il limite massimo di schede per finestra"
+  },
+  "badgeBGColor": {
+    "message": "Colore di sfondo del badge"
+  },
+  "badgeBGColorDescription": {
+    "message": "Cambia il colore di sfondo del badge"
+  },
+  "badgeTextColor": {
+    "message": "Colore del testo del badge"
+  },
+  "badgeTextColorDescription": {
+    "message": "Cambia il colore del testo del badge"
+  },
+  "reset": {
+    "message": "Reset"
+  },
+  "delete": {
+    "message": "Cancella"
+  },
+  "dateClock": {
+    "message": "Data e ora"
+  },
+  "contextMenu": {
+    "message": "Menù contestuale"
+  },
+  "contextMenuDescription": {
+    "message": "Attiva, disattiva, o riordina le voci nel menù contestuale"
+  },
+  "customCopy": {
+    "message": "Copia personalizzata"
+  },
+  "customCopyDescription": {
+    "message": "Definisci un formato di copia personalizzata"
+  },
+  "modifiers": {
+    "message": "Modificatori"
+  },
+  "pinned": {
+    "message": "Fissata"
+  },
+  "hidden": {
+    "message": "Nascosta"
+  },
+  "duplicateToPrivate": {
+    "message": "Duplicata in privata"
+  },
+  "selectMatch": {
+    "message": "Select Match"
+  },
+  "customReload": {
+    "message": "Intervello di ricarica personalizzato"
+  },
+  "customReloadDescription": {
+    "message": "Scegli un valore di ricarica personalizzato"
+  },
+  "cleanUrl": {
+    "message": "Pulisci l'URL"
+  },
+  "cleanUrlDescription": {
+    "message": "Rimuovi stringhe di tracker/redirect dall'URL della scheda"
+  },
+  "showFlag": {
+    "message": "Mostra bandiera"
+  },
+  "showFlagDescription": {
+    "message": "Leggi la provenienza dell'IP e mostra la bandiera"
+  },
+  "pageSettings": {
+    "message": "Impostazioni pagina PDF"
+  },
+  "pageSettingsDescription": {
+    "message": "Oggetti personalizzati per la pagina PDF salvata"
+  },
+  "add": {
+    "message": "Aggiungi"
+  },
+  "date": {
+    "message": "Data"
+  },
+  "weekday": {
+    "message": "Formato settimana e giorno"
+  },
+  "weekdayDescription": {
+    "message": "Sab vs Sabato"
+  },
+  "month": {
+    "message": "Formato mese"
+  },
+  "monthDescription": {
+    "message": "Gen vs Gennaio"
+  },
+  "short": {
+    "message": "Corto"
+  },
+  "long": {
+    "message": "Lungo"
+  },
+  "clock": {
+    "message": "Orologio"
+  },
+  "hour12": {
+    "message": "Formato orario a 12 ore"
+  },
+  "hour12Description": {
+    "message": "Formato di default a 24 ore"
+  },
+  "restore": {
+    "message": "Ripristina default"
+  },
+  "container": {
+    "message": "Contenitore"
+  },
+  "siteIsolation": {
+    "message": "Limita a siti designati"
+  },
+  "errorPattern": {
+    "message": "C'è un errore con la regola"
+  },
+  "errorDuplicatePattern": {
+    "message": "La regola esiste in un altro container"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "redirect": {
+    "message": "Redirect"
+  },
+  "testUrl": {
+    "message": "URL Test"
+  },
+  "redirectResult": {
+    "message": "Risultato del redirect"
+  },
+  "name": {
+    "message": "Nome"
+  },
+  "description": {
+    "message": "Descrizione"
+  },
+  "version": {
+    "message": "Versione"
+  },
+  "homePage": {
+    "message": "Home Page"
+  },
+  "author": {
+    "message": "Autore"
+  },
+  "addTheme": {
+    "message": "Aggiungi"
+  },
+  "updateTheme": {
+    "message": "Aggiorna"
+  },
+  "deleteTheme": {
+    "message": "Cancella"
+  },
+  "clearTheme": {
+    "message": "Pulisci"
+  },
+  "applyTheme": {
+    "message": "Applica"
+  },
+  "resetTheme": {
+    "message": "Reset"
+  },
+  "noNameError": {
+    "message": "Il tema deve avere un nome"
+  },
+  "about": {
+    "message": "A proposito di"
+  },
+  "error": {
+    "message": "C'è stato un errore con l'operazione"
+  },
+  "export": {
+    "message": "Esporta"
+  },
+  "fileParseError": {
+    "message": "C'è stato un errore nel parsing del file"
+  },
+  "fileReadError": {
+    "message": "C'è stato un errore nella lettura del file"
+  },
+  "fileSizeError": {
+    "message": "La dimensione del file supere i $1kb permessi"
+  },
+  "fileTypeError": {
+    "message": "Formato file non supportato"
+  },
+  "help": {
+    "message": "Aiuto"
+  },
+  "import": {
+    "message": "Importa"
+  },
+  "jsonError": {
+    "message": "Invalid JSON"
+  },
+  "options": {
+    "message": "Opzioni"
+  },
+  "saveOptions": {
+    "message": "Salva"
+  }
+}
