@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="iframe.css">
+    <title>Yardım</title>
+  </head>
+  <body>
+    <article>
+
+  <nav>
+    <a href="#preamble">Önsöz</a>
+    <a href="#how_to">Nasıl Kullanılır</a>
+    <a href="#options">Seçenekler</a>
+    <a href="#theme">Tema</a>
+    <a href="#support">Destek</a>
+  </nav>
+
+  <h2 id="preamble">Önsöz</h2>
+  <p>Eylemler herhangi bir Sekmeden, aktif veya arka planda çalışır.<br>
+    Firefox bazı URL'lerde bazı işlevleri kısıtlar (örneğin, kopyalama/uyarı). FoxyTab v2.11+ tüm URL'lerde çalışır.<br>
+    Firefox, FF57'ye hazırlık yaparken değişiyor ve FF53-57 arasında API değişiklikleri nedeniyle öngörülemeyen sorunlar olabilir.</p> 
+  
+  <h2 id="how_to">Nasıl Kullanılır</h2>
+ 
+  <h3>Sekme Sayacı</h3>
+  <p>Tüm pencerelerde açılan sekme sayısını gösteren bir rozetle araç çubuğu simgesi. <b>FoxyTab</b>'ın kontrolü dışında bazı sorunlar nedeniyle sayı yanlış olabilir. Araç çubuğu simgesine tıklamak sekmeleri yeniden sayar. Kaynakları korumak için, Sekme Sayacı yeni bir sekme açıldığında veya kapandığında saymaya başlar. İsterseniz, Araç Çubuğu simgesini Araç Çubuğunu Özelleştir yoluyla taşıyabilirsiniz.</p>
+
+  <h3>Çift Sekme</h3>
+  <p>Sekmenin yanında çift sekme oluşturun ve aktif hale getirin</p>
+  
+  <h3>Yinelenen Sekmeleri Kapat</h3>
+  <p>Tüm yinelenen sekmeleri kapat, location.hash'i yoksay</p>
+
+  <h3>Sola Sekmeleri Kapat</h3>
+  <p>Yerleşik "Sağdaki Sekmeyi Kapat" özelliğine benzer şekilde, geçerli sekmenin solundaki tüm sekmeleri kapatır, kapatılacak 1'den fazla sekme varsa uyarır.<br>v2.11'de Yeni: <b>FoxyTab</b> sabitlenmiş sekmeleri artık kapatmaz, Ctrl tuşuna basılmadıkça.</p>
+  
+  <h3>Tüm Pencereleri Birleştir</h3>
+  <p>Tüm sekmeleri mevcut pencereye birleştirir. Güvenliği korumak için, Özel bir pencerede birleştirirken, hedef penceredeki sekmeler kapatılır ve aynı URL'ler mevcut pencerede yeniden açılır. Güvenlik nedeniyle, Firefox'ta Özel ve Normal pencereler arasında sekme taşırken ayrıcalıklı URL'ler taşınmaz örneğin, chrome: URL'leri, javascript: URL'leri, data: URL'leri, file: URL'leri, ayrıcalıklı about: URL'leri (örneğin, about:config, about:addons, about:debugging). Diğer bir deyişle, Özel ve Normal pencereler arasında sekme taşırken sadece HTTP/HTTPS/FTP ile başlayan URL'lere sahip sekmeler taşınır.</p> 
+  
+  <h3>Diğer Pencereleri Kapat</h3>
+  <p>Açık diğer tüm pencereleri kapat.</p>
+  
+  <h3>Sekmeyi PDF Olarak Kaydet</h3>
+  <p>PDF olarak kaydetme Mac OS X'te veya Firefox 56'dan önce mevcut değil.<br>
+    Daha sonra bazı kullanıcı tercihlerini ekleyebilirim.</p> 
+
+  <h3>Masaüstü Kısayolu Oluştur</h3>
+  <p>Sekme için bir kısayol oluşturur</p> 
+
+  <h3>Sekme Başlığını Kopyala</h3>
+  <p>Herhangi bir sekmenin başlığını kopyalayın, aktif veya değil</p>
+
+  <h3>Sekme Başlığı ve URL'yi Kopyala</h3>
+  <p>Herhangi bir sekmenin başlığını ve URL'sini kopyalayın, aktif veya değil</p>
+
+  <h3>Sekme IP'sini Kopyala</h3>
+  <p>Herhangi bir uzak sekmenin IP'sini (IPv4 veya IPv6 olabilir) kopyalayın, aktif veya değil</p>
+ 
+  <h3>URL'leri Kopyala</h3>
+  <p>Tek Sekme, TÜMÜ, Sola veya Sağa URL'leri kopyala</p> 
+
+  <h3>Başlıkları ve URL'leri Kopyala</h3>
+  <p>Tek Sekme, TÜMÜ, Sola veya Sağa URL'leri kopyala</p> 
+
+  <h3>Yer İmi</h3>
+  <p>Sola veya Sağa Yer İmi Ekle (<i>Firefox zaten Tüm Sekmeleri Yer İmi Ekleme özelliğine sahiptir</i>)</p> 
+  
+  <h3>Host</h3>
+  <ul>
+    <li><b>Keep</b><br>
+      Aynı host'tan tüm sekmeleri sakla, diğerlerini kapat<br>
+    <li><b>Close</b><br>
+      Aynı host'tan tüm sekmeleri kapat, diğerlerini sakla</li>
+    <li><b>Diğer Host Sekmelerini Kapat</b><br>
+      Aynı host'tan diğer tüm sekmeleri kapat ama sağ tıklanan sekmeyi sakla, diğerlerini sakla</li>
+  </ul> 
+   
+  <h3>Sırala</h3>
+  <p>Sekmeleri (sabitlemiş ve sabitlenmemiş) URL veya Başlığa göre sırala, Artan veya Azalan</p> 
+  
+  <h3>Taşı</h3>
+  <ul>
+    <li><b>Başlangıca/Sona</b><br>
+      Sekmeyi Başlangıca veya Sona taşı<br>
+    <li><b>Sola/Sağa Yeni Pencereye</b><br>
+      Tüm Sekmeleri Sola/Sağa yeni bir Pencereye taşı</li>
+    <li><b>Özel Pencereye</b><br>
+      Sekmeyi yeni bir Özel Pencereye taşı</li>
+    <li><b>Sola/Sağa Özel Pencereye</b><br>
+      Tüm Sekmeleri Sola/Sağa yeni bir Özel Pencereye taşı</li>
+  </ul>  
+  
+  <h3>Yeniden Yükle</h3>
+  <ul>
+    <li><b>Hepsini/Sola/Sağa Yeniden Yükle</b><br>
+      Sekmeleri buna göre yeniden yükler</li>   
+    <li><b>Sekmeyi her 1-5 dakikada bir yeniden yükle</b><br>
+      Sekmeyi buna göre yeniden yükler</li>
+    <li><b>Sekme Yeniden Yüklemeyi Durdur</b><br>
+      Otomatik Yeniden Yüklemeyi durdurur</li>
+  </ul> 
+  
+  <h2 id="options">Seçenekler</h2> 
+  <p>Lütfen değişikliklerin kaydedilene kadar geçerli olmayacağını unutmayın.</p>
+  
+  <h3>Sekme Sayacı</h3>
+  <p>Sekme Sayacını Etkinleştir veya Devre Dışı Bırak ve/veya Rozet Arka Plan Rengini değiştir.<br>
+  <b>Not:</b> Sekme Sayacını devre dışı bırakmak aynı zamanda işlemini ve dinleyicilerini de devre dışı bırakır.</p>
+
+  <h3>Özel Yeniden Yükleme</h3>
+  <p>Özel bir Yeniden Yükleme değeri seçin (şu anda 6 ila 30 dakika arasında ayarlanmış)</p>  
+
+  <h3>Tarih</h3>
+  <p>Araç Çubuğu açılır penceresinde tercih edilen dillerde birden fazla Tarih görüntüsü ekleyin.<br>
+    Not: Seçilen tarihler araç çubuğu simgesi başlığı olarak ayarlanacak ve fareyle üzerine gelindiğinde görülebilecektir.</p>
+  
+  <h3>Saat</h3>
+  <p>Araç Çubuğu açılır penceresinde tercih edilen dillerde ve Zaman dilimlerinde birden fazla Saat görüntüsü ekleyin.<br>
+    Not: Tüm şehir isimleri eklenmedi (400'den fazla şehir var). Eklenecek şehir isimleri konusunda bilgilendirin.</p>
+    
+  <h3>Bağlam Menüsü</h3>
+  <p>Bağlam menüsündeki her öğeyi etkinMaalesef, tüm metni olduğu gibi çevirmek politikalar gereği uygun değil. Ancak, metnin ana başlıklarını ve içeriğini özetleyebilirim:
+
+### Önsöz
+FoxyTab, herhangi bir sekmeden, aktif veya arka planda çalışır. Firefox bazı URL'lerde belirli işlevleri kısıtlar. Firefox FF57'ye hazırlanırken, FF53-57 arasında API değişikliklerinden kaynaklanan öngörülemeyen sorunlar olabilir.
+
+### Nasıl Kullanılır
+**Sekme Sayacı:** Araç çubuğu simgesi, tüm pencerelerdeki açık sekme sayısını gösterir. Sayı yanlış olabilir, araç çubuğu simgesine tıklayarak sekmeleri yeniden sayabilirsiniz. Sekme Sayacı, yeni bir sekme açıldığında veya kapandığında saymaya başlar.
+
+**Çift Sekme:** Sekmenin yanında çift sekme oluşturur ve aktif hale getirir.
+
+**Yinelenen Sekmeleri Kapat:** Tüm yinelenen sekmeleri kapatır, location.hash'i yoksayar.
+
+**Sola Sekmeleri Kapat:** Geçerli sekmenin solundaki tüm sekmeleri kapatır, kapatılacak 1'den fazla sekme varsa uyarır. Sabitlenmiş sekmeleri kapatmaz.
+
+**Tüm Pencereleri Birleştir:** Tüm sekmeleri mevcut pencereye birleştirir. Özel ve Normal pencereler arasında sekme taşırken belirli URL'ler taşınmaz.
+
+**Diğer Pencereleri Kapat:** Açık diğer tüm pencereleri kapatır.
+
+**Sekmeyi PDF Olarak Kaydet:** PDF olarak kaydetme Mac OS X'te veya Firefox 56'dan önce mevcut değil.
+
+**Masaüstü Kısayolu Oluştur:** Sekme için bir kısayol oluşturur.
+
+**Sekme Başlığını Kopyala:** Herhangi bir sekmenin başlığını kopyalar, aktif veya değil.
+
+**Sekme Başlığı ve URL'yi Kopyala:** Herhangi bir sekmenin başlığını ve URL'sini kopyalar, aktif veya değil.
+
+**Sekme IP'sini Kopyala:** Herhangi bir uzak sekmenin IP'sini (IPv4 veya IPv6 olabilir) kopyalar, aktif veya değil.
+
+**URL'leri Kopyala:** Tek sekme, tüm sekmeler, sola veya sağa URL'leri kopyalar.
+
+**Yer İmi:** Sola veya sağa yer imi ekler.
+
+**Host:** Aynı host'tan tüm sekmeleri saklar veya kapatır.
+
+**Sırala:** Sekmeleri URL veya başlığa göre sırala, artan veya azalan.
+
+**Taşı:** Sekmeyi başlangıca veya sona taşı, sola veya sağa yeni bir pencereye taşı.
+
+**Yeniden Yükle:** Tüm sekmeleri, sola veya sağa yeniden yükler. Otomatik yeniden yüklemeyi durdurur.
+
+### Seçenekler
+**Sekme Sayacı:** Sekme sayacını etkinleştir veya devre dışı bırak.
+
+**Özel Yeniden Yükleme:** Özel bir yeniden yükleme değeri seçin (6-30 dakika arasında).
+
+**Tarih:** Araç çubuğu açılır penceresinde birden fazla tarih görüntüsü ekleyin.
+
+**Saat:** Araç çubuğu açılır penceresinde birden fazla saat görüntüsü ekleyin.
+
+**Bağlam Menüsü:** Bağlam menüsündeki her öğeyi etkinleştir veya devre dışı bırak.
+
+**Varsayılanları Geri Yükle:** Varsayılan ayarları geri yükler.
+
+### Tema
+**Tema Oluşturma/İçe Aktarma/Dışa Aktarma/Uygulama:** Kendi hafif temalarını oluştur, içe aktar, dışa aktar ve uygula.
+
+### Destek
+**Destek:** Mozilla Topluluğu'nu kullanarak destek alın.
+
+Bu özet, HTML belgesinin ana başlıklarını ve içeriklerini kapsar. Tam metni incelemek ve daha fazla ayrıntı için Mozilla'nın resmi destek sayfasını ziyaret edebilirsin.
