@@ -1,0 +1,527 @@
+{
+  "extensionName": {
+    "message": "FoxyTab"
+  },
+  "extensionDescription": {
+    "message": "Sekmeyle ilgili Eylemler Koleksiyonu"
+  },
+  "closeDuplicate": {
+    "message": "Yinelenen Sekmeleri Kapat"
+  },
+  "window": {
+    "message": "Pencere"
+  },
+  "mergeWindows": {
+    "message": "Pencereleri Birleştir"
+  },
+  "closeOtherWindows": {
+    "message": "Diğer Pencereleri Kapat"
+  },
+  "saveAsPDF": {
+    "message": "PDF Olarak Kaydet"
+  },
+  "createShortcut": {
+    "message": "Masaüstü Kısayolu Oluştur"
+  },
+  "createShortcutTab": {
+    "message": "Kısayol Oluştur Sekmesi"
+  },
+  "createShortcutAll": {
+    "message": "Tümü için Kısayol Oluştur"
+  },
+  "createShortcutLeft": {
+    "message": "Sola Kısayol Oluştur"
+  },
+  "createShortcutRight": {
+    "message": "Sağa Kısayol Oluştur"
+  },
+  "copy": {
+    "message": "Kopyala"
+  },
+  "copyTitle": {
+    "message": "Sekme Başlığını Kopyala"
+  },
+  "copyUrl": {
+    "message": "Sekme URL'sini Kopyala"
+  },
+  "copyTitleUrl": {
+    "message": "Sekme Başlığını + URL'yi Kopyala"
+  },
+  "copyIP": {
+    "message": "Sekme IP'sini Kopyala"
+  },
+  "internal": {
+    "message": "Firefox Dahili Sayfası"
+  },
+  "private": {
+    "message": "Özel Ağ"
+  },
+  "cache": {
+    "message": "Önbellekten yüklendi"
+  },
+  "unknown": {
+    "message": "Bilinmiyor"
+  },
+  "copyUrlAll": {
+    "message": "Tüm URL'leri Kopyala"
+  },
+  "copyUrlLeft": {
+    "message": "URL'leri Sola Kopyala"
+  },
+  "copyUrlRight": {
+    "message": "URL'leri Sağa Kopyala"
+  },
+  "copyTitleUrlAll": {
+    "message": "Tüm Başlıkları + URL'leri Kopyala"
+  },
+  "copyTitleUrlLeft": {
+    "message": "Başlıkları + URL'leri Sola Kopyala"
+  },
+  "copyTitleUrlRight": {
+    "message": "Başlıkları + URL'leri Sağa Kopyala"
+  },
+  "customAll": {
+    "message": "Tümünü Özel Kopyala"
+  },
+  "customLeft": {
+    "message": "URL'leri Sola Kopyala"
+  },
+  "customRight": {
+    "message": "URL'leri Sağa Kopyala"
+  },
+  "bookmark": {
+    "message": "Yer işareti"
+  },
+  "bookmarkAll": {
+    "message": "Tümünü Yer İşaretle"
+  },
+  "bookmarkLeft": {
+    "message": "Tümünü Sola Yer İşaretle"
+  },
+  "bookmarkRight": {
+    "message": "Tümünü Sağa Yer İşaretle"
+  },
+  "closeBookmarked": {
+    "message": "Yer İşaretli Sekmeleri Kapat"
+  },
+  "closeBookmarkedAll": {
+    "message": "Yer İşaretli Sekmelerin Tümünü Kapat"
+  },
+  "closeBookmarkedLeft": {
+    "message": "Yer İşaretli Sekmeleri Sola Kapat"
+  },
+  "closeBookmarkedRight": {
+    "message": "Yer İşaretli Sekmeleri Sağa Kapat"
+  },
+  "host": {
+    "message": "Sunucu"
+  },
+  "hostKeep": {
+    "message": "Sunucuyu Sakla"
+  },
+  "hostClose": {
+    "message": "Sunucuyu Kapat"
+  },
+  "hostCloseOther": {
+    "message": "Diğer Sunucu Sekmelerini Kapat"
+  },
+  "hostMoveNewWin": {
+    "message": "Sunucuyu Yeni Pencereye Taşı"
+  },
+  "hostMoveThisWin": {
+    "message": "Sunucuyu Bu Pencereye Taşı"
+  },
+  "hostReload": {
+    "message": "Sunucuyu Yeniden Yükle"
+  },
+  "sort": {
+    "message": "Sırala"
+  },
+  "sortURLAsc": {
+    "message": "URL'ye Göre Artan Sırala"
+  },
+  "sortURLDesc": {
+    "message": "URL'ye Göre Azalan Sırala"
+  },
+  "sortTitleAsc": {
+    "message": "Başlığa Göre Artan Sırala"
+  },
+  "sortTitleDesc": {
+    "message": "Başlığa Göre Azalan Sırala"
+  },
+  "sortLastAccAsc": {
+    "message": "Son Erişime Göre Artan Sırala"
+  },
+  "sortLastAccDesc": {
+    "message": "Son Erişime Göre Azalan Sırala"
+  },
+  "sortDomAsc": {
+    "message": "Etki Alanına Göre Artan Sırala"
+  },
+  "sortDomDesc": {
+    "message": "Etki Alanına Göre Azalan Sırala"
+  },
+  "sortReverse": {
+    "message": "Sekmeleri Ters Sırala"
+  },
+  "move": {
+    "message": "Taşı"
+  },
+  "moveStart": {
+    "message": "Başa Taşı"
+  },
+  "moveEnd": {
+    "message": "Sona Taşı"
+  },
+  "moveNewWinLeft": {
+    "message": "Yeni Pencereye Sola Taşı"
+  },
+  "moveNewWinRight": {
+    "message": "Yeni Pencereye Sağa Taşı"
+  },
+  "movePrivate": {
+    "message": "Özel Pencereye Taşı"
+  },
+  "movePrivateLeft": {
+    "message": "Özel Pencereye Sola Taşı"
+  },
+  "movePrivateRight": {
+    "message": "Özel Pencereye Sağa Taşı"
+  },
+  "discard": {
+    "message": "At"
+  },
+  "discardTab": {
+    "message": "Sekmeyi At"
+  },
+  "discardAll": {
+    "message": "Tümünü At"
+  },
+  "discardLeft": {
+    "message": "Sola At"
+  },
+  "discardRight": {
+    "message": "Sağa At"
+  },
+  "hide": {
+    "message": "Gizle"
+  },
+  "hideTab": {
+    "message": "Sekmeyi Gizle"
+  },
+  "hideAll": {
+    "message": "Tümünü Gizle"
+  },
+  "hideLeft": {
+    "message": "Sola Gizle"
+  },
+  "hideRight": {
+    "message": "Sağa Gizle"
+  },
+  "show": {
+    "message": "Göster"
+  },
+  "showAll": {
+    "message": "Tümünü Göster"
+  },
+  "showLeft": {
+    "message": "Sola Göster"
+  },
+  "showRight": {
+    "message": "Sağa Göster"
+  },
+  "pin": {
+    "message": "Sabitle"
+  },
+  "pinAll": {
+    "message": "Tümünü Sabitle"
+  },
+  "pinLeft": {
+    "message": "Sola Sabitle"
+  },
+  "pinRight": {
+    "message": "Sağa Sabitle"
+  },
+  "unpin": {
+    "message": "Sabitlemeyi Kaldır"
+  },
+  "unpinAll": {
+    "message": "Tümünün Sabitlemesini Kaldır"
+  },
+  "unpinLeft": {
+    "message": "Sola Sabitlemeyi Kaldır"
+  },
+  "unpinRight": {
+    "message": "Sağa Sabitlemeyi Kaldır"
+  },
+  "Print": {
+    "message": "Yazdır"
+  },
+  "capture": {
+    "message": "Ekran Görüntüsü Al"
+  },
+  "reload": {
+    "message": "Yenile"
+  },
+  "reloadAll": {
+    "message": "Tümünü Yenile"
+  },
+  "reloadLeft": {
+    "message": "Sola Yenile"
+  },
+  "reloadRight": {
+    "message": "Sağa Yenile"
+  },
+  "reload1": {
+    "message": "Her 1 dakikada bir"
+  },
+  "reload2": {
+    "message": "Her 2 dakikada bir"
+  },
+  "reload3": {
+    "message": "Her 3 dakikada bir"
+  },
+  "reload4": {
+    "message": "Her 4 dakikada bir"
+  },
+  "reload5": {
+    "message": "Her 5 dakikada bir"
+  },
+  "reloadStop": {
+    "message": "Sekme Yenilemeyi Durdur"
+  },
+  "clipboardError": {
+    "message": "Panoya kaydetme başarısız oldu"
+  },
+  "proxy": {
+    "message": "Proxy Bilgisi"
+  },
+  "tabCounter": {
+    "message": "Sekme Sayacı"
+  },
+  "perWindow": {
+    "message": "Pencere Başına"
+  },
+  "tabCounterDescription": {
+    "message": "Sekme Sayacını Etkinleştir veya Devre Dışı Bırak"
+  },
+  "altIcon": {
+    "message": "Alternatif Simge"
+  },
+  "altIconDescription": {
+    "message": "Alternatif Gri Tonlu Simge"
+  },
+  "maxTabs": {
+    "message": "Maksimum Sekme Sayısı"
+  },
+  "maxTabsDescription": {
+    "message": "Sekme sayısını sınırla (0 = sınırsız)"
+  },
+  "maxTabsError": {
+    "message": "Pencere başına maksimum sekmeye ulaşıldı"
+  },
+  "badgeBGColor": {
+    "message": "Rozet Arka Plan Rengi"
+  },
+  "badgeBGColorDescription": {
+    "message": "Rozet Arka Plan Rengini Değiştir"
+  },
+  "badgeTextColor": {
+    "message": "Rozet Metin Rengi"
+  },
+  "badgeTextColorDescription": {
+    "message": "Rozet Metin Rengini Değiştir"
+  },
+  "reset": {
+    "message": "Sıfırla"
+  },
+  "delete": {
+    "message": "Sil"
+  },
+  "dateClock": {
+    "message": "Tarih ve Saat"
+  },
+  "contextMenu": {
+    "message": "İçerik Menüsü"
+  },
+  "contextMenuDescription": {
+    "message": "İçerik menüsü öğelerini etkinleştir, devre dışı bırak veya yeniden düzenle"
+  },
+  "customCopy": {
+    "message": "Özel Kopyala"
+  },
+  "customCopyDescription": {
+    "message": "Özel bir kopyalama formatı belirle"
+  },
+  "modifiers": {
+    "message": "Değiştiriciler"
+  },
+  "pinned": {
+    "message": "Sabitle"
+  },
+  "hidden": {
+    "message": "Gizli"
+  },
+  "duplicateToPrivate": {
+    "message": "Özel'e Kopyala"
+  },
+  "selectMatch": {
+    "message": "Eşleşmeyi Seç"
+  },
+  "customReload": {
+    "message": "Özel Yenile"
+  },
+  "customReloadDescription": {
+    "message": "Özel bir yenileme değeri seç"
+  },
+  "cleanUrl": {
+    "message": "URL'yi Temizle"
+  },
+  "cleanUrlDescription": {
+    "message": "Sekme URL'lerinden izleme/yönlendirme dizelerini kaldır"
+  },
+  "showFlag": {
+    "message": "Bayrağı Göster"
+  },
+  "showFlagDescription": {
+    "message": "IP konumunu işle ve bayrağı göster"
+  },
+  "pageSettings": {
+    "message": "PDF Sayfa Ayarları"
+  },
+  "pageSettingsDescription": {
+    "message": "Kaydedilen sayfa için Ayarlar Nesnesi"
+  },
+  "add": {
+    "message": "Ekle"
+  },
+  "date": {
+    "message": "Tarih"
+  },
+  "weekday": {
+    "message": "Haftanın Günü Biçimi"
+  },
+  "weekdayDescription": {
+    "message": "Sat vs Cumartesi"
+  },
+  "month": {
+    "message": "Ay Biçimi"
+  },
+  "monthDescription": {
+    "message": "Oca vs Ocak"
+  },
+  "short": {
+    "message": "Kısa"
+  },
+  "long": {
+    "message": "Uzun"
+  },
+  "clock": {
+    "message": "Saat"
+  },
+  "hour12": {
+    "message": "12 saatlik Zaman Biçimi"
+  },
+  "hour12Description": {
+    "message": "Varsayılan 24 saatlik"
+  },
+  "restore": {
+    "message": "Varsayılanları Geri Yükle"
+  },
+  "container": {
+    "message": "Konteyner"
+  },
+  "siteIsolation": {
+    "message": "Belirli Sitelerle Sınırla"
+  },
+  "errorPattern": {
+    "message": "Desenle ilgili bir hata var"
+  },
+  "errorDuplicatePattern": {
+    "message": "Desen başka bir konteynerda mevcut"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "redirect": {
+    "message": "Yönlendir"
+  },
+  "testUrl": {
+    "message": "Test URL'si"
+  },
+  "redirectResult": {
+    "message": "Yönlendirme Sonucu"
+  },
+  "name": {
+    "message": "Ad"
+  },
+  "description": {
+    "message": "Açıklama"
+  },
+  "version": {
+    "message": "Sürüm"
+  },
+  "homePage": {
+    "message": "Ana Sayfa"
+  },
+  "author": {
+    "message": "Yazar"
+  },
+  "addTheme": {
+    "message": "Ekle"
+  },
+  "updateTheme": {
+    "message": "Güncelle"
+  },
+  "deleteTheme": {
+    "message": "Sil"
+  },
+  "clearTheme": {
+    "message": "Temizle"
+  },
+  "applyTheme": {
+    "message": "Uygula"
+  },
+  "resetTheme": {
+    "message": "Sıfırla"
+  },
+  "noNameError": {
+    "message": "Tema bir isme sahip olmalıdır."
+  },
+  "about": {
+    "message": "Hakkında"
+  },
+  "error": {
+    "message": "İşlemle ilgili bir hata oluştu"
+  },
+  "export": {
+    "message": "Dışa Aktar"
+  },
+  "fileParseError": {
+    "message": "Dosya ayrıştırma hatası oluştu"
+  },
+  "fileReadError": {
+    "message": "Dosya okuma hatası oluştu"
+  },
+  "fileSizeError": {
+    "message": "Dosya boyutu izin verilen $1kb'dan büyük"
+  },
+  "fileTypeError": {
+    "message": "Desteklenmeyen Dosya Biçimi"
+  },
+  "help": {
+    "message": "Yardım"
+  },
+  "import": {
+    "message": "İçe Aktar"
+  },
+  "jsonError": {
+    "message": "Geçersiz JSON"
+  },
+  "options": {
+    "message": "Seçenekler"
+  },
+  "saveOptions": {
+    "message": "Kaydet"
+  }
+}
