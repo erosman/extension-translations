@@ -126,7 +126,7 @@
     "message": "Quiere borrar los $1 scripts/estilos seleccionados y sus datos almacenados?"
   },
   "installConfirm": {
-    "message": "Quiere instalar '$1'?\nEl script/estilo con el mismo nombre será reemplazado si tiene una version menor."
+    "message": "Quiere instalar '$1'?\nLos scripts/estilos con el mismo nombre serán reemplazados si tienen una version menor."
   },
   "metaError": {
     "message": "Error de metadatos"
