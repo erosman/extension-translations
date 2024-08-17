@@ -189,10 +189,10 @@
     "message": "Personalizar la página de opciones y la configuración del estilo de CodeMirror"
   },
   "customPopupCSS": {
-    "message": "Estilo personalizado para pop-ups"
+    "message": "Estilo personalizado para ventanas emergentes"
   },
   "customPopupCSSDescription": {
-    "message": "Personaliar la configuración de estilos del pop-up de la barra lateral"
+    "message": "Personalizar el estilo de la ventana emergente de la barra de herramientas"
   },
   "cmOptionsDescription": {
     "message": "Personalizar la configuración de CodeMirror, addons y lint de JavaScript"
