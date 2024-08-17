@@ -39,7 +39,7 @@
     "message": "Patrones globales de exclusión de scripts"
   },
   "globalScriptExcludeMatchesDescription": {
-    "message": "Patrones de exclusión (uno por línea) en que todos los scripts serán desactivados"
+    "message": "Patrones de exclusión (uno por línea) en los que todos los scripts serán desactivados"
   },
   "userVar": {
     "message": "Variables de usuario"
