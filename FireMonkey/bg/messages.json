@@ -21,6 +21,7 @@
   "globalScriptExcludeMatchesDescription": { "message": "Шаблоните (по един на ред) за изключване чрез съвпадение предотвратяват изпълнение на скриптовете." },
 
   "userVar": { "message": "Потребителски променливи" },
+  "reset": { "message": "Нулиране" },
   "userMeta": { "message": "Описателни данни" },
   "storage": { "message": "Хранилище" },
   "storageError": { "message": "Стойността в хранилището трябва да бъде валиден JSON" },
@@ -86,8 +87,8 @@
   "customPopupCSS": { "message": "Потребителски стилове за изскачащия прозорец" },
   "customPopupCSSDescription": { "message": "Настройка на външния вид на изскачащия прозорец" },
   "cmOptionsDescription": { "message": "Настройки на CodeMirror, добавките и проверките на кода на JavaScript" },
-
-
+  "importFromUrl": { "message": "Внасяне от адрес" },
+  "importFromUrlMessage": { "message": "Въведете адреса, от който да внесете" },
   "about": { "message": "Относно" },
   "error": { "message": "Грешка при действието" },
   "export": { "message": "Изнасяне" },
