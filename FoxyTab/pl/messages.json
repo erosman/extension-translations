@@ -1,0 +1,527 @@
+{
+    "extensionName": {
+      "message": "FoxyTab"
+    },
+    "extensionDescription": {
+      "message": "Zbiór działań związanych z kartami"
+    },
+    "closeDuplicate": {
+      "message": "Zamknij zduplikowane karty"
+    },
+    "window": {
+      "message": "Okno"
+    },
+    "mergeWindows": {
+      "message": "Scal wszystkie okna"
+    },
+    "closeOtherWindows": {
+      "message": "Zamknij inne okna"
+    },
+    "saveAsPDF": {
+      "message": "Zapisz kartę jako PDF"
+    },
+    "createShortcut": {
+      "message": "Utwórz skrót na pulpicie"
+    },
+    "createShortcutTab": {
+      "message": "Utwórz skrót do karty"
+    },
+    "createShortcutAll": {
+      "message": "Utwórz skróty do wszystkich"
+    },
+    "createShortcutLeft": {
+      "message": "Utwórz skróty do kart po lewej"
+    },
+    "createShortcutRight": {
+      "message": "Utwórz skróty do kart po prawej"
+    },
+    "copy": {
+      "message": "Kopiuj"
+    },
+    "copyTitle": {
+      "message": "Kopiuj tytuł karty"
+    },
+    "copyUrl": {
+      "message": "Kopiuj adres URL karty"
+    },
+    "copyTitleUrl": {
+      "message": "Kopiuj tytuł i adres URL karty"
+    },
+    "copyIP": {
+      "message": "Kopiuj IP karty"
+    },
+    "internal": {
+      "message": "Strona wewnętrzna Firefoksa"
+    },
+    "private": {
+      "message": "Sieć prywatna"
+    },
+    "cache": {
+      "message": "Załadowane z pamięci podręcznej"
+    },
+    "unknown": {
+      "message": "Nieznane"
+    },
+    "copyUrlAll": {
+      "message": "Kopiuj wszystkie adresy URL"
+    },
+    "copyUrlLeft": {
+      "message": "Kopiuj adresy URL po lewej"
+    },
+    "copyUrlRight": {
+      "message": "Kopiuj adresy URL po prawej"
+    },
+    "copyTitleUrlAll": {
+      "message": "Kopiuj wszystkie tytuły i adresy URL"
+    },
+    "copyTitleUrlLeft": {
+      "message": "Kopiuj tytuły i adresy URL po lewej"
+    },
+    "copyTitleUrlRight": {
+      "message": "Kopiuj tytuły i adresy URL po prawej"
+    },
+    "customAll": {
+      "message": "Kopiuj niestandardowe wszystkie"
+    },
+    "customLeft": {
+      "message": "Kopiuj niestandardowe po lewej"
+    },
+    "customRight": {
+      "message": "Kopiuj niestandardowe po prawej"
+    },
+    "bookmark": {
+      "message": "Zakładki"
+    },
+    "bookmarkAll": {
+      "message": "Dodaj do zakładek wszystkie"
+    },
+    "bookmarkLeft": {
+      "message": "Dodaj do zakładek po lewej"
+    },
+    "bookmarkRight": {
+      "message": "Dodaj do zakładek po prawej"
+    },
+    "closeBookmarked": {
+      "message": "Zamknij zakładkowane karty"
+    },
+    "closeBookmarkedAll": {
+      "message": "Zamknij wszystkie zakładkowane karty"
+    },
+    "closeBookmarkedLeft": {
+      "message": "Zamknij zakładkowane karty po lewej"
+    },
+    "closeBookmarkedRight": {
+      "message": "Zamknij zakładkowane karty po prawej"
+    },
+    "host": {
+      "message": "Host"
+    },
+    "hostKeep": {
+      "message": "Zachowaj hosta"
+    },
+    "hostClose": {
+      "message": "Zamknij hosta"
+    },
+    "hostCloseOther": {
+      "message": "Zamknij inne karty hosta"
+    },
+    "hostMoveNewWin": {
+      "message": "Przenieś karty hosta do nowego okna"
+    },
+    "hostMoveThisWin": {
+      "message": "Przenieś karty hosta do tego okna"
+    },
+    "hostReload": {
+      "message": "Odśwież hosta"
+    },
+    "sort": {
+      "message": "Sortowanie"
+    },
+    "sortURLAsc": {
+      "message": "Sortuj według URL rosnąco"
+    },
+    "sortURLDesc": {
+      "message": "Sortuj według URL malejąco"
+    },
+    "sortTitleAsc": {
+      "message": "Sortuj według tytułu rosnąco"
+    },
+    "sortTitleDesc": {
+      "message": "Sortuj według tytułu malejąco"
+    },
+    "sortLastAccAsc": {
+      "message": "Sortuj według ostatniego dostępu rosnąco"
+    },
+    "sortLastAccDesc": {
+      "message": "Sortuj według ostatniego dostępu malejąco"
+    },
+    "sortDomAsc": {
+      "message": "Sortuj według domeny rosnąco"
+    },
+    "sortDomDesc": {
+      "message": "Sortuj według domeny malejąco"
+    },
+    "sortReverse": {
+      "message": "Sortuj karty w odwrotnej kolejności"
+    },
+    "move": {
+      "message": "Przenieś"
+    },
+    "moveStart": {
+      "message": "Przenieś na początek"
+    },
+    "moveEnd": {
+      "message": "Przenieś na koniec"
+    },
+    "moveNewWinLeft": {
+      "message": "Przenieś do nowego okna po lewej"
+    },
+    "moveNewWinRight": {
+      "message": "Przenieś do nowego okna po prawej"
+    },
+    "movePrivate": {
+      "message": "Przenieś do prywatnego okna"
+    },
+    "movePrivateLeft": {
+      "message": "Przenieś do prywatnego okna po lewej"
+    },
+    "movePrivateRight": {
+      "message": "Przenieś do prywatnego okna po prawej"
+    },
+    "discard": {
+      "message": "Odrzuć"
+    },
+    "discardTab": {
+      "message": "Odrzuć kartę"
+    },
+    "discardAll": {
+      "message": "Odrzuć wszystkie"
+    },
+    "discardLeft": {
+      "message": "Odrzuć po lewej"
+    },
+    "discardRight": {
+      "message": "Odrzuć po prawej"
+    },
+    "hide": {
+      "message": "Ukryj"
+    },
+    "hideTab": {
+      "message": "Ukryj kartę"
+    },
+    "hideAll": {
+      "message": "Ukryj wszystkie"
+    },
+    "hideLeft": {
+      "message": "Ukryj po lewej"
+    },
+    "hideRight": {
+      "message": "Ukryj po prawej"
+    },
+    "show": {
+      "message": "Pokaż"
+    },
+    "showAll": {
+      "message": "Pokaż wszystkie"
+    },
+    "showLeft": {
+      "message": "Pokaż po lewej"
+    },
+    "showRight": {
+      "message": "Pokaż po prawej"
+    },
+    "pin": {
+      "message": "Przypnij"
+    },
+    "pinAll": {
+      "message": "Przypnij wszystkie"
+    },
+    "pinLeft": {
+      "message": "Przypnij po lewej"
+    },
+    "pinRight": {
+      "message": "Przypnij po prawej"
+    },
+    "unpin": {
+      "message": "Odepnij"
+    },
+    "unpinAll": {
+      "message": "Odepnij wszystkie"
+    },
+    "unpinLeft": {
+      "message": "Odepnij po lewej"
+    },
+    "unpinRight": {
+      "message": "Odepnij po prawej"
+    },
+    "Print": {
+      "message": "Drukuj"
+    },
+    "capture": {
+      "message": "Przechwyć"
+    },
+    "reload": {
+      "message": "Odśwież"
+    },
+    "reloadAll": {
+      "message": "Odśwież wszystkie"
+    },
+    "reloadLeft": {
+      "message": "Odśwież po lewej"
+    },
+    "reloadRight": {
+      "message": "Odśwież po prawej"
+    },
+    "reload1": {
+      "message": "Co 1 min."
+    },
+    "reload2": {
+      "message": "Co 2 min."
+    },
+    "reload3": {
+      "message": "Co 3 min."
+    },
+    "reload4": {
+      "message": "Co 4 min."
+    },
+    "reload5": {
+      "message": "Co 5 min."
+    },
+    "reloadStop": {
+      "message": "Zatrzymaj odświeżanie karty"
+    },
+    "clipboardError": {
+      "message": "Nie udało się zapisać do schowka"
+    },
+    "proxy": {
+      "message": "Informacje o proxy"
+    },
+    "tabCounter": {
+      "message": "Licznik kart"
+    },
+    "perWindow": {
+      "message": "Na okno"
+    },
+    "tabCounterDescription": {
+      "message": "Włącz lub wyłącz licznik kart"
+    },
+    "altIcon": {
+      "message": "Alternatywna ikona"
+    },
+    "altIconDescription": {
+      "message": "Alternatywna ikona w odcieniach szarości"
+    },
+    "maxTabs": {
+      "message": "Maksymalna liczba kart"
+    },
+    "maxTabsDescription": {
+      "message": "Ogranicz liczbę kart (0 = brak ograniczenia)"
+    },
+    "maxTabsError": {
+      "message": "Osiągnięto maksymalną liczbę kart na okno"
+    },
+    "badgeBGColor": {
+      "message": "Kolor tła odznaki"
+    },
+    "badgeBGColorDescription": {
+      "message": "Zmień kolor tła odznaki"
+    },
+    "badgeTextColor": {
+      "message": "Kolor tekstu odznaki"
+    },
+    "badgeTextColorDescription": {
+      "message": "Zmień kolor tekstu odznaki"
+    },
+    "reset": {
+      "message": "Zresetuj"
+    },
+    "delete": {
+      "message": "Usuń"
+    },
+    "dateClock": {
+      "message": "Data i zegar"
+    },
+    "contextMenu": {
+      "message": "Menu kontekstowe"
+    },
+    "contextMenuDescription": {
+      "message": "Włącz, wyłącz lub zmień kolejność elementów menu kontekstowego"
+    },
+    "customCopy": {
+      "message": "Kopiowanie niestandardowe"
+    },
+    "customCopyDescription": {
+      "message": "Ustaw format niestandardowego kopiowania"
+    },
+    "modifiers": {
+      "message": "Modyfikatory"
+    },
+    "pinned": {
+      "message": "Przypięte"
+    },
+    "hidden": {
+      "message": "Ukryte"
+    },
+    "duplicateToPrivate": {
+      "message": "Duplikuj do prywatnego"
+    },
+    "selectMatch": {
+      "message": "Wybierz dopasowanie"
+    },
+    "customReload": {
+      "message": "Niestandardowe odświeżanie"
+    },
+    "customReloadDescription": {
+      "message": "Wybierz wartość niestandardowego odświeżania"
+    },
+    "cleanUrl": {
+      "message": "Oczyszczanie URL"
+    },
+    "cleanUrlDescription": {
+      "message": "Usuń ciągi śledzenia/przekierowania z adresów URL kart"
+    },
+    "showFlag": {
+      "message": "Pokaż flagę"
+    },
+    "showFlagDescription": {
+      "message": "Przetwarzaj lokalizację IP i pokaż flagę"
+    },
+    "pageSettings": {
+      "message": "Ustawienia strony PDF"
+    },
+    "pageSettingsDescription": {
+      "message": "Obiekt ustawień dla zapisanej strony"
+    },
+    "add": {
+      "message": "Dodaj"
+    },
+    "date": {
+      "message": "Data"
+    },
+    "weekday": {
+      "message": "Format dnia tygodnia"
+    },
+    "weekdayDescription": {
+      "message": "Sob / Sobota"
+    },
+    "month": {
+      "message": "Format miesiąca"
+    },
+    "monthDescription": {
+      "message": "Sty / Styczeń"
+    },
+    "short": {
+      "message": "Krótki"
+    },
+    "long": {
+      "message": "Długi"
+    },
+    "clock": {
+      "message": "Zegar"
+    },
+    "hour12": {
+      "message": "Format czasu 12-godzinny"
+    },
+    "hour12Description": {
+      "message": "Domyślny to 24-godzinny"
+    },
+    "restore": {
+      "message": "Przywróć domyślne"
+    },
+    "container": {
+      "message": "Kontener"
+    },
+    "siteIsolation": {
+      "message": "Ogranicz do wyznaczonych stron"
+    },
+    "errorPattern": {
+      "message": "Wystąpił błąd wzorca"
+    },
+    "errorDuplicatePattern": {
+      "message": "Wzorzec istnieje w innym kontenerze"
+    },
+    "theme": {
+      "message": "Motyw"
+    },
+    "redirect": {
+      "message": "Przekierowanie"
+    },
+    "testUrl": {
+      "message": "Przetestuj URL"
+    },
+    "redirectResult": {
+      "message": "Wynik przekierowania"
+    },
+    "name": {
+      "message": "Nazwa"
+    },
+    "description": {
+      "message": "Opis"
+    },
+    "version": {
+      "message": "Wersja"
+    },
+    "homePage": {
+      "message": "Strona główna"
+    },
+    "author": {
+      "message": "Autor"
+    },
+    "addTheme": {
+      "message": "Dodaj"
+    },
+    "updateTheme": {
+      "message": "Aktualizuj"
+    },
+    "deleteTheme": {
+      "message": "Usuń"
+    },
+    "clearTheme": {
+      "message": "Wyczyść"
+    },
+    "applyTheme": {
+      "message": "Zastosuj"
+    },
+    "resetTheme": {
+      "message": "Zresetuj"
+    },
+    "noNameError": {
+      "message": "Motyw musi mieć nazwę."
+    },
+    "about": {
+      "message": "Informacje"
+    },
+    "error": {
+      "message": "Wystąpił błąd podczas operacji"
+    },
+    "export": {
+      "message": "Eksport"
+    },
+    "fileParseError": {
+      "message": "Wystąpił błąd podczas parsowania pliku"
+    },
+    "fileReadError": {
+      "message": "Wystąpił błąd podczas odczytu pliku"
+    },
+    "fileSizeError": {
+      "message": "Rozmiar pliku przekracza dopuszczalny $1kb"
+    },
+    "fileTypeError": {
+      "message": "Nieobsługiwany format pliku"
+    },
+    "help": {
+      "message": "Pomoc"
+    },
+    "import": {
+      "message": "Import"
+    },
+    "jsonError": {
+      "message": "Nieprawidłowy JSON"
+    },
+    "options": {
+      "message": "Opcje"
+    },
+    "saveOptions": {
+      "message": "Zapisz"
+    }
+  }
