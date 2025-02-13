@@ -2,8 +2,7 @@
   "extensionName": { "message": "FireMonkey" },
   "extensionDescription": { "message": "Потребителски скриптове и стилове в лек вариант" },
 
-
-  "tabScript": { "message": "Скриптове и стилове в раздела" },
+  "tabScript": { "message": "Работещи в раздела" },
   "otherScript": { "message": "Други скриптове и стилове" },
   "scriptCommands": { "message": "Команди от скриптове" },
   "back": { "message": "Назад" },
@@ -47,7 +46,6 @@
   "toLowerCase": { "message": "Избраното в малки букви" },
   "wrapIIFE": { "message": "Обграждане на кода в IIFE" },
 
-  "stylish": { "message": "Инсталиране на стил на Stylish" },
   "beautify": { "message": "Подреждане на кода" },
   "report": { "message": "Доклад" },
 
@@ -58,6 +56,8 @@
   "deleteMultiConfirm": { "message": "Потвърдете премахване на избраните $1 скрипта или стилови листа и всички прилежащи данни." },
 
   "installConfirm": { "message": "Желаете ли скрипт или стилов лист „$1“ да бъде инсталиран?\n\nСкриптове или стилови листове с еднакви имена, но по-стари издания ще бъде презаписани." },
+  "install": { "message": "Инсталиране" },
+  "convertToUserCSS": { "message": "Превръщане в потребителски CSS" },
 
   "metaError": { "message": "Грешка в описателните данни" },
   "noNameError": { "message": "Скриптът или стиловият лист трябва да има наименование." },
@@ -79,7 +79,7 @@
   "undo": { "message": "Отменяне" },
   "undoDisabled": { "message": "Само за CSS" },
   "insertError": { "message": "Грешка при вмъкване" },
-  "findScript": { "message": "Търсене на скриптове за страницата" },
+  "findScript": { "message": "Търсене на скриптове" },
 
   "advanced": { "message": "Разширени" },
   "customOptionsCSS": { "message": "Потребителски стилове за настройките" },
@@ -87,14 +87,16 @@
   "customPopupCSS": { "message": "Потребителски стилове за изскачащия прозорец" },
   "customPopupCSSDescription": { "message": "Настройка на външния вид на изскачащия прозорец" },
   "cmOptionsDescription": { "message": "Настройки на CodeMirror, добавките и проверките на кода на JavaScript" },
+
   "importFromUrl": { "message": "Внасяне от адрес" },
   "importFromUrlMessage": { "message": "Въведете адреса, от който да внесете" },
+
+
   "about": { "message": "Относно" },
   "error": { "message": "Грешка при действието" },
   "export": { "message": "Изнасяне" },
   "fileParseError": { "message": "Грешка при разбор на файла" },
   "fileReadError": { "message": "Грешка при отваряне на файла" },
-  "fileSizeError": { "message": "Дължината на файла е по голяма от разрешените $1 КБ" },
   "fileTypeError": { "message": "Неподдържан формат на файла" },
   "help": { "message": "Помощ" },
   "import": { "message": "Внасяне" },
