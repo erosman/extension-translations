@@ -1,30 +1,89 @@
 {
-  "extensionName": { "message": "Copy PlainText" },
-  "extensionDescription": { "message": "Копируйте и вставляйте простой текст (без форматирования)" },
-
-  "pastePlainText": { "message": "Вставить простой текст" },
-
-  "noIndent": { "message": "Удалить отступы" },
-  "noIndentDescription": { "message": "Возможность удаления ведущих пробелов в каждой строке" },
-
-  "custom": { "message": "Пользовательская замена" },
-  "customDescription": { "message": "Создайте новый шаблон поиска/замены и нажмите «Добавить»" },
-  "find": { "message": "Найти" },
-  "replace": { "message": "Заменить" },
-  "add": { "message": "Добавить" },
-  "patternError": { "message": "Ошибка в шаблоне поиска" },
-
-  "amo":  { "message": "Firefox ограничивает определённые функции на некоторых URL-адресах" },
-
-  "about": { "message": "О расширении" },
-  "error": { "message": "Произошла ошибка при выполнении операции" },
-  "export": { "message": "Экспорт" },
-  "fileParseError": { "message": "Произошла ошибка при синтаксическом анализе файла" },
-  "fileReadError": { "message": "Произошла ошибка при чтении файла" },
-  "fileSizeError": { "message": "Размер файла превышает допустимые $1kb" },
-  "fileTypeError": { "message": "Неподдерживаемый формат файла" },
-  "help": { "message": "Справка" },
-  "import": { "message": "Импорт" },
-  "options": { "message": "Опции" },
-  "saveOptions": { "message": "Сохранить" }
+  "extensionName": {
+    "message": "Copy PlainText"
+  },
+  "extensionDescription": {
+    "message": "Копируйте и вставляйте простой текст (без форматирования)"
+  },
+  "pastePlainText": {
+    "message": "Вставить простой текст"
+  },
+  "optionalPermissions": {
+    "message": "Дополнительные разрешения"
+  },
+  "allUrls": {
+    "message": "Все URL-адреса"
+  },
+  "downloads": {
+    "message": "Загрузки"
+  },
+  "customRules": {
+    "message": "Пользовательские правила"
+  },
+  "add": {
+    "message": "Добавить"
+  },
+  "quickAdd": {
+    "message": "Быстро добавить"
+  },
+  "removeNewLines": {
+    "message": "Удалить новые строки"
+  },
+  "removeLeadingSpaces": {
+    "message": "Удаление в начале строки пробелы"
+  },
+  "removeTrailingSpaces": {
+    "message": "Удаление пробелов в конце строки"
+  },
+  "linkToMarkdown": {
+    "message": "Ссылка на Markdown"
+  },
+  "linkToHTML": {
+    "message": "Ссылка на HTML"
+  },
+  "title": {
+    "message": "Заглавие"
+  },
+  "pattern": {
+    "message": "Шаблон"
+  },
+  "replacement": {
+    "message": "Замена"
+  },
+  "delete": {
+    "message": "Удалить"
+  },
+  "regexError": {
+    "message": "Ошибка при создании RegExp из шаблона"
+  },
+  "about": {
+    "message": "О расширении"
+  },
+  "error": {
+    "message": "Произошла ошибка при выполнении операции"
+  },
+  "export": {
+    "message": "Экспорт"
+  },
+  "fileParseError": {
+    "message": "Произошла ошибка при синтаксическом анализе файла"
+  },
+  "fileReadError": {
+    "message": "Произошла ошибка при чтении файла"
+  },
+  "fileTypeError": {
+    "message": "Неподдерживаемый формат файла"
+  },
+  "help": {
+    "message": "Справка"
+  },
+  "import": {
+    "message": "Импорт"
+  },
+  "options": {
+    "message": "Опции"
+  },
+  "saveOptions": {
+    "message": "Сохранить"
+  }
 }
