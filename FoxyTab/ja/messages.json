@@ -1,0 +1,527 @@
+{
+  "extensionName": {
+    "message": "FoxyTab"
+  },
+  "extensionDescription": {
+    "message": "タブに関連するアクションのコレクション"
+  },
+  "closeDuplicate": {
+    "message": "重複タブを閉じる"
+  },
+  "window": {
+    "message": "ウィンドウ"
+  },
+  "mergeWindows": {
+    "message": "すべてのウィンドウを統合"
+  },
+  "closeOtherWindows": {
+    "message": "他のウィンドウを閉じる"
+  },
+  "saveAsPDF": {
+    "message": "タブをPDFとして保存"
+  },
+  "createShortcut": {
+    "message": "デスクトップショートカットを作成"
+  },
+  "createShortcutTab": {
+    "message": "タブのショートカットを作成"
+  },
+  "createShortcutAll": {
+    "message": "すべてのショートカットを作成"
+  },
+  "createShortcutLeft": {
+    "message": "左側のショートカットを作成"
+  },
+  "createShortcutRight": {
+    "message": "右側のショートカットを作成"
+  },
+  "copy": {
+    "message": "コピー"
+  },
+  "copyTitle": {
+    "message": "タブのタイトルをコピー"
+  },
+  "copyUrl": {
+    "message": "タブのURLをコピー"
+  },
+  "copyTitleUrl": {
+    "message": "タブのタイトルとURLをコピー"
+  },
+  "copyIP": {
+    "message": "タブのIPをコピー"
+  },
+  "internal": {
+    "message": "Firefox内部ページ"
+  },
+  "private": {
+    "message": "プライベートネットワーク"
+  },
+  "cache": {
+    "message": "キャッシュから読み込み"
+  },
+  "unknown": {
+    "message": "不明"
+  },
+  "copyUrlAll": {
+    "message": "すべてのURLをコピー"
+  },
+  "copyUrlLeft": {
+    "message": "左側のURLをコピー"
+  },
+  "copyUrlRight": {
+    "message": "右側のURLをコピー"
+  },
+  "copyTitleUrlAll": {
+    "message": "すべてのタイトルとURLをコピー"
+  },
+  "copyTitleUrlLeft": {
+    "message": "左側のタイトルとURLをコピー"
+  },
+  "copyTitleUrlRight": {
+    "message": "右側のタイトルとURLをコピー"
+  },
+  "customAll": {
+    "message": "カスタムですべてコピー"
+  },
+  "customLeft": {
+    "message": "左側をカスタムでコピー"
+  },
+  "customRight": {
+    "message": "右側をカスタムでコピー"
+  },
+  "bookmark": {
+    "message": "ブックマーク"
+  },
+  "bookmarkAll": {
+    "message": "すべてをブックマーク"
+  },
+  "bookmarkLeft": {
+    "message": "左側をブックマーク"
+  },
+  "bookmarkRight": {
+    "message": "右側をブックマーク"
+  },
+  "closeBookmarked": {
+    "message": "ブックマーク済みタブを閉じる"
+  },
+  "closeBookmarkedAll": {
+    "message": "すべてのブックマーク済みタブを閉じる"
+  },
+  "closeBookmarkedLeft": {
+    "message": "左側のブックマーク済みタブを閉じる"
+  },
+  "closeBookmarkedRight": {
+    "message": "右側のブックマーク済みタブを閉じる"
+  },
+  "host": {
+    "message": "ホスト"
+  },
+  "hostKeep": {
+    "message": "ホストを保持"
+  },
+  "hostClose": {
+    "message": "ホストを閉じる"
+  },
+  "hostCloseOther": {
+    "message": "他のホストタブを閉じる"
+  },
+  "hostMoveNewWin": {
+    "message": "ホストを新しいウィンドウに移動"
+  },
+  "hostMoveThisWin": {
+    "message": "ホストをこのウィンドウに移動"
+  },
+  "hostReload": {
+    "message": "ホストをリロード"
+  },
+  "sort": {
+    "message": "並べ替え"
+  },
+  "sortURLAsc": {
+    "message": "URLで昇順に並べ替え"
+  },
+  "sortURLDesc": {
+    "message": "URLで降順に並べ替え"
+  },
+  "sortTitleAsc": {
+    "message": "タイトルで昇順に並べ替え"
+  },
+  "sortTitleDesc": {
+    "message": "タイトルで降順に並べ替え"
+  },
+  "sortLastAccAsc": {
+    "message": "最後のアクセスで昇順に並べ替え"
+  },
+  "sortLastAccDesc": {
+    "message": "最後のアクセスで降順に並べ替え"
+  },
+  "sortDomAsc": {
+    "message": "ドメインで昇順に並べ替え"
+  },
+  "sortDomDesc": {
+    "message": "ドメインで降順に並べ替え"
+  },
+  "sortReverse": {
+    "message": "タブを逆に並べ替え"
+  },
+  "move": {
+    "message": "移動"
+  },
+  "moveStart": {
+    "message": "最初に移動"
+  },
+  "moveEnd": {
+    "message": "最後に移動"
+  },
+  "moveNewWinLeft": {
+    "message": "左側の新しいウィンドウに移動"
+  },
+  "moveNewWinRight": {
+    "message": "右側の新しいウィンドウに移動"
+  },
+  "movePrivate": {
+    "message": "プライベートウィンドウに移動"
+  },
+  "movePrivateLeft": {
+    "message": "左側のプライベートウィンドウに移動"
+  },
+  "movePrivateRight": {
+    "message": "右側のプライベートウィンドウに移動"
+  },
+  "discard": {
+    "message": "破棄"
+  },
+  "discardTab": {
+    "message": "タブを破棄"
+  },
+  "discardAll": {
+    "message": "すべてを破棄"
+  },
+  "discardLeft": {
+    "message": "左側を破棄"
+  },
+  "discardRight": {
+    "message": "右側を破棄"
+  },
+  "hide": {
+    "message": "非表示"
+  },
+  "hideTab": {
+    "message": "タブを非表示"
+  },
+  "hideAll": {
+    "message": "すべてを非表示"
+  },
+  "hideLeft": {
+    "message": "左側を非表示"
+  },
+  "hideRight": {
+    "message": "右側を非表示"
+  },
+  "show": {
+    "message": "表示"
+  },
+  "showAll": {
+    "message": "すべてを表示"
+  },
+  "showLeft": {
+    "message": "左側を表示"
+  },
+  "showRight": {
+    "message": "右側を表示"
+  },
+  "pin": {
+    "message": "ピン留め"
+  },
+  "pinAll": {
+    "message": "すべてをピン留め"
+  },
+  "pinLeft": {
+    "message": "左側をピン留め"
+  },
+  "pinRight": {
+    "message": "右側をピン留め"
+  },
+  "unpin": {
+    "message": "ピン留め解除"
+  },
+  "unpinAll": {
+    "message": "すべてをピン留め解除"
+  },
+  "unpinLeft": {
+    "message": "左側をピン留め解除"
+  },
+  "unpinRight": {
+    "message": "右側をピン留め解除"
+  },
+  "Print": {
+    "message": "印刷"
+  },
+  "capture": {
+    "message": "キャプチャ"
+  },
+  "reload": {
+    "message": "リロード"
+  },
+  "reloadAll": {
+    "message": "すべてをリロード"
+  },
+  "reloadLeft": {
+    "message": "左側をリロード"
+  },
+  "reloadRight": {
+    "message": "右側をリロード"
+  },
+  "reload1": {
+    "message": "1分ごとにリロード"
+  },
+  "reload2": {
+    "message": "2分ごとにリロード"
+  },
+  "reload3": {
+    "message": "3分ごとにリロード"
+  },
+  "reload4": {
+    "message": "4分ごとにリロード"
+  },
+  "reload5": {
+    "message": "5分ごとにリロード"
+  },
+  "reloadStop": {
+    "message": "タブのリロードを停止"
+  },
+  "clipboardError": {
+    "message": "クリップボードへの保存に失敗"
+  },
+  "proxy": {
+    "message": "プロキシ情報"
+  },
+  "tabCounter": {
+    "message": "タブカウンター"
+  },
+  "perWindow": {
+    "message": "ウィンドウごと"
+  },
+  "tabCounterDescription": {
+    "message": "タブカウンターを有効または無効にする"
+  },
+  "altIcon": {
+    "message": "代替アイコン"
+  },
+  "altIconDescription": {
+    "message": "グレースケールの代替アイコン"
+  },
+  "maxTabs": {
+    "message": "最大タブ数"
+  },
+  "maxTabsDescription": {
+    "message": "タブの数を制限（0 = 制限なし）"
+  },
+  "maxTabsError": {
+    "message": "ウィンドウごとの最大タブ数に達しました"
+  },
+  "badgeBGColor": {
+    "message": "バッジの背景色"
+  },
+  "badgeBGColorDescription": {
+    "message": "バッジの背景色を変更"
+  },
+  "badgeTextColor": {
+    "message": "バッジの文字色"
+  },
+  "badgeTextColorDescription": {
+    "message": "バッジの文字色を変更"
+  },
+  "reset": {
+    "message": "リセット"
+  },
+  "delete": {
+    "message": "削除"
+  },
+  "dateClock": {
+    "message": "日付と時計"
+  },
+  "contextMenu": {
+    "message": "コンテキストメニュー"
+  },
+  "contextMenuDescription": {
+    "message": "コンテキストメニュー項目の有効化、無効化、並べ替え"
+  },
+  "customCopy": {
+    "message": "カスタムコピー"
+  },
+  "customCopyDescription": {
+    "message": "カスタムコピーの形式を設定"
+  },
+  "modifiers": {
+    "message": "修飾キー"
+  },
+  "pinned": {
+    "message": "ピン留め済み"
+  },
+  "hidden": {
+    "message": "非表示"
+  },
+  "duplicateToPrivate": {
+    "message": "プライベートに複製"
+  },
+  "selectMatch": {
+    "message": "一致を選択"
+  },
+  "customReload": {
+    "message": "カスタムリロード"
+  },
+  "customReloadDescription": {
+    "message": "カスタムリロードの値を選択"
+  },
+  "cleanUrl": {
+    "message": "URLをクリーンにする"
+  },
+  "cleanUrlDescription": {
+    "message": "タブのURLからトラッキング/リダイレクト文字列を削除"
+  },
+  "showFlag": {
+    "message": "フラグを表示"
+  },
+  "showFlagDescription": {
+    "message": "IPの位置を処理してフラグを表示"
+  },
+  "pageSettings": {
+    "message": "PDFページ設定"
+  },
+  "pageSettingsDescription": {
+    "message": "保存ページの設定オブジェクト"
+  },
+  "add": {
+    "message": "追加"
+  },
+  "date": {
+    "message": "日付"
+  },
+  "weekday": {
+    "message": "曜日の形式"
+  },
+  "weekdayDescription": {
+    "message": "「土」対「土曜日」"
+  },
+  "month": {
+    "message": "月の形式"
+  },
+  "monthDescription": {
+    "message": "「1月」対「January」"
+  },
+  "short": {
+    "message": "短縮"
+  },
+  "long": {
+    "message": "詳細"
+  },
+  "clock": {
+    "message": "時計"
+  },
+  "hour12": {
+    "message": "12時間形式"
+  },
+  "hour12Description": {
+    "message": "デフォルトは24時間形式"
+  },
+  "restore": {
+    "message": "デフォルトに戻す"
+  },
+  "container": {
+    "message": "コンテナ"
+  },
+  "siteIsolation": {
+    "message": "指定サイトに制限"
+  },
+  "errorPattern": {
+    "message": "パターンにエラーがあります"
+  },
+  "errorDuplicatePattern": {
+    "message": "パターンが他のコンテナに存在します"
+  },
+  "theme": {
+    "message": "テーマ"
+  },
+  "redirect": {
+    "message": "リダイレクト"
+  },
+  "testUrl": {
+    "message": "テストURL"
+  },
+  "redirectResult": {
+    "message": "リダイレクト結果"
+  },
+  "name": {
+    "message": "名前"
+  },
+  "description": {
+    "message": "説明"
+  },
+  "version": {
+    "message": "バージョン"
+  },
+  "homePage": {
+    "message": "ホームページ"
+  },
+  "author": {
+    "message": "作者"
+  },
+  "addTheme": {
+    "message": "追加"
+  },
+  "updateTheme": {
+    "message": "更新"
+  },
+  "deleteTheme": {
+    "message": "削除"
+  },
+  "clearTheme": {
+    "message": "クリア"
+  },
+  "applyTheme": {
+    "message": "適用"
+  },
+  "resetTheme": {
+    "message": "リセット"
+  },
+  "noNameError": {
+    "message": "テーマには名前が必要です。"
+  },
+  "about": {
+    "message": "概要"
+  },
+  "error": {
+    "message": "操作にエラーが発生しました"
+  },
+  "export": {
+    "message": "エクスポート"
+  },
+  "fileParseError": {
+    "message": "ファイルの解析にエラーが発生しました"
+  },
+  "fileReadError": {
+    "message": "ファイルの読み込みにエラーが発生しました"
+  },
+  "fileSizeError": {
+    "message": "ファイルサイズが許可された$1kbを超えています"
+  },
+  "fileTypeError": {
+    "message": "サポートされていないファイル形式"
+  },
+  "help": {
+    "message": "ヘルプ"
+  },
+  "import": {
+    "message": "インポート"
+  },
+  "jsonError": {
+    "message": "無効なJSON"
+  },
+  "options": {
+    "message": "オプション"
+  },
+  "saveOptions": {
+    "message": "保存"
+  }
+}
