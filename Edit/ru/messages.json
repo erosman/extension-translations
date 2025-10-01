@@ -49,12 +49,12 @@
   "export": { "message": "Экспорт" },
   "errorSize": { "message": "Размер файла больше допустимые $1kb" },
   "errorType": { "message": "Неподдерживаемый формат файла" },
-  "errorRead": { "message": "Ошибка при чтении файла" },
-  "errorParse": { "message": "Ошибка при синтаксическом анализе файла" },
+  "errorRead": { "message": "Ошибка чтения файла" },
+  "errorParse": { "message": "Ошибка синтаксического анализа файла" },
 
 
   "about": { "message": "О расширении" },
-  "error": { "message": "Ошибка при выполнении операции" },
+  "error": { "message": "Ошибка выполнения операции" },
   "help": { "message": "Справка" },
   "options": { "message": "Опции" },
   "saveOptions": { "message": "Сохранить" }
