@@ -47,14 +47,14 @@
 
   "import": { "message": "Импорт" },
   "export": { "message": "Экспорт" },
-  "errorSize": { "message": "Размер файла превышает допустимые $1kb" },
+  "errorSize": { "message": "Размер файла больше допустимые $1kb" },
   "errorType": { "message": "Неподдерживаемый формат файла" },
-  "errorRead": { "message": "Произошла ошибка при чтении файла" },
-  "errorParse": { "message": "Произошла ошибка при синтаксическом анализе файла" },
+  "errorRead": { "message": "Ошибка при чтении файла" },
+  "errorParse": { "message": "Ошибка при синтаксическом анализе файла" },
 
 
   "about": { "message": "О расширении" },
-  "error": { "message": "Произошла ошибка при выполнении операции" },
+  "error": { "message": "Ошибка при выполнении операции" },
   "help": { "message": "Справка" },
   "options": { "message": "Опции" },
   "saveOptions": { "message": "Сохранить" }
