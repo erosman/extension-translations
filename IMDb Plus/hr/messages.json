@@ -1,0 +1,31 @@
+{
+  "extensionName": { "message": "IMDb Plus" },
+  "extensionDescription": { "message": "Korisnički definirana poboljšanja za IMDb" },
+
+
+  "age": { "message": "dob" },
+  "tableHeader": { "message": "Tablica tjednog prosjeka" },
+  "weeklyAve": { "message": "Tjedni prosjek:" },
+
+
+  "addAge": { "message": "Dodaj dob" },
+  "addAgeDescription": { "message": "Dodaje dob osobe uz datum rođenja na IMDb-u" },
+  "addWeeklyAverage": { "message": "Dodaj tjedni prosjek" },
+  "addWeeklyAverageDescription": { "message": "Dodaje tjedni prosjek bruto prihoda na IMDb US Box Office stranici" },
+  "removeLoadlate": { "message": "Ukloni kasno učitavanje" },
+  "removeLoadlateDescription": { "message": "Uklanja kasni prikaz slika (naročito korisno ako je JavaScript isključen)" },
+  "showAll": { "message": "Prikaži sve" },
+  "showAllDescription": { "message": "Prikazuje sve sažete odjeljke (korisno ako je JavaScript isključen)" },
+  "biggerThumbs": { "message": "Veće minijature" },
+  "biggerThumbsDescription": { "message": "Prikazuje veće slike minijatura. Normalna širina IMDb minijatura je 32." },
+
+  "disabled": { "message": "Isključeno" },
+
+
+  "about": { "message": "O dodatku" },
+  "amo":  { "message": "Firefox ograničava neke funkcije na nekim URL-ovima" },
+  "error": { "message": "Dogodila se greška u operaciji" },
+  "help": { "message": "Pomoć" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" },
+}
