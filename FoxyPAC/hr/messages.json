@@ -1,0 +1,61 @@
+// version 2.5
+
+{
+  "extensionName": { "message": "FoxyPAC" },
+  "extensionDescription": { "message": "Jednostavno stvaranje, uređivanje, postavljanje i izvoz prilagodljivih Proxy Auto-Configuration (PAC) datoteka" },
+
+  "patterns": { "message": "Uzorci" },
+  "proxies": { "message": "Proxies" },
+  
+  "login": { "message": "Prijava" },
+  "editPattern": { "message": "Uredi uzorak" },
+
+  "network": { "message": "Privatna i lokalna mreža" },
+  "plainhost": { "message": "Obično host računalo" },
+  "importPreference": { "message": "Postake uvoza" },
+  "exportPreference": { "message": "Postake izvoza" },
+
+  "PAC": { "message": "PAC" },
+  "setPAC": { "message": "Postavi" },
+  "resetPAC": { "message": "Resetiraj" },
+  "exportPAC": { "message": "Izvezi" },
+
+  "onOff": { "message": "Klikni za uklučivanje/isključivanje" },
+
+  "noProxy": { "message": "Popis proxyja je prazan." },
+  
+  "cancel": { "message": "Odustani" },
+  "userPassError": { "message": "Ispuni korisničko ime i lozinku." },
+  
+
+  "errorSize": { "message": "Veličina datoteke je veća od dopuštenih $1 KB" },
+  "errorType": { "message": "Nepodržan format datoteke" },
+  "errorRead": { "message": "Došlo je do greške pri čitanju datoteke" },
+  "errorParse": { "message": "Došlo je do greške pri obradi datoteke" },
+
+  "errorWildcard": { "message": "U uzorku nisu dopušteni početni ili završni zamjenski znakovi" },
+  "errorShort": { "message": "Vrlo kratki uzorci mogu dati neočekivane rezultate" },
+  "errorScheme": { "message": "U shemi uzorka koristi samo jedan *" },
+
+  "autologin": { "message": "Automatska prijava" },
+
+
+  "byPattern": { "message": "Proxy po uzorcima" },
+  "disable": { "message": "Isključi" },
+
+
+  "myIP": { "message": "moj IP" },
+  "authError": { "message": "$1 odbija povezivanje:\n \u00A0\u2022 Provjeri postavke proxyja\n \u00A0\u2022 Obrati se administratoru mreže" },
+  
+  "foxyProxyImport": { "message": "FoxyProxy uvoz" },
+  "import": { "message": "Uvezi" },
+
+  "delete": { "message": "Izbriši" },
+
+  "about": { "message": "O dodatku" },
+  "error": { "message": "Dogodila se greška u operaciji" },
+  "help": { "message": "Pomoć" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" }
+  "settings": { "message": "Postavke" }
+}
