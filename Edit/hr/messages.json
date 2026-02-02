@@ -1,0 +1,62 @@
+{
+  "extensionName": { "message": "Uredi" },
+  "extensionDescription": { "message": "Formatiraj tekst, zamijeni, umetni HTML, BBCode, Markdown i prilagođeni tekstovi" },
+
+
+  "find": { "message": "Pronađi" },
+  "replace": { "message": "Zamijeni" },
+  "clear": { "message": "Očisti" },
+  "matchCase": { "message": "Razlikuj velika i mala slova" },
+
+  "errorNotFound": { "message": "Uzorak za pretraživanje nije pronađen" },
+  "errorPattern": { "message": "Greška u uzorku za pretraživanje" },
+
+  "bbcode": { "message": "BBCode" },
+  "html": { "message": "HTML" },
+  "markdown": { "message": "Markdown" },
+  "text": { "message": "Tekst" },
+  "custom": { "message": "Prilagođeno" },
+
+  "bold": { "message": "Podebljano" },
+  "italic": { "message": "Kurziv" },
+  "underline": { "message": "Podcrtano" },
+  "delete": { "message": "Izbriši" },
+  "code": { "message": "Kod" },
+  "img": { "message": "Slika" },
+  "quote": { "message": "Citat" },
+  "list": { "message": "Popis" },
+  "listItem": { "message": "Stavka popisa" },
+  "url": { "message": "URL" },
+  "table": { "message": "Tablica" },
+  "tr": { "message": "TR" },
+  "td": { "message": "TD" },
+
+  "uppercase": { "message": "Velika slova" },
+  "lowercase": { "message": "Mala slova" },
+  "capitalize": { "message": "Veliko početno slovo" },
+  "invert": { "message": "Obrni veličinu slova" },
+  "random": { "message": "Slučajna veličina slova" },
+
+  "removeTag": { "message": "Ukloni oznake" },
+
+  "customDescription": { "message": "Klikni „Dodaj” za unos novih prilagođenih početnih i završnih nizova" },
+  "start": { "message": "Početak" },
+  "end": { "message": "Kraj" },
+  "add": { "message": "Dodaj" },
+
+  "import": { "message": "Uvezi" },
+  "export": { "message": "Izvezi" },
+  "errorSize": { "message": "Veličina datoteke je veća od dopuštenih $1 KB" },
+  "errorType": { "message": "Nepodržan format datoteke" },
+  "errorRead": { "message": "Dogodila se greška u čitanju datoteke" },
+  "errorParse": { "message": "Dogodila se greška tijekom obrade datoteke" },
+
+
+  "localeMaker": { "message": "Izrada lokalizacije" },
+  "about": { "message": "O dodatku" },
+  "amo":  { "message": "Firefox ograničava neke funkcije na nekim URL-ovima" },
+  "error": { "message": "Dogodila se greška u operaciji" },
+  "help": { "message": "Pomoć" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" }
+}
