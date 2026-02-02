@@ -1,0 +1,21 @@
+{
+  "extensionName": { "message": "Replace" },
+  "extensionDescription": { "message": "Pronalaženje i zamjena teksta na web-stranicama (neformatiran tekst ili regularni izrazi)" },
+
+
+  "find": { "message": "Pronađi" },
+  "replace": { "message": "Zamijeni" },
+  "clear": { "message": "Očisti" },
+  "matchCase": { "message": "Razlikuj velika i mala slova" },
+
+  "errorNotFound": { "message": "Pronalaženje uzorka nije pronađeno" },
+  "errorPattern": { "message": "Greška u pronalaženju uzorka" },
+
+
+  "about": { "message": "O dodatku" },
+  "amo": { "message": "Firefox ograničava neke funkcije na određenim URL-ovima" },
+  "error": { "message": "Dogodila se greška u operaciji" },
+  "help": { "message": "Pomoć" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" }
+}

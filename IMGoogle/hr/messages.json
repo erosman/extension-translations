@@ -1,0 +1,17 @@
+{
+  "extensionName": { "message": "IMGoogle" },
+  "extensionDescription": { "message": "Googleovo obrnuto pretraživanje slika" },
+
+  "search": { "message": "Traži ovu sliku na Googleu" },
+  "sending": { "message": "Slanje podataka … pričekaj" },
+  "sourceError": { "message": "Nepodržan izvor slike" },
+
+  "activeTab": { "message": "Otvori karticu u prvom planu" },
+  "activeTabDescription": { "message": "Odaberi ako želiš otvoriti rezultat u prvom planu (standardno je u pozadini)" },
+
+  "about": { "message": "O dodatku" },
+  "error": { "message": "Dogodila se greška u operaciji" },
+  "help": { "message": "Pomoć" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" }
+}

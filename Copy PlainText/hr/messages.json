@@ -1,0 +1,37 @@
+{
+  "extensionName": { "message": "Copy PlainText" },
+  "extensionDescription": { "message": "Kopiraj/zalijepi neformatiran tekst" },
+
+  "pastePlainText": { "message": "Zalijepi neformatiran tekst" },
+
+  "optionalPermissions": { "message": "Opcionalne dozvole" },
+  "allUrls": { "message": "Svi URL-ovi" },
+  "downloads": { "message": "Preuzimanja" },
+
+  "customRules": { "message": "Prilagođena pravila" },
+  "add": { "message": "Dodaj" },
+  "quickAdd": { "message": "Brzo dodavanje" },
+  "removeNewLines": { "message": "Ukloni oznake za nove retke" },
+  "removeLeadingSpaces": { "message": "Ukloni početne razmake" },
+  "removeTrailingSpaces": { "message": "Ukloni završne razmake" },
+  "linkToMarkdown": { "message": "Poveznica na Markdown" },
+  "linkToHTML": { "message": "Poveznica na HTML" },
+
+  "title": { "message": "Naslov" },
+  "pattern": { "message": "Uzorak" },
+  "replacement": { "message": "Zamjena" },
+  "delete": { "message": "Izbriši" },
+
+  "regexError": { "message": "Greška pri stvaranju regularnog izraza iz uzorka" },
+
+  "about": { "message": "O dodatku" },
+  "error": { "message": "Dogodila se greška u operaciji" },
+  "export": { "message": "Izvezi" },
+  "fileParseError": { "message": "Dogodila se greška tijekom obrade datoteke" },
+  "fileReadError": { "message": "Dogodila se greška u čitanju datoteke" },
+  "fileTypeError": { "message": "Nepodržan format datoteke" },
+  "help": { "message": "Pomoć" },
+  "import": { "message": "Uvezi" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" }
+}
