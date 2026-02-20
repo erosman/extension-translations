@@ -3,7 +3,7 @@
     "message": "FoxyTab"
   },
   "extensionDescription": {
-    "message": "Ações Relacionadas à Coleção de Abas"
+    "message": "Coleção de Ações Relacionadas à Abas"
   },
   "closeDuplicate": {
     "message": "Fechar Abas Duplicadas"
@@ -18,7 +18,7 @@
     "message": "Fechar Outras Janelas"
   },
   "saveAsPDF": {
-    "message": "Salva Aba como PDF"
+    "message": "Salvar Aba como PDF"
   },
   "createShortcut": {
     "message": "Criar Atalho na Área de Trabalho"
@@ -144,10 +144,10 @@
     "message": "Classificar por URL em Ordem Decrescente"
   },
   "sortTitleAsc": {
-    "message": "Classificar por Titulo em Ordem Crescente"
+    "message": "Classificar por Título em Ordem Crescente"
   },
   "sortTitleDesc": {
-    "message": "Classificar por Titulo em Ordem Decrescente"
+    "message": "Classificar por Título em Ordem Decrescente"
   },
   "sortLastAccAsc": {
     "message": "Classificar por Último Acesso em Ordem Crescente"
@@ -366,7 +366,7 @@
     "message": "Duplicar para Privativa"
   },
   "selectMatch": {
-    "message": "Selecionar Correspodência"
+    "message": "Selecionar Correspondência"
   },
   "customReload": {
     "message": "Atualização de Página"
@@ -450,7 +450,7 @@
     "message": "Testar URL"
   },
   "redirectResult": {
-    "message": "Redirecionar resultado"
+    "message": "Redirecionar Resultado"
   },
   "name": {
     "message": "Nome"
@@ -474,7 +474,7 @@
     "message": "Atualizar"
   },
   "deleteTheme": {
-    "message": "Deletar"
+    "message": "Excluir"
   },
   "clearTheme": {
     "message": "Limpar"
@@ -483,7 +483,7 @@
     "message": "Aplicar"
   },
   "resetTheme": {
-    "message": "Resetar"
+    "message": "Redefinir"
   },
   "noNameError": {
     "message": "O tema deve ter um nome."
