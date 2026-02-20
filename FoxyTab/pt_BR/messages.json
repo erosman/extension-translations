@@ -1,0 +1,527 @@
+{
+  "extensionName": {
+    "message": "FoxyTab"
+  },
+  "extensionDescription": {
+    "message": "Ações Relacionadas à Coleção de Abas"
+  },
+  "closeDuplicate": {
+    "message": "Fechar Abas Duplicadas"
+  },
+  "window": {
+    "message": "Janela"
+  },
+  "mergeWindows": {
+    "message": "Mesclar Todas as Janelas"
+  },
+  "closeOtherWindows": {
+    "message": "Fechar Outras Janelas"
+  },
+  "saveAsPDF": {
+    "message": "Salva Aba como PDF"
+  },
+  "createShortcut": {
+    "message": "Criar Atalho na Área de Trabalho"
+  },
+  "createShortcutTab": {
+    "message": "Criar Atalho da Aba"
+  },
+  "createShortcutAll": {
+    "message": "Criar Atalho de Tudo"
+  },
+  "createShortcutLeft": {
+    "message": "Criar Atalho à Esquerda"
+  },
+  "createShortcutRight": {
+    "message": "Criar Atalho à Direita"
+  },
+  "copy": {
+    "message": "Copiar"
+  },
+  "copyTitle": {
+    "message": "Copiar Título da Aba"
+  },
+  "copyUrl": {
+    "message": "Copiar URL da Aba"
+  },
+  "copyTitleUrl": {
+    "message": "Copiar Título + URL da Aba"
+  },
+  "copyIP": {
+    "message": "Copiar IP da Aba"
+  },
+  "internal": {
+    "message": "Página Interna do Firefox"
+  },
+  "private": {
+    "message": "Rede Privada"
+  },
+  "cache": {
+    "message": "Carregada do Cache"
+  },
+  "unknown": {
+    "message": "Desconhecido"
+  },
+  "copyUrlAll": {
+    "message": "Copiar URLs de Tudo"
+  },
+  "copyUrlLeft": {
+    "message": "Copiar URLs à Esquerda"
+  },
+  "copyUrlRight": {
+    "message": "Copiar URLs à Direita"
+  },
+  "copyTitleUrlAll": {
+    "message": "Copiar Títulos + URLs de Tudo"
+  },
+  "copyTitleUrlLeft": {
+    "message": "Copiar Títulos + URLs à Esquerda"
+  },
+  "copyTitleUrlRight": {
+    "message": "Copiar Títulos + URLs à Direita"
+  },
+  "customAll": {
+    "message": "Copiar Personalizado de Tudo"
+  },
+  "customLeft": {
+    "message": "Copiar Personalizado à Esquerda"
+  },
+  "customRight": {
+    "message": "Copiar Personalizado à Direita"
+  },
+  "bookmark": {
+    "message": "Favoritar"
+  },
+  "bookmarkAll": {
+    "message": "Favoritar Tudo"
+  },
+  "bookmarkLeft": {
+    "message": "Favoritar à Esquerda"
+  },
+  "bookmarkRight": {
+    "message": "Favoritar à Direita"
+  },
+  "closeBookmarked": {
+    "message": "Fechar Abas Favoritadas"
+  },
+  "closeBookmarkedAll": {
+    "message": "Fechar Abas Favoritadas Todas"
+  },
+  "closeBookmarkedLeft": {
+    "message": "Fechar Abas Favoritadas à Esquerda"
+  },
+  "closeBookmarkedRight": {
+    "message": "Fechar Abas Favoritadas à Direita"
+  },
+  "host": {
+    "message": "Domínio"
+  },
+  "hostKeep": {
+    "message": "Manter Domínio"
+  },
+  "hostClose": {
+    "message": "Fechar Domínio"
+  },
+  "hostCloseOther": {
+    "message": "Fechar Outras Abas do Domínio"
+  },
+  "hostMoveNewWin": {
+    "message": "Mover Domínio para Nova Janela"
+  },
+  "hostMoveThisWin": {
+    "message": "Mover Domínio para esta Janela"
+  },
+  "hostReload": {
+    "message": "Atualizar Domínio"
+  },
+  "sort": {
+    "message": "Classificar"
+  },
+  "sortURLAsc": {
+    "message": "Classificar por URL em Ordem Crescente"
+  },
+  "sortURLDesc": {
+    "message": "Classificar por URL em Ordem Decrescente"
+  },
+  "sortTitleAsc": {
+    "message": "Classificar por Titulo em Ordem Crescente"
+  },
+  "sortTitleDesc": {
+    "message": "Classificar por Titulo em Ordem Decrescente"
+  },
+  "sortLastAccAsc": {
+    "message": "Classificar por Último Acesso em Ordem Crescente"
+  },
+  "sortLastAccDesc": {
+    "message": "Classificar por Último Acesso em Ordem Decrescente"
+  },
+  "sortDomAsc": {
+    "message": "Classificar por Domínio em Ordem Crescente"
+  },
+  "sortDomDesc": {
+    "message": "Classificar por Domínio em Ordem Decrescente"
+  },
+  "sortReverse": {
+    "message": "Classificar Abas em Ordem Inversa"
+  },
+  "move": {
+    "message": "Mover"
+  },
+  "moveStart": {
+    "message": "Mover para Início"
+  },
+  "moveEnd": {
+    "message": "Mover para Final"
+  },
+  "moveNewWinLeft": {
+    "message": "Mover à Esquerda para Nova Janela"
+  },
+  "moveNewWinRight": {
+    "message": "Mover à Direita para Nova Janela"
+  },
+  "movePrivate": {
+    "message": "Mover para Janela Privativa"
+  },
+  "movePrivateLeft": {
+    "message": "Mover à Esquerda para Janela Privativa"
+  },
+  "movePrivateRight": {
+    "message": "Mover à Direita para Janela Privativa"
+  },
+  "discard": {
+    "message": "Descartar"
+  },
+  "discardTab": {
+    "message": "Descartar Aba"
+  },
+  "discardAll": {
+    "message": "Descartar Tudo"
+  },
+  "discardLeft": {
+    "message": "Descartar à Esquerda"
+  },
+  "discardRight": {
+    "message": "Descartar à Direita"
+  },
+  "hide": {
+    "message": "Ocultar"
+  },
+  "hideTab": {
+    "message": "Ocultar Aba"
+  },
+  "hideAll": {
+    "message": "Ocultar Tudo"
+  },
+  "hideLeft": {
+    "message": "Ocultar à Esquerda"
+  },
+  "hideRight": {
+    "message": "Ocultar à Direita"
+  },
+  "show": {
+    "message": "Re-Exibir"
+  },
+  "showAll": {
+    "message": "Re-Exibir Tudo"
+  },
+  "showLeft": {
+    "message": "Re-Exibir à Esquerda"
+  },
+  "showRight": {
+    "message": "Re-Exibir à Direita"
+  },
+  "pin": {
+    "message": "Fixar"
+  },
+  "pinAll": {
+    "message": "Fixar Tudo"
+  },
+  "pinLeft": {
+    "message": "Fixar à Esquerda"
+  },
+  "pinRight": {
+    "message": "Fixar à Direita"
+  },
+  "unpin": {
+    "message": "Desafixar"
+  },
+  "unpinAll": {
+    "message": "Desafixar Tudo"
+  },
+  "unpinLeft": {
+    "message": "Desafixar à Esquerda"
+  },
+  "unpinRight": {
+    "message": "Desafixar à Direita"
+  },
+  "Print": {
+    "message": "Imprimir"
+  },
+  "capture": {
+    "message": "Capturar"
+  },
+  "reload": {
+    "message": "Atualizar"
+  },
+  "reloadAll": {
+    "message": "Atualizar Tudo"
+  },
+  "reloadLeft": {
+    "message": "Atualizar à Esquerda"
+  },
+  "reloadRight": {
+    "message": "Atualizar à Direita"
+  },
+  "reload1": {
+    "message": "A cada 1 min."
+  },
+  "reload2": {
+    "message": "A cada 2 min."
+  },
+  "reload3": {
+    "message": "A cada 3 min."
+  },
+  "reload4": {
+    "message": "A cada 4 min."
+  },
+  "reload5": {
+    "message": "A cada 5 min."
+  },
+  "reloadStop": {
+    "message": "Parar Atualização de Abas"
+  },
+  "clipboardError": {
+    "message": "Falha ao Salvar na Área de Transferência"
+  },
+  "proxy": {
+    "message": "Informações de Proxy"
+  },
+  "tabCounter": {
+    "message": "Contador de Abas"
+  },
+  "perWindow": {
+    "message": "Por Janela"
+  },
+  "tabCounterDescription": {
+    "message": "Ativar ou Desativar o Contador de Abas"
+  },
+  "altIcon": {
+    "message": "Ícone Alternativo"
+  },
+  "altIconDescription": {
+    "message": "Ícone Alternativo em Escala Cinza"
+  },
+  "maxTabs": {
+    "message": "Máximo de Abas"
+  },
+  "maxTabsDescription": {
+    "message": "Limitar o número de Abas (0 = sem limite)"
+  },
+  "maxTabsError": {
+    "message": "Máximo de Abas atingidas por Janela"
+  },
+  "badgeBGColor": {
+    "message": "Cor de Fundo do Selo"
+  },
+  "badgeBGColorDescription": {
+    "message": "Alterar Cor de Fundo do Selo"
+  },
+  "badgeTextColor": {
+    "message": "Cor de Texto do Selo"
+  },
+  "badgeTextColorDescription": {
+    "message": "Alterar Cor de Texto do Selo"
+  },
+  "reset": {
+    "message": "Redefinir"
+  },
+  "delete": {
+    "message": "Excluir"
+  },
+  "dateClock": {
+    "message": "Data & Hora"
+  },
+  "contextMenu": {
+    "message": "Menu de Contexto"
+  },
+  "contextMenuDescription": {
+    "message": "Habilitar, desabilitar ou reordenar os itens do menu de contexto"
+  },
+  "customCopy": {
+    "message": "Cópia Personalizada"
+  },
+  "customCopyDescription": {
+    "message": "Definir Formato de Cópia Personalizada"
+  },
+  "modifiers": {
+    "message": "Modificadores"
+  },
+  "pinned": {
+    "message": "Fixado"
+  },
+  "hidden": {
+    "message": "Oculto"
+  },
+  "duplicateToPrivate": {
+    "message": "Duplicar para Privativa"
+  },
+  "selectMatch": {
+    "message": "Selecionar Correspodência"
+  },
+  "customReload": {
+    "message": "Atualização de Página"
+  },
+  "customReloadDescription": {
+    "message": "Defina um valor personalizado para Atualização de Página"
+  },
+  "cleanUrl": {
+    "message": "Limpar URL"
+  },
+  "cleanUrlDescription": {
+    "message": "Remova as sequências de rastreamento/redirecionamento dos URLs das Abas"
+  },
+  "showFlag": {
+    "message": "Mostrar Bandeira"
+  },
+  "showFlagDescription": {
+    "message": "Processar IP e exibir bandeira de país hospedeiro"
+  },
+  "pageSettings": {
+    "message": "Configurações de página em PDF"
+  },
+  "pageSettingsDescription": {
+    "message": "Configurações de Objetos para a página salva"
+  },
+  "add": {
+    "message": "Adicionar"
+  },
+  "date": {
+    "message": "Data"
+  },
+  "weekday": {
+    "message": "Formato do Dia da Semana"
+  },
+  "weekdayDescription": {
+    "message": "Sab vs Sábado"
+  },
+  "month": {
+    "message": "Formato de Mês"
+  },
+  "monthDescription": {
+    "message": "Jan vs Janeiro"
+  },
+  "short": {
+    "message": "Curto"
+  },
+  "long": {
+    "message": "Longo"
+  },
+  "clock": {
+    "message": "Relógio"
+  },
+  "hour12": {
+    "message": "Formato de hora - 12 Horas"
+  },
+  "hour12Description": {
+    "message": "Padrão é 24 Horas"
+  },
+  "restore": {
+    "message": "Restaurar Padrões"
+  },
+  "container": {
+    "message": "Contêiner"
+  },
+  "siteIsolation": {
+    "message": "Limitar aos Endereços especificados"
+  },
+  "errorPattern": {
+    "message": "Há um erro com o Padrão"
+  },
+  "errorDuplicatePattern": {
+    "message": "O padrão existe em outro contêiner"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "redirect": {
+    "message": "Redirecionar"
+  },
+  "testUrl": {
+    "message": "Testar URL"
+  },
+  "redirectResult": {
+    "message": "Redirecionar resultado"
+  },
+  "name": {
+    "message": "Nome"
+  },
+  "description": {
+    "message": "Descrição"
+  },
+  "version": {
+    "message": "Versão"
+  },
+  "homePage": {
+    "message": "Página Inicial"
+  },
+  "author": {
+    "message": "Autor"
+  },
+  "addTheme": {
+    "message": "Adicionar"
+  },
+  "updateTheme": {
+    "message": "Atualizar"
+  },
+  "deleteTheme": {
+    "message": "Deletar"
+  },
+  "clearTheme": {
+    "message": "Limpar"
+  },
+  "applyTheme": {
+    "message": "Aplicar"
+  },
+  "resetTheme": {
+    "message": "Resetar"
+  },
+  "noNameError": {
+    "message": "O tema deve ter um nome."
+  },
+  "about": {
+    "message": "Sobre"
+  },
+  "error": {
+    "message": "Ocorreu um erro na operação"
+  },
+  "export": {
+    "message": "Exportar"
+  },
+  "fileParseError": {
+    "message": "Ocorreu um erro ao analisar o arquivo"
+  },
+  "fileReadError": {
+    "message": "Ocorreu um erro ao ler o arquivo"
+  },
+  "fileSizeError": {
+    "message": "Tamanho de arquivo é maior que o permitido de $1kb"
+  },
+  "fileTypeError": {
+    "message": "Formato de Arquivo Não Suportado"
+  },
+  "help": {
+    "message": "Ajuda"
+  },
+  "import": {
+    "message": "Importar"
+  },
+  "jsonError": {
+    "message": "JSON Inválido"
+  },
+  "options": {
+    "message": "Opções"
+  },
+  "saveOptions": {
+    "message": "Salvar"
+  }
+}
