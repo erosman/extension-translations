@@ -1,55 +1,37 @@
-// verzija 2.5
 {
-  "extensionName": { "message": "FoxyPAC" },
-  "extensionDescription": { "message": "Jednostavno stvaranje, uređivanje, postavljanje i izvoz prilagodljivih Proxy Auto-Configuration (PAC) datoteka" },
+  "extensionName": { "message": "Text MultiCopy" },
+  "extensionDescription": { "message": "Kopiraj tekst više puta prije lijepljenja" },
 
-  "patterns": { "message": "Uzorci" },
-  "proxies": { "message": "Proxyji" },
+  "save": { "message": "Spremi odabir" },
+  "copySaved": { "message": "Kopiraj spremljeno u međuspremnik" },
+  "pasteSaved": { "message": "Zalijepi spremljeno ovdje" },
 
-  "login": { "message": "Prijava" },
-  "editPattern": { "message": "Uredi uzorak" },
+  "totalSaved": { "message": "Ukupno spremljeno:" },
+  "totalPasted": { "message": "Ukupno zalijepljeno:" },
+  "totalCopied": { "message": "Ukupno kopirano u međuspremnik:" },
 
-  "network": { "message": "Privatna i lokalna mreža" },
-  "plainhost": { "message": "Jednostavni host" },
-  "importPreference": { "message": "Uvoz postavki" },
-  "exportPreference": { "message": "Izvoz postavki" },
+  "errorEmpty": { "message": "Spremište je prazno" },
 
-  "PAC": { "message": "PAC" },
-  "setPAC": { "message": "Postavi" },
-  "resetPAC": { "message": "Vrati" },
-  "exportPAC": { "message": "Izvoz" },
+  "customCopy": { "message": "Prilagođeno kopiranje" },
+  "customCopyDescription": { "message": "Postavi prilagođeni format kopiranja" },
 
-  "onOff": { "message": "Klikni za uključivanje/isključivanje" },
+  "divider": { "message": "Znak rastavljanja" },
+  "dividerDescription": { "message": "Odaberi željeni znak za rastavljanje teksta" },
 
-  "noProxy": { "message": "Popis proxyja je prazan." },
+  "disableNotification": { "message": "Deaktiviraj obavijesti" },
+  "disableNotificationDescription": { "message": "Odaberi za deaktiviranje informativnih obavijesti" },
 
-  "cancel": { "message": "Odustani" },
-  "userPassError": { "message": "Molimo ispuni korisničko ime i lozinku." },
-
-  "errorSize": { "message": "Veličina datoteke je veća od dopuštenih $1 KB" },
-  "errorType": { "message": "Nepodržan format datoteke" },
-  "errorRead": { "message": "Došlo je do greške pri čitanju datoteke" },
-  "errorParse": { "message": "Došlo je do pogreške pri obradi datoteke" },
-
-  "errorWildcard": { "message": "U uzorku nisu dopušteni početni ili završni zamjenski znakovi" },
-  "errorShort": { "message": "Vrlo kratki uzorci mogu dati neočekivane rezultate" },
-  "errorScheme": { "message": "U shemi uzorka koristi samo jedan *" },
-
-  "autologin": { "message": "Automatska prijava" },
-
-  "byPattern": { "message": "Proxy po uzorcima" },
-  "disable": { "message": "Onemogući" },
-
-  "myIP": { "message": "Moja IP adresa" },
-  "authError": { "message": "$1 odbija povezivanje:\n \u00A0\u2022 Provjeri postavke proxyja\n \u00A0\u2022 Obrati se administratoru mreže" },
-
-  "foxyProxyImport": { "message": "Uvoz iz FoxyProxyja" },
-  "import": { "message": "Uvoz" },
-
+  "export": { "message": "Izvezi" },
   "delete": { "message": "Izbriši" },
 
+  "savedData": { "message": "Spremljeni podaci" },
+  "dataChanged": { "message": "Spremljeni podaci u memoriji su promijenjeni. Spremanje će zamijeniti postojeće podatke." },
+
+  "errorClipboard": { "message": "Neuspjelo spremanje u međuspremnik" },
+
   "about": { "message": "O dodatku" },
-  "error": { "message": "Dogodila se greška u operaciji" },
+  "amo":  { "message": "Firefox ograničava neke funkcije na određenim URL-ovima" },
+  "error": { "message": "Došlo je do greške tijekom operacije" },
   "help": { "message": "Pomoć" },
   "options": { "message": "Opcije" },
   "saveOptions": { "message": "Spremi" },
