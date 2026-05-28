@@ -1,0 +1,74 @@
+{
+  "extensionName": { "message": "FoxyImage" },
+  "extensionDescription": { "message": "Skup radnji povezanih sa slikama" },
+
+  "Edit": { "message": "Uredi sliku" },
+  "rotate": { "message": "Okreni" },
+  "rotateLeft": { "message": "Lijevo" },
+  "rotateRight": { "message": "Desno" },
+  "rotate180": { "message": "180°" },
+  
+  "flip": { "message": "Preokreni" },
+  "flipVertical": { "message": "Okomito" },
+  "flipHorizontal": { "message": "Vodoravno" },
+  "reset": { "message": "Resetiraj" },
+
+  "openImage": { "message": "Otvori sliku u novoj kartici" },
+  
+  "copyData": { "message": "Kopiraj sliku kao Data:URI" },
+  "textClipboard": { "message": "Podaci su spremljeni u međuspremnik" },
+  "errorClipboard": { "message": "Spremanje u međuspremnik nije uspjelo" },
+
+  "images": { "message": "Slike" },
+  "saveAllImages": { "message": "Spremi sve" },
+  "saveSelectedImages": { "message": "Spremi odabrane" },
+  "openSelectedImages": { "message": "Otvori odabrane u novim karticama" },
+
+  "imageLinks": { "message": "Poveznice slika" },
+  "saveAllImageLinks": { "message": "Spremi sve" },
+  "saveSelectedImageLinks": { "message": "Spremi odabrane" },
+  "openSelectedImageLinks": { "message": "Otvori odabrane u novim karticama" },
+
+  "link": { "message": "Poveznica cilja" },
+  "saveTargetImages": { "message": "Spremi sve ciljne slike" },
+  "saveTargetImageLinks": { "message": "Spremi sve poveznice ciljne slike" },
+
+
+  "tabs": { "message": "Kartice" },
+  "saveImagesLeft": { "message": "Spremi slike lijevo" },
+  "saveImagesRight": { "message": "Spremi slike desno" },
+  "saveImageLinksLeft": { "message": "Spremi poveznice slika lijevo" },
+  "saveImageLinksRight": { "message": "Spremi poveznice slika desno" },
+
+
+  "confirmQuantity": { "message": "Obradit će se $1 stavki.\nŽeliš li nastaviti?" },
+
+
+  "notFound": { "message": "Nije pronađeno" },
+
+  "patterns": { "message": "Uzorci filtra" },
+  "patternsDescription": { "message": "Unesi uzorke za filtriranje preuzimanja" },
+
+
+  "importPreference": { "message": "Postavke uvoza" },
+  "exportPreference": { "message": "Postavke izvoza" },
+
+  "errorSize": { "message": "Veličina datoteke je veća od dopuštenih $1 KB" },
+  "errorType": { "message": "Nepodržan format datoteke" },
+  "errorRead": { "message": "Dogodila se greška u čitanju datoteke" },
+  "errorParse": { "message": "Dogodila se greška tijekom obrade datoteke" },
+
+  "errorPattern": { "message": "Postoji greška u uzorku" },
+  "errorPatternEnd": { "message": "Uzorci moraju započeti i završiti s kosom crtom (/), bez zastavica" },
+  "errorWildcard": { "message": "Nemoj koristiti zamjenski znak (*) na početku ili kraju" },
+  "errorShort": { "message": "Vrlo kratki uzorci mogu dati neočekivane rezultate" },
+  "errorScheme": { "message": "Koristi samo jedan zamjenski znak (*) u shemi uzorka" },
+
+
+  "about": { "message": "O dodatku" },
+  "amo":  { "message": "Firefox ograničava neke funkcije na nekim URL-ovima" },
+  "error": { "message": "Dogodila se greška u operaciji" },
+  "help": { "message": "Pomoć" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" }
+}

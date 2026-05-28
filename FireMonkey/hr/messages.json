@@ -1,0 +1,103 @@
+{
+  "extensionName": { "message": "FireMonkey" },
+  "extensionDescription": { "message": "Jednostavan upravljač korisničkih skripta i stilova" },
+
+
+  "tabScript": { "message": "Skripta kartica i CSS" },
+  "otherScript": { "message": "Druga skripta i CSS" },
+  "scriptCommands": { "message": "Naredbe skripta" },
+  "back": { "message": "natrag" },
+  "edit": { "message": "Uredi" },
+
+  "autoUpdateInterval": { "message": "Interval automatskog aktualiziranja" },
+  "autoUpdateIntervalDescription": { "message": "Broj dana između aktualiziranja (0 = bez aktualiziranja)" },
+
+  "enableSync": { "message": "Omogući sinkronizaciju spremišta" },
+  "syncError": { "message": "Sinkronizacija nije moguća\nSpremište ($1 KB) je veće od 100 KB. Sinkronizacija će se isključiti." },
+
+  "counter": { "message": "Brojač" },
+
+  "globalScriptExcludeMatches": { "message": "Globalna skripta za isključivanje poklapanja" },
+  "globalScriptExcludeMatchesDescription": { "message": "Isključi uzorke za poklapanje (jedan po retku) kako bi se spriječilo pokretanje svih skripta na njih" },
+
+  "userVar": { "message": "Korisničke varijable" },
+  "userMeta": { "message": "Korisnički metapodaci" },
+  "storage": { "message": "Spremište" },
+  "storageError": { "message": "Vrijednost spremišta mora biti valjani JSON" },
+
+  "sidebar": { "message": "Bočna traka" },
+  "script": { "message": "Skripta i CSS" },
+
+  "saveScript": { "message": "Spremi" },
+  "enable": { "message": "Uključi" },
+  "update": { "message": "Aktualiziraj" },
+  "autoUpdate": { "message": "Automatsko aktualiziranje" },
+  "theme": { "message": "Tema" },
+
+  "light": { "message": "Svijetla" },
+  "dark": { "message": "Tamna" },
+
+  "newJS": { "message": "Nova korisnička skripta" },
+  "newCSS": { "message": "Novi korisnički CSS" },
+  "saveTemplate": { "message": "Spremi kao predložak" },
+
+  "tabToSpaces": { "message": "Tabulatori u razmake" },
+  "toUpperCase": { "message": "Odabir u velika slova" },
+  "toLowerCase": { "message": "Odabir u mala slova" },
+  "wrapIIFE": { "message": "Omotaj kod u IIFE-u" },
+
+  "stylish": { "message": "Instaliraj „Stylish” stil" },
+  "beautify": { "message": "Uljepšaj" },
+  "report": { "message": "Prijavi" },
+
+  "discardConfirm": { "message": "Želiš li odbaciti promjene bez spremanja?" },
+
+  "delete": { "message": "Izbriši" },
+  "deleteConfirm": { "message": "Želiš li izbrisati \n„$1”\n i njegove spremljene podatke?" },
+  "deleteMultiConfirm": { "message": "Želiš li izbrisati odabrana $1 skripta/CSS-a i njihove spremljene podatke?" },
+
+  "installConfirm": { "message": "Želiš li instalirati „$1”?\nSkripta/CSS s istim imenom će se zamijeniti ako ima niži broj verzije." },
+
+  "metaError": { "message": "Greška u metapodacima" },
+  "noNameError": { "message": "Skripta/CSS mora imati ime." },
+  "nameError": { "message": "Ime skripta/CSS-a već postoji.\nŽeliš li zamijeniti postojeće?" },
+  "updateUrlError": { "message": "Skripta/CSS nema updateURL ili verziju." },
+  "noNewUpdate": { "message": "Ne postoji nova verzija." },
+  "scriptUpdated": { "message": "Skripta/CSS su aktualizirani na verziju $1" },
+
+
+  "exportAll": { "message": "Izvezi" },
+
+  "log": { "message": "Zapisnik" },
+  "time": { "message": "Vrijeme" },
+  "reference": { "message": "Referenca" },
+  "message": { "message": "Poruka" },
+
+  "scratchpad": { "message": "Radna bilježnica" },
+  "run": { "message": "Pokreni" },
+  "undo": { "message": "Poništi" },
+  "undoDisabled": { "message": "Samo za CSS" },
+  "insertError": { "message": "Umetanje nije uspjelo" },
+  "findScript": { "message": "Pronađi skripta za ovu stranicu" },
+
+  "advanced": { "message": "Napredno" },
+  "customOptionsCSS": { "message": "Prilagođene CSS opcije" },
+  "customOptionsCSSDescription": { "message": "Prilagodi stranicu opcija i konfiguraciju CodeMirror stilova" },
+  "customPopupCSS": { "message": "Prilagođeni CSS skočnog prozora" },
+  "customPopupCSSDescription": { "message": "Prilagodi konfiguraciju stila skočnog prozora alatne trake" },
+  "cmOptionsDescription": { "message": "Prilagodi CodeMirror, dodatke i konfiguraciju JavaScript linta" },
+
+
+  "about": { "message": "O dodatku" },
+  "error": { "message": "Dogodila se greška u operaciji" },
+  "export": { "message": "Izvezi" },
+  "fileParseError": { "message": "Dogodila se greška tijekom obrade datoteke" },
+  "fileReadError": { "message": "Dogodila se greška u čitanju datoteke" },
+  "fileSizeError": { "message": "Veličina datoteke je veća od dopuštenih $1 KB" },
+  "fileTypeError": { "message": "Nepodržan format datoteke" },
+  "help": { "message": "Pomoć" },
+  "import": { "message": "Uvezi" },
+  "jsonError": { "message": "Neispravan JSON" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" }
+}

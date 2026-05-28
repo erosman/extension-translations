@@ -1,0 +1,39 @@
+{
+  "extensionName": { "message": "Text MultiCopy" },
+  "extensionDescription": { "message": "Kopiraj tekst više puta prije lijepljenja" },
+
+  "save": { "message": "Spremi odabir" },
+  "copySaved": { "message": "Kopiraj spremljeno u međuspremnik" },
+  "pasteSaved": { "message": "Zalijepi spremljeno ovdje" },
+
+  "totalSaved": { "message": "Ukupno spremljeno:" },
+  "totalPasted": { "message": "Ukupno zalijepljeno:" },
+  "totalCopied": { "message": "Ukupno kopirano u međuspremnik:" },
+
+  "errorEmpty": { "message": "Spremište je prazno" },
+
+  "customCopy": { "message": "Prilagođeno kopiranje" },
+  "customCopyDescription": { "message": "Postavi prilagođeni format kopiranja" },
+
+  "divider": { "message": "Znak rastavljanja" },
+  "dividerDescription": { "message": "Odaberi željeni znak za rastavljanje teksta" },
+
+  "disableNotification": { "message": "Deaktiviraj obavijesti" },
+  "disableNotificationDescription": { "message": "Odaberi za deaktiviranje informativnih obavijesti" },
+
+  "export": { "message": "Izvezi" },
+  "delete": { "message": "Izbriši" },
+
+  "savedData": { "message": "Spremljeni podaci" },
+  "dataChanged": { "message": "Spremljeni podaci u memoriji su promijenjeni. Spremanje će zamijeniti postojeće podatke." },
+
+  "errorClipboard": { "message": "Neuspjelo spremanje u međuspremnik" },
+
+  "about": { "message": "O dodatku" },
+  "amo":  { "message": "Firefox ograničava neke funkcije na određenim URL-ovima" },
+  "error": { "message": "Došlo je do greške tijekom operacije" },
+  "help": { "message": "Pomoć" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" },
+  "settings": { "message": "Postavke" }
+}

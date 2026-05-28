@@ -1,0 +1,35 @@
+{
+  "extensionName": { "message": "FoxyLink" },
+  "extensionDescription": { "message": "Skup radnji povezanih s poveznicama" },
+
+  
+  "open": { "message": "Otvori odabrane poveznice" },
+  "copy": { "message": "Kopiraj odabrane u međuspremnik" },
+  
+  "save": { "message": "Spremi odabrane poveznice" },
+  "openSaved": { "message": "Otvori spremljene poveznice" },
+  "copySaved": { "message": "Kopiraj spremljen u međuspremnik" },
+  "pasteSaved": { "message": "Zalijepi spremljen ovdje" },
+
+
+  "totalSaved": { "message": "Ukupno spremljeno:" },
+  "totalPasted": { "message": "Ukupno zalijepljeno:" },
+  "totalCopied": { "message": "Ukupno kopirano u međuspremnik:" },
+  
+  "errorEmpty": { "message": "Spremište je prazno" },
+  "errorNoLinks": { "message": "Poveznice nisu pronađene" },
+
+
+
+  "disableNotification": { "message": "Isključi obavijesti" },
+  "disableNotificationDescription": { "message": "Odaberi ako želiš isključiti obavijesti" },
+
+  "amo":  { "message": "Firefox ograničava neke funkcije na nekim URL-ovima" },
+  "changelog": { "message": "Zapis promjena" },
+  "credits": { "message": "Zasluge" },
+  "error": { "message": "Dogodila se greška u operaciji" },
+  "help": { "message": "Pomoć" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" },
+  "support": { "message": "Podrška" }
+}

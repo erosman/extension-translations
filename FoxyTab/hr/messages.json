@@ -1,0 +1,233 @@
+{
+  "extensionName": { "message": "FoxyTab" },
+  "extensionDescription": { "message": "Skup radnji povezanih s karticama" },
+
+
+  "closeDuplicate": { "message": "Zatvori duple kartice" },
+  "window": { "message": "Prozor" },
+  "mergeWindows": { "message": "Spoji sve prozore" },
+  "closeOtherWindows": { "message": "Zatvori ostale prozore" },
+  "saveAsPDF": { "message": "Spremi aktivnu karticu kao PDF" },
+
+  "createShortcut": { "message": "Stvori prečac na radnoj površini" },
+  "createShortcutTab": { "message": "Stvori prečac kartice" },
+  "createShortcutAll": { "message": "Stvori prečace za sve" },
+  "createShortcutLeft": { "message": "Stvori prečace lijevo" },
+  "createShortcutRight": { "message": "Stvori prečace desno" },
+
+  "copy": { "message": "Kopiraj" },
+  "copyTitle": { "message": "Kopiraj naslov kartice" },
+  "copyUrl": { "message": "Kopiraj URL kartice" },
+  "copyTitleUrl": { "message": "Kopiraj naslov i URL" },
+  "copyIP": { "message": "Kopiraj IP kartice" },
+
+  "internal": { "message": "Interna Firefox stranica" },
+  "private": { "message": "Privatna mreža" },
+  "cache": { "message": "Učitano iz predmemorije" },
+  "unknown": { "message": "Nepoznato" },
+
+  "copyUrlAll": { "message": "Kopiraj sve URL-ove" },
+  "copyUrlLeft": { "message": "Kopiraj URL-ove lijevo" },
+  "copyUrlRight": { "message": "Kopiraj URL-ove desno" },
+
+  "copyTitleUrlAll": { "message": "Kopiraj sve naslove i URL-ove" },
+  "copyTitleUrlLeft": { "message": "Kopiraj naslove i URL-ove lijevo" },
+  "copyTitleUrlRight": { "message": "Kopiraj naslove i URL-ove desno" },
+
+  "customAll": { "message": "Kopiraj sve prilagođeno" },
+  "customLeft": { "message": "Kopiraj prilagođeno lijevo" },
+  "customRight": { "message": "Kopiraj prilagođeno desno" },
+
+  "bookmark": { "message": "Zabilježi" },
+  "bookmarkAll": { "message": "Zabilježi sve" },
+  "bookmarkLeft": { "message": "Zabilježi lijevo" },
+  "bookmarkRight": { "message": "Zabilježi desno" },
+
+  "closeBookmarked": { "message": "Zatvori zabilježene kartice" },
+  "closeBookmarkedAll": { "message": "Zatvori sve zabilježene kartice" },
+  "closeBookmarkedLeft": { "message": "Zatvori zabilježene kartice lijevo" },
+  "closeBookmarkedRight": { "message": "Zatvori zabilježene kartice desno" },
+
+  "host": { "message": "Host" },
+  "hostKeep": { "message": "Zadrži host" },
+  "hostClose": { "message": "Zatvori host" },
+  "hostCloseOther": { "message": "Zatvori ostale kartice hosta" },
+  "hostMoveNewWin": { "message": "Premjesti host u novi prozor" },
+  "hostMoveThisWin": { "message": "Premjesti host u ovaj prozor" },
+  "hostReload": { "message": "Ponovo učitavanje hosta" },
+
+  "sort": { "message": "Razvrtaj" },
+  "sortURLAsc": { "message": "Razvrtaj po URL-u uzlazno" },
+  "sortURLDesc": { "message": "Razvrtaj po URL-u silazno" },
+  "sortTitleAsc": { "message": "Razvrtaj po naslovu uzlazno" },
+  "sortTitleDesc": { "message": "Razvrtaj po naslovu silazno" },
+  "sortLastAccAsc": { "message": "Razvrtaj po zadnjem pristupu uzlazno" },
+  "sortLastAccDesc": { "message": "Razvrtaj po zadnjem pristupu silazno" },
+  "sortDomAsc": { "message": "Razvrtaj po domeni uzlazno" },
+  "sortDomDesc": { "message": "Razvrtaj po domeni silazno" },
+  "sortReverse": { "message": "Obrni redoslijed kartica" },
+
+  "move": { "message": "Premjesti" },
+  "moveStart": { "message": "Premjesti na početak" },
+  "moveEnd": { "message": "Premjesti na kraj" },
+
+  "moveNewWinLeft": { "message": "Premjesti u novi prozor lijevo" },
+  "moveNewWinRight": { "message": "Premjesti u novi prozor desno" },
+
+  "movePrivate": { "message": "Premjesti u privatni prozor" },
+  "movePrivateLeft": { "message": "Premjesti u privatni prozor lijevo" },
+  "movePrivateRight": { "message": "Premjesti u privatni prozor desno" },
+
+  "discard": { "message": "Odbaci" },
+  "discardTab": { "message": "Odbaci karticu" },
+  "discardAll": { "message": "Odbaci sve" },
+  "discardLeft": { "message": "Odbaci lijevo" },
+  "discardRight": { "message": "Odbaci desno" },
+
+  "hide": { "message": "Sakrij" },
+  "hideTab": { "message": "Sakrij karticu" },
+  "hideAll": { "message": "Sakrij sve" },
+  "hideLeft": { "message": "Sakrij lijevo" },
+  "hideRight": { "message": "Sakrij desno" },
+
+  "show": { "message": "Prikaži" },
+  "showAll": { "message": "Prikaži sve" },
+  "showLeft": { "message": "Prikaži lijevo" },
+  "showRight": { "message": "Prikaži desno" },
+
+  "pin": { "message": "Prikvači" },
+  "pinAll": { "message": "Prikvači sve" },
+  "pinLeft": { "message": "Prikvači lijevo" },
+  "pinRight": { "message": "Prikvači desno" },
+
+  "unpin": { "message": "Otkvači" },
+  "unpinAll": { "message": "Otkvači sve" },
+  "unpinLeft": { "message": "Otkvači lijevo" },
+  "unpinRight": { "message": "Otkvači desno" },
+
+  "Print": { "message": "Ispiši aktivnu karticu" },
+
+  "capture": { "message": "Snimi" },
+
+  "reload": { "message": "Učitaj ponovo" },
+  "reloadAll": { "message": "Ponovno učitaj sve" },
+  "reloadLeft": { "message": "Ponovno učitaj lijevo" },
+  "reloadRight": { "message": "Ponovno učitaj desno" },
+  "reload1": { "message": "Svake 1 min." },
+  "reload2": { "message": "Svake 2 min." },
+  "reload3": { "message": "Svake 3 min." },
+  "reload4": { "message": "Svake 4 min." },
+  "reload5": { "message": "Svakih 5 min." },
+  "reloadStop": { "message": "Zaustavi ponovno učitavanje kartica" },
+
+
+  "clipboardError": { "message": "Neuaspjelo spremanje u međuspremnik" },
+
+  "proxy": { "message": "Podaci proxyja" },
+
+  "tabCounter": { "message": "Brojač kartica" },
+  "perWindow": { "message": "Po prozoru" },
+  "tabCounterDescription": { "message": "Uključi ili isključi brojač kartica" },
+  "altIcon": { "message": "Alternativna ikona" },
+  "altIconDescription": { "message": "Alternativna siva ikona" },
+
+  "maxTabs": { "message": "Maksimalan broj kartica" },
+  "maxTabsDescription": { "message": "Ograniči broj kartica (0 = bez ograničenja)" },
+  "maxTabsError": { "message": "Dosegnut je maksimalan broj kartica po prozoru" },
+
+  "badgeBGColor": { "message": "Boja pozadine značke" },
+  "badgeBGColorDescription": { "message": "Promijeni boju pozadine značke" },
+  "badgeTextColor": { "message": "Boja teksta značke" },
+  "badgeTextColorDescription": { "message": "Promijeni boju teksta značke" },
+  "reset": { "message": "Resetiraj" },
+  "delete": { "message": "Izbriši" },
+
+  "dateClock": { "message": "Datum i sat" },
+
+  "contextMenu": { "message": "Kontekstni izbornik" },
+  "contextMenuDescription": { "message": "Uključi, isključi ili promijeni redoslijed stavki kontekstog izbornika" },
+
+  "customCopy": { "message": "Prilagođena kopija" },
+  "customCopyDescription": { "message": "Postavi prilagođeni format kopije" },
+
+
+
+  "modifiers": { "message": "Modifikatori" },
+  "pinned": { "message": "Prikvačeno" },
+  "hidden": { "message": "Skriveno" },
+  "duplicateToPrivate": { "message": "Dupliciraj u privatno" },
+  "selectMatch": { "message": "Odaberi poklapanje" },
+
+  "customReload": { "message": "Prilagođeno ponovno učitavanje" },
+  "customReloadDescription": { "message": "Odaberi prilagođenu vrijednost ponovnog učitavanja" },
+
+  "cleanUrl": { "message": "Očisti URL" },
+  "cleanUrlDescription": { "message": "Ukloni nizove praćenja/preusmjeravanja iz URL-ova kartica" },
+
+  "showFlag": { "message": "Prikaži zastavu" },
+  "showFlagDescription": { "message": "Obradi lokaciju IP-a i prikaži zastavu" },
+
+  "pageSettings": { "message": "Postavke PDF stranice" },
+  "pageSettingsDescription": { "message": "Objekt postavki za spremljenu stranicu" },
+
+
+  "add": { "message": "Dodaj" },
+
+  "date": { "message": "Datum" },
+  "weekday": { "message": "Format dana u tjednu" },
+  "weekdayDescription": { "message": "Sub vs Subota" },
+
+  "month": { "message": "Format mjeseca" },
+  "monthDescription": { "message": "Sij vs Siječanj" },
+
+  "short": { "message": "Kratki" },
+  "long": { "message": "Dugi" },
+
+  "clock": { "message": "Sat" },
+  "hour12": { "message": "12-satni format" },
+  "hour12Description": { "message": "Standardno se koristi 24-satni format" },
+
+  "restore": { "message": "Obnovi standardne postavke" },
+
+
+  "container": { "message": "Kontejner" },
+  "siteIsolation": { "message": "Ograniči na određene stranice" },
+  "errorPattern": { "message": "Pogreška u uzorku" },
+  "errorDuplicatePattern": { "message": "Uzorak već postoji u drugom spremniku" },
+
+  "theme": { "message": "Tema" },
+
+  "redirect": { "message": "Preusmjeri" },
+  "testUrl": { "message": "Testni URL" },
+  "redirectResult": { "message": "Rezultat preusmjeravanja" },
+
+
+  "name": { "message": "Naziv" },
+  "description": { "message": "Opis" },
+  "version": { "message": "Verzija" },
+  "homePage": { "message": "Početna stranica" },
+  "author": { "message": "Autor" },
+
+  "addTheme": { "message": "Dodaj" },
+  "updateTheme": { "message": "Aktualiziraj" },
+  "deleteTheme": { "message": "Izbriši" },
+  "clearTheme": { "message": "Očisti" },
+  "applyTheme": { "message": "Primijeni" },
+  "resetTheme": { "message": "Resetiraj" },
+
+  "noNameError": { "message": "Tema mora imati ime." },
+
+
+  "about": { "message": "O dodatku" },
+  "error": { "message": "Dogodila se greška u operaciji" },
+  "export": { "message": "Izvezi" },
+  "fileParseError": { "message": "Dogodila se greška tijekom obrade datoteke" },
+  "fileReadError": { "message": "Dogodila se greška u čitanju datoteke" },
+  "fileSizeError": { "message": "Veličina datoteke je veća od dopuštenih $1 KB" },
+  "fileTypeError": { "message": "Nepodržan format datoteke" },
+  "help": { "message": "Pomoć" },
+  "import": { "message": "Uvezi" },
+  "jsonError": { "message": "Neispravan JSON" },
+  "options": { "message": "Opcije" },
+  "saveOptions": { "message": "Spremi" }
+}
